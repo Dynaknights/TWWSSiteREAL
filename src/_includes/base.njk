@@ -1,0 +1,46 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<link rel="stylesheet" href="/source/style.css">
+<meta name="description" content="In another, another, another universe...">
+<link rel="icon" href="/assets/icons/favicon.png" sizes="any">
+<script src="/source/navi.js" type="text/javascript" defer></script>
+
+<meta name="author" content="Dynaknights">
+<meta name="keywords" content="worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
+<meta name="description" content="In another, another, another universe...">
+
+<meta itemprop="description" content="In another, another, another universe...">
+<meta itemprop="image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="In another, another, another universe...">
+<meta name="twitter:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="In another, another, another universe...">
+<meta property="og:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+    <header-component></header-component>
+<header id="header" style="background-image: url({{ bgimage }})"></header>
+      <main>
+
+<div id="container"><main>
+    <h1>{{ title }}</h1>
+
+  {{ content | safe }}
+
+
+</main>
+</div>
+</main>
+  {% include 'footer.njk' %}
+
+   {% include 'toc.njk' %}

@@ -1,0 +1,87 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Wondrous Web-Surfer!</title>
+<link rel="stylesheet" href="/source/style.css">
+<meta name="description" content="In another, another, another universe...">
+<link rel="icon" href="/assets/icons/favicon.png" sizes="any">
+<script src="/source/navi.js" type="text/javascript" defer></script>
+
+<meta name="author" content="Dynaknights">
+<meta name="keywords" content="worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
+<meta name="description" content="In another, another, another universe...">
+
+<meta itemprop="description" content="In another, another, another universe...">
+<meta itemprop="image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="In another, another, another universe...">
+<meta name="twitter:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="In another, another, another universe...">
+<meta property="og:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+    <header-component></header-component>
+<header id="header" style="background-image: url(assets/bgs/bg122.gif)"></header>
+      <main>
+
+<div id="container"><main>
+    <h1>The Wondrous Web-Surfer!</h1>
+
+  <p>Does this work?</p>
+<p><a href="/cast/virgilvoltspun">Virgil Voltspun!</a></p>
+
+
+
+</main>
+</div>
+</main>
+  <br>
+<footer id="footer"></footer>
+</body>
+</html>
+
+   <script>
+window.onload = function () {
+    var toc = "";
+    var level = 0;
+
+    document.getElementById("contents").innerHTML =
+        document.getElementById("contents").innerHTML.replace(
+            /<h([\d])>([^<]+)<\/h([\d])>/gi,
+            function (str, openLevel, titleText, closeLevel) {
+                if (openLevel != closeLevel) {
+                    return str;
+                }
+
+                if (openLevel > level) {
+                    toc += (new Array(openLevel - level + 1)).join("<ol>");
+                } else if (openLevel < level) {
+                    toc += (new Array(level - openLevel + 1)).join("</ol>");
+                }
+
+                level = parseInt(openLevel);
+
+                var anchor = titleText.replace(/ /g, "_");
+                toc += "<li><a href=\"#" + anchor + "\">" + titleText
+                    + "</a></li>";
+
+                return "<h" + openLevel + "><a name=\"" + anchor + "\">"
+                    + titleText + "</a></h" + closeLevel + ">";
+            }
+        );
+
+    if (level) {
+        toc += (new Array(level + 1)).join("</ol>");
+    }
+
+    document.getElementById("toc").innerHTML += toc;
+};
+</script>
