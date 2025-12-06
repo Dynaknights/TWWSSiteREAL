@@ -1,0 +1,2 @@
+- Please do ***NOT*** omit any mobility aid, make characters more 'conventionally attractive,' or whitewash my characters.
+- Not every scar, feature, or accessory has to be exact. You can stylize them a bit, if you'd like.

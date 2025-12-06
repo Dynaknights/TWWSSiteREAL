@@ -1,0 +1,58 @@
+---
+layout: 'base.njk'
+tags:
+- fourth wall
+---
+
+      <div class="characterprofile">
+    <div class="charactermain-image" style="background-image: url('/assets/thumb/{{ thumbnail }}')"></div>
+      <table>
+  <tr>
+    <th colspan="2"> </th>
+  </tr>
+
+  <tr>
+    <td>Pronouns</td>
+    <td>{{ pronouns }}</td>
+  </tr>
+
+    <tr>
+    <td>Age</td>
+    <td>{{ age }}</td>
+  </tr>
+
+    <tr>
+    <td>Occupation</td>
+    <td>{{ occupation }}</td>
+  </tr>
+
+    <tr>
+    <td>Art Program</td>
+    <td>{{ artprogram }}</td>
+  </tr>
+
+      <tr>
+    <td>Tablet</td>
+    <td>{{ drawingtablet }}</td>
+  </tr>
+
+      <tr>
+    <td>Coding Program</td>
+    <td>{{ codingprogram }}</td>
+  </tr>
+
+    <tr>
+    <td>Nicknames</td>
+    <td>{{ nicknames }}</td>
+  </tr>
+
+    <tr>
+    <th colspan="2"> </th>
+  </tr>
+</table>
+  </div>
+
+  <div id="toc"></div>
+
+<div id="contents">
+  {{ content | safe }}

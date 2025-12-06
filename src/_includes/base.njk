@@ -1,42 +1,47 @@
+---
+tags:
+- page
+---
+
 <!doctype html>
-<html class="no-js" lang="en-US">
+<html class="no-js" lang="{{ metadata.language }}">
 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ title }}</title>
-<link rel="stylesheet" href="/source/style.css">
-<meta name="description" content="In another, another, another universe...">
-<link rel="icon" href="/assets/icons/favicon.png" sizes="any">
-<script src="/source/navi.js" type="text/javascript" defer></script>
 
-<meta name="author" content="Dynaknights">
-<meta name="keywords" content="worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
-<meta name="description" content="In another, another, another universe...">
+<title>{{ metadata.decor }} {{"| " + title if title }}</title>
+<link rel="stylesheet" href="{{ metadata.assets.css }}/style.css">
+<meta name="description" content="{{ metadata.assets.desc }}">
+<link rel="icon" href="{{ metadata.assets.favicon }}" sizes="any">
+<script src="{{metadata.assets.js}}/navi.js" type="text/javascript" defer></script>
 
-<meta itemprop="description" content="In another, another, another universe...">
-<meta itemprop="image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+<meta name="author" content="{{ metadata.assets.author }}">
+<meta name="keywords" content=" {{ metadata.assets.tags }}">
+<meta name="description" content="{{ metadata.assets.desc }}">
+
+<meta itemprop="description" content="{{ metadata.assets.desc }}">
+<meta itemprop="image" content="{{ metadata.assets.linkbanner }}">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="In another, another, another universe...">
-<meta name="twitter:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+<meta name="twitter:description" content="{{ metadata.assets.desc }}">
+<meta name="twitter:image" content="{{ metadata.assets.linkbanner }}">
 
 <meta property="og:type" content="website">
-<meta property="og:url" content="In another, another, another universe...">
-<meta property="og:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+<meta property="og:url" content="{{ metadata.assets.desc }}">
+<meta property="og:image" content="{{ metadata.assets.linkbanner }}">
 
 <meta name="robots" content="noindex, nofollow">
 </head>
 <body>
     <header-component></header-component>
-<header id="header" style="background-image: url({{ bgimage }})"></header>
+<header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})"></header>
       <main>
 
 <div id="container"><main>
-    <h1>{{ title }}</h1>
+    <h1>{{ title + "!"}}</h1>
 
   {{ content | safe }}
-
 
 </main>
 </div>

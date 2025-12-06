@@ -1,4 +1,5 @@
 const { DateTime } = require ( "luxon" );
+const TIME_ZONE = "America/Chicago";
 
 module.exports=function(eleventyConfig){
     eleventyConfig.addPassthroughCopy('./src/style.css');

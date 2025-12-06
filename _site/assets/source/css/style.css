@@ -5,17 +5,17 @@
 
 @font-face {
   font-family: BlockKie;
-  src: url('../assets/fonts/BlockKie.ttf');
+  src: url('/assets/fonts/BlockKie.ttf');
 }
 
 @font-face {
   font-family: NewyearGoo;
-  src: url('../assets/fonts/NewyearGoo.ttf');
+  src: url('/assets/fonts/NewyearGoo.ttf');
 }
 
 p,
 span {
-  text-rendering: 35px;
+  text-indent: 35px;
 }
 
 h1,
@@ -98,6 +98,18 @@ li a {
   }
 }
 
+ul {
+list-style-type: "✦ ";
+}
+
+li{
+  text-indent: 0px;
+}
+
+hr {
+  color: #180b36;
+}
+
 h1 a:hover,
 h2 a:hover,
 h3 a:hover,
@@ -169,14 +181,14 @@ a:hover {
   background-size: auto 100%;
   background-position: center;
   background-color: #1f2964;
-  height: 150px;
+  height: 100px;
   border-bottom: 2px solid #000642;
 }
 
 main {
-  background-color: #23286e;
-  padding: 20px 20px 20px 80px;
-  text-align: left;
+background-color: #23286e;
+padding: 1px 20px 20px 100px;
+text-align: left;
 }
 
 footer {
@@ -257,6 +269,14 @@ section {
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
+
+  li{
+    color:black;
+
+    a{
+      color: black;
+    }
+  }
 }
 
 figure img {
@@ -337,6 +357,7 @@ figure {
 
   h3 {
     margin-bottom: 20px;
+    text-indent: 35px;
   }
 
   strong {
@@ -348,6 +369,39 @@ figure {
     max-width: 50px
   }
 }
+
+.bigishboxcentered {
+  background-color: #ffd874;
+  color: #010215;
+  width: 60%;
+  min-width: 290px;
+  max-height: 250px;
+  padding: 10px;
+  margin: auto;
+  font-size: .9em;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  box-shadow: 5px 10px black;
+  border: 4px black solid;
+  border-radius: 5px;
+  overflow-y: scroll;
+  text-align: center;
+
+  h3 {
+    margin-bottom: 20px;
+    text-indent: 35px;
+  }
+
+  strong {
+    border-bottom: 1px black dotted;
+  }
+
+  img {
+    max-height: 50px;
+    max-width: 50px
+  }
+}
+
 
 .gallery {
   background-color: none;

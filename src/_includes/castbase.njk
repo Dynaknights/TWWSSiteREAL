@@ -1,0 +1,11 @@
+---
+layout: 'base.njk'
+---
+
+<section>
+      {% for cast in collections.cast %}
+        <figure> 
+          <a href="/cast/{{ cast.data.id }}"><img src="/assets/thumb/cast/{{ cast.data.thumbnail }}" width="100%"></a>
+        </figure>
+      {% endfor %}
+</section>

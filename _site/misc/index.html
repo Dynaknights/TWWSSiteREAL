@@ -1,0 +1,106 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>✦ | Miscellaneous</title>
+<link rel="stylesheet" href="/assets/source/css/style.css">
+<meta name="description" content="In another, another, another universe...">
+<link rel="icon" href="/assets/icons/favicon.png" sizes="any">
+<script src="/assets/source/js/navi.js" type="text/javascript" defer></script>
+
+<meta name="author" content="Dynaknights">
+<meta name="keywords" content=" worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
+<meta name="description" content="In another, another, another universe...">
+
+<meta itemprop="description" content="In another, another, another universe...">
+<meta itemprop="image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="In another, another, another universe...">
+<meta name="twitter:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="In another, another, another universe...">
+<meta property="og:image" content="https://web-surfer.neocities.org/assets/linkBanner.png">
+
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+    <header-component></header-component>
+<header id="header" style="background-image: url(/assets/bgs/bg96.gif)"></header>
+      <main>
+
+<div id="container"><main>
+    <h1>Miscellaneous!</h1>
+
+  <p><a href="/updates">Updates</a> to this site will be woefully infrequent due to schoolwork, capitalistic greed, employment, and other life jazz. I will try my best to be as active as I can, but don't be surprised if I suddenly go radio silent for like, six months.</p>
+<p>Please keep in mind that I don't actually like Disney. I like a handful of Marvel characters. Even then, that's due to neurodivergency than any sort of legitimate attachment and I find the ones I <em>do</em> like to be... half-baked. I REFUSE TO BE A DISNEY ADULT!!</p>
+<h2>Boundaries</h2>
+<p><strong>NO PORN, please god!!</strong> I'm not a person to immediately hound on people making NSFW art but I just don't want to look at horny war criminals.
+<strong>I'm fine with gore and violence up to a certain extent.</strong></p>
+<p>Headcanons and self-shipping are... questionable. Headcanons are 50/50. Self-shipping (and shipping in general) is like a 30/70. I hold no power to stop you, but most likely, unless I know you (and you're not scum), I don't want to hear about it.</p>
+<p>My name is <strong>Kirimu</strong> (Machine also works). <strong>I use he/him and exclusively masculine terms</strong>. Gender is for panty-waists and pussies. It's a waste of my time and effort.
+<strong>I'm not a content creator</strong>. I don't make content for people to consume. This is an archive for me to remember, plan, and organize things better.</p>
+<h2>Crediting</h2>
+<p>This site uses the <a href="https://44x50.neocities.org/sites/character-wiki-template/">OC Hub Template</a> by <a href="https://44x50.neocities.org/">44x50</a>. It's really neat!!</p>
+<h3>Scolding</h3>
+<p>All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, lest I shove your teeth up your urethra.<br>
+If I fucked up crediting you or if you'd like your crediting updated, just email me at <strong>Dynaknightslol[at]gmail[dot]com</strong>... but you can email me for (almost) any reason.</p>
+<p>Feel free to use my works for <strong>personal use only with credit</strong>. I don't know <em>why</em> you'd use them, but you can.
+<strong>Anything and everything created by me is not for commercial usage</strong>. I don't care what you do with my spaghetti code.</p>
+<p><em>The Amazing Spider-Man</em> was created by Steve Ditko and Stan Lee.<br>
+I'm not affiliated with Marvel. I'm just a guy who discovered Deadpool and Spider-Man through copious amounts of gay AO3 Superfamily and Spideypool fan-fiction. Clint is probably in my vents.</p>
+<p>The Wondrous Web-Surfer! © 2024 is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>.</p>
+<h2>Links &amp; Affiliates</h2>
+<p>TBA</p>
+
+
+</main>
+</div>
+</main>
+  <br>
+<footer id="footer"></footer>
+</body>
+</html>
+
+   <script>
+window.onload = function () {
+    var toc = "";
+    var level = 0;
+
+    document.getElementById("contents").innerHTML =
+        document.getElementById("contents").innerHTML.replace(
+            /<h([\d])>([^<]+)<\/h([\d])>/gi,
+            function (str, openLevel, titleText, closeLevel) {
+                if (openLevel != closeLevel) {
+                    return str;
+                }
+
+                if (openLevel > level) {
+                    toc += (new Array(openLevel - level + 1)).join("<ol>");
+                } else if (openLevel < level) {
+                    toc += (new Array(level - openLevel + 1)).join("</ol>");
+                }
+
+                level = parseInt(openLevel);
+
+                var anchor = titleText.replace(/ /g, "_");
+                toc += "<li><a href=\"#" + anchor + "\">" + titleText
+                    + "</a></li>";
+
+                return "<h" + openLevel + "><a name=\"" + anchor + "\">"
+                    + titleText + "</a></h" + closeLevel + ">";
+            }
+        );
+
+    if (level) {
+        toc += (new Array(level + 1)).join("</ol>");
+    }
+
+    document.getElementById("toc").innerHTML += toc;
+};
+</script>

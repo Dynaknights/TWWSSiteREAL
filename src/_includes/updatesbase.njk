@@ -1,0 +1,11 @@
+---
+layout: 'base.njk'
+---
+
+<ul>
+ {%- for ulog in collections.ulog | reverse -%}
+
+{% include 'ulogbase.njk' %}
+
+ {% endfor %}
+ </ul>

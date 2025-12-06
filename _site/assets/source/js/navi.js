@@ -99,13 +99,13 @@ display: none;
 <!-- Side navigation -->
 <div class="sidenav">
 <div class="imagehere" style="background-image: url('https://web-surfer.neocities.org/imgs/misc/smicon3.png')"></div><br>
-<a href="https://web-surfer.neocities.org">Home</a>
-<a href="https://web-surfer.neocities.org/Cast">Meet the Cast</a>
-<a href="https://web-surfer.neocities.org/Earth256B">Earth-256-B</a>
-<a href="https://web-surfer.neocities.org/Cosmos">The Cosmos</a>
-<a href="https://web-surfer.neocities.org/Sitemap">Sitemap</a>
-<a href="https://web-surfer.neocities.org/Misc">Miscellaneous</a>
-<a href="https://web-surfer.neocities.org/Updates">Updates</a>
+<a href="/index">Home</a>
+<a href="/cast">Meet the Cast</a>
+<a href="/e256b">Earth-256-B</a>
+<a href="/cosmos">The Cosmos</a>
+<a href="/sitemap">Sitemap</a>
+<a href="/misc">Miscellaneous</a>
+<a href="/updates">Updates</a>
 </div>
 `;
 }

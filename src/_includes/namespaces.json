@@ -1,0 +1,17 @@
+{
+	"cast": {
+		"title": "Cast",
+		"url": "/cast",
+		"abbr": "Ct"
+	},
+	"location": {
+		"title": "Locations",
+		"url": "/locations",
+		"abbr": "Lc"
+	},
+	"story": {
+		"title": "Stories",
+		"url": "/stories",
+		"abbr": "St"
+	}
+}
