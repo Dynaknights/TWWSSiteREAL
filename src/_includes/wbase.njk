@@ -9,6 +9,7 @@ layout: 'base.njk'
     <th colspan="2"> </th>
   </tr>
 
+  {% if (bigger) %}
   <tr>
     <td>State</td>
     <td>{{ state }}</td>
@@ -20,8 +21,8 @@ layout: 'base.njk'
   </tr>
 
   <tr>
-    <td>Leader(s)</td>
-    <td>{{ leader }}</td>
+    <td>Mayor</td>
+    <td><a href="/cast/{{ leaderlink }}">{{ leader }}</a></td>
   </tr>
 
     <tr>
@@ -33,6 +34,29 @@ layout: 'base.njk'
     <td>Denonym(s)</td>
     <td>{{ denonyms }}</td>
   </tr>
+  {% endif %}
+
+  {% if (small) %}
+  <tr>
+    <td>Base of Operations</td>
+    <td>{{ boo }}</td>
+  </tr>
+
+  <tr>
+    <td>Leader(s)</td>
+    <td>{{ leader }}</td>
+  </tr>
+
+    <tr>
+    <td>Focus(es)</td>
+    <td>{{ focus }}</td>
+  </tr>
+
+    <tr>
+    <td>Status</td>
+    <td>{{ status }}</td>
+  </tr>
+  {% endif %}
 
     <tr>
     <td>Nicknames</td>

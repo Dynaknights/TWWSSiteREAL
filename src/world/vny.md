@@ -1,17 +1,36 @@
 ---
 title: Ville-de-Nouvelle-Yorke
 id: vny
-layout: 'wbasebig.njk'
+layout: 'wbase.njk'
 tags:
 - vny
 - city
+
+bigger: true
 bgimage: bg79.gif
 thumbnail: unfinished.png
 
-state: Nouvelle-Yorke
-population: 4,600,000
-leader: Willis Faucher (mayor)
+state: Nouvelle-Yorke (NY)
+population: 6,600,000
+leader: Willis Faucher
+leaderlink: WillisFaucher
 framlean: French
 denonyms: Nouvelle-Yorker
 nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 ---
+
+## Baxter Building
+
+## Le Clairon Quotidien!
+
+## Oscorp
+
+## Stark Tower
+
+## Universities
+
+### Duchess State
+
+### Empire State
+
+## Trivia

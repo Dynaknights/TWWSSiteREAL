@@ -10,7 +10,7 @@ tags:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>{{ metadata.decor }} {{"| " + title if title }}</title>
+<title>{{ metadata.decor + " | " }} {{ title if title else "The Wondrous Web-Surfer!" }}</title>
 <link rel="stylesheet" href="{{ metadata.assets.css }}/style.css">
 <meta name="description" content="{{ metadata.assets.desc }}">
 <link rel="icon" href="{{ metadata.assets.favicon }}" sizes="any">

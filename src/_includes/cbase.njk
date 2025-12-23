@@ -14,10 +14,12 @@ layout: 'base.njk'
     <td>{{ pronouns }}</td>
   </tr>
 
+  {% if (super) %}
     <tr>
     <td>Alias</td>
     <td>{{ alias }}</td>
   </tr>
+  {% endif %}
 
   <tr>
     <td>Species</td>
@@ -43,6 +45,13 @@ layout: 'base.njk'
     <td>Nicknames</td>
     <td>{{ nicknames }}</td>
   </tr>
+
+  {% if (songinc) %}
+    <tr>
+    <td>Song</td>
+    <td><a href="{{ songlink }}">{{ songartist }} -  <i>{{ song }}</i></a></td>
+  </tr>
+  {% endif %}
 
     <tr>
     <th colspan="2"> </th>

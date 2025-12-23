@@ -2,10 +2,12 @@
 layout: 'base.njk'
 ---
 
-<ul>
- {%- for ulog in collections.ulog | reverse -%}
 
-{% include 'ulogbase.njk' %}
+ {% for update in collections.update | reverse %}
+
+<section>
+<h2>{{ update.date | postDate }}</h2>
+{{ update.content | safe }}
+</section>
 
  {% endfor %}
- </ul>

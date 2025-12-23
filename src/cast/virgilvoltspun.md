@@ -5,10 +5,11 @@ tags:
 - notablefigures
 - vny
 - h. medialis
-- super
 
 bgimage: bg123.gif
 thumbnail: virgil.png
+
+super: true
 
 tableFields:
 pronouns: He/him, it/its
@@ -17,7 +18,12 @@ species: Human mutate
 age: Adult
 occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, WI, URL
-nicknames: Vee, Vivi, Virgin, Neuro-Die-a-Virgin, Virge, Webby, Webs, Web-Head, Spider, Arachnid...
+nicknames: Vee, Vivi, Neuro-Die-a-Virgin, Virge, Webby, Webs, Web-Head, Spider, Arachnid...
+
+songinc: true
+songartist: DUCKWRTH & Shaboozey
+song: Start a Riot
+songlink: https://www.youtube.com/watch?v=dNRC137o0j8
 
 relationship0: elizabethallan
 ---
@@ -25,7 +31,6 @@ relationship0: elizabethallan
 HELLO.
 PLEASE LEAVE A MESSAGE AFTER THE BEEP.
 
-## Biography
 WHERE ARE MY FUCKIN' DOMINOES MAN!?
 
 ## Attributes

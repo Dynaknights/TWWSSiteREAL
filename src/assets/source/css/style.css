@@ -269,6 +269,7 @@ section {
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
+  color: black;
 
   li{
     color:black;
@@ -487,8 +488,8 @@ li {
   margin-left: 0px;
 
   table {
-    width: 100%;
-    margin: auto;
+    width: inherit;
+    margin: inherit;
     display: table;
     float: left;
     margin-bottom: 20px;
@@ -534,6 +535,10 @@ table {
   border-spacing: 0;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
+
+  a {
+    color: antiquewhite;
+  }
 }
 
 tbody {
@@ -581,12 +586,13 @@ tr:nth-child(odd) {
 @media only screen and (max-width: 1100px) {
 
   .characterprofile {
-    float: left;
-    width: 100%;
-    margin: 0px 0px 30px 0px;
+    float: right;
+    width: 315px;
+    margin: 0px 0px 30px 20px;
 
     table{
-          margin: 10px 0px 0px 00px;
+          margin: -10px 0px 10px 0px;
+          width: inherit;
     }
   }
 
