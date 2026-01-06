@@ -1,0 +1,576 @@
+[
+
+{
+    "name": "hankThatGuy",
+    "type": "png",
+    "date": "2025-01-24",
+    "Ct": [
+        "HenryPym",
+        "Ultron"
+    ]
+},
+
+{
+    "name": "lizSpoon",
+    "type": "png",
+    "date": "2025-07-29",
+    "Ct": [
+        "ElizabethAllan",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "lizVirgilGrumpy",
+    "type": "png",
+    "date": "2025-07-25",
+    "Ct": [
+        "ElizabethAllan",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "lizVirgilPigeonLord",
+    "type": "png",
+    "date": "2025-01-26",
+    "Ct": [
+        "ElizabethAllan",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "lucilleHATE",
+    "type": "png",
+    "date": "2025-07-27",
+    "Ct": [
+        "LucilleDeckardye"
+    ]
+},
+
+{
+    "name": "pyrelCoat",
+    "type": "png",
+    "date": "2025-10-27",
+    "Ct": [
+        "PercivalCastle"
+    ]
+},
+
+{
+    "name": "pyrelRef",
+    "type": "png",
+    "date": "2025-10-27",
+    "Ct": [
+        "PercivalCastle"
+    ]
+},
+
+{
+    "name": "sashaRef",
+    "type": "png",
+    "date": "2024-05-13",
+    "Ct": [
+        "SashenkaKravinoff"
+    ]
+},
+
+{
+    "name": "surfertorchSleep",
+    "type": "png",
+    "date": "2025-06-26",
+    "Ct": [
+        "JulesStorm",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "venVirgilFear",
+    "type": "png",
+    "date": "2025-06-26",
+    "Ct": [
+        "VirgilVoltspun",
+        "Venom"
+    ]
+},
+
+{
+    "name": "virgilAttention",
+    "type": "png",
+    "date": "2025-07-27",
+    "Ct": [
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "virgilDomoArigato",
+    "type": "png",
+    "date": "2025-08-04",
+    "Ct": [
+        "VirgilVoltspun"
+    ],
+    "comment": "Lyrics are from Styx - Mr. Roboto (Protomen cover)."
+},
+
+{
+    "name": "virgilFiveofCups",
+    "type": "png",
+    "date": "2025-06-06",
+    "Ct": [
+        "VirgilVoltspun"
+    ],
+    "comment": "This was an unfinished piece for my AP Lit final. I didn't have the time to add any details, so I ended up turning in a shitty notebook sketch."
+},
+
+{
+    "name": "virgilYAHH",
+    "type": "png",
+    "date": "2025-08-06",
+    "Ct": [
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "virgilTakeThat",
+    "type": "png",
+    "date": "2025-07-20",
+    "Ct": [
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "webScorperGlare",
+    "type": "png",
+    "date": "2025-06-21",
+    "Ct": [
+        "LisinKasilania",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "adrienneBootyHead",
+    "type": "png",
+    "date": "2025-07-21",
+    "Ct": [
+        "AdrienneToomes"
+    ]
+},
+
+{
+    "name": "adrienneConcepts",
+    "type": "png",
+    "date": "2024-06-02",
+    "Ct": [
+        "AdrienneToomes"
+    ]
+},
+
+{
+    "name": "adrienneGiggle",
+    "type": "png",
+    "date": "2025-01-19",
+    "Ct": [
+        "AdrienneToomes"
+    ]
+},
+
+{
+    "name": "adrienneTiaStaringContest",
+    "type": "png",
+    "date": "2025-08-31",
+    "Ct": [
+        "AdrienneToomes",
+        "WillisFaucher"
+    ]
+},
+
+{
+    "name": "assortedDoodles",
+    "type": "png",
+    "date": "2024-10-30",
+    "Ct": [
+        "WadeWilson",
+        "ElizabethAllan",
+        "HobieHartley",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "assortedDoodles1",
+    "type": "png",
+    "date": "2025-07-20",
+    "Ct": [
+        "GhyslaineLaRue",
+        "NoemieMarisolOsborne",
+        "LucilleDeckardye",
+        "SanyaSnezhana"
+    ]
+},
+
+{
+    "name": "assortedDoodlesKissingEdition",
+    "type": "png",
+    "date": "2025-07-17",
+    "Ct": [
+        "WadeWilson",
+        "NathanSummers",
+        "VirgilVoltspun",
+        "HobieHartley"
+    ]
+},
+
+{
+    "name": "bernieFeeltheBern",
+    "type": "png",
+    "date": "2025-01-17",
+    "Ct": [
+        "BerniaClaudeProsper",
+        "MaximeDillon"
+    ]
+},
+
+{
+    "name": "bernieCig",
+    "type": "png",
+    "date": "2024-05-10",
+    "Ct": [
+        "BerniaClaudeProsper"
+    ]
+},
+
+{
+    "name": "bernieConcepts",
+    "type": "png",
+    "date": "2024-05-10",
+    "Ct": [
+        "BerniaClaudeProsper"
+    ]
+},
+
+{
+    "name": "bernieConcepts1",
+    "type": "png",
+    "date": "2025-05-10",
+    "Ct": [
+        "BerniaClaudeProsper"
+    ]
+},
+
+{
+    "name": "bernieGunSpin",
+    "type": "png",
+    "date": "2025-01-17",
+    "Ct": [
+        "BerniaClaudeProsper"
+    ]
+},
+
+{
+    "name": "calypsoSashaReconsideration",
+    "type": "png",
+    "date": "2025-10-27",
+    "Ct": [
+        "CalypsoEzili",
+        "SashenkaKravinoff"
+    ]
+},
+
+{
+    "name": "chadanaConcepts",
+    "type": "png",
+    "date": "2025-08-30",
+    "Ct": [
+        "ChadanaVarna",
+        "GhyslaineLaRue",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "dominique",
+    "type": "png",
+    "date": "2025-12-02",
+    "Ct": [
+        "DominiqueDrapeau"
+    ]
+},
+
+{
+    "name": "dominique1",
+    "type": "png",
+    "date": "2025-12-02",
+    "Ct": [
+        "DominiqueDrapeau"
+    ]
+},
+
+{
+    "name": "domVirgilRagebait",
+    "type": "png",
+    "date": "2025-11-17",
+    "Ct": [
+        "DominiqueDrapeau",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "everyKinlistGotthe",
+    "type": "png",
+    "date": "2025-10-15",
+    "Ct": [
+        "HarveyOsborne",
+        "VirgilVoltspun",
+        "GhyslaineLaRue",
+        "AdrienneToomes",
+        "MarloweTolliver",
+        "MicaiahFaucher",
+        "DominiqueDrapeau",
+        "BerniaClaudeProsper",
+        "LucilleDeckardye"
+    ]
+},
+
+{
+    "name": "domVirgilRagebait",
+    "type": "png",
+    "date": "2025-11-17",
+    "Ct": [
+        "DominiqueDrapeau",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "ghyslaineConcepts",
+    "type": "png",
+    "date": "2025-06-18",
+    "Ct": [
+        "GhyslaineLaRue"
+    ]
+},
+
+{
+    "name": "ghyslaineConcepts1",
+    "type": "png",
+    "date": "2025-06-25",
+    "Ct": [
+        "GhyslaineLaRue",
+        "MarieJulieWatson"
+    ]
+},
+
+{
+    "name": "ghyslaineConcepts2",
+    "type": "png",
+    "date": "2025-06-19",
+    "Ct": [
+        "GhyslaineLaRue"
+    ]
+},
+
+{
+    "name": "ghyslaineConcepts3",
+    "type": "png",
+    "date": "2025-06-17",
+    "Ct": [
+        "GhyslaineLaRue",
+        "MarieJulieWatson"
+    ]
+},
+
+{
+    "name": "ghyslaineMJHandSmooch",
+    "type": "png",
+    "date": "2025-06-25",
+    "Ct": [
+        "GhyslaineLaRue",
+        "MarieJulieWatson"
+    ]
+},
+
+{
+    "name": "ghyslaineMJStare",
+    "type": "png",
+    "date": "2025-08-09",
+    "Ct": [
+        "GhyslaineLaRue",
+        "MarieJulieWatson"
+    ]
+},
+
+{
+    "name": "ghyslaineMP3",
+    "type": "png",
+    "date": "2025-07-23",
+    "Ct": [
+        "GhyslaineLaRue"
+    ]
+},
+
+{
+    "name": "hobieTease",
+    "type": "png",
+    "date": "2025-08-21",
+    "Ct": [
+        "HobieHartley"
+    ]
+},
+
+{
+    "name": "homoscodaCdF",
+    "type": "png",
+    "date": "2025-08-04",
+    "Ct": [
+        "MicaiahFaucher",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "homoscodaDaydream",
+    "type": "png",
+    "date": "2025-07-20",
+    "Ct": [
+        "MicaiahFaucher",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "julesWhat",
+    "type": "png",
+    "date": "2025-08-09",
+    "Ct": [
+        "JulesStorm"
+    ]
+},
+
+{
+    "name": "julesWhuh",
+    "type": "png",
+    "date": "2025-08-09",
+    "Ct": [
+        "JulesStorm"
+    ]
+},
+
+{
+    "name": "keemiaRef",
+    "type": "png",
+    "date": "2025-05-26",
+    "Ct": [
+        "KeemiaProsper"
+    ]
+},
+
+{
+    "name": "lisinDoodles1",
+    "type": "png",
+    "date": "2025-10-23",
+    "Ct": [
+        "LisinKasilania"
+    ]
+},
+
+{
+    "name": "lisinDoodles1",
+    "type": "png",
+    "date": "2025-10-23",
+    "Ct": [
+        "LisinKasilania"
+    ]
+},
+
+{
+    "name": "lisinStare",
+    "type": "png",
+    "date": "2025-10-23",
+    "Ct": [
+        "LisinKasilania"
+    ]
+},
+
+{
+    "name": "sashaHuh",
+    "type": "png",
+    "date": "2025-11-17",
+    "Ct": [
+        "SashenkaKravinoff"
+    ]
+},
+
+{
+    "name": "lisinConcepts2",
+    "type": "png",
+    "date": "2024-11-19",
+    "Ct": [
+        "LisinKasilania"
+    ]
+},
+
+{
+    "name": "lizVirgilDogs",
+    "type": "png",
+    "date": "2024-06-08",
+    "Ct": [
+        "ElizabethAllan",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "lizThreat",
+    "type": "png",
+    "date": "2025-08-06",
+    "Ct": [
+        "ElizabethAllan"
+    ]
+},
+
+{
+    "name": "lizVirgilWetDog",
+    "type": "png",
+    "date": "2025-08-30",
+    "Ct": [
+        "ElizabethAllan",
+        "VirgilVoltspun"
+    ]
+},
+
+{
+    "name": "lucilleAPChemHW",
+    "type": "png",
+    "date": "2025-01-04",
+    "Ct": [
+        "LucilleDeckardye"
+    ]
+},
+
+{
+    "name": "noemieAPChemHW",
+    "type": "png",
+    "date": "2025-01-04",
+    "Ct": [
+        "NoemieMarisolOsborne"
+    ]
+},
+
+{
+    "name": "preteensuperposition",
+    "type": "png",
+    "date": "2025-11-20",
+    "Ct": [
+        "VirgilVoltspun"
+    ]
+}
+
+
+]

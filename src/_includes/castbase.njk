@@ -3,9 +3,9 @@ layout: 'base.njk'
 ---
 
 <section>
-      {% for cast in collections.cast %}
+      {% for cast in collections.cast | sort %}
         <figure> 
-          <a href="/cast/{{ cast.data.id }}"><img src="/assets/thumb/cast/{{ cast.data.thumbnail }}" width="100%"></a>
+          <a href="/cast/{{ cast.data.id | lower }}"><img src="/assets/thumb/cast/{{ cast.data.thumbnail }}" width="100%"></a>
         </figure>
       {% endfor %}
 </section>

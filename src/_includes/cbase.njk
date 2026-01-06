@@ -14,7 +14,7 @@ layout: 'base.njk'
     <td>{{ pronouns }}</td>
   </tr>
 
-  {% if (super) %}
+  {% if (alias) %}
     <tr>
     <td>Alias</td>
     <td>{{ alias }}</td>
@@ -46,7 +46,7 @@ layout: 'base.njk'
     <td>{{ nicknames }}</td>
   </tr>
 
-  {% if (songinc) %}
+  {% if (song) %}
     <tr>
     <td>Song</td>
     <td><a href="{{ songlink }}">{{ songartist }} -  <i>{{ song }}</i></a></td>
@@ -67,6 +67,6 @@ layout: 'base.njk'
       <h2>Gallery</h2>
 <div class="scrollbox">
 <div class="gallery">
-  <a href="/assets/thumb/cast/virgil.png"><div class="galleryimage" style="background-image: url('/assets/thumb/cast/virgil.png')"></div></a>
+  
 </div>
 </div>

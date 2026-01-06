@@ -1,3 +1,9 @@
+/* Don't judge me, por favor... */
+
+:root{
+--header-fx: #00021c
+}
+
 * {
   cursor: url(https://cur.cursors-4u.net/games/gam-4/gam308.cur), auto;
   box-sizing: border-box;
@@ -9,8 +15,8 @@
 }
 
 @font-face {
-  font-family: NewyearGoo;
-  src: url('/assets/fonts/NewyearGoo.ttf');
+  font-family: SuperSquad;
+  src: url('/assets/fonts/Super Squad.ttf');
 }
 
 p,
@@ -24,20 +30,29 @@ h3,
 h4,
 h5 {
   -webkit-text-fill-color: antiquewhite;
-  font-family: 'NewyearGoo';
+  font-family: 'SuperSquad';
   margin-bottom: 20px;
   margin-top: 20px;
-  -webkit-text-stroke: 1px #000642;
-  text-align: left;
+  -webkit-text-stroke: 1px var(--header-fx);
+  text-shadow: 3px .2px var(--header-fx);
 }
 
+
+  h2,
+  h3,
+  h4,
+  h5{
+    text-align: left;
+  }
+
 h1 {
-  font-size: 40px;
-  border-bottom: 2px #180b36 solid;
+  font-size: 35px;
+  border-bottom: 2px var(--header-fx) solid;
   width: 100%;
   margin: auto;
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
+  text-align: center;
 }
 
 h2 {
@@ -45,15 +60,15 @@ h2 {
   margin: auto;
   margin-top: 15px;
   margin-bottom: 15px;
-  -webkit-text-stroke: .7px #280055;
-  border-bottom: 2px #180b36 solid;
+  -webkit-text-stroke: .7px var(--header-fx);
+  border-bottom: 2px var(--header-fx) solid;
 }
 
 h3 {
   margin: auto;
   margin-top: 15px;
   margin-bottom: 15px;
-  -webkit-text-stroke: .7px #7f0505;
+  -webkit-text-stroke: .7px var(--header-fx);
 }
 
 h4 {
@@ -85,17 +100,16 @@ body {
   margin: auto;
 }
 
+a{
+  font-weight: bolder;
+}
+
 p a,
 dd a,
 li a {
   color: #64faff;
-  font-weight: normal;
   text-decoration-line: underline;
   text-decoration-style: dotted;
-
-  p a {
-    font-weight: strong;
-  }
 }
 
 ul {
@@ -200,14 +214,50 @@ footer {
   display: inline-block;
 }
 
+.coverhere {
+margin:20px;
+  background-repeat: no-repeat;
+float: right;
+  background-size: auto 100%;
+    height: 400px;
+  width: 269px;
+    box-shadow: 5px 10px black;
+  border: 4px solid #000000;
+  border-radius: 1px;
+}
+
+
+blockquote{
+    background-color: #fce24c;
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 5px 10px black;
+  border: 4px black solid;
+  border-radius: 5px;
+  color: black;
+  max-width:350px;
+
+  p{
+    text-indent: 10px;
+  }
+
+  li{
+    color:black;
+  }
+
+      a{
+      color: black;
+    }
+}
+
 .imagehere {
-  height: 150px;
-  width: 150px;
   margin-left: auto;
   margin-right: auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 100%;
+    height: 150px;
+  width: 150px;
   transition: transform 0.5s ease;
 }
 
@@ -221,6 +271,8 @@ footer {
   display: block;
   margin: auto;
   width: 60%;
+  margin-top: 30px;
+  margin-bottom:30px;
 }
 
 .center {
@@ -263,7 +315,7 @@ footer {
 }
 
 section {
-  background-color: #ffd874;
+  background-color: #fce24c;
   padding: 25px;
   margin: 20px;
   box-shadow: 5px 10px black;
@@ -273,18 +325,18 @@ section {
 
   li{
     color:black;
+  }
 
-    a{
+      a{
       color: black;
     }
-  }
 }
 
 figure img {
   border: 2px black solid;
   border-radius: 5px;
-  height: 130px;
-  width: 130px;
+  height: 150px;
+  width: 150px;
   white-space: normal;
   display: inline-block;
   transition: box-shadow .3s;
@@ -311,7 +363,7 @@ figure {
   margin-right: auto;
   margin: 5px 20px 20px -10px;
   padding: 5px;
-  background-color: #ffd874;
+  background-color: #fce24c;
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
@@ -472,11 +524,12 @@ li {
   background-size: cover;
   background-position: center;
   border: 2px black solid;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
   border-radius: 5px;
   white-space: normal;
   object-fit: cover;
+      border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+
 }
 
 .locprofile {
@@ -486,6 +539,7 @@ li {
   border: 0px;
   background-color: #23286e;
   margin-left: 0px;
+  float: center;
 
   table {
     width: inherit;
@@ -493,10 +547,6 @@ li {
     display: table;
     float: left;
     margin-bottom: 20px;
-  }
-
-  a {
-    text-decoration: none;
   }
 
   tbody {
@@ -563,7 +613,7 @@ tr:nth-child(odd) {
 
 /* MEDIA QUERY */
 
-@media only screen and (max-width: 1350px) {
+@media only screen and (max-width: 1200px) {
   main {
     float: left;
     width: 100%;
@@ -575,6 +625,12 @@ tr:nth-child(odd) {
 
   .scrollbox {
     max-width: 100%;
+  }
+
+  footer{
+    dd{
+      text-indent:5005px;
+    }
   }
 
   figcaption {
@@ -605,9 +661,10 @@ tr:nth-child(odd) {
     margin: 0px 0px 10px 00px;
   }
 
-}
+  h1{
+    margin-top: -15px;
+  }
 
-@media only screen and (max-width: 1100px) {
 
   figcaption {
     margin-right: 0px;
@@ -638,14 +695,40 @@ tr:nth-child(odd) {
     padding: 10px;
   }
 
+  .coverhere {
+    min-height: 150px;
+  min-width: 99px;
+}
+
+
 }
 
 @media only screen and (max-width: 700px) {
 
   #toc {
     vertical-align: bottom;
-    width: 35%;
+    width: 100%;
     min-width: 180px;
+  }
+
+  blockquote{
+    width:100%;
+    float:center;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+
+  .coverhere {
+    width:fit-content;
+    height: fit-content;
+    margin: 20px;
+    box-shadow: 2px 5px black;
+  border: 2px solid #000000;
+
+  img{
+    width:45%;
+    height: 60%;
+  }
   }
 
 }
@@ -683,4 +766,70 @@ tr:nth-child(odd) {
 #oc-webring-widget a {
   color: #280055;
   text-decoration: none;
+}
+
+/* Speech bubble */
+
+
+.bubble {
+	position: relative;
+	width: 300px;
+	text-align: center;
+	line-height: 1.4em;
+	margin: 40px auto;
+	background-color: #fff;
+	border: 7px solid var(--header-fx);
+	border-radius: 4px;
+	padding: 20px;
+}
+
+p.thought {
+	width: 300px;
+	border-radius: 200px;
+	padding: 30px;	
+}
+
+.bubble:before,
+.bubble:after {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+}
+
+.speech:before {
+	left: 30px;
+	bottom: -50px;
+	border: 25px solid;
+	border-color: var(--header-fx) transparent transparent var(--header-fx);
+}
+
+.speech:after {
+	left: 38px;
+	bottom: -30px;
+	border: 20px solid;
+	border-color: #fff transparent transparent #fff;
+}
+
+p.thought:before,
+p.thought:after {
+	left: 10px;
+	bottom: -30px;
+	width: 40px;
+	height: 40px;
+	background-color: #fff;
+	border: 4px solid var(--header-fx);
+	-webkit-border-radius: 28px;
+	-moz-border-radius: 28px;
+	border-radius: 28px;
+}
+
+p.thought:after {
+	width: 20px;
+	height: 20px;
+	left: 5px;
+	bottom: -40px;
+	-webkit-border-radius: 18px;
+	-moz-border-radius: 18px;
+	border-radius: 18px;
 }

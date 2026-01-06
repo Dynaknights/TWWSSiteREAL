@@ -1,4 +1,5 @@
 {
     "tags": "update",
+    "type": "update",
     "layout": "update.njk"
 }

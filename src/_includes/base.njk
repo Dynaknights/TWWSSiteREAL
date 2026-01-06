@@ -35,17 +35,22 @@ tags:
 </head>
 <body>
     <header-component></header-component>
+  
 <header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})"></header>
       <main>
 
 <div id="container"><main>
-    <h1>{{ title + "!"}}</h1>
+    <h1><img src="/assets/decor/wing1.gif"> {{ title }} <img src="/assets/decor/wing2.gif"></h1>
 
   {{ content | safe }}
+
+  <div class="center" style="margin-top: 20px;">
+<img src="/assets/decor/spipool1.gif"> <img src="/assets/decor/spipool2.gif"></div>
 
 </main>
 </div>
 </main>
+
   {% include 'footer.njk' %}
 
    {% include 'toc.njk' %}

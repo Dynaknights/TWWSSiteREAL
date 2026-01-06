@@ -9,7 +9,7 @@ tags:
 bgimage: bg123.gif
 thumbnail: virgil.png
 
-super: true
+compdate: 2025-10-29
 
 tableFields:
 pronouns: He/him, it/its

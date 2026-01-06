@@ -18,7 +18,7 @@ occupation: Full-time student
 artprogram: Krita
 codingprogram: VSCodium
 drawingtablet: Gaomon PD1560
-nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney...
+nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi...
 
 ---
 
@@ -26,17 +26,22 @@ Hello.
 
 My name is **Kirimu. Machine works fine, too.** Nice to meet you. Know me by another name? Most likely, that one will work, too.
 
-I'm a first-year electrical engineering major and (allegedly) a nerd, apparently. Fitting to the average nerd stereotype, it wouldn't be inaccurate -- albeit insulting -- to describe me as the socially inept sort, which I'm trying my damndest to ameliorate, trust. I've got the power of *Superman* (2025) in me.
+I'm an engineering major and (allegedly) a "fucking dork ass nerd." I'm a recluse with back pain who's notably unremarkable.
 
-I made this site to assist in keeping track of canon lore and art of my Spider-sona-turned-paracosm project -- *The Wondrous Web-Surfer* -- in an organized-ish manner. It's... not looking too organized at the moment, but I'm just one guy here, man.  
-If you're wondering about the weird themes and '*creative liberties*' chosen here -- which is fair enough, since this is a clusterfuck and a half -- you should know that I have frequently turned to *TWWS* to aid in processing events, answering random existential questions, and giving myself a reason to pay attention in class, among others.
+I made this site to assist in keeping track of canon lore and art of my Spider-sona-turned-paracosm/project -- *The Wondrous Web-Surfer* -- in an organized-ish manner. It's... not looking too organized at the moment, but I'm just one guy here, man. This shit takes forever because life is a bitch and, by the Stars, so am I.  
 
-I watched *Across the Spider-Verse* when I was sixteen, liked the movie, then saw a bunch of people make Spider-sonas and talk about how they were all technically canon to the Marvel Multiverse. Since I would begrudgingly say I'm a Marvel fan, I thought: hey, why don't I make one, too?  
-I proceeded to then get too caught up in making lore for him and combining deranged interests to the point where RFK Jr. would start making up health terms just to get me out of the public eye.
+I watched *Across the Spider-Verse* when I was sixteen, liked the movie, then saw a bunch of people make Spider-sonas and talk about how they were all technically canon to the Marvel Multiverse. Since I would begrudgingly say I'm a Marvel fan if held at gunpoint, I thought: hey, why don't I make one, too?  
+Then, I got too caught up in making lore for him and combining deranged interests, like I was a fucking mad scientist. It turns out I greatly enjoy working on things where I have a cohesive way of engaging with things I enjoy.
 
 So, here we are. My little shithole of a universe.
 
-Have fun.
+Something, something, <small>mutter, mutter, mutter,</small> excelsior.
+
+<div class="centerDivider">
+
+<img src="/assets/dividers/divider31.png" style="height:80%; width:80%">
+
+</div>
 
 ## Likes
 
@@ -49,7 +54,7 @@ If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also 
 ---
 - **Emulation!!**  
 I need a means to play my nerd games, yeah?  
-Currently, I'm using **DuckStation**, **MAME**, **PPSSPP**, and **Citra**.  
+Currently, I'm using **DuckStation**, **MAME**, **PPSSPP**, and **PCSX2**. Mostly Duckstation though. PS1 games have captivated me recently.  
 I used to only use RetroArch... but, after three or four years, the shitty UI got to me. So, now I'm in the process of looking for a frontend -- and more emulators for different systems, so I can play more games -- to coalesce all of my ROMs.  
 Do I *need* a frontend? ...No, but I'm a sucker for style.
 
@@ -71,27 +76,27 @@ I routinely return to ***2112*** and ***Hemispheres*** by Rush (their only two g
 <small>I also like ***Invader*** by Kyary Pamyu Pamyu.</small>
 
 ---
-- **Vinesauce**
+- **Vinesauce**  
 I like watching Vinny and Joel play weird games sometimes. Talk about dedication.
 
 ---
 - **...Comics?**  
 This is a weird one.  
-I like comics, I really do... but I also really *don't*. I find them simultaneously interesting and lackluster. However, my brain discovered Marvel in my preteens and refused to let go. So, I guess I'm here now. *TWWS* is probably the zenith of this fuckass interest.  
+I like comics, I really do... but I also really *don't*. I find them simultaneously interesting and lackluster. However, my brain discovered Marvel in my preteens and refused to let go. So, I guess I'm here now. *TWWS* is probably the zenith of this fuckass interest. It'd probably be more accurate to say I like comic book *characters* than the actual stories themselves.
 I'm not a comic book movie/TV show guy beyond *Superman* (2025) or *My Adventures with Superman*, sorry, but I find movies and TV shows to be really, really tedious to sit through, especially MCU things.  
 I'm currently working through the main *The Amazing Spider-Man* comic run (until *One More Day*, I guess), and my favorite comic book characters are Deadpool, Spider-Man, and Superman.
 
 ## Attributes
 
 ### Abilities
-- Waking up at 5 AM
+- ~~Waking up at 5 AM~~ Staying up egregiously late
 - Engineering misery
 - 952 GB storage and 16 GB RAM
 
 ### Equipment
 - High school diploma
 - School-issued condoms
-- Candy stolen from school cafeteria
+- Copious amounts of candy hoarded from my university's Dining Hall
 - Regrets
 
 ## Trivia
@@ -103,18 +108,15 @@ I'm currently working through the main *The Amazing Spider-Man* comic run (until
 - I'm also reading *X-Men: the Legacy Quest Trilogy* because I found a copy of the first volume in a Little Free Library. I'm hashtag winning.
 
 ## Contact
-I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)** because I typically refrain from any social media usage at all nowadays. This site is the closest I'll get to any freely public social media profile, really.  
+
+I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)**.
 You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
 
-<div class="bigishboxcentered">
+
+  <div class="bubble speech" style="color: black;">
+  
   <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
-  </div>
-  </div>
 
-<marquee>
- <img src="https://web-surfer.neocities.org/imgs/assets/stamp1.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp100.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp101.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp102.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp115.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp116.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp119.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp111.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp11.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp120.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp12.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp123.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp52.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp57.png"> 
-</marquee>
-
-<marquee direction="right">
-  <img src="https://web-surfer.neocities.org/imgs/assets/stamp130.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp51.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp55.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp93.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp73.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp74.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp64.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp70.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp80.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp81.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp92.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp87.png"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp97.gif"> <img src="https://web-surfer.neocities.org/imgs/assets/stamp85.png"> 
-</marquee>
+  </div>
+  <img src="/assets/decor/tlPhone.gif" style="margin-left:255px; margin-top: -35px; width:100px; height: 100px; float:left;">
+ 

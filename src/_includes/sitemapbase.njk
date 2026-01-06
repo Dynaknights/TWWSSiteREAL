@@ -6,7 +6,7 @@ layout: 'base.njk'
     <h2>Main Pages!</h2>
     <ul>
       {% for mainpage in collections.mainpage %}
-        <li><a href="/{{ mainpage.data.id }}">{{ mainpage.data.title }}!</a></li>
+        <li><a href="/{{ mainpage.data.id }}">{{ mainpage.data.title }}</a></li>
       {% endfor %}
     </ul>
     </section>
@@ -15,7 +15,7 @@ layout: 'base.njk'
     <h2>Meet the Cast!</h2>
     <ul>
       {% for cast in collections.cast %}
-        <li><a href="/cast/{{ cast.data.id }}">{{ cast.data.title }}</a></li>
+        <li><a href="/cast/{{ cast.data.id | lower | sort }}">{{ cast.data.title }}</a></li>
       {% endfor %}
       </ul>
       </section>
