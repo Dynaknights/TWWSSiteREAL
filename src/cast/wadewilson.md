@@ -82,10 +82,10 @@ There's always *something* that makes Wade ***snap***, like muscles pulled too t
 - **Regenerative healing factor**  
 More like an undying factor. Fucking hell.
 - **Superhuman stamina, speed, durability, reflexes, and agility**
-- **Fourth wall breaks**  
+- **Fourth wall awareness**  
 Wade says hi.
-- *Telepathy and mind control resistance**  
-Mind tricks don't work so well when you're completely out of yours. Wade's mind is described as 'confusing' among telepaths.
+- **Telepathy and mind control resistance**  
+Mind tricks don't work so well when you're completely out of yours. Wade's mind is described as 'confusing' among telepaths. However, Wade can be very naive at times.
 - **Chemical, drug, poison, disease, and alcohol resistance**  
 Say gracias to the healing factor.
 - **Extended longevity**
@@ -122,5 +122,5 @@ Let's see here... Suction cup thingies, grappling hook, Little Book of Grudges, 
 - Wade's speech bubbles are **yellow**. They've always been yellow in Marvel-licensed media to represent a vague distinction between the rough, gravelly sound of Wade's voice compared to other characters. E256B Wade's voice is like this due to **scarred and mangled vocal cords**, making his voice **strained**, **rough**, and **gravelly**.
 - Wade is extremely warm all of the time, regardless of external temperature, due to his healing factor constantly working.
 - Wade's pain tolerance greatly depends on his mental state. A healthier mind results in a lower tolerance and vice versa. Hell, the guy can 'happily' endure horrendous physical and mental trauma if he's in a shitty headspace.
-- Wade is Staten Island's King of Rats. Literally. The rat populace owes him *favors* and he's unafraid to use *blackmail* to get what he wants. The fucker's a tyrant! He's currently at utilizing guerilla warfare against [Lourde's Pigeon Lord](/cast/elizabethallan).
+- Wade is Staten Island's King of Rats. Literally. The rat populace owe him *favors* and he's unafraid to use *blackmail* to get what he wants. The fucker's a tyrant! He's currently utilizing guerilla warfare against [Lourde's Pigeon Lord](/cast/elizabethallan).
 - Also the King of Staten Island and legally changed the name to Islandy McIsland face via social media polls and dubious means. Threatens anyone who tries to legally change it back to Staten Island, and he is *NOT* all bark, no bite.
