@@ -1,0 +1,17 @@
+{
+	"character": {
+		"title": "Cast",
+		"url": "/cast",
+		"abbr": "Ct"
+	},
+	"location": {
+		"title": "World",
+		"url": "/world",
+		"abbr": "Wd"
+	},
+	"story": {
+		"title": "Stories",
+		"url": "/stories",
+		"abbr": "St"
+	}
+}

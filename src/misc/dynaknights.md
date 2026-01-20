@@ -18,28 +18,34 @@ occupation: Full-time student
 artprogram: Krita
 codingprogram: VSCodium
 drawingtablet: Gaomon PD1560
-nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi...
+nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie...
 
 ---
 
 Hello.
 
-My name is **Kirimu. Machine works fine, too.** Nice to meet you. Know me by another name? Most likely, that one will work, too.
+My name is **Kirimu**. **Machine** works fine, too. Nice to meet you. Know me by another name? Most likely, that one will work, too.
 
 I'm an engineering major and (allegedly) a "fucking dork ass nerd." I'm a recluse with back pain who's notably unremarkable.
 
-I made this site to assist in keeping track of canon lore and art of my Spider-sona-turned-paracosm/project -- *The Wondrous Web-Surfer* -- in an organized-ish manner. It's... not looking too organized at the moment, but I'm just one guy here, man. This shit takes forever because life is a bitch and, by the Stars, so am I.  
+I made this site to assist in keeping track of **canon lore** and **art** (and whatever) of my Spider-sona-turned-paracosm/project -- *The Wondrous Web-Surfer* -- in an organized-ish manner. It's... not looking too organized at the moment, but I'm just one guy here, man. This shit takes forever because life is a bitch and, by the Stars, so am I.  
 
-I watched *Across the Spider-Verse* when I was sixteen, liked the movie, then saw a bunch of people make Spider-sonas and talk about how they were all technically canon to the Marvel Multiverse. Since I would begrudgingly say I'm a Marvel fan if held at gunpoint, I thought: hey, why don't I make one, too?  
-Then, I got too caught up in making lore for him and combining deranged interests, like I was a fucking mad scientist. It turns out I greatly enjoy working on things where I have a cohesive way of engaging with things I enjoy.
+I watched *Across the Spider-Verse* when I was sixteen, liked the movie, then saw a bunch of people make Spider-sonas and talk about how they were all technically canon to the Marvel Multiverse. Since I would begrudgingly say I'm a Marvel fan if held at gunpoint, I thought: *hey, why don't I make one, too?*
+Then, I got too caught up in making lore for him and combining deranged interests, like I was a fucking *mad scientist*. It turns out I greatly enjoy working on things where I have a cohesive way of engaging with things I enjoy.
 
 So, here we are. My little shithole of a universe.
 
-Something, something, <small>mutter, mutter, mutter,</small> excelsior.
+Something, something, <small>mutter, mutter, mutter,</small> **excelsior**.
 
 <div class="centerDivider">
 
 <img src="/assets/dividers/divider31.png" style="height:80%; width:80%">
+
+</div>
+
+<div class="center">
+
+<small>Shrines (might be) coming Soon(TM).</small>
 
 </div>
 
@@ -71,8 +77,8 @@ I've been drawing less and less as I've gotten older for a wide variety of reaso
 ---
 - **Rap, Rock, Punk, Metal**  
 In terms of music, I listen to... not everything, but a lot of things! These are my favorite four genres.  
-I have neither a favorite song nor album, but I've been listening to ***NASTYWERKKKK!*** by Femtanyl and ISSBROKIE, ***THE NILE IN EGYPT*** by Walkiing Intrusive Thoughts, and... too many Mommy Long Legs songs lately, coupled with my friend indoctrinating me into liking Outkast. Hahaha.  
-I routinely return to ***2112*** and ***Hemispheres*** by Rush (their only two good albums), ***Equinox*** by Sorcerer, and ***Untitled 03*** by Kendrick Lamar.  
+I have neither a favorite song nor album, but I've been listening to ***Disorder*** by Joy Division, ***Skin O' My Teeth*** by Megadeth, and... too many random YouTube playlists, haha.  
+I routinely return to ***2112*** and ***Hemispheres*** by Rush (their only two good albums), ***Deathconsciousness*** by Have a Nice Life, ***Equinox*** by Sorcerer, and ***Untitled 03*** by Kendrick Lamar.  
 <small>I also like ***Invader*** by Kyary Pamyu Pamyu.</small>
 
 ---
@@ -80,11 +86,11 @@ I routinely return to ***2112*** and ***Hemispheres*** by Rush (their only two g
 I like watching Vinny and Joel play weird games sometimes. Talk about dedication.
 
 ---
-- **...Comics?**  
+- **Comics**  
 This is a weird one.  
-I like comics, I really do... but I also really *don't*. I find them simultaneously interesting and lackluster. However, my brain discovered Marvel in my preteens and refused to let go. So, I guess I'm here now. *TWWS* is probably the zenith of this fuckass interest. It'd probably be more accurate to say I like comic book *characters* than the actual stories themselves.
-I'm not a comic book movie/TV show guy beyond *Superman* (2025) or *My Adventures with Superman*, sorry, but I find movies and TV shows to be really, really tedious to sit through, especially MCU things.  
-I'm currently working through the main *The Amazing Spider-Man* comic run (until *One More Day*, I guess), and my favorite comic book characters are Deadpool, Spider-Man, and Superman.
+When I first got into Marvel in my tweens, it was through *Into the Spider-Verse* and copious amounts of fan-fiction until I stumbled upon Spideypool. I near-exclusively consumed fan-fiction (and lengthy retrospectives) concerning Marvel for *years* because I disliked the convoluted mess that was the Marvel multiverse. It's still intimidating to this day, honestly!  
+I liked *comic book characters*, but I couldn't bring myself to like comics... until now! ...In my adulthood. Maybe it's just because I'm less picky.  
+As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and ***Invincible***.
 
 ## Attributes
 
@@ -113,10 +119,8 @@ I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)
 You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
 
 
-  <div class="bubble speech" style="color: black;">
+  <div class="bigishboxcentered">
   
   <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
 
   </div>
-  <img src="/assets/decor/tlPhone.gif" style="margin-left:255px; margin-top: -35px; width:100px; height: 100px; float:left;">
- 

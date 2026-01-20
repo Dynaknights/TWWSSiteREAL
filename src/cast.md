@@ -1,9 +1,8 @@
 ---
 title: Meet the Cast
 id: cast
-bgimage: bg120.gif
-layout: 'castbase.njk'
+bgimage: bg50.png
+layout: 'basecast.njk'
 tags:
-- page
 - mainpage
 ---

@@ -34,9 +34,11 @@ border: 2px black solid;
 border-radius: 5px;
 background-color: #e13232;
 transition: box-shadow .3s;
+ /* -webkit-text-stroke-width: .15px;
+  -webkit-text-stroke-color: #5c0303ff; */
 }
 .sidenav a:hover {
- box-shadow: 5px 5px #02041aff; 
+ box-shadow: 5px 5px black; 
 }
 
 .sidenav a:hover {
@@ -102,7 +104,7 @@ display: none;
 <a href="/index">Home</a>
 <a href="/cast">Meet the Cast</a>
 <a href="/e256b">Earth-256-B</a>
-<a href="/cosmos">The Cosmos</a>
+<a href="/outerspace">Outer Space</a>
 <a href="/sitemap">Sitemap</a>
 <a href="/misc">Miscellaneous</a>
 <a href="/updates">Updates</a>

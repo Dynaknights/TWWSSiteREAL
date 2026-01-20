@@ -2,6 +2,7 @@
 layout: 'base.njk'
 ---
 
+{{ content | safe }}
 
  {% for update in collections.update | reverse %}
 

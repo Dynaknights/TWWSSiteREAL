@@ -7,7 +7,6 @@ tags:
 - h. medialis
 
 bgimage: bg123.gif
-thumbnail: virgil.png
 
 compdate: 2025-10-29
 
@@ -24,8 +23,6 @@ songinc: true
 songartist: DUCKWRTH & Shaboozey
 song: Start a Riot
 songlink: https://www.youtube.com/watch?v=dNRC137o0j8
-
-relationship0: elizabethallan
 ---
 
 HELLO.

@@ -1,0 +1,68 @@
+---
+layout: 'base.njk'
+---
+
+      <div class="characterprofile">
+    <div class="charactermain-image" style="background-image: url('/assets/thumbs/cast/{{ id }}.png')"></div>
+      <table>
+  <tr>
+    <th colspan="2"> </th>
+  </tr>
+
+  <tr>
+    <td>Pronouns</td>
+    <td>{{ pronouns }}</td>
+  </tr>
+
+  {% if (alias) %}
+    <tr>
+    <td>Alias</td>
+    <td>{{ alias }}</td>
+  </tr>
+  {% endif %}
+
+  <tr>
+    <td>Species</td>
+    <td>{{ species }}</td>
+  </tr>
+
+    <tr>
+    <td>Age</td>
+    <td>{{ age }}</td>
+  </tr>
+
+    <tr>
+    <td>Occupation</td>
+    <td>{{ occupation }}</td>
+  </tr>
+
+    <tr>
+    <td>Birthplace</td>
+    <td>{{ birthplace }}</td>
+  </tr>
+
+    <tr>
+    <td>Nicknames</td>
+    <td>{{ nicknames }}</td>
+  </tr>
+
+  {% if (song) %}
+    <tr>
+    <td>Song</td>
+    <td><a href="{{ songlink }}">{{ songartist }} -  <i>{{ song }}</i></a></td>
+  </tr>
+  {% endif %}
+
+    <tr>
+    <th colspan="2"> </th>
+  </tr>
+</table>
+  </div>
+
+<div id="toc"></div>
+
+<div id="contents">
+  {{ content | safe }}
+  
+</div>
+</div>

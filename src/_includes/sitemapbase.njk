@@ -15,7 +15,7 @@ layout: 'base.njk'
     <h2>Meet the Cast!</h2>
     <ul>
       {% for cast in collections.cast %}
-        <li><a href="/cast/{{ cast.data.id | lower | sort }}">{{ cast.data.title }}</a></li>
+        <li><a href="/cast/{{ cast.data.id | lower }}">{{ cast.data.title }}</a></li>
       {% endfor %}
       </ul>
       </section>

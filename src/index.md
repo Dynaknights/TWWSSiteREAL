@@ -1,5 +1,5 @@
 ---
-title: The Wondrous Web-Surfer!
+title: The Wondrous Web-Surfer
 id: index
 bgimage: bg79.gif
 layout: 'base.njk'
@@ -11,11 +11,20 @@ tags:
 
 <div class="coverhere" style="background-image: url('/assets/gallery/covers/preteensuperposition.png')"></div>
 
+The end of the third millennium heralds a colorfully bleak future.
 
-**Hello!**
+Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from **climate change** and **energy crises** to **famine** and **treatments for multitude of diseases**. Society will never be a perfect futuristic utopia, like their ancestors had hoped, but humanity can tip-toe around the edges between the land of living and the paradisiacal dead.
 
+However, this conception of society is uprooted when one considers two (and a half) questions.  
+Firstly, why does humanity feel so… **stagnant** in terms of ***everything*** over centuries, despite such exhaustive efforts to bring about **change**  
+Despite being around for nearly 200,000 years, humans find themselves still haunted by the **same problems**: a notable lack of world peace, discrimination, poverty, and — most notably in this day and age — an **extreme surge of crime**. Even in spite of the number of superhumans that have popped up over the years claiming they wish to make the world a better place, it's… not better. Maybe a little **worse**, actually.  
+Is this because of **destiny** aiming to preserve the integrity of the **soul**, or is it just **human nature**?
 
-<small>This site is best viewed on a laptop with JavaScript enabled, by the by. Mobile optimization and all that jazz will come soon(TM).</small>
+The second question's hangs onto the first. Why's the crime rate so fucking **high**? It's more than ridiculous, actually.
+
+Bonus question related to the second: it feels like the guys supposed to stop said crime aren't doing **shit**. It's more like putting mini bandages on a gaping wound; failing to address the roots of the whole crime problem.
+
+When [a guy](/cast/virgilvoltspun) gets bitten by a spider in the middle of his suicide attempt, he's forced to try grappling with the weight of answering these questions through the power of… **violence**. It seems to be working, so maybe he can pull this off.
 
 <div class="center">
 
@@ -33,6 +42,6 @@ However, fear not. There's an [Introduction](bleh) page that may or may not be w
 
 <div class="center">
 
-![Under construction](/assets/decor/construction.gif) **This site is undergoing heavy renovation & construction!** ![Under construction](/assets/decor/construction.gif)
+<small>This site is best viewed on a **computer** with **JavaScript** enabled, by the by. Mobile optimization and all that jazz will come soon(TM).</small>
 
 </div>

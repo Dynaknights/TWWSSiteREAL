@@ -1,7 +1,6 @@
 ---
 title: Ville-de-Nouvelle-Yorke
 id: vny
-layout: 'wbase.njk'
 tags:
 - vny
 - city

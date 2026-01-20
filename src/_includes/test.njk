@@ -1,0 +1,125 @@
+{% if (cast) %}
+
+      <div class="characterprofile">
+    <div class="charactermain-image" style="background-image: url('/assets/thumb/cast/{{ thumbnail }}')"></div>
+      <table>
+  <tr>
+    <th colspan="2"> </th>
+  </tr>
+
+  <tr>
+    <td>Pronouns</td>
+    <td>{{ pronouns }}</td>
+  </tr>
+
+  {% if (alias) %}
+    <tr>
+    <td>Alias</td>
+    <td>{{ alias }}</td>
+  </tr>
+  {% endif %}
+
+  <tr>
+    <td>Species</td>
+    <td>{{ species }}</td>
+  </tr>
+
+    <tr>
+    <td>Age</td>
+    <td>{{ age }}</td>
+  </tr>
+
+    <tr>
+    <td>Occupation</td>
+    <td>{{ occupation }}</td>
+  </tr>
+
+    <tr>
+    <td>Birthplace</td>
+    <td>{{ birthplace }}</td>
+  </tr>
+
+    <tr>
+    <td>Nicknames</td>
+    <td>{{ nicknames }}</td>
+  </tr>
+
+  {% if (song) %}
+    <tr>
+    <td>Song</td>
+    <td><a href="{{ songlink }}">{{ songartist }} -  <i>{{ song }}</i></a></td>
+  </tr>
+  {% endif %}
+
+{% endif %}
+
+{% if (location) %}
+
+      <div class="locprofile">
+    <div class="locmain-image" style="background-image: url('/assets/thumb/location/{{ thumbnail }}')"></div>
+      <table>
+  <tr>
+    <th colspan="2"> </th>
+  </tr>
+
+  {% if (bigger) %}
+  <tr>
+    <td>State</td>
+    <td>{{ state }}</td>
+  </tr>
+
+    <tr>
+    <td>Population (2099 estimate)</td>
+    <td>{{ population }}</td>
+  </tr>
+
+  <tr>
+    <td>Mayor</td>
+    <td><a href="/cast/{{ leaderlink }}">{{ leader }}</a></td>
+  </tr>
+
+    <tr>
+    <td>French/American Lean</td>
+    <td>{{ framlean }}</td>
+  </tr>
+
+    <tr>
+    <td>Denonym(s)</td>
+    <td>{{ denonyms }}</td>
+  </tr>
+  {% endif %}
+
+  {% if (small) %}
+  <tr>
+    <td>Base of Operations</td>
+    <td>{{ boo }}</td>
+  </tr>
+
+  <tr>
+    <td>Leader(s)</td>
+    <td>{{ leader }}</td>
+  </tr>
+
+    <tr>
+    <td>Focus(es)</td>
+    <td>{{ focus }}</td>
+  </tr>
+
+    <tr>
+    <td>Status</td>
+    <td>{{ status }}</td>
+  </tr>
+  {% endif %}
+
+    <tr>
+    <td>Nicknames</td>
+    <td>{{ nicknames }}</td>
+  </tr>
+
+    <tr>
+    <th colspan="2"> </th>
+  </tr>
+</table>
+  </div>
+
+  {% endif %}
