@@ -42,6 +42,12 @@ tags:
 <div id="container"><main>
     <h1><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
 
+{% if (pagedoll) %}
+  <div class="pagedoll">
+  <img src="/assets/decor/{{ pagedoll }}">
+  </div>
+  {% endif %}
+
   {{ content | safe }}
 
 </main>

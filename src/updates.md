@@ -2,6 +2,7 @@
 title: Update Log
 id: updates
 bgimage: bg78.png
+pagedoll: 'construction.gif'
 layout: 'updatesbase.njk'
 tags:
 - mainpage

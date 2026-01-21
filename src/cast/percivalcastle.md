@@ -6,6 +6,7 @@ tags:
 - human
 
 bgimage: bg24.png
+pagedoll: dogtags.png
 
 compdate: 2026-01-14
 

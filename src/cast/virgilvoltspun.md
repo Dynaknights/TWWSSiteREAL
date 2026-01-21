@@ -7,6 +7,7 @@ tags:
 - h. medialis
 
 bgimage: bg123.gif
+pagedoll: stampspace2.png
 
 compdate: 2025-10-29
 

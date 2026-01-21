@@ -27,6 +27,7 @@ text-align: center; /* Center text horizontally */
 .sidenav a {
 color: antiquewhite;
 padding: 10px 10px 10px 10px;
+margin-bottom:20%;
 margin: 10px 10px 10px 10px;
 text-decoration: none;
 display: block;
@@ -34,45 +35,20 @@ border: 2px black solid;
 border-radius: 5px;
 background-color: #e13232;
 transition: box-shadow .3s;
- /* -webkit-text-stroke-width: .15px;
-  -webkit-text-stroke-color: #5c0303ff; */
 }
 
-.sidenav a {
-  vertical-align: middle;
+.sidenav a:hover {
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px #000000;
-  position: relative;
-}
-
-.sidenav a:hover{
-background-color: #8e2121ff;
-}
-
-
-.sidenav a:before {
-  position: absolute;
-  content: '';
-  height: 0;
-  width: 0;
-  top: 0;
-  left: 0;
-  background: white;
-  /* IE9 */
-  background: linear-gradient(135deg, white 45%, #b5ac9bff 50%, #dacdb6ff 56%, snow 80%);
-  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#f1e5d1ff', endColorstr='#000000');
-  /*For IE7-8-9*/
-  z-index: 1000;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
-  -webkit-transition-property: width, height;
-  transition-property: width, height;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  background-color: #5c0303ff;
 }
-.sidenav a:hover:before, .sidenav a:focus:before, .sidenav a:active:before {
-  width: 25px;
-  height: 25px;
+.sidenav a:hover, .sidenav a:focus, .sidenav a:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .sidenav p {

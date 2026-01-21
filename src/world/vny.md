@@ -7,6 +7,7 @@ tags:
 
 bigger: true
 bgimage: bg79.gif
+pagedoll: tlPhone.gif
 thumbnail: unfinished.png
 
 state: Nouvelle-Yorke (NY)

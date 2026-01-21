@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous
 id: misc
+pagedoll: chatbubbles.png
 bgimage: bg36.png
 layout: 'base.njk'
 tags:
@@ -56,8 +57,6 @@ Want to be included (or no longer included)? Feel free to ask!
 <div class="center">
 
 **[Takeoverse](https://takeoverse.nekoweb.org/)** -- A happy paracosm where nothing bad ever happens to anyone ever. By **Lia Amanata**, who is definitely not a mathematical horror of some sort.
-
-</div>
 </div>
 
 ## Webrings

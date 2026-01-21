@@ -2,13 +2,14 @@
 
 layout: dynabase.njk
 
-title: Dynaknights
+title: About Me
 id: dynaknights
 tags:
 - fourth wall
 
 bgimage: bg29.png
 thumbnail: dynaknights.png
+pagedoll: plushfnafbonnie.png
 
 tableFields:
 pronouns: He/him
@@ -39,13 +40,7 @@ Something, something, <small>mutter, mutter, mutter,</small> **excelsior**.
 
 <div class="centerDivider">
 
-<img src="/assets/dividers/divider31.png" style="height:80%; width:80%">
-
-</div>
-
-<div class="center">
-
-<small>Shrines (might be) coming Soon(TM).</small>
+<img src="/assets/dividers/divider31.png" style="height:70%; width:70%">
 
 </div>
 
@@ -97,7 +92,7 @@ As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and
 ### Abilities
 - ~~Waking up at 5 AM~~ Staying up egregiously late
 - Engineering misery
-- 952 GB storage and 16 GB RAM
+- 464 GB storage and 16 GB RAM
 
 ### Equipment
 - High school diploma
@@ -118,6 +113,11 @@ As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and
 I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)**.
 You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
 
+<div class="centerDivider">
+
+<img src="/assets/dividers/divider31.png" style="height:70%; width:70%">
+
+</div>
 
   <div class="bigishboxcentered">
   

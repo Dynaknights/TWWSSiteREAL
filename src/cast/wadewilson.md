@@ -6,6 +6,7 @@ tags:
 - h. medialis
 
 bgimage: bg177.gif
+pagedoll: ipod.png
 
 compdate: 2025-10-29
 

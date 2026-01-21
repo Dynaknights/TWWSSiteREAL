@@ -6,6 +6,7 @@ tags:
 - vny
 - human
 
+pagedoll: flipphonesanrio.png
 bgimage: bg156.gif
 
 compdate: 2026-01-09

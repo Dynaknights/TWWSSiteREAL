@@ -2,6 +2,7 @@
 title: The Wondrous Web-Surfer
 id: index
 bgimage: bg79.gif
+pagedoll: stampcca.png
 layout: 'base.njk'
 tags:
 - mainpage
@@ -26,9 +27,9 @@ Bonus question related to the second: it feels like the guys supposed to stop sa
 
 When [a guy](/cast/virgilvoltspun) gets bitten by a spider in the middle of his suicide attempt, he's forced to try grappling with the weight of answering these questions through the power of… **violence**. It seems to be working, so maybe he can pull this off.
 
-<div class="center">
+<div class="centerDivider">
 
-<img src="/assets/dividers/divider31.png" style="height:80%; width:80%; margin-top:20px;">
+<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
 
 </div>
 
