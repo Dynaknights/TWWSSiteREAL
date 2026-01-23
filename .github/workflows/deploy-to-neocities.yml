@@ -24,9 +24,6 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: current
-
-    - name: Install dependencies
-      run: npm ci
         
     # If you have a different build process, replace this with your own build steps
     - name: build
