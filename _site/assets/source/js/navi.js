@@ -105,7 +105,7 @@ display: none;
 
 <!-- Side navigation -->
 <div class="sidenav">
-<div class="imagehere" style="background-image: url('https://web-surfer.neocities.org/imgs/misc/smicon3.png')"></div><br>
+<div class="imagehere" style="background-image: url('/assets/decor/navsmicon.png')"></div><br>
 <a href="/index">Home</a>
 <a href="/cast">Meet the Cast</a>
 <a href="/e256b">Earth-256-B</a>
