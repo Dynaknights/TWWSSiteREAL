@@ -33,14 +33,14 @@ Want to be included (or no longer included)? Feel free to ask!
 </div>
 </div>
 
-### Inspirations
+### Neighbors & Inspirations
 
 <div class="box4boxes">
 <div class="center" style="padding-top:20px;">
-
+<!-- There's gotta be a better way to go about doing this. -->
 <a href="https://bntarwarn.com/">
   <img class="button" src="/assets/buttons/bntarwarn.png" alt="BNTarwarn"></a> <a href="https://eggspace.neocities.org/">
-  <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a>
+  <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a> <a href="https://angs-corner.nekoweb.org/"><img class="button" src="/assets/buttons/angs-corner.gif" alt="Ang's Corner"></a> <a href="https://darkosparko.nekoweb.org/"><img class="button" src="/assets/buttons/darkosparko.gif" alt="Darkosparko"></a> <a href="https://luvstarkei.com/"><img class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> <a href="https://jeith.com/"><img class="button" src="/assets/buttons/jeith.gif" alt="Jeith"></a> <a href="https://colorworld.world/"><img class="button" src="/assets/buttons/colorworld.gif" alt="COLORWORLD"></a> <a href="https://thegreatpretender02.neocities.org/"><img class="button" src="/assets/buttons/galacticgulch.png" alt="The Galactic Gulch"></a> <a href="https://the-end-of-science.com/"><img class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://grinalbi.nekoweb.org/"><img class="button" src="/assets/buttons/grinalbi.gif" alt="Grinalbi"> </a> <a href="https://shinyexe.neocities.org/"><img class="button" src="/assets/buttons/shinyexe.gif" alt="Shinyexe"></a> 
 
 </div>
 </div>
@@ -60,6 +60,9 @@ Want to be included (or no longer included)? Feel free to ask!
 
 <div class="box4boxes">
 
+
+<div class="center">
+
 <!-- SELF-INSERT -->
 <div id="selfinsertwebring">
 	<script src="/assets/source/js/showWebring.js"></script>
@@ -67,7 +70,6 @@ Want to be included (or no longer included)? Feel free to ask!
 
 <!-- OC WEBRING -->
 
-<div class="center">
 <div id="oc-webring-widget">
 
 <div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring!</a></div>
