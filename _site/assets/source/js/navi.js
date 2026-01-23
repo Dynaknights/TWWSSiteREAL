@@ -17,7 +17,6 @@ background-color: #0b0e33;
 overflow-x: hidden; /* Disable horizontal scroll */
 padding-top: 20px;
 border-bottom: none;
-border-right: 2px black solid;
 text-align: center; /* Center text horizontally */
 }
 
@@ -64,7 +63,7 @@ border-bottom: 0;
 text-align: center;
 }
 
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1290px) {
 .sidenav {
 height: 40px;
 width: 100%; /* Set the width of the sidebar */

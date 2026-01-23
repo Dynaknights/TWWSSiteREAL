@@ -25,7 +25,7 @@ The second question's hangs onto the first. Why's the crime rate so fucking **hi
 
 Bonus question related to the second: it feels like the guys supposed to stop said crime aren't doing **shit**. It's more like putting mini bandages on a gaping wound; failing to address the roots of the whole crime problem.
 
-When [a guy](/cast/virgilvoltspun) gets bitten by a spider in the middle of his suicide attempt, he's forced to try grappling with the weight of answering these questions through the power of… **violence**. It seems to be working, so maybe he can pull this off.
+When [a guy](/cast/vesuveovoltspun) gets bitten by a spider in the middle of his suicide attempt, he's forced to try grappling with the weight of answering these questions through the power of… **violence**. It seems to be working, so maybe he can pull this off.
 
 <div class="centerDivider">
 
@@ -37,7 +37,7 @@ When [a guy](/cast/virgilvoltspun) gets bitten by a spider in the middle of his 
 
 ## Where to Start...
 **You don't need to harbor prior knowledge of the Marvel Multiverse to understand TWWS, but it's preferred.**  
-However, fear not. There's an [Introduction](bleh) page that may or may not be worth reading, along with the details of [Earth-256-B](e256b) (and [the Universe](cosmos), if you wish). Beyond that, I dunno! Do what you wish. *Excelsior!*
+However, fear not. There's an [Introduction](bleh) page that may or may not be worth reading, along with the details of [Earth-256-B](e256b) (and [the Universe](outerspace), if you wish). Beyond that, I dunno! Do what you wish. *Excelsior!*
 
 </section>
 

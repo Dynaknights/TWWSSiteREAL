@@ -17,7 +17,7 @@ species: Human
 age: Adult
 occupation: Vigilante, assassin
 birthplace: Lourdes, Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Pyrel, Py(py), Percy, Punny(-Bunny), Bonehead, (S)Executioner, Big Gun and Pronouns
+nicknames: Pyrel (please call them Pyrel), Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
 
 songinc: true
 songartist: Nonpoint
@@ -28,7 +28,7 @@ songlink: https://www.youtube.com/watch?v=KuHsmUon6Mg
 This line of work is a **needless**, **hopeless** battle, you're sure.
 
 A **one-machine war against crime itself**; a pointless mission destined to fail.  
-Yet, **Percival "Pyrel" Castle** <small>("PIE-rul")</small> finds themself back at that damned sniper's scope with their guilty finger on the smooth groove of a trigger, a brick wall newly painted crimson with the brain matter of a irrelevant rapist, and a new tally on an ever-increasing list of names tucked away in one of SHIELD's dense manila folders.  
+Yet, **Percival "Pyrel" Franklin Castle** <small>("PIE-rul")</small> finds themself back at that damned sniper's scope with their guilty finger on the smooth groove of a trigger, a brick wall newly painted crimson with the brain matter of a irrelevant rapist, and a new tally on an ever-increasing list of names tucked away in one of SHIELD's dense manila folders.  
 Scrub the blood off — and repeat.  
 Pyrel can't even remember the reasoning as to why or how their violence warped from military duties to their fucking **destiny**. Maybe it doesn't even matter anymore.
 

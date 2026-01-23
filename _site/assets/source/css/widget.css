@@ -1,0 +1,85 @@
+/* onionring.js is made up of four files - onionring-widget.js, onionring-index.js, onionring-variables.js and onionring.css (this one!)
+// it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
+// it was originally made by joey + mord of allium (蒜) house, last updated 2020-10-24 */
+
+/* === ONIONRING.CSS === */
+/* this file affects the style of the widget. remember to replace all instances of #ckwr with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
+#ckwr {
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width:180px !important;
+  height:180px !important;
+  box-sizing: border-box;
+  background-color: #9D5535;
+  border: 4px solid #381d12;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+#ckwr * {
+	padding: 0 !important;
+}
+
+#ckwr>img{
+    margin:0;
+    padding: 0;
+    max-width: 100% !important;
+}
+
+#ckwr .webring-wrapper{
+  width:100%;
+  height:100%;
+  display: flex;
+  letter-spacing: normal !important;
+  flex-direction: column;
+  justify-content: center!important;
+}
+
+#ckwr .webring-flex{
+  display:flex;
+  justify-content: center!important;
+  position: relative;
+}
+
+#ckwr .webring-title img{
+  margin:0;
+  margin-top: 1px;
+  text-align: center;
+  width: 100%;
+}
+
+#ckwr .webring-image{
+  display:block;
+  position: relative;
+  height:64px;
+  width:64px;
+  margin-top:4px;
+}
+
+#ckwr .webring-image > img:hover {
+  transform:scale(1.1);
+}
+
+#ckwr a {
+    color: black;
+    text-decoration: none;
+}
+
+#ckwr .webring-footer {
+   text-align: center;
+}
+
+#ckwr .webring-next, #ckwr .webring-prev{
+  display:flex;
+  flex-direction: column;
+  justify-content: center!important;
+}
+
+#ckwr .webring-next img {
+  transform: scaleX(-1);
+}
+
+#ckwr .arrow-image{
+  width:50px;
+}

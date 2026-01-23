@@ -504,8 +504,9 @@ figure {
 
 .pagedoll{
   position:fixed;
-  right: 20px;
-  bottom: 20px;
+  right: 10px;
+  bottom: 10px;
+  z-index: 2;
   filter: drop-shadow(1px 1px 1px black) 
   drop-shadow(-1px 0 black) 
   drop-shadow(0 2px 0 black) 
@@ -519,9 +520,8 @@ figure {
 .pagedoll img{
   min-width: 100px;
   min-height: 100px;
-  max-height:250px;
-  max-width: 250px;
-   z-index: 100;
+  max-height:200px;
+  max-width: 200px;
 }
 
 @-webkit-keyframes pagedoll {
@@ -583,6 +583,10 @@ figure {
   animation-fill-mode: forwards;
   -webkit-animation-direction: normal, alternate;
   animation-direction: normal, alternate;
+}
+
+marquee {
+  z-index: 1;
 }
 
 .longpicture {
@@ -760,7 +764,7 @@ tr:nth-child(odd) {
 
 /* MEDIA QUERY */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1290px) {
   main {
     float: left;
     width: 100%;

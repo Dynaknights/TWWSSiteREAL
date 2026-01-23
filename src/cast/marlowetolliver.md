@@ -18,7 +18,7 @@ species: Human
 age: Adult
 occupation: Mercenary, arms dealer, drug dealer
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Our Wolf of Lourdes, Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar(mar), Lou(lou), Lowe, Dog Freak, Tiny Tolliver
+nicknames: Our Wolf of Lourdes, Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Dog Freak, Tiny Tolliver
 
 songinc: true
 songartist: Kyary Pamyu Pamyu
@@ -26,7 +26,7 @@ song: Invader Invader
 songlink: https://www.youtube.com/watch?v=jcIOg_m-bp4
 
 ---
-Despite Mr. Tolliver's efforts, **Marlowe Tolliver** is more than her father's child, and always will be.
+Despite Mr. Tolliver's efforts, **Marlowe Lore Tolliver** is more than her father's child, and always will be.
 
 
 *Stars*, thank shit for that, 'cause, like, that old fart is so fucking **BORING**! Holy shit! Mr. Tolliver is — without a doubt — the blandest person Marlowe's had the displeasure of meeting, and the fucker's the most absent dad *ever*!  

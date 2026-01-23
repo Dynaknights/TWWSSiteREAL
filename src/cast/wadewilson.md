@@ -15,7 +15,7 @@ pronouns: Any pronouns
 alias: Deadpool
 species: Human mutate
 age: Adult
-occupation: Mercenary, criminal, vigilante(?)
+occupation: Mercenary, criminal, vigilante...?
 birthplace: Regina, Saskatchewan, Canada
 nicknames: Merc with a Mouth, 'Pool, Despicable Deadpool, DP, Regenerating Degenerate, King of Staten Island, Rat King, Trash Lord
 

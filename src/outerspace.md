@@ -22,7 +22,7 @@ A small pulsar-like [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) orb
 Surya can be recognized from the blue light it emits as opposed to Sol's yellow beams. It currently hosts a Dyson swarm known as the **Valse d'Argent**.  
 Surya kind of just... appeared one day in **late 2112**, with the entire solar system abruptly shifting to adjust to this new celestial body. For example, Earth got abruptly shoved .8 AU away from Sol to accommodate for the extra heat.
 
-### Valse d'Argent
+## Valse d'Argent
 The **Valse d'Argent** is a partial [Dyson swarm](https://www.space.com/dyson-sphere.html) aimed to **collect Sol-Surya's** <small>(mainly Surya's)</small> **waste heat** ~3.25 AU from Sol (a little bit beyond Mars' orbit).  
 The Valse only collects **~2.1%** of this residual heat, but this smidge of energy — coupled with backup nuclear power plants — grants more than enough energy to last for generations and then some.  
 Ironically, its development *also* took generations and then some through the power of capitalistic exploitation (read: widespread slavery).
@@ -32,7 +32,7 @@ These units are comprised of various metals (primarily **aluminum**, **titanium*
 
 Surprisingly, the Valse d'Argent lacks actual silver. The name refers to its shiny silver sheen.
 
-### Pas de Trois
+## Pas de Trois
 The **Pas de Trois** is a [natural satellite system](https://en.wikipedia.org/wiki/Satellite_system_(astronomy)) consisting of three natural satellites (moons) orbiting Earth.  
 Soma-Lune has been in existence since Earth's conception, but the other two satellites appeared without explanation at the same time as Surya - late 2112. All remain uninhabited by the layperson due to a lack of data and a lack of... appeal (read: fear of the unknown), but the bonus two satellites may or may not be promoted to 'tech management' satellites — like Soma-Lune — in the future.
 

@@ -8,10 +8,7 @@ tags:
 - mainpage
 ---
 
-To get something out of the way and off my chest: **this site had zero involvement with generative artificial intelligence at all whatsoever**. I don't condone the shit at all, and think it's fucking useless.  
- I took inspiration and feedback from others for some aspects regarding TWWS and how to go about implementing features on this site, but this is just a thing I thought was cool as a teenager and wanted to get out of my system, lest it be lost to poor memory.
-
-If you think something was written by AI here, chances are it's due to my robotic/flat inflection and speech... and the copious amount of gay fan-fiction I inhaled as a nerdy child, which gradually improved my spelling and grammar.
+To get something out of the way and off my chest: **this site has zero involvement with generative artificial intelligence at all whatsoever**, thanks much.
 
 ## This Wide, Webbed World...
 
@@ -59,15 +56,19 @@ Want to be included (or no longer included)? Feel free to ask!
 **[Takeoverse](https://takeoverse.nekoweb.org/)** -- A happy paracosm where nothing bad ever happens to anyone ever. By **Lia Amanata**, who is definitely not a mathematical horror of some sort.
 </div>
 
-## Webrings
+### Webrings
 
+<div class="box4boxes">
+
+<!-- SELF-INSERT -->
 <div id="selfinsertwebring">
 	<script src="/assets/source/js/showWebring.js"></script>
 </div>
 
-<div id="oc-webring-widget">
+<!-- OC WEBRING -->
 
 <div class="center">
+<div id="oc-webring-widget">
 
 <div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring!</a></div>
     <div id="oc-webring-controls">
@@ -75,7 +76,21 @@ Want to be included (or no longer included)? Feel free to ask!
 <a href="https://tofutush.github.io/oc-webring/rand/?site=The Wondrous Web-Surfer!">Random</a> ⟡˙⋆ 
 <a href="https://tofutush.github.io/oc-webring/next/?site=The Wondrous Web-Surfer!">Next ></a>
 </div>
-    </div></div>
+    </div>
+
+<!-- REMEMBER TO OFFICIALLY JOIN THESE LATER!! -->
+<!-- TRANSING -->
+<script src="https://transring.neocities.org/ring.js"></script>
+
+<!-- COOKIE RUN -->
+<div id="ckwr">
+<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/var.js"></script>
+<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/widget.js"></script>
+<link rel="stylesheet" href="/assets/source/css/widget.css">
+</div>
+
+</div>
+</div>
 
 ## Boundaries
 **NO PORN**, please god!! I'm not the type to immediately hound on people making NSFW art, but I just don't want to look at horny war criminals.
