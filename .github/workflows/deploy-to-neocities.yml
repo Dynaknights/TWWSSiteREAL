@@ -30,7 +30,7 @@ jobs:
 
       
     - name: build
-      run: npm run build
+      run: npx @11ty/eleventy
         
     # If you have a different build process, replace this with your own build steps
     - name: build
