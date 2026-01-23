@@ -8,7 +8,7 @@ tags:
 - fourth wall
 
 bgimage: bg29.png
-thumbnail: dynaknights.png
+thumbnail: Dynaknights.png
 pagedoll: plushfnafbonnie.png
 
 tableFields:
