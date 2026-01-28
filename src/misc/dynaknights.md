@@ -3,12 +3,11 @@
 layout: dynabase.njk
 
 title: About the Webmaster
-id: dynaknights
+id: Dynaknights
 tags:
 - fourth wall
 
 bgimage: bg29.png
-thumbnail: dynaknights.png
 pagedoll: plushfnafbonnie.png
 
 tableFields:
@@ -110,8 +109,8 @@ As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and
 
 ## Contact
 
-I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)**.
-You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
+You can shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
+You can also shoot me a DM on **Discord ((at)Dynaknights)** to... less success.
 
 <div class="centerDivider">
 

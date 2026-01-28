@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous
+title: Behind the Fourth Wall
 id: misc
 pagedoll: chatbubbles.png
 bgimage: bg36.png
@@ -42,8 +42,7 @@ Want to be included (or no longer included)? Feel free to ask!
   <img class="button" src="/assets/buttons/bntarwarn.png" alt="BNTarwarn"></a> <a href="https://eggspace.neocities.org/">
   <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a> <a href="https://angs-corner.nekoweb.org/"><img class="button" src="/assets/buttons/angs-corner.gif" alt="Ang's Corner"></a> <a href="https://darkosparko.nekoweb.org/"><img class="button" src="/assets/buttons/darkosparko.gif" alt="Darkosparko"></a> <a href="https://luvstarkei.com/"><img class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> <a href="https://jeith.com/"><img class="button" src="/assets/buttons/jeith.gif" alt="Jeith"></a> <a href="https://colorworld.world/"><img class="button" src="/assets/buttons/colorworld.gif" alt="COLORWORLD"></a> <a href="https://thegreatpretender02.neocities.org/"><img class="button" src="/assets/buttons/galacticgulch.png" alt="The Galactic Gulch"></a> <a href="https://the-end-of-science.com/"><img class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://grinalbi.nekoweb.org/"><img class="button" src="/assets/buttons/grinalbi.gif" alt="Grinalbi"> </a> <a href="https://shinyexe.neocities.org/"><img class="button" src="/assets/buttons/shinyexe.gif" alt="Shinyexe"></a> 
 
-</div>
-</div>
+<!-- NO BUTTONS -->
 
 <div class="centerDivider">
 
@@ -54,6 +53,9 @@ Want to be included (or no longer included)? Feel free to ask!
 <div class="center">
 
 **[Takeoverse](https://takeoverse.nekoweb.org/)** -- A happy paracosm where nothing bad ever happens to anyone ever. By **Lia Amanata**, who is definitely not a mathematical horror of some sort.
+</div>
+
+</div>
 </div>
 
 ### Webrings
@@ -94,11 +96,19 @@ Want to be included (or no longer included)? Feel free to ask!
 </div>
 </div>
 
-## Boundaries
-**NO PORN**, please god!! I'm not the type to immediately hound on people making NSFW art, but I just don't want to look at horny war criminals.
-I'm fine with **gore** and **violence** up to a **certain extent.**
+## About the Webmaster
 
-Headcanons and self-shipping are... questionable. Headcanons are 50/50. Self-shipping (and shipping in general) is like a 30/70. I hold no power to stop you, but most likely, unless I know you (and you're not scum), I don't want to hear about it.
+<div class="box4boxes">
+
+<figure style="float:left; margin-right:20px;">
+<a href="/misc/dynaknights"><img src="/assets/thumbs/cast/Dynaknights.png" width="100%"></a>
+</figure>
+
+Learn about me and the origins of this hellish site! ...Must be very interesting, I guess.
+
+<small>Featuring a 100% authentic photo that wasn't drawn on a whim whatsoever!</small>
+
+</div>
 
 ## Credits
 
@@ -108,6 +118,8 @@ This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character
 
 All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, por favor.
 If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... but you can email me for (almost) any reason. You can also shoot me a DM on -- \*gags\* -- Discord **((at)Dynaknights)**.
+
+**Warning:** I might decline Discord friend requests if they seem suspicious due to scams (and shyness), so maybe try sending me a request twice.
 
 Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can.
 **Anything and everything created by me is NOT for commercial usage**. I don't care what you do with my spaghetti code, because, y'know, this template's not mine.

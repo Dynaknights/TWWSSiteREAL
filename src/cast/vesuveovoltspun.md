@@ -18,7 +18,7 @@ species: Human mutate
 age: Adult
 occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, Wisconsin, URL
-nicknames: Vess, Vessie, Vee, Vivi, Veo, Suvie, Webby, Webs, Web-Head, Spider, Arachnid...
+nicknames: Dell, Deli, Vivi, Webby, Webs, Web-Head, Spider, Arachnid...
 
 songinc: true
 songartist: Have a Nice Life
@@ -26,34 +26,28 @@ song: The Big Gloom
 songlink: https://www.youtube.com/watch?v=-YLtAbQtUP0
 ---
 
-**Vesuveo Vesper Voltspun**'s a man of pragmatism, facts, and science. Both brains *and* plenty of brawn.
+Go on, call him what you'd like.
 
-Thus, after years of diligent research, observations, hypotheses, revisions, injuries, and an embarrassing number of hours spent moping on dimly-lit rooftops all by his lonesome, Vesuveo's reached a logical conclusion regarding a question that's been bugging him: **is his life worth living**?
+Miserable. Wretched. Hell, even a *downer*, if you will. It's not gonna change shit in the long run; that's if there'll even *be* a long run to look forward to in the first place.
 
-He sounds philosophical (or edgy, he supposes) here, which… *fair*, it's a loaded question. Although, Vesuveo's never been much of the philosophical sort, so he just… dissected anything to do with himself to see if he liked what he saw and predicted.  
-Don't judge him. How else is a guy gonna go about this? *Therapy*?
+'Course, when **Vesuveo Vesper Voltspun** first got mutated thanks to that freaky ass spider biting him in the middle of his literal suicide attempt a while back, he thought — *heh*, don't make fun of him — his newfound superhuman abilities were the **coolest thing** in the whole fucking world. Y'know, 'cause he was **twelve** and didn't know what he was getting into.
 
-Anyway, so, according to the data, the answer's a solid **no** all across the board.  
-It's not even close, man. It's like, by a fucking landslide. It's so **bad**, it's **funny** he lacks the stars-damned pretentious verbosity to describe it.
+The fuck's is a cooler thing to a twelve-year-old than getting superpowers?
 
-Now that Vesuveo's experiencing the world from the fresh eyes of an adult, as opposed to a child with too much time for research as opposed to socializing (read: loneliness and neglect), he's realizing that he's kind of… *not a person*.  
-Just to clarify — he doesn't mean, like, *inferior*. Well, uhm, his mental state's cemented that idea since he was a kid, but he means this **literally**.
+Becoming a **vigilante**, that's right. Don't blame him, man!  
+An emotionally unstable, lonely, and weird ass kid gets a chance to prove to everyone that he's more than some insufferable failure for the very first time by punching the living shit out of other fellow mutated freaks and saving people — of *course* he's gonna embrace it without thinking twice, even if it's behind a **mask** and a stupid **persona** he made up on the fly!
 
-It's **strange**, in his opinion. **Fascinating**, sure, but strange.
+The **point** is that, well… Vesuveo's **tired**. There *is* no point to any of this.  
+The larger-than-life melodrama of the super scene rings more of the pedantic social structures of middle and high school than anything, really. All the while, the world caves in on itself a little more with each day and humanity demolishes its own future, ensuring it'll never see **hope** in the present — and **nothing will ever change**, not for the **better**, anyway.
 
-Like, Vesuveo's a **vigilante**, for fuck's sake. One of the most well-known in the so-called '**Super Capital of the World**,' actually. He's lived such an eventful life, y'know; he went from a reclusive, nerdy tween to a super on a quest to bring about meaningful and beneficial change to the world practically overnight.  
-However, everything's just **wrong**, somehow. Like, Vesuveo's self and experiences aren't his — and everything he claims to be his is merely him wishing he was at least *mildly* normal to make up for having a childhood that was spent living **vicariously**; observing, learning, but never **doing**. Being forced to be an adult too early and desperately clawing at straws to get the full human experience before Vesuveo hits the grave.  
-Is that like, weird, actually? He genuinely doesn't know, because he's never sure how to go about asking while being both coherent and concise.
+What, you thought he was gonna say some shit about **himself** being the ray of hope humanity needs? *Hah* — that's funny as fuck, but no.
 
-Vesuveo feels like some **pathetic excuse** of a person; a chronic case of **temporal consciousness** rendering life as nothing more than completing one exhausting, useless task after another, with nothing ever fucking changing, despite what actions he makes. Does change breed sameness or something?  
-He *assures* you he tries his absolute best, along with everything he does!
-He strives to **change** himself and **evolve** as a person, leaving his comfort zone, even learning to trust others, the whole shebang — but the road ahead looks just as ***stars-dammed barren and hopeless*** as it did years ago!
+Rather, Vesuveo feels… paralyzed. Equally unchanged as the **crime-ridden hellhole** that's called **Nouvelle-Yorke**, but also **unrecognizable**.  
+He's trapped in a loop of guilt and moral obligations to the city by protecting it the only way he knows how, but there's no way in hell his vigilantism's been doing shit beyond delaying the **inevitable**. Problem is that there's not really **time** or **energy** to carry out better solutions when you live through major historical events **every day**.
 
-Fucking hell, dude. In the super-powered sphere, Vesuveo's alter-ego — **Web-Surfer** — is nothing short of an **inspiration** to many, despite his anonymity and reclusiveness.
+Hah. Hahahah. Vesuveo's got no clue what to do. There's no one to turn to. There's probably nothing he *can* do other than sit there and **watch**.
 
-However, looking back on the hard data…  
-
-He doesn't know what to do.
+We're all fucked.
 
 ## Attributes
 
@@ -107,15 +101,14 @@ Not just for decorating. His suit has dubious access to police resources and the
 - Vesuveo's favorite food is **Chicago-style meat-lover's pizza**. Does *not* enjoy chunky tomato sauce though.
 - Vesuveo was bitten by a frantic, abnormally large **[Heteroscodra maculata](https://en.wikipedia.org/wiki/Heteroscodra_maculata)**.
 - Vesuveo owns two female dotted humming frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
-- Has no clue of how his mutation works. He was bitten by H. maculata, but his abilities seem arbitrary and have nothing to do with spiders at all. Like, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
+- Has no clue how his mutation works. He was bitten by *H. maculata*, but his abilities seem arbitrary and have nothing to do with spiders at all. For example, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
 - Greatly enjoys cocooning himself in blankets, webs, and hammocks.
 - Very flexible! Vesuveo enjoys freaking people out by bending into weird positions.
 - *Terrified* of wasps. Hates them to death.
-- Strongly against killing spiders and has never been bitten by one since that H. maculata. Has a few spiders in his apartment to ward off bugs.
+- Strongly against killing spiders and has never been bitten by one since that *H. maculata*. Has a few spiders in his apartment to ward off bugs.
 - Uses video game moves in fights. Did this when he was starting off due to a lack of combat training, but got too used to it even after learning to fight.
 - May or may not be the only person in the Voltspun bloodline to not be named after a consumable item.
 - Named himself after Mount Vesuvius because he was interested in death and natural disasters — especially volcanoes — when he was a kid to an unhinged degree.
 - He had tried 'Virgil' as a 'normal' name once, but it sounded too nerdy, like the name 'Lester.' He also hated being called 'Neuro-Die-a-Virgin.'
-- Really doesn't know how his Auntie and Uncle failed to get him checked and regulated as a kid, considering he'd never talk to anyone and only preoccupied himself with "research." Hell, he rarely played video games until adulthood because he wanted to "research" them, not play them. Harbors more memories learning about video games as a whole (history, technicalities, development, sales, etc.) than really playing anything.
+- Really doesn't know how his Auntie Brie and Uncle Gingersnap failed to get him checked and regulated as a kid, considering he'd never talk to anyone and only preoccupied himself with "research." Hell, he rarely played video games or with toys because he wanted to "research" them, not play with them. Harbors more memories learning about video games/toys as a whole (history, technicalities, development, sales, etc.) than really playing.
 - Despite all of his research, Vesuveo is still fucking stupid. His findings back this conclusion.
-- *Despises* being psychoanalyzed, even for jokes by trusted friends. Immediately assumes they think he's 'slow' or stupid and is picking apart all of his flaws.
