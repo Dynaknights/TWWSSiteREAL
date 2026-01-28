@@ -82,7 +82,7 @@ h2 {
   font-size: 25px;
   margin: auto;
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   -webkit-text-stroke: .7px var(--header-fx);
   border-bottom: 2px var(--header-fx) solid;
 }
@@ -136,7 +136,7 @@ li a {
 }
 
 ul {
-list-style-type: "✦ ";
+list-style-type: "✦ 》 ";
 }
 
 li{
