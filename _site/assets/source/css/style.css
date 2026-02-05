@@ -911,7 +911,7 @@ tr:nth-child(odd) {
   gap: 1em;
   border: 4px solid #030336ff;
   border-radius: 12px;
-  background-image: url('https://web-surfer.neocities.org/imgs/assets/bg17.png');
+  background-image: url('/assets/bgs/bg17.png');
 }
 
 #oc-webring-title {
