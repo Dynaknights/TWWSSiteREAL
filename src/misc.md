@@ -8,7 +8,7 @@ tags:
 - mainpage
 ---
 
-To get something out of the way and off my chest: **this site has zero involvement with generative artificial intelligence at all whatsoever**, thanks much.
+Feel free to [sign my guestbook](https://dynaknights.atabook.org/)!
 
 ## This Wide, Webbed World...
 
@@ -117,9 +117,7 @@ This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character
 ### Scolding & Contact
 
 All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, por favor.
-If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... but you can email me for (almost) any reason. You can also shoot me a DM on -- \*gags\* -- Discord **((at)Dynaknights)**.
-
-**Warning:** I might decline Discord friend requests if they seem suspicious due to scams (and shyness), so maybe try sending me a request twice.
+If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form.
 
 Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can.
 **Anything and everything created by me is NOT for commercial usage**. I don't care what you do with my spaghetti code, because, y'know, this template's not mine.

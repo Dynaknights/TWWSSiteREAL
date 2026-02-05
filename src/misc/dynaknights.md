@@ -109,8 +109,8 @@ As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and
 
 ## Contact
 
-You can shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
-You can also shoot me a DM on **Discord ((at)Dynaknights)** to... less success.
+You can **email me (Dynaknightslol(at)gmail(dot)com)**.
+You can also shoot me message on the **[guestbook](https://dynaknights.atabook.org/)**.
 
 <div class="centerDivider">
 
