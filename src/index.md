@@ -8,7 +8,7 @@ tags:
 - mainpage
 ---
 
-> *In another, another, another universe...*
+> ***In another, another, another universe...***
 
 <div class="coverhere" style="background-image: url('/assets/gallery/covers/preteensuperposition.png')"></div>
 
@@ -36,8 +36,12 @@ When [a guy](/cast/vesuveovoltspun) gets bitten by a spider in the middle of his
 <section>
 
 ## Where to Start...
-**You don't need to harbor prior knowledge of the Marvel Multiverse to understand TWWS, but it's preferred.**  
-However, fear not. There's an [Introduction](bleh) page that may or may not be worth reading, along with the details of [Earth-256-B](e256b) (and [the Universe](outerspace), if you wish). Beyond that, I dunno! Do what you wish. *Excelsior!*
+***Fear not, false believer!***
+
+There's an [Introduction](/bleh) that may or may not be of use to you, along with a list of whatever world buiilding topics you'd like to puruse detailing the world of [Earth-256-B](e256b).  
+After that, it's a good idea to read up on the resident and titular nerd: [Vesuveo Voltspun](/cast/vesuveovoltspun) and the other [denizens](/cast) of the weird, wide world they live in.
+
+***Excelsior!***
 
 </section>
 

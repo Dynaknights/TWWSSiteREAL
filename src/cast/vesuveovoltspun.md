@@ -18,7 +18,7 @@ species: Human mutate
 age: Adult
 occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, Wisconsin, URL
-nicknames: Dell, Deli, Vivi, Webby, Webs, Web-Head, Spider, Arachnid...
+nicknames: Vess, Veo, Suvie, Webby, Webs, Web-Head, Spider, Arachnid...
 
 songinc: true
 songartist: Have a Nice Life
@@ -32,18 +32,18 @@ Miserable. Wretched. Hell, even a *downer*, if you will. It's not gonna change s
 
 'Course, when **Vesuveo Vesper Voltspun** first got mutated thanks to that freaky ass spider biting him in the middle of his literal suicide attempt a while back, he thought — *heh*, don't make fun of him — his newfound superhuman abilities were the **coolest thing** in the whole fucking world. Y'know, 'cause he was **twelve** and didn't know what he was getting into.
 
-The fuck's is a cooler thing to a twelve-year-old than getting superpowers?
+The fuck's a cooler thing to a twelve-year-old than getting superpowers?
 
 Becoming a **vigilante**, that's right. Don't blame him, man!  
-An emotionally unstable, lonely, and weird ass kid gets a chance to prove to everyone that he's more than some insufferable failure for the very first time by punching the living shit out of other fellow mutated freaks and saving people — of *course* he's gonna embrace it without thinking twice, even if it's behind a **mask** and a stupid **persona** he made up on the fly!
+An emotionally unstable, lonely, and weird ass nerd gets a chance to prove to everyone that he's more than some insufferable failure for the very first time by punching the living shit out of other fellow mutated freaks and saving people — of *course* he's gonna embrace it without thinking twice, even if it's behind a **mask** and a stupid **persona** he made up on the fly!
 
 The **point** is that, well… Vesuveo's **tired**. There *is* no point to any of this.  
 The larger-than-life melodrama of the super scene rings more of the pedantic social structures of middle and high school than anything, really. All the while, the world caves in on itself a little more with each day and humanity demolishes its own future, ensuring it'll never see **hope** in the present — and **nothing will ever change**, not for the **better**, anyway.
 
 What, you thought he was gonna say some shit about **himself** being the ray of hope humanity needs? *Hah* — that's funny as fuck, but no.
 
-Rather, Vesuveo feels… paralyzed. Equally unchanged as the **crime-ridden hellhole** that's called **Nouvelle-Yorke**, but also **unrecognizable**.  
-He's trapped in a loop of guilt and moral obligations to the city by protecting it the only way he knows how, but there's no way in hell his vigilantism's been doing shit beyond delaying the **inevitable**. Problem is that there's not really **time** or **energy** to carry out better solutions when you live through major historical events **every day**.
+Rather, Vesuveo feels… **paralyzed**. Equally unchanged as the **crime-ridden hellhole** that is **Nouvelle-Yorke**, but also **unrecognizable**. Fuck. It's like he's tied to his damn alter-ego. It always has an excuse to bite him in the ass no matter how hard he tries to shelve his suit and live a civilian life.   
+He's trapped in a loop of guilt and moral obligations to the city by protecting it the only way he knows how, but there's no way in hell his vigilantism's been doing shit beyond delaying the **inevitable**. Problem is that there's not really **time** nor **energy** to carry out better solutions when you live through major historical events every day while also trying to build yourself a viable and stable future.
 
 Hah. Hahahah. Vesuveo's got no clue what to do. There's no one to turn to. There's probably nothing he *can* do other than sit there and **watch**.
 
@@ -100,7 +100,7 @@ Not just for decorating. His suit has dubious access to police resources and the
 
 - Vesuveo's favorite food is **Chicago-style meat-lover's pizza**. Does *not* enjoy chunky tomato sauce though.
 - Vesuveo was bitten by a frantic, abnormally large **[Heteroscodra maculata](https://en.wikipedia.org/wiki/Heteroscodra_maculata)**.
-- Vesuveo owns two female dotted humming frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
+- Vesuveo owns two female frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
 - Has no clue how his mutation works. He was bitten by *H. maculata*, but his abilities seem arbitrary and have nothing to do with spiders at all. For example, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
 - Greatly enjoys cocooning himself in blankets, webs, and hammocks.
 - Very flexible! Vesuveo enjoys freaking people out by bending into weird positions.

@@ -13,12 +13,12 @@ compdate: 2026-01-09
 
 tableFields:
 pronouns: She/her, it/its
-alias: Petitcrieu
+alias: Sparkly Wish Wolf Girl
 species: Human
 age: Adult
 occupation: Mercenary, arms dealer, drug dealer
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Our Wolf of Lourdes, Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Dog Freak, Tiny Tolliver
+nicknames: Our Wolf of Lourdes, Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Wolfie, Tiny Tolliver
 
 songinc: true
 songartist: Kyary Pamyu Pamyu
@@ -33,9 +33,7 @@ Despite Mr. Tolliver's efforts, **Marlowe Lore Tolliver** is more than her fathe
 Fucking hell! Tolliver's the **number one arms dealer in the world**, but he could at least spoil his only child if he's not gonna talk to her! At least momma's got the excuse of being **dead**!  
 Y'know, she believed Mr. Tolliver was a **boogeyman** made up by her nannies and knick-knacks in the attic to keep her in line right up until the pair's first and last meeting, which ended with the son of a bitch getting a bullet between the eyes! People should be prostrating themselves trying to thank her for snuffing that fucker!
 
-
 Ugh! Gross, gross, *gross*! Just thinking about Marlowe's childhood makes her want to puke.
-
 
 Whatever, whatever, what-the-*fuck*-ever.  
 

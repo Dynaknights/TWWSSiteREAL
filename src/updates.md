@@ -1,8 +1,8 @@
 ---
 title: Update Log
 id: updates
-bgimage: bg78.png
-pagedoll: 'construction.gif'
+bgimage: bg28.png
+pagedoll: 'bulletinboard.gif'
 layout: 'updatesbase.njk'
 tags:
 - mainpage
@@ -10,6 +10,32 @@ tags:
 
 <div class="center">
 
-<small> Updates to this site will be woefully infrequent. I'm only one guy and life is a bitch. Be patient, I beg of you! </small>
+**TODO**
+
+Make fancier TODO
+
+Make Introduction
+
+Add relationship categories on character pages
+
+Finish at least three world-building pages before May
+
+Draw new character thumbnails
+
+Draw location 'thumbnails'
+
+Draw page dolls
+
+Draw other on-site graphics
+
+Figure out how to remove 404 from Sitemap...
+
+**Completed**
+
+~~Create 404 page~~  
+~~Revamp site buttons~~  
+~~Add webrings~~  
+~~Implement Deploy-to-Neocities~~  
+~~Add page for old updates~~
 
 </div>

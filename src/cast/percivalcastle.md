@@ -25,26 +25,30 @@ song: Bullet with a Name
 songlink: https://www.youtube.com/watch?v=KuHsmUon6Mg
 ---
 
-This line of work is a **needless**, **hopeless** battle, you're sure.
+This line of work's a **needless**, **hopeless** battle. No doubts about it.
 
 A **one-machine war against crime itself**; a pointless mission destined to fail.  
-Yet, **Percival "Pyrel" Franklin Castle** <small>("PIE-rul")</small> finds themself back at that damned sniper's scope with their guilty finger on the smooth groove of a trigger, a brick wall newly painted crimson with the brain matter of a irrelevant rapist, and a new tally on an ever-increasing list of names tucked away in one of SHIELD's dense manila folders.  
-Scrub the blood off — and repeat.  
-Pyrel can't even remember the reasoning as to why or how their violence warped from military duties to their fucking **destiny**. Maybe it doesn't even matter anymore.
+Yet, **Percival "Pyrel" Franklin Castle** finds themself back at that damned sniper's scope with their guilty finger flirtin' with the smooth groove of a trigger, a brick wall newly painted crimson with the brain matter of a nameless criminal damned to never seek parole, and a new tally on an ever-increasin' list of names tucked away in one of SHIELD's dense manila folders.  
+Scrub the blood off — and repeat ad nauseam.  
+Pyrel can't even remember the reasoning as to why or how their violence warped from military duties to their fuckin' **destiny**. Maybe it doesn't even matter anymore.
 
 Regardless — by the Stars — they'd never have it any other way.
 
-Pyrel wants to tell you somethin'. **Enlighten** you, if you will.    
-Fruitless as this shit may be, they haven't come across a more effective way of snuffing out crime 'sides refining the art of fine-tuned violence. They suppose it's an acquired taste.  
-Those **spandex and caped types** always try yappin' otherwise, but Pyrel's the one sporting a **near-perfect success rate** on stopping criminals here. Bailouts, escapes, paroles, and — most damning of them all — *repeat offenders* are a foreign concept to Pyrel's arsenal, which is more than your typical "super" could say.
+Pyrel wants to tell you somethin'. **Enlighten** you, if y'will.    
+Fruitless as this shit may be, they haven't come across a more effective way of snuffin' out crime 'sides refining the art of fine-tuned violence. They suppose it's an acquired taste.  
+Those **spandex and caped types** always try yappin' otherwise, but Pyrel's the one sporting a **near-perfect success rate** on stopping criminals here. Bailouts, escapes, paroles, and — most damning of 'em all — *repeat offenders* are a foreign concept to Pyrel's arsenal, which is more than any "super" could say.
 
-People refuse to acknowledge it, but this is *hell*.  
+Speakin' of which, 's funny how how the world's so **stubborn**, for lack of better words, let 'em tell ya.
 
-History repeats itself to fuckin' ridiculous extremes. The world's everything humanity's ancestors dreamed it to be, but it's still facing the *same damn problems* with the *same damn solutions* that've been tried to death for literal millennia and scratchin' it's ass, wonderin' why it's not fuckin' working, while prancing and shouting from the rooftops 'bout how *we've come so far from the start of the third millennium*.  
+History repeats itself to fuckin' ***ridiculous*** extremes.  
+The world's *everything* humanity's ancestors dreamed it of bein', but it's still tryin' to solve the ***same damn problems*** with the ***same damn solutions*** that've been done to death for literal **millennia** — then, it goes and scratches it's ass, wonderin' why it's not fuckin' workin', all the while prancin' and shoutin' from the rooftops 'bout how *we've come so far from the start of the third millennium*.  
+Oh, and stars-fuckin'-forbid you've got **problems** with society. What are you, *ungrateful*? *Oblivious*? Well, humanity's *redeemed itself* with nuclear power and pays more attention to people who aren't billionaires. We've practically reached the Galactic Graces of heaven in terms of quality of life — *whatever*.
 
-What a fuckin' waste of time.
+What a damn waste of time.
 
-Nothing ever changes. That much is a given. But, Stars, Pyrel's gonna try proving themself wrong.
+'Course, **nothing ever changes**, despite what shills try tellin' ya.  
+It's a weird *quirk* of humanity that's just been worsening as time passes. Crime's gonna fester, and swell, and grow more subtle for as long as crime exists. Soon, there's not gonna be enough bullets to take out this hydra of a thing.  
+But, fuck 'em straight to hell, Pyrel's gonna try proving themself wrong.
 
 ## Attributes
 
@@ -88,7 +92,7 @@ A personal arsenal, including...
 - Pyrel's favorite food is **revenge; served cold**. Kidding. They love **burgers** with **coffee**.
 - They drink black coffee just fine, but they prefer a packet of sugar and two shots of creamer. Won't admit this to anyone. Ever. Including themself.
 - Has an... *indescribable* reaction to **[MREs](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)**.
-- Greatly dislikes the URL Army and police after they began associating the Punisher's logo for their own agendas. Very, *very* begrudgingly hit up She-Hulk to force them to stop (along with death threats, of course).
-- Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her.
+- Greatly dislikes the URL Army and police after they began associating the Punisher's logo with their own agendas. Very, *very* begrudgingly hit up She-Hulk to force them to stop (along with death threats, of course).
+- Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her. Uses the death of said wife as an excuse for their 'war on crime,' but maybe it's something **more**. Whatever it is, Pyrel doesn't care.
 - Very interested in weapons; mainly guns. For effective killing, of course, but also actually understanding the engineering behind such tools and how they work so well (or do not).
-- Very mild Warhammer: 40k fan. Finds comfort in its bleak setting.
+- Secret *Warhammer: 40k* fan. Finds comfort in its bleak setting, but will never admit this.
