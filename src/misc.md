@@ -8,7 +8,11 @@ tags:
 - mainpage
 ---
 
-Feel free to [sign my guestbook](https://dynaknights.atabook.org/)!
+<div class="center">
+
+**Feel free to [sign my guestbook](https://dynaknights.atabook.org/)!**
+
+</div>
 
 ## This Wide, Webbed World...
 
