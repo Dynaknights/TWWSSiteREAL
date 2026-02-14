@@ -65,11 +65,14 @@ Sasha mostly relies on vision when it comes to hunting. However, her other sense
 Her arsenal is nowhere near the likes of [Deadpool](/cast/wadewilson) or [Punisher](/cast/percivalcastle), but it doesn't need to be, considering she prefers to hunt bare-handed/with traditional hunting tools (traps, knives, tranquilizer guns, etc). Only really pulls out the big guns if she's at her wits' end.
 
 ## Notes
-- Sashenka is buff as HELL, to say the least.
+- Sashenka is buff as **HELL**, to say the least.
+- **VERY tall** (6'9" (~205.74 cm)).
 - Sasha's papillae on her tongue is like a tiger's. She has a sandpaper tongue. It can, has, and will tear flesh.
 - Sashenka's teeth are razor-sharp. She can, has, and will rip out chunks of skin if she bites someone.
 - She's got a bunch of body hair everywhere. She also has a bunch of scars.
 - Do whatever with scars and body hair. They should look roughly the same in roughly the same spots.
+- Her teeth are tiger-like. Weirdly sharp.
+- Most likely drooling.
 
 ## Trivia
 - Sasha's favorite food is good old **charcuterie**, preferably served with a very, *very* wide selection of meats. Also enjoys **roasted venison**.
@@ -77,11 +80,11 @@ Her arsenal is nowhere near the likes of [Deadpool](/cast/wadewilson) or [Punish
 - Sashenka's physical aging is slowed thanks to a custom-made Super Soldier Serum-like substance she commissioned [Willis Faucher](/cast/willisfaucher) and [Lucille Deckard](/cast/lucilledeckard) an assload of money for.  
 She commonly tells people a "magical potion" mutated her. You know. For fun.
 - Used to be an [Avenger](/world/teams#Avengers) before the modern iteration of the team. She was personally invited by [Nicolet Fury](/cast/nicoletfury) himself (he greatly regrets it).
+- Loves flaunting her physical strength and hunting prowess.
 - Amazing dart player.
-- She is 6'9" (~205.74 cm) purely because I know someone who is this height and it actually angered me that she was shorter than him.
 - She can't roar properly due to human biology. However, she can purr. I'm aware tigers are unable to purr, but it sounded cute.
 - Sadomasochist. Slight preference for sadism. Only slightly.
-- Sashenka's very warm, literally. Her body is extremely warm. She likes the temperature contrast between herself and her [wife](/cast/calypsoezilli).
+- Sashenka's very hot, literally. Her body is extremely warm. She likes the temperature contrast between herself and her [wife](/cast/calypsoezilli).
 - She's been drooling a lot for her entire life. Sasha and numerous doctors have no clue why. Drooling intensifies when she sees something she likes.
 - A very, very ***VERY*** horny gal. Like, out of all characters, she's number one on the horniness scale and will *NOT* be out-done.
-- Big hands. :)
+- Really into the concept of dependency. She wants to be relied upon for every little thing by a person. Financially, physically, mentally, sexually, romantically, what-have-you. Not against forcing someone to be reliant on her.

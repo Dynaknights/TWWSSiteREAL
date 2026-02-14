@@ -19,6 +19,12 @@ This **perfect solitude** was beyond measurements of time; there is no descripto
 
 Now, as the human race, we aim to create our own stories, too, mainly to tell at parties.
 
+<div class="centerDivider">
+
+<img src="/assets/dividers/divider31.png" style="height:70%; width:70%">
+
+</div>
+
 ## Twin Suns
 The **Twin Suns** (sometimes referred to as **Sol-Surya**) is the name given to a [binary star system](https://en.wikipedia.org/wiki/Binary_star) comprised of celestials **Sol** and **Surya**. Sol is the larger of the two.
 
@@ -41,7 +47,7 @@ These units are comprised of various metals (primarily **aluminum**, **titanium*
 Surprisingly, the Valse d'Argent lacks actual silver. The name refers to its shiny silver sheen.
 
 ## Pas de Trois
-The **Pas de Trois** is a [natural satellite system](https://en.wikipedia.org/wiki/Satellite_system_(astronomy)) consisting of three natural satellites (moons) orbiting Earth.  
+The **Pas de Trois**, also called the **Three Moons**, is a [natural satellite system](https://en.wikipedia.org/wiki/Satellite_system_(astronomy)) consisting of three natural satellites (moons) orbiting Earth.  
 Soma-Lune has been in existence since Earth's conception, but the other two satellites appeared without explanation at the same time as Surya - late 2112. All remain uninhabited by the layperson due to a lack of data and a lack of... appeal (read: fear of the unknown), but the bonus two satellites may or may not be promoted to 'tech management' satellites — like Soma-Lune — in the future.
 
 ### Soma-Lune

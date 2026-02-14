@@ -13,7 +13,7 @@ position: fixed; /* Fixed Sidebar (stay in place on scroll) */
 z-index: 1; /* Stay on top */
 top: 0; /* Stay at the top */
 left: 0;
-background-color: #0b0e33;
+background-color: #08080f;
 overflow-x: hidden; /* Disable horizontal scroll */
 padding-top: 20px;
 border-bottom: none;
@@ -32,7 +32,7 @@ text-decoration: none;
 display: block;
 border: 2px black solid;
 border-radius: 5px;
-background-color: #e13232;
+background-color: #6a64b5;
 transition: box-shadow .3s;
 }
 
@@ -43,7 +43,8 @@ transition: box-shadow .3s;
   transition-duration: 0.3s;
   -webkit-transition-property: transform;
   transition-property: transform;
-  background-color: #5c0303ff;
+  background-color: #2d2c61;
+  color: antiquewhite;
 }
 .sidenav a:hover, .sidenav a:focus, .sidenav a:active {
   -webkit-transform: scale(1.1);
@@ -73,7 +74,7 @@ overflow-x: scroll;
 scrollbar-width: none;
 top: 0; /* Stay at the top */
 left: 0;
-background-color: #0b0e33;
+background-color: #08080f;
 white-space: nowrap;
 padding-top: 10px;
 padding-bottom:10px;
@@ -90,7 +91,7 @@ margin: 5px;
 text-decoration: none;
 display: inline;
 border: 0;
-background-color: #e13232;
+background-color: #6a64b5;
 }
 
 .sidenav .imagehere,

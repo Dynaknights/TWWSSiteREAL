@@ -6,26 +6,36 @@ pagedoll: stampcca.png
 layout: 'base.njk'
 tags:
 - mainpage
+
+canonical: true
 ---
 
 > ***In another, another, another universe...***
 
+<div class="centerDivider">
+
+<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+
+</div>
+
 <div class="coverhere" style="background-image: url('/assets/gallery/covers/preteensuperposition.png')"></div>
 
-The end of the third millennium heralds a colorfully bleak future.
+The end of the third millennium heralds a colorful, yet bleak, future.
 
-Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from **climate change** and **energy crises** to **famine** and **treatments for multitude of diseases**. Society will never be a perfect futuristic utopia, like their ancestors had hoped, but humanity can tip-toe around the edges between the land of living and the paradisiacal dead.
+Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from **climate change** and **energy crises** to **world hunger** and **healthcare**. Society will never be a perfect futuristic paradise, like their ancestors had hoped, but the asymptote between an idealistic utopia and the land of the living gets smaller with each passing day.
 
-However, this conception of society is uprooted when one considers two (and a half) questions.  
-Firstly, why does humanity feel so… **stagnant** in terms of ***everything*** over centuries, despite such exhaustive efforts to bring about **change**  
-Despite being around for nearly 200,000 years, humans find themselves still haunted by the **same problems**: a notable lack of world peace, discrimination, poverty, and — most notably in this day and age — an **extreme surge of crime**. Even in spite of the number of superhumans that have popped up over the years claiming they wish to make the world a better place, it's… not better. Maybe a little **worse**, actually.  
-Is this because of **destiny** aiming to preserve the integrity of the **soul**, or is it just **human nature**?
+However — to absolutely nobody's surprise — there's cracks in this idyllic perception.  
+Namely, the **2990s** feel like a bastardization of the 1990s accompanied by the relentless, superficial chaos that dominated the early 21st century. It feels like very little — if anything — has actually changed for the better as the centuries went by, despite people's efforts. Has humanity reached a impenetrable **ceiling** in terms of progress or is something too entangled within humanity's **core** for them to escape their **self-made hell**?  
+Discrimination, poverty, ludicrously high crime rates, wealth gaps, censorship, avarice, climbing suicide rates, and political corruption run rampant beneath the dream-like guise of social betterment and redemption, despite what politicians might tell you. The **American dream** still prevails, but it's all dolled up in endless flowers.  
+Does anyone *actually* wish for life to get better or do they only wish to *play the part*? Humans *do* prefer the paths with the least resistance, after all.
 
-The second question's hangs onto the first. Why's the crime rate so fucking **high**? It's more than ridiculous, actually.
+Speaking of life, the **Universe** may or may not be on its last legs. The human experience and reality itself feels like they're breaking themselves apart, like a puppet theatre on fire; the absolute destruction of a simulacrum, the end of a parody, a satire fragmenting itself out of existence. Seems to be a good thing, really.  
+These… **anomalies** of reality gave way to what people would refer to as an era of **supers**: morally ambiguous (at best) vigilantes with superhuman abilities battling each other in the name of **crime-fighting**. Strangely, [Nouvelle-Yorke](/world/vny) seems to be full of these guys, but its crime rate is still increasing by the second. Maybe they're not actually doing much in the long run.
 
-Bonus question related to the second: it feels like the guys supposed to stop said crime aren't doing **shit**. It's more like putting mini bandages on a gaping wound; failing to address the roots of the whole crime problem.
+[A socially inept recluse](/cast/virgilvoltspun) gets bitten by a weird **spider** in the middle of his suicide attempt and, with this second chance at life, decides to become one of these supers. Slowly, he comes to realize vigilantism comes with much, much, ***much*** more baggage than he thought it would, but he's too deep into the world of supers to back out now.  
+Cynical, pissed, and exhausted beyond all else, he grapples with his crumbling facsimile of a reality through the power of violence.
 
-When [a guy](/cast/vesuveovoltspun) gets bitten by a spider in the middle of his suicide attempt, he's forced to try grappling with the weight of answering these questions through the power of… **violence**. It seems to be working, so maybe he can pull this off.
+…And love, if you squint, maybe.
 
 <div class="centerDivider">
 
@@ -35,11 +45,13 @@ When [a guy](/cast/vesuveovoltspun) gets bitten by a spider in the middle of his
 
 <section>
 
-## Where to Start...
+## Don't Know Where to Start?
 ***Fear not, false believer!***
+ 
+It's a good idea to read up on the titular nerd: [Virgil Voltspun](/cast/virgilvoltspun) along with the other [denizens](/cast) of the weird, wide world they live in.  
+Speaking of their weird, wide world, why not read about that, too? There's a list of topics relating to [Earth-256-B](/e256b) for you to peruse at your leisure!
 
-There's an [Introduction](/bleh) that may or may not be of use to you, along with a list of whatever world buiilding topics you'd like to puruse detailing the world of [Earth-256-B](e256b).  
-After that, it's a good idea to read up on the resident and titular nerd: [Vesuveo Voltspun](/cast/vesuveovoltspun) and the other [denizens](/cast) of the weird, wide world they live in.
+<small>Though, keep in mind: I'm only one guy managing the paracosm and the site. Things are barebones because I decided to redo the entire thing for my own sanity... so, bear with me, please!</small>
 
 ***Excelsior!***
 
@@ -47,6 +59,8 @@ After that, it's a good idea to read up on the resident and titular nerd: [Vesuv
 
 <div class="center">
 
-<small>This site is best viewed on a **computer** with **JavaScript** enabled, by the by. Mobile optimization and all that jazz will come soon(TM).</small>
+<small>This site is best viewed on a **computer** with **JavaScript** enabled, by the by. This site is mobile-friendly, but it looks better on a PC.</small>
+
+<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/buttons/pandanyr.gif" class="button"></a>
 
 </div>

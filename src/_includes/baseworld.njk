@@ -3,11 +3,29 @@ layout: 'base.njk'
 ---
 
       <div class="locprofile">
-    <div class="locmain-image" style="background-image: url('/assets/thumb/location/{{ thumbnail }}')"></div>
+    <div class="locmain-image" style="background-image: url('/assets/thumbs/loc/{{ id }}.png')"></div>
       <table>
   <tr>
     <th colspan="2"> </th>
   </tr>
+{%if biggest %}
+
+    <tr>
+    <td>Population (2999 estimate)</td>
+    <td>{{ population }}</td>
+  </tr>
+
+  <tr>
+    <td>President</td>
+    <td><a href="/cast/{{ leaderlink }}">{{ leader }}</a></td>
+  </tr>
+
+    <tr>
+    <td>Denonym(s)</td>
+    <td>{{ denonyms }}</td>
+  </tr>
+
+{% endif %}
 
   {% if (bigger) %}
   <tr>
@@ -16,7 +34,7 @@ layout: 'base.njk'
   </tr>
 
     <tr>
-    <td>Population (2099 estimate)</td>
+    <td>Population (2999 estimate)</td>
     <td>{{ population }}</td>
   </tr>
 
@@ -26,7 +44,7 @@ layout: 'base.njk'
   </tr>
 
     <tr>
-    <td>French/American Lean</td>
+    <td><a href="/world/URL/#NOLINK">French/American English Lean</a></td>
     <td>{{ framlean }}</td>
   </tr>
 
@@ -72,13 +90,5 @@ layout: 'base.njk'
 <div id="toc"></div>
 
 <div id="contents">
-
-  
-    <h2>Notable Figures</h2>
-    <div class="scrollbox"><div class="gallery">
-      {% for notablefigures in collections.notablefigures %}
-        <a href="/cast/{{ notablefigures.data.id }}"><div class="galleryimage" style="background-image: url('/assets/thumb/cast/{{ notablefigures.data.thumbnail }}')"></div></a>
-      {% endfor %}
-    </div></div>
 
   {{ content | safe }}

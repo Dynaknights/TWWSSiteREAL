@@ -1,7 +1,7 @@
 ---
 title: Behind the Fourth Wall
 id: misc
-pagedoll: chatbubbles.png
+pagedoll: seabunny.png
 bgimage: bg36.png
 layout: 'base.njk'
 tags:
@@ -18,13 +18,13 @@ tags:
 
 <div class="center">
 
-Some affiliates and neighbors.
-
 Want to be included (or no longer included)? Feel free to ask!
 
-<small>Also, here's some site buttons (88x31). I'll add more/revamp these later.</small>
+<small>Also, here's some site buttons (88x31 + 200x40).</small>
 
 <img class="button" src="/assets/buttons/twws1.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws2.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws3.png" alt="The Wondrous Web-Surfer!">
+
+<img class="button" src="/assets/buttons/twws4.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws5.png" alt="The Wondrous Web-Surfer!">
 </div>
 
 ### Friends
@@ -44,7 +44,12 @@ Want to be included (or no longer included)? Feel free to ask!
 <!-- There's gotta be a better way to go about doing this. -->
 <a href="https://bntarwarn.com/">
   <img class="button" src="/assets/buttons/bntarwarn.png" alt="BNTarwarn"></a> <a href="https://eggspace.neocities.org/">
-  <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a> <a href="https://angs-corner.nekoweb.org/"><img class="button" src="/assets/buttons/angs-corner.gif" alt="Ang's Corner"></a> <a href="https://darkosparko.nekoweb.org/"><img class="button" src="/assets/buttons/darkosparko.gif" alt="Darkosparko"></a> <a href="https://luvstarkei.com/"><img class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> <a href="https://jeith.com/"><img class="button" src="/assets/buttons/jeith.gif" alt="Jeith"></a> <a href="https://colorworld.world/"><img class="button" src="/assets/buttons/colorworld.gif" alt="COLORWORLD"></a> <a href="https://thegreatpretender02.neocities.org/"><img class="button" src="/assets/buttons/galacticgulch.png" alt="The Galactic Gulch"></a> <a href="https://the-end-of-science.com/"><img class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://grinalbi.nekoweb.org/"><img class="button" src="/assets/buttons/grinalbi.gif" alt="Grinalbi"></a> <a href="https://shinyexe.neocities.org/"><img class="button" src="/assets/buttons/shinyexe.gif" alt="Shinyexe"></a> 
+  <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a> <a href="https://angs-corner.nekoweb.org/"><img class="button" src="/assets/buttons/angs-corner.gif" alt="Ang's Corner"></a> <a href="https://darkosparko.nekoweb.org/"><img class="button" src="/assets/buttons/darkosparko.gif" alt="Darkosparko"></a> <a href="https://luvstarkei.com/"><img class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> <a href="https://jeith.com/"><img class="button" src="/assets/buttons/jeith.gif" alt="Jeith"></a> <a href="https://colorworld.world/"><img class="button" src="/assets/buttons/colorworld.gif" alt="COLORWORLD"></a> <a href="https://thegreatpretender02.neocities.org/"><img class="button" src="/assets/buttons/galacticgulch.png" alt="The Galactic Gulch"></a> <a href="https://the-end-of-science.com/"><img class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://grinalbi.nekoweb.org/"><img class="button" src="/assets/buttons/grinalbi.gif" alt="Grinalbi"></a> <a href="https://shinyexe.neocities.org/"><img class="button" src="/assets/buttons/shinyexe.gif" alt="Shinyexe"></a> <a href="https://clown-in-space.neocities.org/">
+  <img class="button" src="/assets/buttons/clowninspace.gif" alt="Clown in Space"></a> <a href="https://fizzsea.neocities.org/">
+  <img class="button" src="/assets/buttons/fizzsea.gif" alt="Fizzsea"></a> <a href="https://rabbitnet.neocities.org/">
+  <img class="button" src="/assets/buttons/rabbitnet.gif" alt="RabbitNET"></a> <a href="https://cco0orn.nekoweb.org">
+  <img class="button" src="/assets/buttons/oneroom.png" alt="One-Room"></a> <a href="https://cvnnbl.neocities.org">
+  <img class="button" src="/assets/buttons/cvnnbl.png" alt="Cannibal"></a> 
 
 <!-- NO BUTTONS -->
 

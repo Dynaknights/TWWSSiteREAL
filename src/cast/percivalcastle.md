@@ -17,7 +17,7 @@ species: Human
 age: Adult
 occupation: Vigilante, assassin
 birthplace: Lourdes, Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Pyrel (please call them Pyrel), Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
+nicknames: Pyrel, Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
 
 songinc: true
 songartist: Nonpoint

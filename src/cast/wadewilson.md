@@ -17,7 +17,7 @@ species: Human mutate
 age: Adult
 occupation: Mercenary, criminal, vigilante...?
 birthplace: Regina, Saskatchewan, Canada
-nicknames: Merc with a Mouth, 'Pool, Despicable Deadpool, DP, Regenerating Degenerate, King of Staten Island, Rat King, Trash Lord
+nicknames: Merc with a Mouth, 'Poolie, 'Pool, DP, Regenerating Degenerate, King of Staten Island, Rat King
 
 songinc: true
 songartist: Giles Corey
@@ -118,7 +118,7 @@ Let's see here... Suction cup thingies, grappling hook, Little Book of Grudges, 
 
 ## Trivia
 
-- Wade's favorite food is... *not* chimichangas. It's **pancakes**. He prefers them drowned to death in maple syrup and topped with whipped cream. <small>*Mmm... whipped cream.*</small>
+- Wade's favorite food is... *not* chimichangas. It's **pancakes**. He prefers them drowned to death in maple syrup and topped with whipped cream. <small>\{\{ *Mmm... whipped cream.* \}\}</small>
 - Wade has **two voices in his head**. **\{\{ This is Yellow \}\}** and **\[\[ This is White \]\]**. Yes, I internalized this from AO3 since my tweens.
 - Wade's speech bubbles are **yellow**. They've always been yellow in Marvel-licensed media to represent a vague distinction between the rough, gravelly sound of Wade's voice compared to other characters. E256B Wade's voice is like this due to **scarred and mangled vocal cords**, making his voice **strained**, **rough**, and **gravelly**.
 - Wade is extremely warm all of the time, regardless of external temperature, due to his healing factor constantly working.
