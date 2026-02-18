@@ -69,6 +69,7 @@ TBA...
 - Ballets, plays, mascot cafés, magazines, and puppet shows are in style. Who knew?
 - Very, *very* intense snowball fights are common among children because most of them idolize supers/find them cool and want to be them.
 - The city smells vaguely flowery all of the time, even in its more seedy parts, due to the sheer amount of flora everywhere.
+- J.J. Jacquemond is *not* anti-mutant. He just really dislikes most supers and is very vocally grumpy about them.
 - Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/holidays), Mardis Gras, Halloween, [Seven Deaths](/world/holidays), [l'Enfer Blanc](/world/holidays), and New Year's. It's a bit excessive.
 - Other holidays, such as history months, Pride Month, Veteran's Month, Chinese New Year, etc. each are wildly celebrated in certain districts of the city.
 - Despite the major French ~~colonization~~ influence, VNY still uses the imperial system.
