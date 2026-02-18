@@ -3,7 +3,7 @@
 layout: dynabase.njk
 
 title: About the Webmaster
-id: dynaknights
+id: Dynaknights
 tags:
 - fourth wall
 
