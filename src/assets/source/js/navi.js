@@ -31,8 +31,9 @@ margin: 10px 10px 10px 10px;
 text-decoration: none;
 display: block;
 border: 2px black solid;
-border-radius: 5px;
-background-color: #6a64b5;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 5px;
+background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
 transition: box-shadow .3s;
 }
 
@@ -43,7 +44,7 @@ transition: box-shadow .3s;
   transition-duration: 0.3s;
   -webkit-transition-property: transform;
   transition-property: transform;
-  background-color: #2d2c61;
+  background: linear-gradient(to bottom, rgba(55,44,117,1) 0%,rgba(132,41,206,1) 50%,rgba(132,41,206,1) 51%,rgba(245,219,255,1) 100%);
   color: antiquewhite;
 }
 .sidenav a:hover, .sidenav a:focus, .sidenav a:active {
@@ -91,7 +92,7 @@ margin: 5px;
 text-decoration: none;
 display: inline;
 border: 0;
-background-color: #6a64b5;
+background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
 }
 
 .sidenav .imagehere,

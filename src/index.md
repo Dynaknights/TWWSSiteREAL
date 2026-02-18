@@ -1,7 +1,7 @@
 ---
 title: The Wondrous Web-Surfer
 id: index
-bgimage: bg79.gif
+bgimage: bg184.png
 pagedoll: stampcca.png
 layout: 'base.njk'
 tags:
@@ -20,7 +20,7 @@ canonical: true
 
 <div class="coverhere" style="background-image: url('/assets/gallery/covers/preteensuperposition.png')"></div>
 
-The end of the third millennium heralds a colorful, yet bleak, future.
+The explosive end of the third millennium heralds a colorfully bleak future.
 
 Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from **climate change** and **energy crises** to **world hunger** and **healthcare**. Society will never be a perfect futuristic paradise, like their ancestors had hoped, but the asymptote between an idealistic utopia and the land of the living gets smaller with each passing day.
 
@@ -51,6 +51,8 @@ Cynical, pissed, and exhausted beyond all else, he grapples with his crumbling f
 It's a good idea to read up on the titular nerd: [Virgil Voltspun](/cast/virgilvoltspun) along with the other [denizens](/cast) of the weird, wide world they live in.  
 Speaking of their weird, wide world, why not read about that, too? There's a list of topics relating to [Earth-256-B](/e256b) for you to peruse at your leisure!
 
+If you don't have **JavaScript** enabled, utilize the handy [Sitemap](/sitemap) to navigate the site!
+
 <small>Though, keep in mind: I'm only one guy managing the paracosm and the site. Things are barebones because I decided to redo the entire thing for my own sanity... so, bear with me, please!</small>
 
 ***Excelsior!***
@@ -61,6 +63,6 @@ Speaking of their weird, wide world, why not read about that, too? There's a lis
 
 <small>This site is best viewed on a **computer** with **JavaScript** enabled, by the by. This site is mobile-friendly, but it looks better on a PC.</small>
 
-<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/buttons/pandanyr.gif" class="button"></a>
+<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/decor/pandama.gif" class="button"></a>
 
 </div>

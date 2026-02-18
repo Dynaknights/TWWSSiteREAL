@@ -13,11 +13,20 @@ tags:
 
 **TODO**
 
+Implement [Webamp](https://webamp.org/) somehow  
+SHRINES!!   
+Finish Nouvelle-Yorke & United Republic's pages  
+ToyHouse ribbons for characters on their respective pages maybe?  
+Character galleries with lightbox!!  
+Written works section!!  
+Fake websites/blogs for characters  
+Add quotes?  
+Notable Figures sections on world building pages... somehow...  
+Shorten About Me & other pages  
 Make fancier TODO  
-Maybe make a cooler-looking layout?  
+Add decorations!! Make the place fucking look nice!!  
 Figure out site colors ONCE AND FOR ALL  
-Add relationship categories on character pages  
-Finish at least three world-building pages before May  
+Add relationship categories on character pages    
 Draw new character thumbnails  
 Draw location 'thumbnails'  
 Draw pagedolls  
@@ -34,4 +43,10 @@ Figure out how to remove 404 from Sitemap...
 ~~Make guestbook~~
 
 </div>
+</div>
+
+<div class="centerDivider">
+
+<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+
 </div>

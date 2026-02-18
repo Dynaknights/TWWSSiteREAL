@@ -1,12 +1,12 @@
 ---
 title: Ville-de-Nouvelle-Yorke
-id: VNY
+id: vny
 tags:
 - vny
 - city
 
 bigger: true
-bgimage: bg79.gif
+bgimage: bg103.gif
 pagedoll: paperboat.png
 thumbnail: unfinished.png
 
@@ -36,7 +36,15 @@ Its economy, along with the rest of the United Republic, is in **shambles**. **P
 Ville-de-Nouvelle-Yorke is the mighty City of Dreams, but **trouble** simmers underneath **paradise**. The only question is what to do about it. Maybe we'll never know.
 
 ## Le Clairon Quotidien!
-TBA...
+
+***Le Clairon Quotidien!*** (*"Nouvelle-Yorke's Blooming Gazette!"*), sometimes colloquially called ***Le Clairon*** or ***The Bugle***, is a Leathucarian **news tabloid/podcast/radio show** stationed in the heart of downtown Manhattan, Nouvelle-Yorke.  
+Its editor and publisher-in-chief, **[Jean-Jacquet Jacquemond du Jort](/cast/jeanjacquetjacquemond)** (typically referred to as **J.J. Jacquemond**), is the host of both the podcast and radio show. This is manageable for Jacquemond because both the podcast and the radio show use the exact same clips; the radio show is recorded live, then the audio is uploaded as a podcast later.
+
+Each and every one of these news formats mainly focuses on **criticizing supers**, discussing current events, and — rarely — exploring Nouvelle-Yorke's way of life. Mostly, it focuses on [Web-Surfer](/cast/virgilvoltspun) and anything involved with him; partially due to Jacquemond's hatred for the super, but also due to Web-Surfer's popularity within the superpowered scene.  
+Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le Rêve Super!***, which also focuses on supers, but in a more **celebrity-like** lens similarly to that of **fashion/gossip magazines**. *Le Rêve* includes romance, personal drama, rumors, exclusive interviews/photoshoots with popular supers, and other stereotypical subjects.  
+*Le Rêve* was birthed from **financial desperation** within the parent company. However, much to Jacquemond's dismay, he can't shut it down because it's still a major hit among predominantly young women and girls. Jacquemond is not a man to turn down extra cash. Thus, it begrudgingly remains alongside *Le Clairon*.
+
+*Le Clairon*'s accusatory nature has led it to be discredited as a valid source far and wide, especially for anything regarding superpowered individuals. However, it remains afloat because people find Jacquemond and his hysteric yelling entertaining.
 
 ## Oscorp
 TBA...
@@ -61,4 +69,6 @@ TBA...
 - Ballets, plays, mascot cafés, magazines, and puppet shows are in style. Who knew?
 - Very, *very* intense snowball fights are common among children because most of them idolize supers/find them cool and want to be them.
 - The city smells vaguely flowery all of the time, even in its more seedy parts, due to the sheer amount of flora everywhere.
-- Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/holidays), Pride Month, History Months, Halloween, [Seven Deaths](/world/holidays), [l'Enfer Blanc](/world/holidays), and New Year's. It's a bit excessive.
+- Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/holidays), Mardis Gras, Halloween, [Seven Deaths](/world/holidays), [l'Enfer Blanc](/world/holidays), and New Year's. It's a bit excessive.
+- Other holidays, such as history months, Pride Month, Veteran's Month, Chinese New Year, etc. each are wildly celebrated in certain districts of the city.
+- Despite the major French ~~colonization~~ influence, VNY still uses the imperial system.

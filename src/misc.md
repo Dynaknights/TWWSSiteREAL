@@ -119,17 +119,47 @@ Learn about me and the origins of this hellish site! ...Must be very interesting
 
 </div>
 
-## Credits
+## Credits & Resources
+
+<div class="box4boxes">
+
+
+<div class="center">
 
 This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character-wiki-template/) by [44x50](https://44x50.neocities.org/). Thank you! :D
 
-### Scolding & Contact
+[Atabook](https://atabook.org/)
+
+[Bret Comnes' Deploy-to-Neocities](https://deploy-to-neocities.neocities.org/)
+
+Body font: [Blockkie](https://fontmeme.com/fonts/blockkie-font/) by Joohn Fonts
+
+[Bluwiikoon's Pokémon Adoptables](https://noseclub.bluwiikoon.art/scrunklymon.shtml)
+
+[CoolKaius's ToyHouse Ribbon Masterlist](https://toyhou.se/13206683.ribbons-masterlist/30060286.all-ribbon-links)
+
+[CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/#_)
+
+[Eleventy](https://www.11ty.dev/)
+
+Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Hawtpixel
+
+[Petrapixel](https://petrapixel.neocities.org/)
+
+[Shiny.EXE's Pokémon Claw](https://shinyexe.neocities.org/theclaw)
+
+[Webamp](https://webamp.org/)
+
+</div>
+</div>
+
+### Yapping & Contact
 
 All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, por favor.
-If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form.
+If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form. I'd greatly prefer you just email me though.
 
 Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can.
-**Anything and everything created by me is NOT for commercial usage**. I don't care what you do with my spaghetti code, because, y'know, this template's not mine.
+**Anything and everything created by me is NOT for commercial usage**. The site's foundations aren't mine, so I don't exactly care what you do with my code. Maybe don't rip it off verbatim though.
 
 *The Amazing Spider-Man* was created by Steve Ditko and Stan Lee.  
 On that note, **I'm not affiliated with Marvel at all whatsoever**. I'm just a guy who discovered Deadpool and Spider-Man through copious amounts of gay AO3 Superfamily and Spideypool fan-fiction. Clint is probably in my vents.

@@ -43,37 +43,6 @@ Anyway, welcome to my weird nerd site. Thanks for stopping by, sorry about the c
 
 </div>
 
-## Why Does This Exist?
-
-I watched *Across the Spider-Verse* when I was sixteen.
-
-Yes, yes. *Web-Surfer* is a childish pet project made by an engineering man-child who likes things too much for his own good and *not* a precious paracosm I've had since I was a kid, I'm sorry to disappoint. Preteen me would've been *very* proud though. Take that as you will.
-
-Anyway, I was disgustingly into Marvel at the time and was hyped for the film. Saw it, liked it, looked at cool stuff relating to it on social media and saw a revival of those Spider-sonas people made in 2018. Notably, I paid attention to the fact that **they're all technically canon to the Marvel multiverse**, and thought each and every one of them were the coolest fucking thing on planet Earth.  
-So, I made a Spider-sona as a little one-off thing that was disgustingly self-indulgent. I could never really see myself in **Peter Parker** or even **Miles Morales** — I've always turned to **Deadpool** if I felt unheard — despite liking Spider-Man a lot… so I thought it was cool I could be Spider-Man the way *I* wanted to.
-
-I can truly feel seen through my characters and world along with exploring who I am as a person. I can make my perfect story and no one can stop me. Isn't that great?  
-Me, a guy who's been grappling with feeling like an absolute freak for his whole stinkin' life, feeling a little less like a freak because I just so happen to be really into Spider-Man. Whatever assauges the demons, man.
-
-So, here we are; my little shithole of a universe.
-
-…Excelsior. Thumbs up.
-
-## Manifesto
-
-I don't have a manifesto.
-
-This site wasn't birthed out of love for the old web since… y'know, I'm too young for that. I just thought the indie web was really fucking cool as a teenager.  
-...I find a lot of things to be cool and interesting, okay? Even my friends call me a dork for it.
-
-*Web-Surfer* was originally just going to be a one-off OC page on a personal website more focused on blogging and art, since I harbored a severe distaste for posting on social media; I was way too reclusive and places like TikTok or Instagram are way too fucking evil, but I still wanted to 'get myself out there more.'  
-…*TWWS* consumed me too much to be satisfied with a singular page, though. A standalone site was in order, and you're on it, so it worked. Behold, the rotten fruits of my lazy labor.
-
-This website was created with the goal of organizing information regarding *TWWS* in a way that's comprehensive, complete, fun (for me) to make, fun (for you) to read about (maybe), and violently disassociated from mainstream social media. I sound like an old fart saying that, I'm sure, but technology sure seems to be cannibalizing itself lately, no?  
-I'm still very much ass at web development and creating stories, but maybe it'll get better with time. I apologize for any hiccups in the meantime. This is like, the fifth fucking iteration of this goddamn site. I'm so tired.
-
-…But since I'm being held at gunpoint, I'll tell you what. Here's a manifesto: **I hope you have fun**.
-
 ## Likes
 
 - **Video Games!!**  
@@ -117,6 +86,42 @@ When I first got into Marvel in my tweens, it was through *Into the Spider-Verse
 I liked *comic book characters*, but I couldn't bring myself to like comics... until now! ...In my adulthood. Maybe it's just because I'm less picky.  
 As of **2026**, I'm working through: ***Spawn***, ***Silver Surfer***, ***Invincible***, and ***Watchmen***.
 
+## Why Does This Exist?
+
+I watched *Across the Spider-Verse* when I was sixteen.
+
+Yes, yes. *Web-Surfer* is a childish pet project made by an engineering man-child who likes things too much for his own good and *not* a precious paracosm I've had since I was a kid, I'm sorry to disappoint. Preteen me would've been *very* proud though. Take that as you will.  
+I should've waited a bit before jumping into creating a standalone site with how young *TWWS* is compared to other paracosms and headworlds I hear about, but... I was a very eager teenager starved to do everything at once.
+
+Anyway, I was disgustingly into Marvel at the time and was hyped for the film. Saw it, liked it, looked at cool stuff relating to it on social media and saw a revival of those Spider-sonas people made in 2018. Notably, I paid attention to the fact that **they're all technically canon to the Marvel multiverse**, and thought each and every one of them were the coolest fucking thing on planet Earth.  
+So, I made a Spider-sona as a little one-off thing that was disgustingly self-indulgent. I could never really see myself in **Peter Parker** or even **Miles Morales** — I've always turned to **Deadpool** if I felt unheard — despite liking Spider-Man a lot… so I thought it was cool I could be Spider-Man the way *I* wanted to.
+
+I can truly feel seen through my characters and world along with exploring who I am as a person. I can make my perfect story and no one can stop me. Isn't that great?  
+Me, a guy who's been grappling with feeling like an absolute freak for his whole stinkin' life, feeling a little less like a freak because I just so happen to be really into Spider-Man. Whatever assauges the demons, man.
+
+So, here we are; my little shithole of a universe.  
+Excelsior. Thumbs up.
+
+## Manifesto
+
+I don't have a manifesto.
+
+This site wasn't birthed out of love for the old web since… y'know, I'm too young for that. I just thought the indie web was really fucking cool as a teenager.  
+...I find a lot of things to be cool and interesting, okay? Even my friends call me a dork for it.
+
+*Web-Surfer* was originally just going to be a one-off OC page on a personal website more focused on blogging and art, since I harbored a severe distaste for posting on social media; I was way too reclusive and places like TikTok or Instagram are way too fucking evil, but I still wanted to 'get myself out there more.'  
+…*TWWS* consumed me too much to be satisfied with a singular page, though. A standalone site was in order, and you're on it, so it worked. Behold, the rotten fruits of my lazy labor.
+
+This website was created with the goal of organizing information regarding *TWWS* in a way that's comprehensive, complete, fun (for me) to make, fun (for you) to read about (maybe), and violently disassociated from mainstream social media. I sound like an old fart saying that, I'm sure, but technology sure seems to be cannibalizing itself lately, no?  
+I'm still very much ass at web development and creating stories, but maybe it'll get better with time. I apologize for any hiccups in the meantime. This is like, the fifth fucking iteration of this goddamn site. I'm so tired.
+
+…But since I'm being held at gunpoint, I'll tell you what. Here's a manifesto: **I hope you have fun**.
+
+## Contact
+
+You can **email me (Dynaknightslol(at)gmail(dot)com)**.
+You can also shoot me a message on the **[guestbook](https://dynaknights.atabook.org/)**.
+
 ## Trivia
 
 - I near-exclusively wrote Marvel fan-fiction (with names switched around and anonymized) for my high school's creative writing class. I got a 100% as a final grade.
@@ -127,11 +132,6 @@ As of **2026**, I'm working through: ***Spawn***, ***Silver Surfer***, ***Invinc
 - I also asked my AP Lit teacher if Spideypool yaoi was allowed in this essay. I don't remember their answer to that.
 - I'm also reading *X-Men: the Legacy Quest Trilogy* because I found a copy of the first volume in a Little Free Library. I'm hashtag winning.
 - I was so, *so* close to naming myself Wade when deciding on a real life name for myself as a baby trans guy because I was obsessed with Deadpool and loved him beyond all else. I hated feeling like a freak parasocially attatched to characters and people, though, so I opted for something else.
-
-## Contact
-
-You can **email me (Dynaknightslol(at)gmail(dot)com)**.
-You can also shoot me a message on the **[guestbook](https://dynaknights.atabook.org/)**.
 
 <div class="centerDivider">
 

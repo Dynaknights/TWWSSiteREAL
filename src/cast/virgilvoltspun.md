@@ -21,9 +21,9 @@ birthplace: Disco, Wisconsin, URL
 nicknames: Vee, Virge, Virgin, Webby, Webs, Web-Head, Spider, Arachnid...
 
 songinc: true
-songartist: Have a Nice Life
-song: The Big Gloom
-songlink: https://www.youtube.com/watch?v=-YLtAbQtUP0
+songartist: Red Vox
+song: I'm So Happy
+songlink: https://youtu.be/-nJj8OOLm-M?si=z5ca-unPgcHYqxW1
 ---
 
 Go on, call him what you'd like.
@@ -111,6 +111,7 @@ Not just for decoration. His suit has dubious access to police resources and the
 - Very flexible! Virgil enjoys freaking people out by bending into weird positions.
 - *Terrified* of wasps. Hates them to death.
 - Strongly against killing spiders and has never been bitten by one since that *H. maculata*. Has a few spiders in his apartment to ward off bugs.
+- Virgil's enhanced senses and Spider-Sense make it extremely difficult to sneak up on/surprise him. However, it's not *impossible*.
 - Uses video game moves in fights. Did this when he was starting off due to a lack of combat training, but got too used to it even after learning to fight. You ever see someone perform a twenty-hit aerial combo in real life? That's Virgil's style.
 - May or may not be the only person in the Voltspun bloodline to not be named after a consumable item. His deadname is a type of cheese, though.
 - Greatly enjoys terrorizing people with sleds.

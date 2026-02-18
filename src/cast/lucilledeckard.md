@@ -14,7 +14,7 @@ species: Human(?)
 age: Adult
 occupation: Criminal, scientist, bio-engineer
 birthplace: Bald Head, Maine, URL
-nicknames: Lulu, Squid, Doctopus, Cephy, Master Planner
+nicknames: Lulu, Luci, Squid, Doctopus, Cici, Master Planner
 
 songinc: true
 songartist: Oingo Boingo
