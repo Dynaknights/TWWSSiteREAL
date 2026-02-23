@@ -1,0 +1,18 @@
+---
+layout: 'base.njk'
+---
+
+{{ content | safe }}
+
+ {% for blogs in collections.blogs | reverse %}
+<div class="box4boxes" style="max-height:450px;">
+<h2><img src="/assets/decor/stars.gif"> {{ blogs.date | postDate }}</h2>
+
+  {% if (pagedoll2) %}
+  <img src="/assets/decor/{{ blogs.pagedoll2 }}" div class="pagedollbreaker">
+  {% endif %}
+  
+{{ blogs.content | safe }}
+</div>
+
+ {% endfor %}

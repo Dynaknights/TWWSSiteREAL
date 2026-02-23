@@ -539,6 +539,13 @@ figure {
   overflow-y: scroll;
   max-height: 300px;
   min-width: 220px;
+  margin-bottom: 20px;
+
+  h2{
+  -webkit-text-stroke: 1px #303068;
+  text-shadow: 3px .2px #303068;
+  border-bottom: 3px antiquewhite dashed;
+  }
 }
 
 .bigishbox {

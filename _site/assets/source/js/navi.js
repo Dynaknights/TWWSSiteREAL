@@ -120,6 +120,7 @@ display: none;
 <a href="/outerspace">Outer Space</a>
 <a href="/sitemap">Sitemap</a>
 <a href="/misc">Miscellaneous</a>
+<a href="/blog">Blog</a>
 <a href="/updates">Updates</a>
 </div>
 `;

@@ -24,7 +24,7 @@ Character galleries with lightbox!!
 Written works section!!  
 Fake websites/blogs for characters  
 Add quotes?  
-Notable Figures sections on world building pages... somehow...  
+Notable Figures sections on world building pages… somehow…  
 Make fancier TODO  
 Add decorations!! Make the place fucking look nice!!  
 Figure out site colors ONCE AND FOR ALL  
@@ -33,7 +33,7 @@ Draw new character thumbnails
 Draw location 'thumbnails'  
 Draw pagedolls  
 Draw other on-site graphics  
-Figure out how to remove 404 from Sitemap...
+Figure out how to remove 404 from Sitemap…
 
 **Completed**
 

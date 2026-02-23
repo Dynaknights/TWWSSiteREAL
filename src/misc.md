@@ -10,13 +10,51 @@ tags:
 
 Arbitrarily assorted things that shall be sorted out and organized better, eventually.
 
+## Credits & Resources
+
+<div class="box4boxes">
+
+
+<div class="center">
+
+This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character-wiki-template/) by [44x50](https://44x50.neocities.org/). Thank you! :D
+
+[Atabook](https://atabook.org/)
+
+[Bret Comnes' Deploy-to-Neocities](https://deploy-to-neocities.neocities.org/)
+
+Body font (old): [Blockkie](https://fontmeme.com/fonts/blockkie-font/) by Joohn Fonts
+
+[Bluwiikoon's Pokémon Adoptables](https://noseclub.bluwiikoon.art/scrunklymon.shtml)
+
+Profile border: [Doll Archive](https://dollarchive.neocities.org/compendium/spine/borders)
+
+[CoolKaius's ToyHouse Ribbon Masterlist](https://toyhou.se/13206683.ribbons-masterlist/30060286.all-ribbon-links)
+
+[CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/#_)
+
+[CSS Tricks](https://css-tricks.com/)
+
+[Eleventy](https://www.11ty.dev/)
+
+Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Hawtpixel
+
+[Petrapixel](https://petrapixel.neocities.org/)
+
+[Shiny.EXE's Pokémon Claw](https://shinyexe.neocities.org/theclaw)
+
+[Webamp](https://webamp.org/)
+
+</div>
+</div>
+
 ## This Wide, Webbed World…
 
 <div class="center">
 
 Want to be included (or no longer included)? Feel free to ask!
 
-<small>Also, here's some site buttons (88x31 + 200x40).</small>
+<small>Also, here's some site buttons (88x31px + 200x40px).</small>
 
 <img class="button" src="/assets/buttons/twws1.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws2.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws3.png" alt="The Wondrous Web-Surfer!">
 
@@ -57,7 +95,8 @@ Want to be included (or no longer included)? Feel free to ask!
   <img class="button" src="/assets/buttons/foxbugforest.gif" alt="Foxbugforest"></a> <a href="https://halolimnic.neocities.org">
   <img class="button" src="/assets/buttons/halolimnic.gif" alt="Halolimnic"></a> <a href="https://roboticoperatingbuddy.neocities.org">
   <img class="button" src="/assets/buttons/roboticoperatingbuddy.png" alt="Robotic Operating Buddy"></a> <a href="https://ne0nbandit.art">
-  <img class="button" src="/assets/buttons/ne0nbandit.png" alt="Ne0nbandit"></a> 
+  <img class="button" src="/assets/buttons/ne0nbandit.png" alt="Ne0nbandit"></a> <a href="https://ophanimkei.com">
+  <img class="button" src="/assets/buttons/ophanimkei.gif" alt="Ophanimkei"></a> 
 
 <!-- NO BUTTONS -->
 
@@ -78,13 +117,12 @@ Want to be included (or no longer included)? Feel free to ask!
 ### Webrings
 
 <div class="box4boxes">
-
-
 <div class="center">
 
-<!-- SELF-INSERT -->
-<div id="selfinsertwebring">
-	<script src="/assets/source/js/showWebring.js"></script>
+<!-- BLACK WEBMASTERS -->
+<div id="blackring">
+    <script type="text/javascript" src="https://00010010.org/webring/js/onionring-variables.js"></script>
+    <script type="text/javascript" src="https://00010010.org/webring/js/mala-widget1.js"></script>
 </div>
 
 <!-- OC WEBRING -->
@@ -97,9 +135,13 @@ Want to be included (or no longer included)? Feel free to ask!
 <a href="https://tofutush.github.io/oc-webring/rand/?site=The Wondrous Web-Surfer!">Random</a> ⟡˙⋆ 
 <a href="https://tofutush.github.io/oc-webring/next/?site=The Wondrous Web-Surfer!">Next ></a>
 </div>
-    </div>
+</div>
 
-<!-- REMEMBER TO OFFICIALLY JOIN THESE LATER!! -->
+<!-- SELF-INSERT -->
+<div id="selfinsertwebring">
+	<script src="/assets/source/js/showWebring.js"></script>
+</div>
+
 <!-- TRANSING -->
 <script src="https://transring.neocities.org/ring.js"></script>
 
@@ -109,7 +151,6 @@ Want to be included (or no longer included)? Feel free to ask!
 <script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/widget.js"></script>
 <link rel="stylesheet" href="/assets/source/css/widget.css">
 </div>
-
 </div>
 </div>
 
@@ -125,44 +166,6 @@ Learn about me and the origins of this hellish site! …Must be very interesting
 
 <small>Featuring a 100% authentic photo that wasn't drawn on a whim whatsoever!</small>
 
-</div>
-
-## Credits & Resources
-
-<div class="box4boxes">
-
-
-<div class="center">
-
-This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character-wiki-template/) by [44x50](https://44x50.neocities.org/). Thank you! :D
-
-[Atabook](https://atabook.org/)
-
-[Bret Comnes' Deploy-to-Neocities](https://deploy-to-neocities.neocities.org/)
-
-Body font (old): [Blockkie](https://fontmeme.com/fonts/blockkie-font/) by Joohn Fonts
-
-[Bluwiikoon's Pokémon Adoptables](https://noseclub.bluwiikoon.art/scrunklymon.shtml)
-
-Profile border: [Doll Archive](https://dollarchive.neocities.org/compendium/spine/borders)
-
-[CoolKaius's ToyHouse Ribbon Masterlist](https://toyhou.se/13206683.ribbons-masterlist/30060286.all-ribbon-links)
-
-[CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/#_)
-
-[CSS Tricks](https://css-tricks.com/)
-
-[Eleventy](https://www.11ty.dev/)
-
-Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Hawtpixel
-
-[Petrapixel](https://petrapixel.neocities.org/)
-
-[Shiny.EXE's Pokémon Claw](https://shinyexe.neocities.org/theclaw)
-
-[Webamp](https://webamp.org/)
-
-</div>
 </div>
 
 ### Yapping & Contact
