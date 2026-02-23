@@ -313,7 +313,7 @@ float: right;
    transition: .2s ease-in-out;
 }
 
-.coverhere,
+.coverhere:hover,
 .funcoverc:hover,
 .funcoverg:hover {
    transform: scale(1.2); 
