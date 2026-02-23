@@ -96,7 +96,9 @@ Want to be included (or no longer included)? Feel free to ask!
   <img class="button" src="/assets/buttons/halolimnic.gif" alt="Halolimnic"></a> <a href="https://roboticoperatingbuddy.neocities.org">
   <img class="button" src="/assets/buttons/roboticoperatingbuddy.png" alt="Robotic Operating Buddy"></a> <a href="https://ne0nbandit.art">
   <img class="button" src="/assets/buttons/ne0nbandit.png" alt="Ne0nbandit"></a> <a href="https://ophanimkei.com">
-  <img class="button" src="/assets/buttons/ophanimkei.gif" alt="Ophanimkei"></a> 
+  <img class="button" src="/assets/buttons/ophanimkei.gif" alt="Ophanimkei"></a> <a href="https://sirkorgo.nekoweb.org">
+  <img class="button" src="/assets/buttons/sirkorgo.gif" alt="Sirkorgo"></a> <a href="https://sherwind.neocities.org">
+  <img class="button" src="/assets/buttons/sherwind.gif" alt="Sherwind"></a> 
 
 <!-- NO BUTTONS -->
 
@@ -110,6 +112,8 @@ Want to be included (or no longer included)? Feel free to ask!
 
 **[Takeoverse](https://takeoverse.nekoweb.org/)** -- A happy paracosm where nothing bad ever happens to anyone ever. By **Lia Amanata**, who is definitely not a mathematical horror of some sort.
 </div>
+
+**[POCOGuy.com](https://pocoguy.com)** -- Cool ass Win98/OMORI themed personal site centering mostly around technology, anime, and video games. Hell yeah, brother. By **Mohamad Obeid**.
 
 </div>
 </div>

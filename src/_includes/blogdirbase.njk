@@ -5,12 +5,23 @@ layout: 'base.njk'
 {{ content | safe }}
 
  {% for blogs in collections.blogs | reverse %}
+
 <div class="box4boxes" style="max-height:450px;">
 <h2><img src="/assets/decor/stars.gif"> {{ blogs.date | postDate }}</h2>
 
-  {% if (pagedoll2) %}
-  <img src="/assets/decor/{{ blogs.pagedoll2 }}" div class="pagedollbreaker">
-  {% endif %}
+{% if (blogs.data.title) %}
+
+<h3><img src="/assets/decor/swirlred.gif"> {{ blogs.data.title }}</h3>
+
+{% endif %}
+
+{% if (blogs.data.tomoguy) %}
+  <a href="https://www.tumblr.com/chocoperrito/786091240639873024/tomodachi-life-window-graphics-two-bonus-ones?source=share"><img src="/assets/decor/tl{{ blogs.data.tomoguy }}" div class="pagedollbreaker"></a>
+{% endif %}
+
+{% if (blogs.data.lilguy) %}
+  <img src="/assets/decor/tl{{ blogs.data.lilguy }}" div class="pagedollbreaker">
+{% endif %}
   
 {{ blogs.content | safe }}
 </div>

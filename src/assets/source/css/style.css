@@ -541,10 +541,14 @@ figure {
   min-width: 220px;
   margin-bottom: 20px;
 
-  h2{
+  h2,
+  h3{
   -webkit-text-stroke: 1px #303068;
   text-shadow: 3px .2px #303068;
-  border-bottom: 3px antiquewhite dashed;
+  }
+
+  h2{
+    border-bottom: 3px antiquewhite dashed;
   }
 }
 
@@ -628,6 +632,9 @@ figure {
   min-height: 50px;
   max-width: 300px;
   max-height: 300px;
+  width: 30%;
+  height: auto;
+
 }
 
 .pagedollbreaker:hover {

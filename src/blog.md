@@ -1,5 +1,5 @@
 ---
-title: Blog & Yapping
+title: Blogging & Yapping
 id: blog
 bgimage: bg20.png
 pagedoll: tamagotchi1.png
