@@ -2,6 +2,7 @@
 title: Outer Space
 id: outerspace
 pagedoll: feltrocket.png
+pagedoll2: stars1.png
 bgimage: bg123.gif
 layout: 'basetoc.njk'
 tags:
@@ -37,6 +38,9 @@ Surya can be recognized from the blue light it emits as opposed to Sol's yellow 
 Surya kind of just... appeared one day in **late 2112**, with the entire solar system abruptly shifting to adjust to this new celestial body. For example, Earth got abruptly shoved .8 AU away from Sol to accommodate for the extra heat.
 
 ## Valse d'Argent
+
+<img src="/assets/decor/stampspace.png" div class="pagedollbreaker">
+
 The **Valse d'Argent** is a partial [Dyson swarm](https://www.space.com/dyson-sphere.html) aimed to **collect Sol-Surya's** <small>(mainly Surya's)</small> **waste heat** ~3.25 AU from Sol (a little bit beyond Mars' orbit).  
 The Valse only collects **~2.1%** of this residual heat, but this smidge of energy — coupled with backup nuclear power plants — grants more than enough energy to last for generations and then some.  
 Ironically, its development *also* took generations and then some through the power of capitalistic exploitation (read: widespread slavery).
@@ -75,10 +79,10 @@ Shockingly, the **opposite** can also happen. The dead can be temporarily **revi
 
 Mostly, when people refer to **cosmic bugs**, they mean there's an object that's somehow halfway into a solid structure and won't come out — or, more commonly, they're referring to **mutations**; abrupt changes to one's **genetic structure** granting **superhuman abilities** in more notable cases. Or, perhaps, they're referring to any abnormally-sized creature; typically, this is used as justificiation among more conspiritorial types as proof of ancient giants who roamed the lands... but no reasonable evidence has been given outside of mutations. That's probably for the better.
 
-It's unsure when this phenomenon first began occurring, but it's picked up steam ever since the Solar System was '**abruptly and forcibly readjusted**' in the year 2112 to accomodate for new celestial bodies with zero warnings or explanations: two moons and a sun: **Vainglory**, **Antiochus**, and **Surya**.  
+It's unsure when this phenomenon first began occurring, but it's picked up steam ever since the Solar System was '**abruptly and forcibly readjusted**' in the year 2112 to accommodate for new celestial bodies with zero warnings or explanations; two moons and a sun: **Vainglory**, **Antiochus**, and **Surya**.  
 The theory surrounding cosmic bugs is the best explanation for the three's arrival, since they each defy the 'traditional' means of celestial creation. Hell, they didn't even have creation processes considering they simply **"spawned" into existence**.
 
-Speaking of these new bodies, there has been questions as to whether cosmic bugs are **infectious**, like a **virus** of sorts. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic bugs is entirely unknown — perhaps unsolvable — and this cannot be objectively proven. Regardless, it's generally accepted that these bugs are transferrable, somehow.
+Speaking of these new bodies, there has been questions as to whether cosmic bugs are **infectious**, like a **virus** of sorts. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic bugs is entirely unknown — perhaps unsolvable — and this cannot be objectively proven. Regardless, it's generally accepted that these bugs are transferable, somehow.
 
 The universe, despite major religious backing painting it as **beyond perfection**, is **fickle** and **decrepit**, it seems. Perhaps this spells **doom** for us all, and perhaps doom is what humanity needs.
 
@@ -86,13 +90,15 @@ Praise be to the stars.
 
 ### Earth-256
 
+<img src="/assets/decor/starbig.gif" div class="pagedollbreaker">
+
 Considering the potential of **cosmic bugs**, it's not far-fetched to wonder if such **anomalies** are instead natural by factoring into not just the **death** of the universe, but also it's **creation**.
 
 Some results of cosmic bugs have gifted humanity far, far more questions than was previously conceivable. Objects or people pop in and out of our reality and give others the distinct impression that these things are **not our own**, whatever that could entail. They're… **unnatural** in every definition of the word that descriptors are unable to justify.  
 The few that, miraculously, can converse with us speak of **times** and **tales** beyond the scope of humanity at the moment (and possibly the foreseeable future); **fantasy-like** structures, people, beasts, and ways of living so drastically different that they wrap around to eliciting **nostalgia** from perceived **sameness**. 
 People have cited these strangers as seeming as **otherworldly** just as much as they appear **human**, like they've originated from an **alternate version** of this Earth.
 
-At times, a large number of individuals from all over the globe that have never communicated in their lives (i.e., the population equivalent to that of a city) will have **interconnected dreams** detailing of a ***life before us***, as it's commonly referred to as. Exact details differ between groups, but what they provide remain **consistent** nearly every time.  
+At times, a large number of individuals from all over the globe that have never communicated in their lives (i.e., the population equivalent to that of a city) will have **interconnected dreams** detailing of a ***life before us***, as it's commonly referred to. Exact details differ between groups, but what they provide remain **consistent** nearly every time.  
 To make matters worse, this would explain certain **odd-looking objects** that we harbor **zero understanding** of, which also show up out of nowhere. It's looking grim for humanity.
 
 These bugs have created a belief that they — and us — are the result of **previous iterations of the universe** (or even a multiverse, among the daring few), drawing from classical religious tales detailing the universe with a lust for **perfectionism**.

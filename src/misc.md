@@ -8,13 +8,9 @@ tags:
 - mainpage
 ---
 
-<div class="center">
+Arbitrarily assorted things that shall be sorted out and organized better, eventually.
 
-**Feel free to [sign my guestbook](https://dynaknights.atabook.org/)!**
-
-</div>
-
-## This Wide, Webbed World...
+## This Wide, Webbed World…
 
 <div class="center">
 
@@ -49,7 +45,19 @@ Want to be included (or no longer included)? Feel free to ask!
   <img class="button" src="/assets/buttons/fizzsea.gif" alt="Fizzsea"></a> <a href="https://rabbitnet.neocities.org/">
   <img class="button" src="/assets/buttons/rabbitnet.gif" alt="RabbitNET"></a> <a href="https://cco0orn.nekoweb.org">
   <img class="button" src="/assets/buttons/oneroom.png" alt="One-Room"></a> <a href="https://cvnnbl.neocities.org">
-  <img class="button" src="/assets/buttons/cvnnbl.png" alt="Cannibal"></a> 
+  <img class="button" src="/assets/buttons/cvnnbl.png" alt="Cvnnbl"></a> <a href="https://solaria.neocities.org">
+  <img class="button" src="/assets/buttons/solariaswebspace.png" alt="Solaria's Webspace"></a> <a href="https://advelos.moe">
+  <img class="button" src="/assets/buttons/advelos.gif" alt="Advelos"></a> <a href="https://ninacti0n.neocities.org">
+  <img class="button" src="/assets/buttons/ninacti0n.gif" alt="Ninacti0n"></a> <a href="https://pastel-skies.nekoweb.org">
+  <img class="button" src="/assets/buttons/novagalaxium.gif" alt="Nova Galaxium"></a> <a href="https://sixevil.neocities.org">
+  <img class="button" src="/assets/buttons/sixevil.gif" alt="Sixevil"></a> <a href="https://rockybloo.neocities.org">
+  <img class="button" src="/assets/buttons/rockybloo.png" alt="Rocky Bloo"></a> <a href="https://onio.club">
+  <img class="button" src="/assets/buttons/onio.gif" alt="Onio"></a> <a href="https://dollarchive.neocities.org">
+  <img class="button" src="/assets/buttons/dollarchive.gif" alt="Doll Archive"></a> <a href="https://foxbugforest.neocities.org">
+  <img class="button" src="/assets/buttons/foxbugforest.gif" alt="Foxbugforest"></a> <a href="https://halolimnic.neocities.org">
+  <img class="button" src="/assets/buttons/halolimnic.gif" alt="Halolimnic"></a> <a href="https://roboticoperatingbuddy.neocities.org">
+  <img class="button" src="/assets/buttons/roboticoperatingbuddy.png" alt="Robotic Operating Buddy"></a> <a href="https://ne0nbandit.art">
+  <img class="button" src="/assets/buttons/ne0nbandit.png" alt="Ne0nbandit"></a> 
 
 <!-- NO BUTTONS -->
 
@@ -109,11 +117,11 @@ Want to be included (or no longer included)? Feel free to ask!
 
 <div class="box4boxes">
 
-<figure style="float:left; margin-right:20px;">
+<figure style="float:left; margin:10px;">
 <a href="/misc/dynaknights"><img src="/assets/thumbs/cast/Dynaknights.png" width="100%"></a>
 </figure>
 
-Learn about me and the origins of this hellish site! ...Must be very interesting, I guess.
+Learn about me and the origins of this hellish site! …Must be very interesting, I guess.
 
 <small>Featuring a 100% authentic photo that wasn't drawn on a whim whatsoever!</small>
 
@@ -132,13 +140,17 @@ This site uses the [OC Hub Template](https://44x50.neocities.org/sites/character
 
 [Bret Comnes' Deploy-to-Neocities](https://deploy-to-neocities.neocities.org/)
 
-Body font: [Blockkie](https://fontmeme.com/fonts/blockkie-font/) by Joohn Fonts
+Body font (old): [Blockkie](https://fontmeme.com/fonts/blockkie-font/) by Joohn Fonts
 
 [Bluwiikoon's Pokémon Adoptables](https://noseclub.bluwiikoon.art/scrunklymon.shtml)
+
+Profile border: [Doll Archive](https://dollarchive.neocities.org/compendium/spine/borders)
 
 [CoolKaius's ToyHouse Ribbon Masterlist](https://toyhou.se/13206683.ribbons-masterlist/30060286.all-ribbon-links)
 
 [CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/#_)
+
+[CSS Tricks](https://css-tricks.com/)
 
 [Eleventy](https://www.11ty.dev/)
 
@@ -156,10 +168,10 @@ Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Haw
 ### Yapping & Contact
 
 All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, por favor.
-If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**... Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form. I'd greatly prefer you just email me though.
+If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**… Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form. I'd greatly prefer you just email me though.
 
 Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can.
-**Anything and everything created by me is NOT for commercial usage**. The site's foundations aren't mine, so I don't exactly care what you do with my code. Maybe don't rip it off verbatim though.
+**Anything and everything created by me is NOT for commercial usage**. The site's foundations aren't mine, so I don't exactly care what you do with my code if you're not ripping it off down to the last semi-colon.
 
 *The Amazing Spider-Man* was created by Steve Ditko and Stan Lee.  
 On that note, **I'm not affiliated with Marvel at all whatsoever**. I'm just a guy who discovered Deadpool and Spider-Man through copious amounts of gay AO3 Superfamily and Spideypool fan-fiction. Clint is probably in my vents.

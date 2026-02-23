@@ -18,9 +18,15 @@ overflow-x: hidden; /* Disable horizontal scroll */
 padding-top: 20px;
 border-bottom: none;
 text-align: center; /* Center text horizontally */
-}
 
-.sidenav p{
+border-right: 5px solid #08080f;
+background-image:
+  linear-gradient(45deg, #181824 25%, transparent 25%, 
+    transparent 75%, #181824 75%, #181824),
+  linear-gradient(45deg, #181824 25%, transparent 25%, 
+    transparent 75%, #181824 75%, #181824);
+background-size: 60px 60px;
+background-position: 0 0, 30px 30px;
 }
 
 .sidenav a {
@@ -31,8 +37,8 @@ margin: 10px 10px 10px 10px;
 text-decoration: none;
 display: block;
 border: 2px black solid;
-border-top-left-radius: 5px;
-border-bottom-right-radius: 5px;
+border-top-left-radius: 10px;
+border-bottom-right-radius: 10px;
 background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
 transition: box-shadow .3s;
 }

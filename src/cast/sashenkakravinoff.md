@@ -75,6 +75,9 @@ Her arsenal is nowhere near the likes of [Deadpool](/cast/wadewilson) or [Punish
 - Most likely drooling.
 
 ## Trivia
+
+<img src="/assets/decor/pinbigcats.png" div class="pagedollbreaker">
+
 - Sasha's favorite food is good old **charcuterie**, preferably served with a very, *very* wide selection of meats. Also enjoys **roasted venison**.
 - Her pet lioness is named **Lena**.
 - Sashenka's physical aging is slowed thanks to a custom-made Super Soldier Serum-like substance she commissioned [Willis Faucher](/cast/willisfaucher) and [Lucille Deckard](/cast/lucilledeckard) an assload of money for.  

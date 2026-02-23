@@ -13,7 +13,7 @@ species: Human mutate
 age: Adult
 occupation: Criminal, hired gun, bounty hunter
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Bernie, Flint, Sandy
+nicknames: Bernie, Flint, Flintlock, Sandy
 
 songinc: true
 songartist: The Smiths
@@ -41,24 +41,23 @@ Couldn't get his act together and study 'cause he was high off the power that ca
 Fuckin' dumbass ol' Flint fucking herself over again. Got the whole story all twisted again.  
 She's tried so many damn times to just— *end the contract*, but that shark of a man won't let her, yappin' 'bout **potential** and **mutations**; some freaky ass **Weapon X**-sounding shit Flint wants no part in, hear? Now, she's neck deep in this whole mess with no end in sight.
 
-Glory be to the stars. This was **destined** the moment her ma went 'n handed her that sixgun, yeah? Hah. Hahahah. What a sick fuckin' joke.  
-Fuck. *FUCK.* Damn it all.  
-Oh… Flint's really gonna die and rot like this, ain't she?
+Glory be to the stars. This was **destined** the moment her ma went 'n handed her that sixgun, yeah? Hah. Hahahah. What a sick fuckin' joke. Damn it all.  
+…Flint's really gonna die and rot with her finger on the trigger, ain't she?
 
 ## Attributes
 
 ### Abilities
 - **Sand manipulation**  
-A commission to [Lucille Deckard](/cast/lucilledeckard) by [Lonnie Lincoln](/cast/alonzolincoln). Flint's body can turn into sand at will. It gets stronger when there's more sand around and weaker with water (and heat), as you'd expect. Greatly dislikes acknowledging the fact she can do this because it freaks her out.
+A commission to [Lucille Deckard](/cast/lucilledeckard) by [Lonnie Lincoln](/cast/alonzolincoln). Flint's body can turn into sand at will. It gets stronger when there's more sand around and weaker with water (and heat), as you'd expect. She can also control sand around her… obviously. Greatly dislikes acknowledging the fact she can do this because it freaks her out.
 - **Superhuman strength, durability, and endurance**
 - **Flight(?)**  
-Well, if there's a serious wind blowing and Flint's in sand form, she can fly... kind of. More like gliding, really.
+Well, if there's a serious wind blowing and Flint's in sand form, she can fly… kind of. More like gliding, really.
 - **Mastery of sharpshooting**
 - **Mastery of hand-to-hand combat**
 
 ### Equipment
 - **Victoria VII Model Revolver**  
-A trusty revolver still in superb condition after all these years. Flint's unsure if this is a lucky gun, considering she mostly uses it for... work.
+A trusty revolver still in superb condition after all these years. Flint's unsure if this is a lucky gun, considering she mostly uses it for… work.
 - **Other spare guns and weapons**
 
 ## Notes
@@ -67,12 +66,16 @@ A trusty revolver still in superb condition after all these years. Flint's unsur
 - You can omit the cowboy hat, if you want.
 - Freckles and scars litter her body.
 - Might have some bandages with cartoon characters on them because Keemia likes to help make her feel better. You can include those, if you wish.
-- Has a very... cowboy fashion sense. Really digs the cowboy look.
+- Has a very… cowboy fashion sense. Really digs the cowboy look.
 - Might be smoking a cigarette.
 
 ## Trivia
-- Favorite food is **cookies-n-cream ice cream**. Reminds her of pleasant memories at the fair. Sometimes heats up the ice cream a bit in the microwave if it's "too cold."
-- Not into country all that much. More of a classic rock and 'old, soft, romantic vinyl record music' guy, if anything, but doesn't enjoy listening to music unless she's at home because she finds it too disruptive.
+
+<img src="/assets/decor/paperstarblue.png" div class="pagedollbreaker">
+
+- Favorite food is **cookies-n-cream ice cream**. Reminds her of pleasant memories at various fairs and festival, but mostly of playing on the beach during her youth. Sometimes heats up the ice cream a bit in the microwave if it's "too cold."
+- Used to just be called Flintlock at work before the whole… sand stuff happened. Got dubbed 'Sandman' because it was more recognizable and straightforward.
+- Not into country all that much. More into jazz, soft rock, and R&B if anything, but doesn't enjoy listening to music unless she's at home because she finds it too disruptive. Prefers listening to music from a radio or record player than anything digital.
 - Can't drive. Relies almost exclusively on trains and other public transport. Maybe for the better.
 - Accidentally softly growls at people sometimes. Has zero clue she does this and no one will tell her.
 - According to Keemia, Flint is "the most grown-up grown-up to ever grown-up."
@@ -81,6 +84,6 @@ A trusty revolver still in superb condition after all these years. Flint's unsur
 - Throws sand at people who piss her off while off-duty. Refuses to stop because she finds it funny.
 - Kind of woman to pray before committing violent crimes or doing drugs.
 - Takes care of Keemia's plushies whenever she can while the kid's not around. Usually, she idly chats with them while doing chores. Yes, she remembers all of their names and how they're supposed to be washed.
-- Not a mom friend. More like a... gruff divorced dad friend.
+- Not a mom friend. More like a… gruff divorced dad friend.
 - Amazing at flirting and other romantic/sexual encounters, but doesn't know this and thinks she's making a fool of herself 99% of the time. Somehow both suave and shy.
 - Matches outfits with Keemia sometimes. The two of them dress up as cowboys most of the time because cowboys remind Keemia of her mom and Keemia *loves* her mom.

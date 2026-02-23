@@ -13,6 +13,9 @@ tags:
 
 **TODO**
 
+Add decor onto menu  
+Fix icky divider issue  
+Add shelf on About Me for games and music  
 Implement [Webamp](https://webamp.org/) somehow  
 SHRINES!!   
 Finish Nouvelle-Yorke & United Republic's pages  
@@ -22,7 +25,6 @@ Written works section!!
 Fake websites/blogs for characters  
 Add quotes?  
 Notable Figures sections on world building pages... somehow...  
-Shorten About Me & other pages  
 Make fancier TODO  
 Add decorations!! Make the place fucking look nice!!  
 Figure out site colors ONCE AND FOR ALL  
@@ -35,6 +37,7 @@ Figure out how to remove 404 from Sitemap...
 
 **Completed**
 
+~~Shorten About Me & other pages~~  
 ~~Create 404 page~~  
 ~~Revamp site buttons~~  
 ~~Add webrings~~  

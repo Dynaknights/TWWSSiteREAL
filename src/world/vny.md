@@ -23,6 +23,8 @@ nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 
 It's chock-full of contradictions like that; keeping its eyes bloodshot while foaming at the mouth like a rabid animal, but still keeping those same eyes glued to the Stars, trying endlessly to touch the sky while drowning in its own **perfect filth**.
 
+<img src="/assets/decor/parfait.png" div class="pagedollbreaker">
+
 After the Empty Eras' end, reformation and generational compensation was promised by exponentially wealthy elites. Flowery speeches daisy-chained upon shimmering podiums by politicians had branded Nouvelle-Yorke as **Stardom incarnate**; a paragon of an idealistic future.  
 Behold, the fruits of superficial labor rendered La Pomme Grosse as yet another **star-gilded hell**. Superficial labor by superficial politicians bred a superficial society who praises **spectacle** and **presentation** beyond all else.
 
@@ -46,17 +48,27 @@ Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le R�
 
 *Le Clairon*'s accusatory nature has led it to be discredited as a valid source far and wide, especially for anything regarding superpowered individuals. However, it remains afloat because people find Jacquemond and his hysteric yelling entertaining.
 
-## Oscorp
-TBA...
+## Oscorp Industries
+**Oscorp Industries** is a multibillion-dollar conglomerate stationed in downtown Manhattan, Nouvelle-Yorke with primary focuses on **science** and **engineering innovations**. Currently, it stands as one of the largest and wealthiest tech companies in the world alongside **Stark Industries** mostly due to its financial grip over the **Valse d'Argent**.  
+The company was co-founded by CEO [Noémie-Marisol Osborne](/cast/noemiemarisolosborne) and [Lucille Deckard](/cast/lucilledeckard) just after their college days sometime in the 2950s. However, only Noémie remains after Lucille's **indefinite termination**. Currently, the next projected CEO is Noémie's son: [Harvey Osborne](/cast/harveyosborne).
+
+<img src="/assets/decor/monarch.png" div class="pagedollbreaker">
+
+Oscorp was initially created as a biotechnological company that aimed to alleviate the lives of those with disabilities and medical illnesses, but shifted its scope to general technological innovation, acting as a benefactor to fund projects that catch its eye. Currently, its main focuses are: the **Valse d'Argent**, **digital communication**, and **public safety**; the latter of which focuses on sponsoring specific supers, acting as one of many companies who 'produce' supers.  
+Despite the focus on STEM, Oscorp also funds Nouvelle-Yorke museums, food pantries, political campaigns, local businesses, universities, etc.
+
+Recently, Oscorp has come under fire for scandals revolving around **mutant trafficking**, aiming to be a **monopoly**, **political persuasion**, **employee treatment**, and Noémie's **questionable mental state**. Oscorp either refuses these claims or denies comments at public appearances.
+
+Regardless, Oscorp seems to be steadfast due to its extreme financial influence. It might even be downright **impossible** to shake its foundations, but who knows.
 
 ## Universities
-TBA...
+TBA…
 
-### Duchess State
-TBA...
+### Duchess State University
+TBA…
 
-### Empire State
-TBA...
+### Empire State University
+TBA…
 
 ## Notes
 - Nouvelle-Yorke is separated into five boroughs: **Manhattan**, **Lourdes**, **the Bronx**, **Islandy McIsland Face**, and **Roi des Chiens**.
@@ -72,4 +84,4 @@ TBA...
 - J.J. Jacquemond is *not* anti-mutant. He just really dislikes most supers and is very vocally grumpy about them.
 - Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/url#Holidays), Mardi Gras, Halloween, [Seven Deaths](/world/url#Holidays), [l'Enfer Blanc](/world/url#Holidays), and New Year's. It's a bit excessive.
 - Other holidays, such as history months, Pride Month, Veteran's Month, Chinese New Year, etc. each are wildly celebrated in certain districts of the city.
-- Despite the major French ~~colonization~~ influence, VNY still uses the imperial system.
+- Despite the major French ~~colonization~~ influence, VNY still uses the imperial system out of spite.

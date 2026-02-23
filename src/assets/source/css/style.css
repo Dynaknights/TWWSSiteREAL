@@ -3,6 +3,14 @@
 :root{
 --header-fx: #08080f;
 --link-color: #ff4141;
+--outlne: filter: drop-shadow(.5px .5px .5px black) 
+  drop-shadow(-.5px 0 black) 
+  drop-shadow(0 .5px 0 black) 
+  drop-shadow(0 -.5px 0 black) 
+  drop-shadow(0 .5px black) 
+  drop-shadow(0 -.5px black) 
+  drop-shadow(0 -.5px black) 
+  drop-shadow(0 -.5px black);
 }
 
 * {
@@ -31,15 +39,6 @@ dd{
   }
 }
 
-blockquote,
-section,
-toc{
-  strong{
-    color: black;
-    -webkit-text-stroke: 0px;
-  }
-}
-
 /* p,
 dd,
 li{
@@ -55,7 +54,7 @@ h5 {
   -webkit-text-fill-color: antiquewhite;
   font-family: 'SuperSquad';
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 20x;
   -webkit-text-stroke: 1px var(--header-fx);
   text-shadow: 3px .2px var(--header-fx);
 }
@@ -74,7 +73,7 @@ h1 {
   width: 100%;
   margin: auto;
   margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 0px;
   text-align: center;
 }
 
@@ -103,10 +102,42 @@ h4 {
 
 body {
   background-color: #08080f;
-  font-family: "BlockKie", sans-serif;
+  font-family: MS Gothic;
   color: antiquewhite;
   margin: 0;
-  background-color: #08080f;
+  text-rendering: optimizeLegibility;
+-webkit-font-smoothing: none;
+}
+
+.toc li,
+th,
+td,
+blockquote strong,
+#statuscafe{
+
+  filter: drop-shadow(.3px .3px .3px black) 
+  drop-shadow(-.3px 0 black) 
+  drop-shadow(0 .3px 0 black) 
+  drop-shadow(0 -.3px 0 black) 
+  drop-shadow(0 .3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black);
+
+}
+
+#statuscafe{
+
+  a{
+    color: antiquewhite;
+  }
+  a:hover{
+    color: var(--link-color);
+  }
+  #statuscafe-content,
+  #statuscafe-username{
+    color: antiquewhite;
+  }
 }
 
 html,
@@ -126,6 +157,12 @@ body {
 a{
   font-weight: bolder;
 }
+
+a:hover {
+    font-weight: strong;
+   color: antiquewhite;
+}
+
 
 p a,
 dd a,
@@ -155,19 +192,10 @@ h5 a:hover {
   color: inherit;
 }
 
-a:hover {
-  font-weight: strong;
-  -webkit-text-stroke-width: .1px;
-  -webkit-text-stroke-color: black;
-  /*-webkit-animation: slide;*/
-  transition: text-shadow .1s;
-  text-shadow: 1.4px .2px #000000;
- /* -webkit-animation: slide 2s infinite alternate;*/
-}
-
-#toc{
+#toc,
+table{
   a:hover{
-    -webkit-text-fill-color: antiquewhite;
+    -webkit-text-fill-color: var(--link-color);
   }
 }
 /*
@@ -222,14 +250,15 @@ a:hover {
   background-repeat: repeat;
   background-size: auto 100%;
   background-position: center;
-  background-color: #08080f;
+  background-color: #222332;
   height: 150px;
-  border-bottom: 7px solid #08080f;
+  border-bottom: 0px solid #222332;
+  margin-bottom: 7px;
 }
 
 main {
 background-color: #222332;
-padding: 1px 20px 20px 100px;
+padding: 30px 15px 15px 100px;
 text-align: left;
 }
 
@@ -243,42 +272,91 @@ footer {
 .coverhere {
 margin:20px;
   background-repeat: no-repeat;
+  object-fit:contain;
 float: right;
   background-size: auto 100%;
     height: 400px;
-  width: 269px;
+    min-width: 269px;
+  max-width: 300px;
     box-shadow: 5px 10px black;
   border: 4px solid #000000;
   border-radius: 1px;
    transition: .2s ease-in-out;
 }
 
-.coverhere:hover {
+.funcoverc {
+margin:20px;
+  background-repeat: no-repeat;
+  object-fit:contain;
+  background-size: auto 100%;
+  background-position: 0;
+    height: 400px;
+    min-width: 260px;
+  max-width: 300px;
+    box-shadow: 5px 10px black;
+  border: 4px solid #000000;
+  border-radius: 1px;
+   transition: .2s ease-in-out;
+}
+
+.funcoverg {
+margin:20px;
+  background-repeat: no-repeat;
+  object-fit:contain;
+float: right;
+  background-size: auto 100%;
+    height: 400px;
+    min-width: 400px;
+    box-shadow: 5px 10px black;
+  border: 4px solid #000000;
+  border-radius: 1px;
+   transition: .2s ease-in-out;
+}
+
+.coverhere,
+.funcoverc:hover,
+.funcoverg:hover {
    transform: scale(1.2); 
 }
 
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
 
-blockquote{
-  background: linear-gradient(to bottom, rgba(255,213,76,1) 0%,rgba(232,141,85,1) 100%);
-  padding: 10px;
-  margin: 20px;
+.tooltiptext {
+  visibility: hidden;
+  max-width: 200px;
+  background: linear-gradient(to bottom, #ffd54c 0%,#e88d55 100%);
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
   color: black;
+  text-align: center;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+blockquote{
+  background: linear-gradient(to bottom, #ffd54c 0%,#e88d55 100%);
+  padding: 15px;
+  margin: 20px;
+  margin-bottom:40px;
+  box-shadow: 5px 10px black;
+  border: 4px black solid;
+  border-radius: 5px;
+  color: antiquewhite;
   max-width:350px;
 
   p{
     text-indent: 10px;
   }
-
-  li{
-    color:black;
-  }
-
-      a{
-      color: black;
-    }
 }
 
 .imagehere {
@@ -322,23 +400,21 @@ blockquote{
 }
 
 .scrollbox {
-  background-image: url("https://web-surfer.neocities.org/imgs/assets/bg108.png");
-
+  background-color: #08080f;
   height: 50%;
-  width: 105%;
+  width: 100%;
+  max-height: 500px;
   padding: 15px;
   margin: auto;
   margin-top: 20px;
-  margin-left: -5px;
   margin-bottom: 50px;
-  background-size: auto 300px;
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
 
+  display:flex;
+  overflow-x: scroll;
   overflow-y: hidden;
-  white-space: nowrap;
-  overflow-x: auto;
 }
 
 .scrollbox strong {
@@ -346,34 +422,44 @@ blockquote{
 }
 
 section {
-  background: linear-gradient(to bottom, rgba(255,213,76,1) 0%,rgba(232,141,85,1) 100%);
-  padding: 25px;
-  margin: 20px;
+  background: linear-gradient(to bottom, #ffd54c 0%,#e88d55 100%);
+  padding: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
-  color: black;
+  min-height:200px;
 
-  li{
-    color:black;
-  }
+  p,
+dd,
+li,
+td,
+th {
 
-  a{
-    color: black;
-   }
+  filter: drop-shadow(.3px .3px .3px black) 
+  drop-shadow(-.3px 0 black) 
+  drop-shadow(0 .3px 0 black) 
+  drop-shadow(0 -.3px 0 black) 
+  drop-shadow(0 .3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black);
 
-   img{
+}
+
+img{
   max-width:350px;
-  max-height:350px; 
-   }
+  max-height:350px;
+}
 
   }
 
 figure img {
   border: 2px black solid;
   border-radius: 5px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   white-space: normal;
   display: inline-block;
   transition: box-shadow .3s;
@@ -382,7 +468,7 @@ figure img {
 
 figure img:hover {
   box-shadow: 10px 7px black;
-   transform: scale(1.1); 
+   transform: scale(1.2); 
 }
 
 figure {
@@ -408,7 +494,6 @@ figure {
 }
 
 #toc {
-  color: #170b33;
   float: left;
   text-align: left;
   width: 200px;
@@ -416,7 +501,7 @@ figure {
   margin-right: auto;
   margin: 5px 20px 15px -10px;
   padding: 5px;
-  background: linear-gradient(to bottom, rgba(255,213,76,1) 0%,rgba(232,141,85,1) 100%);
+  background: linear-gradient(to bottom, #ffd54c 0%,#e88d55 100%);
   box-shadow: 5px 10px black;
   border: 4px black solid;
   border-radius: 5px;
@@ -425,10 +510,20 @@ figure {
   li {
     font-size: .9em;
     list-style-type: "✦ ";
+
+  filter: drop-shadow(.3px .3px .3px black) 
+  drop-shadow(-.3px 0 black) 
+  drop-shadow(0 .3px 0 black) 
+  drop-shadow(0 -.3px 0 black) 
+  drop-shadow(0 .3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black);
+
   }
 
-  a {
-    color: black;
+  a{
+    color: antiquewhite;
   }
 }
 
@@ -507,6 +602,29 @@ figure {
     max-height: 50px;
     max-width: 50px
   }
+}
+
+.pagedollbreaker{
+  float:right;
+  background-repeat: no-repeat;
+  margin: 0px 10px 10px 10px;
+  filter: drop-shadow(1px 1px 1px black) 
+  drop-shadow(-1px 0 black) 
+  drop-shadow(0 2px 0 black) 
+  drop-shadow(0 -1px 0 black) 
+  drop-shadow(0 2px black) 
+  drop-shadow(0 -1px black) 
+  drop-shadow(2px -1px black) 
+  drop-shadow(-1px -1px black);
+  transition: .2s ease-in-out;
+  min-width:50px;
+  min-height: 50px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.pagedollbreaker:hover {
+   transform: scale(1.2); 
 }
 
 .pagedoll{
@@ -647,21 +765,25 @@ li {
 .charactermain-image {
   height: 315px;
   width: 315px;
-  margin-left: auto;
   background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: center;
-  border: 2px black solid;
-  border-radius: 5px;
+  border: 30px solid transparent;
+  border-image: url(/assets/borders/floral.png) 30 30 round;
+  overflow: auto;
+  margin: 5px;
+  /*border: 2px black solid;
+   border-radius: 5px;
   border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
+  border-bottom-right-radius: 0px;*/
+  margin-bottom:-2px;
+  margin-left:0px;
 }
 
 .characterprofile {
   float: right;
   width: 300px;
-  margin-left: auto;
-  margin: 0px 0px 30px 30px;
+  margin: 0px 0px 10px 10px;
 
   table {
   width: 315px;
@@ -675,13 +797,16 @@ li {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  border: 2px black solid;
-  border-radius: 5px;
+  /*border: 2px black solid;
+  border-radius: 5px;*/
   white-space: normal;
   object-fit: cover;
-      border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-
+  /*border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;*/
+  border: 30px solid transparent;
+  border-image: url(/assets/borders/floral.png) 30 30 round;
+  overflow: auto;
+  margin: 0 0 0 0;
 }
 
 .locprofile {
@@ -689,7 +814,6 @@ li {
   height: 300px;
   margin: auto;
   border: 0px;
-  background-color: #23286e;
   margin-left: 0px;
   float: center;
 
@@ -830,7 +954,7 @@ tr:nth-child(odd) {
   }
 
   .characterprofile {
-    margin: 0px 10px 20px 30px;
+    margin: 0px 5px 20px 10px;
   }
 
   table {
@@ -854,15 +978,7 @@ tr:nth-child(odd) {
 
   .coverhere {
     min-height: 250px;
-  min-width: 168px;
-}
-
-  section{
-    padding: 5%;
-  }
-
-  figure{
-    margin: 0px;
+  min-width: 269px;
   }
 
 }
@@ -889,8 +1005,6 @@ tr:nth-child(odd) {
   }
 
   .coverhere {
-    width:fit-content;
-    height: fit-content;
     margin: 20px;
     box-shadow: 2px 5px black;
   border: 2px solid #000000;
@@ -942,9 +1056,17 @@ text-shadow: none;
 }
 
 #oc-webring-widget a {
-  color: #030336ff;
+  color: var(--link-color);
   text-decoration: none;
   text-shadow: none;
+    filter: drop-shadow(.3px .3px .3px black) 
+  drop-shadow(-.3px 0 black) 
+  drop-shadow(0 .3px 0 black) 
+  drop-shadow(0 -.3px 0 black) 
+  drop-shadow(0 .3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black);
 }
 
 

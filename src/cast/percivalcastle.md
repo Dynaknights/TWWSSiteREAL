@@ -62,7 +62,7 @@ But, fuck 'em straight to hell, Pyrel's gonna try proving themself wrong.
 - **Persistence (stubbornness)**
 
 ### Equipment
-A personal arsenal, including...
+A personal arsenal, including…
 
 - **Explosives**
 - **Rifles**
@@ -78,20 +78,22 @@ A personal arsenal, including...
 - **Extensive blackmail**
 - **Modified armored vehicles**
 
-...And more!
+…And more!
 
 ## Notes
 
 - Pyrel's **big**, **broody**, and **tall** (over 6'0").
 - Pyrel's very square. Literally, their shape language is mostly squares and rectangles to look imposing and such.
-- Stone-faced. Resting bitch face? Regardless, they *very* rarely exhibit any expression beyond that cold, stone face or rage. Even then, the latter's rare, too. They rarely exhibit body language, too...
+- Stone-faced. Resting bitch face? Regardless, they *very* rarely exhibit any expression beyond that cold, stone face or rage. Even then, the latter's rare, too. They rarely exhibit body language, too…
 - Is the blue on their hair dye or highlights? Up to you!
 
 ## Trivia
 
+<img src="/assets/decor/coffee.png" div class="pagedollbreaker">
+
 - Pyrel's favorite food is **revenge; served cold**. Kidding. They love **burgers** with **coffee**.
 - They drink black coffee just fine, but they prefer a packet of sugar and two shots of creamer. Won't admit this to anyone. Ever. Including themself.
-- Has an... *indescribable* reaction to **[MREs](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)**.
+- Has an… *indescribable* reaction to **[MREs](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)**.
 - Greatly dislikes the URL Army and police after they began associating the Punisher's logo with their own agendas. Very, *very* begrudgingly hit up She-Hulk to force them to stop (along with death threats, of course).
 - Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her. Uses the death of said wife as an excuse for their 'war on crime,' but maybe it's something **more**. Whatever it is, Pyrel doesn't care.
 - Very interested in weapons; mainly guns. For effective killing, of course, but also actually understanding the engineering behind such tools and how they work so well (or do not).

@@ -20,6 +20,30 @@ tags:
   </div>
   {% endif %}
 
+  {% if (drama) %}
+
+  <div class="centerDivider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+  </div>
+ 
+  <blockquote><strong><em>{{ drama }}</em></strong></blockquote>
+
+    {%- else -%}
+
+    <div class="centerDivider">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+    </div>
+
+  {% endif %}
+
+  {% if (pagedoll2) %}
+  <img src="/assets/decor/{{ pagedoll2 }}" div class="pagedollbreaker">
+  {% endif %}
+
+  {% if (cover) %}
+  <div class="coverhere" style="background-image: url('/assets/gallery/covers/{{ cover }}')"></div>
+  {% endif %}
+
   {{ content | safe }}
 
 </main>

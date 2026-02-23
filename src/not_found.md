@@ -10,7 +10,7 @@ layout: 'base.njk'
 
 <div class="center">
 
-Woah... seems like you went to somewhere beyond existence itself.
+Woah… seems like you went to somewhere beyond existence itself.
 
 Or, most likely, I just didn't finish this page. Sorry. <img src="/assets/decor/myMelo3.gif">
 

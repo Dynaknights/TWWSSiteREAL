@@ -18,7 +18,7 @@ species: Human mutate
 age: Adult
 occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, Wisconsin, URL
-nicknames: Vee, Virge, Virgin, Webby, Webs, Web-Head, Spider, Arachnid...
+nicknames: Vee, Vivi, Virge, Virgin, Neuro-Die-a-Virgin, Webby, Webs, Web-Head, Webbed Wonder, Spider, Webster…
 
 songinc: true
 songartist: Red Vox
@@ -47,8 +47,7 @@ He's trapped in a loop of guilt and moral obligations to this city. He can't do 
 
 There's no one to turn to and nowhere to go. If he doesn't want to sit idly, the only thing he can do in the face of certain doom is **punch**. Punch until the world is indiscernible from your fist and your screams are indistinguishable from **prayers** because your life's been consumed by a fucking lie and your morals will crumble under the weight of rage like your enemy's skull.
 
-He's **everything** and **nothing** and the world's **never gonna change for the better** until each and every human is fucking **dead and gone**. With how everything's going, he's about one prison breakout away from just outright killing his opponents.  
-...Or — even better — himself.
+He's **everything** and **nothing** and the world's **never gonna change for the better** until each and every human is fucking **dead and gone**. With how everything's going, he's about one prison breakout away from just outright killing his opponents… or himself.
 
 Ha. Hahaha. We're all fucked.
 
@@ -66,7 +65,7 @@ It's a bit complicated, but, in short, he can sense vibrations and electric wave
 He can also kind of tell what a person is feeling or thinking since the sense can pick up biochemical reactions, but Virgil is bad at emotions and misinterprets them 90% of the time.
 - **Highly accelerated metabolism**
 - **Healing factor**  
-Not as good as [Deadpool](/cast/wadewilson)'s or Wolverine's, but nothing to sneeze at either. Grants a resistence to alcohol and drugs, but not total immunity.
+Not as good as [Deadpool](/cast/wadewilson)'s or Wolverine's, but nothing to sneeze at either. Grants a resistance to alcohol and drugs, but not total immunity.
 - **Spider-like behavior**  
 Has natural spidery instincts, leans into them more when mental health is in the shitter and/or social acceptance isn't a big priority.  
 Most prominent of these include: reclusiveness, aggression, defensiveness, skittishness, [ballooning](https://en.wikipedia.org/wiki/Ballooning_(spider)), and — sometimes — feeling like he'll be cannibalized by romantic 'mates.'
@@ -87,11 +86,11 @@ This world is an advanced one that is so, so eager to invade your privacy. Techn
 Primarily for pictures and not exactly useful for most of his vigilante work. Used to photograph, spy on or track adversaries, and survey areas.  
 Shaped like metallic bugs with massive lenses for faces.
 - **Web-wings**  
-Remember ballooning? Yeah... This is how he does that.
+Remember ballooning? Yeah… This is how he does that.
 - **Computerized mask**  
 Virgil's got a computer in his mask, Tony Stark style, but make it broke. No AI though.
 - **Hand and foot pads**  
-Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints, provide small bursts of electricity, and... squeak when pressed on occasion.
+Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints, provide small bursts of electricity, and… squeak when pressed on occasion.
 
 ## Notes
 - Virgil has a lot of hair. Luckily, Web-Surfer's mask has **hammerspace**.
@@ -103,10 +102,13 @@ Not just for decoration. His suit has dubious access to police resources and the
 
 ## Trivia
 
+<img src="/assets/decor/coinslot.png" div class="pagedollbreaker">
+
 - Virgil's favorite food is **Chicago-style meat-lovers' pizza**. Does *not* enjoy chunky tomato sauce though.
 - Virgil was bitten by a frantic, abnormally large ***[Heteroscodra maculata](https://en.wikipedia.org/wiki/Heteroscodra_maculata)***.
 - Virgil owns two female frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
-- Has no clue how his mutation works. He was bitten by *H. maculata*, but his abilities seem arbitrary and have nothing to do with spiders at all. For example, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
+- Did not name himself 'Web-Surfer.' He made a computer joke when he was first starting out as a vigilante and someone thought it was his name, spread it, and here we are. He was originally gonna call himself 'Spider-Man' because it was the only name he could think of, but, alas, everyone already knew him as Web-Surfer. He could only salvage the hyphen.
+- Has no clue how his mutation works. He was mutated due to a bite from *H. maculata*, but his abilities seem arbitrary and have nothing to do with spiders at all. For example, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
 - Greatly enjoys cocooning himself in blankets, webs, and hammocks.
 - Very flexible! Virgil enjoys freaking people out by bending into weird positions.
 - *Terrified* of wasps. Hates them to death.

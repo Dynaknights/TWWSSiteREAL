@@ -3,22 +3,14 @@ title: The Wondrous Web-Surfer
 id: index
 bgimage: bg184.png
 pagedoll: stampcca.png
+cover: preteensuperposition.png
+drama: In another, another, another universe…
 layout: 'base.njk'
 tags:
 - mainpage
 
 canonical: true
 ---
-
-> ***In another, another, another universe...***
-
-<div class="centerDivider">
-
-<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
-
-</div>
-
-<div class="coverhere" style="background-image: url('/assets/gallery/covers/preteensuperposition.png')"></div>
 
 The explosive end of the third millennium heralds a colorfully bleak future.
 
@@ -49,11 +41,11 @@ Cynical, pissed, and exhausted beyond all else, he grapples with his crumbling f
 ***Fear not, false believer!***
  
 It's a good idea to read up on the titular nerd: [Virgil Voltspun](/cast/virgilvoltspun) along with the other [denizens](/cast) of the weird, wide world they live in.  
-Speaking of their weird, wide world, why not read about that, too? There's a list of topics relating to [Earth-256-B](/e256b) for you to peruse at your leisure!
+Say, speaking of their weird, wide world, why not read about that, too? There's a list of topics relating to [Earth-256-B](/e256b) for you to peruse at your leisure!
 
 If you don't have **JavaScript** enabled, utilize the handy [Sitemap](/sitemap) to navigate the site!
 
-<small>Though, keep in mind: I'm only one guy managing the paracosm and the site. Things are barebones because I decided to redo the entire thing for my own sanity... so, bear with me, please!</small>
+<small>…You could also [sign my guestbook](https://dynaknights.atabook.org/). Winky face.</small>
 
 ***Excelsior!***
 

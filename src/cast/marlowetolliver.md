@@ -38,7 +38,7 @@ Ugh! Gross, gross, *gross!!* Just thinking about Marlowe's childhood makes her w
 Whatever, whatever, what-the-*fuck*-ever.  
 
 On a much lighter note, no one ever told her how much fun life was beyond the Tolliver estate!  
-A *very* sizable inheretance <small>that was totally legit and not stolen</small>, no tethers to the *ye olde ways* of crime, no more standing around in stuffy clothes learning how to disappear without a trace. Little old Marlowe can finally live life the way she wants to, and no one's gonna be stupid enough to tell her otherwise! Y'know, unless they want to be turned into mince meat.
+A *very* sizable inheritance <small>that was totally legit and not stolen</small>, no tethers to the *ye olde ways* of crime, no more standing around in stuffy clothes learning how to disappear without a trace. Little old Marlowe can finally live life the way she wants to, and no one's gonna be stupid enough to tell her otherwise! Y'know, unless they want to be turned into mince meat.
 
 And, ah! She's lived in Nouvelle-Yorke for, like, all of her life, but she's only heard of supers in **hushed tones** between her nannies to prevent little Marlowe from asking questions or — Stars-forbid — getting any **unsavory ideas** in her bouncy little head.
 
@@ -55,9 +55,9 @@ Marlowe's smart, but can't bring itself to put any effort into what she's doing 
 ### Equipment
 - **Rocket boots**
 - **Modified armored vehicles**
-- **So, so, so many bombs...**
+- **So, so, so many bombs…**
 - **Innumerable weapons and suits stored in undisclosed locations**  
-...Mostly explosive weapons.
+…Mostly explosive weapons.
 - **'Gun-brella'**  
 A tactical umbrella that fires explosive projectiles. Blackmailing engineers is a beautiful thing!
 - **Sharpened teeth**  
@@ -76,6 +76,8 @@ She wants to be heard, dammit!
 - Marlowe typically wears frills or lace, but you can omit these for fluffy accessories (i.e., sleeves, hoods, etc.), if that's easier for the wrists.
 
 ## Trivia
+
+<img src="/assets/decor/flair.png" div class="pagedollbreaker">
 
 - Marlowe's favorite food is **gingerbread**.   
 It doesn't play with its food (Marlowe's a sophisticated lady, thank you very much!), but it does create elaborate stories and designs out of gingerbread before chowing down. There's never a happy ending for her gingerbread men.
