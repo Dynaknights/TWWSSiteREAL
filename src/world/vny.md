@@ -15,7 +15,7 @@ population: 6,600,000
 leader: Willis Faucher
 leaderlink: WillisFaucher
 framlean: French
-denonyms: Nouvelle-Yorker
+demonyms: Nouvelle-Yorker
 nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 ---
 

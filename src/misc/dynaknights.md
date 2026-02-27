@@ -174,14 +174,21 @@ You can also shoot me a message on the **[guestbook](https://dynaknights.atabook
 
 ## Trivia
 
-- I near-exclusively wrote Marvel fan-fiction (with names switched around and anonymized) for my high school's creative writing class. I got a 100% as a final grade.
-- I would also terrorize this same teacher every day for fun. I'm so sorry, if you're reading this. Also, get the hell off my site??
-- I used to wear a mask and hat all throughout my four years of high school. It made me look like a quadrupedal freak who dwells in alleyways, but it helped me survive the horrors of my painfully American high school. It was mostly because people were evil and stinky. Now, I wear hats because they're comfy and nice.
-- Marvel's best Spider-Man and Deadpool writers are AO3 authors. No, I will not listen to opposing arguments at this time.
-- I wrote about *TWWS* and tarot cards for my AP Lit final. I got a 100% on the final and an A in the class. How? I don't know, but I'm never pulling that shit again. I sounded like a madman, even by my standards.
-- I also asked my AP Lit teacher if Spideypool yaoi was allowed in this essay. I don't remember their answer to that.
-- I'm also reading *X-Men: the Legacy Quest Trilogy* because I found a copy of the first volume in a Little Free Library. I'm hashtag winning.
-- I was so, *so* close to naming myself Wade when deciding on a real life name for myself as a baby trans guy because I was obsessed with Deadpool and loved him beyond all else. I hated feeling like a freak parasocially attached to characters and people, though, so I opted for something else.
+<img src="/assets/decor/bunnylps.png" div class="pagedollbreaker">
+
+- I can't think of a favorite food, but I will fuck up a **chocolate milkshake** any day of the week. That, and whipped cream?? *Fuck*, yes, dude.
+- Dog person, but cats are fine, too. My favorite breed is the **samoyed**. They're so happy and cute and fluffy… augh.
+- According to a friend of mine, if I were a Pokémon, I'd be **Riolu**.
+- If you wanted to get real technical about my gender, I refer to myself as a **Masculine and Nonbinary** individual; also called a **MAN** for short. Heheheh. I just say I'm transmasc and call it a day.
+- In a very, *very* ideal world, I'd like to be an arcade machine repairman.
+- I've nearly been struck by lightning.
+- I had a sick ass high school internship where I researched aliens in a university for a summer. It's my most cherished K-12 memory *ever*, I think.
+- I made a shitty platformer when I was fifteen and then never tried making a game again. Although, the allure of game development is palpible, no? I'd like to make something for the PS1/a PS1-inspired combat RPG(?) about another paracosm of mine. It might get put onto the site one day. Don't count on it.
+- I didn't understand how things like pretend play or imaginary friends worked when I was younger. I didn't see the point in them and genuinely thought people just conjured up hyper-realistic hallucinations at will.
+- I loved books as a kid. However, I never actively engaged with fiction because I could never 'get' it, so to speak. I enjoyed being read to, sure, but I rarely picked up fiction books until my tweens (unless they were thick and I could flex my literary prowess). Even while I was in my tweens, I remember a period where I'd just read dictionaries.
+- When I was little, I was *really* into the concept of roleplays and video games. My actual experience with roleplays is practically nonexistent because I was — and still am — *way* too shy, but the idea of virtual spaces and pretend play fascinated me. It was probably because I had zero idea why people indulged in fiction. Boy, look at me now.
+- I didn't have an edgy emo phase as a tween; I had an edgier nihilism phase. It's worse than you think.
+- As a little baby transmasc, one of the real-life names I debated using was Wade due to my pedantic interest with Deadpool. I'm glad I didn't! It's not a bad name, but, even now, I still don't quite think it's for me.
 
 <div class="centerDivider">
 
@@ -194,3 +201,22 @@ You can also shoot me a message on the **[guestbook](https://dynaknights.atabook
   <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
 
   </div>
+
+  
+
+<div class="box4boxes">
+<div class="center">
+
+<small>GRAPHIC WALL ATTACK</small>
+
+<img src="/assets/blinkies/oingoboingo.gif"> <img src="/assets/blinkies/playstation.gif"> <img src="/assets/blinkies/queerlove4ever.gif"> <img src="/assets/blinkies/rubberducky.gif"> <img src="/assets/blinkies/retrogamer.gif"> <img src="/assets/blinkies/sanssweep.gif"> <img src="/assets/blinkies/science.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/scream.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/sillyclown.gif"> <img src="/assets/blinkies/spaceanomaly.gif"> <img src="/assets/blinkies/spacefuneral.gif"> <img src="/assets/blinkies/spideypool.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/startthefire.gif"> <img src="/assets/blinkies/t4t.gif"> <img src="/assets/blinkies/tmascswag.gif"> <img src="/assets/blinkies/uk.gif"> <img src="/assets/blinkies/uncool.gif"> <img src="/assets/blinkies/undertale.gif"> <img src="/assets/blinkies/wazzup.gif"> <img src="/assets/blinkies/whiteboywhy.gif" style="height:20px; width:150px;"> 
+
+<img src="/assets/idbuttons/aroace.png"> <img src="/assets/idbuttons/intp.png"> <img src="/assets/idbuttons/fighter.png"> <img src="/assets/idbuttons/falsegod.png"> <img src="/assets/idbuttons/marvel.png"> <img src="/assets/idbuttons/pcgamer.png"> <img src="/assets/idbuttons/pkmn.png"> <img src="/assets/idbuttons/precure.png"> <img src="/assets/idbuttons/science.png"> <img src="/assets/idbuttons/transmasc.png"> <img src="/assets/idbuttons/undertale.png"> <img src="/assets/idbuttons/nature.gif"> <img src="/assets/idbuttons/liminalspace.png"> <img src="/assets/idbuttons/introvert.png"> <img src="/assets/idbuttons/petscop.png"> <img src="/assets/idbuttons/rock.png"> <img src="/assets/idbuttons/metalhead.png"> <img src="/assets/idbuttons/ULTRAKILL.png">
+
+<img src="/assets/buttons/savedragonsnow.gif"> <a href="https://welcomehomerestorationproject.net/"><img src="/assets/buttons/whbarnaby.gif" style="height:32px;"></a> <a href="https://www.sbnation.com/a/17776-football"><img src="/assets/buttons/17776.gif"></a> <img src="/assets/buttons/activeworlds.gif"> <img src="/assets/buttons/aiistheft.gif"> <img src="/assets/buttons/aj.png"> <img src="/assets/buttons/atari.gif"> <img src="/assets/buttons/beefbrain.gif"> <img src="/assets/buttons/childlibrary.gif"> <img src="/assets/buttons/deletetiktok.gif"> <img src="/assets/buttons/fish.gif"> <img src="/assets/buttons/ditchsocials.gif"> <img src="/assets/buttons/makeawebsite.png"> <img src="/assets/buttons/tboyswag.gif"> <img src="/assets/buttons/yeah.png"> <img src="/assets/buttons/trans.gif">
+<img src="/assets/buttons/ilikecomputer.jpg"> <img src="/assets/buttons/neocities.gif"> <img src="/assets/buttons/nowebp.gif"> <img src="/assets/buttons/nowemulate.gif"> <img src="/assets/buttons/nowspidey.gif"> <img src="/assets/buttons/piracy.gif"> <img src="/assets/buttons/proao3.gif"> <img src="/assets/buttons/webdesignismypassion.gif"> <img src="/assets/buttons/youareastar.gif"> <a href="https://notbyai.fyi/"><img src="/assets/buttons/notbyai.png" style="height:32px;"></a> <img src="/assets/buttons/anarchy.gif"> <img src="/assets/buttons/anonymize.gif"> <img src="/assets/buttons/cocksucker.png"> <img src="/assets/buttons/deaddove.gif"> <img src="/assets/buttons/internetanimal.png"> <img src="/assets/buttons/utact.png"> <img src="/assets/buttons/youretellingme.png"> <img src="/assets/buttons/cssisawesome.png">
+
+<img src="/assets/stamps/stamp136.png"> <img src="/assets/stamps/stamp134.png"> <img src="/assets/stamps/stamp130.png"> <img src="/assets/stamps/stamp123.png"> <img src="/assets/stamps/stamp115.gif"> <img src="/assets/stamps/stamp100.png"> <img src="/assets/stamps/stamp97.gif"> <img src="/assets/stamps/stamp89.gif"> <img src="/assets/stamps/stamp71.png"> <img src="/assets/stamps/stamp53.png"> <img src="/assets/stamps/stamp32.png"> <img src="/assets/stamps/stamp16.gif"> <img src="/assets/stamps/stamp92.gif"> <img src="/assets/stamps/stamp93.gif"> <img src="/assets/stamps/stamp94.png"> <img src="/assets/stamps/stamp108.gif"> <img src="/assets/stamps/fire.gif"> <img src="/assets/stamps/clownlicense.gif">  <img src="/assets/stamps/all-of-twilight.gif"> <img src="/assets/stamps/aceattorney.gif"> <img src="/assets/stamps/slowinternet.gif"> <img src="/assets/stamps/brick.gif"> <img src="/assets/stamps/lousystamp.png"> <img src="/assets/stamps/stamp137.png"> <img src="/assets/stamps/stamp135.png"> <img src="/assets/stamps/stamp128.gif"> <img src="/assets/stamps/stamp125.gif"> <img src="/assets/stamps/stamp103.png"> <img src="/assets/stamps/stamp99.gif"> <img src="/assets/stamps/stamp81.png"> <img src="/assets/stamps/stamp80.png"> <img src="/assets/stamps/stamp70.png"> <img src="/assets/stamps/stamp52.png"> <img src="/assets/stamps/stamp43.gif"> <img src="/assets/stamps/stamp51.gif"> <img src="/assets/stamps/stamp109.gif"> <img src="/assets/stamps/stamp110.gif"> <img src="/assets/stamps/stamp132.gif"> <img src="/assets/stamps/stamp84.png"> <img src="/assets/stamps/creamsoda.gif"> <img src="/assets/stamps/clawdeen.gif"> <img src="/assets/stamps/cautionsharpedges.gif"> <img src="/assets/stamps/retrogamer.png"> <img src="/assets/stamps/real.gif"> <img src="/assets/stamps/gameboy.gif"> <img src="/assets/stamps/orgasmdonor.gif">
+
+</div>
+</div>

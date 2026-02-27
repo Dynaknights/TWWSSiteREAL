@@ -13,6 +13,7 @@ tags:
 
 **TODO**
 
+RSS feed  
 Add decor onto menu  
 Fix icky divider issue  
 Add shelf on About Me for games and music  
