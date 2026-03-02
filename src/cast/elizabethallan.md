@@ -23,7 +23,7 @@ song: Spiral Out (Keep Going)
 songlink: https://www.youtube.com/watch?v=8V0071pcc74
 ---
 
- LLife is fucking worthless. To **Elizabeth Allan**, this ain't shit but an objective truth.  
+Life is fucking worthless. To **Elizabeth Allan**, this ain't shit but an objective truth.  
 She's worked so, *so* hard to move on from the endless number of days from her childhood spent pacing, pacing, and ***pacing*** while daydreaming or burying her nose in the worn, faded pages of a book behind the prison ass walls of a bland little room. Working blue-collar jobs the second she was of age, full-ride scholarships, hyper-independence, hustling upon hustling, academic success and embodying black excellence, manufactured passions, all in the name of the **pursuit of happiness** and a **nebulous Leathucarian dream**.  
 Everything amounted to nothing. **Liz** was a naive dumbass, she'll confess. It was doomed from the start.
 
