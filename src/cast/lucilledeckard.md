@@ -1,7 +1,9 @@
 ---
 title: Lucille Deckard
 id: LucilleDeckard
+subtitle: Seeking Absolute Retribution
 tags:
+- super
 - h. medialis
 
 bgimage: bg45.png
@@ -100,5 +102,5 @@ Wiggly appendages with hooks trailing down the undersides. Used for locomotion a
 - Laughs a lot, even if something is horrifically unfunny or if she's not in a funny-jokes-haha mood.
 - Views herself to be a leading expert in everything, even if she doesn't know shit about the field at hand. Gets wildly insecure and unsure of herself if she doesn't know a topic in its entirety.
 - Her typed emoticons only have one eye. The other is always crossed-out. ( • ⩊ x )
-- Greatly enjoys rubbings her slimy squid limbs all over people and things it likes out of affection.
+- Greatly enjoys rubbing her slimy squid limbs all over people and things it likes out of affection.
 - Makes [biscuits](https://en.wikipedia.org/wiki/Kneading_(cats)) with her squid appendages.

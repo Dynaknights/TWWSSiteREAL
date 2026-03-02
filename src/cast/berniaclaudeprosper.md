@@ -1,7 +1,9 @@
 ---
 title: Bernia-Claude Prosper
 id: BerniaClaudeProsper
+subtitle: In Eternal Damnation
 tags:
+- super
 - h. medialis
 bgimage: bg105.png
 pagedoll: seashellashtray.png

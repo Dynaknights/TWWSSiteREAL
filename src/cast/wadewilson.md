@@ -1,8 +1,10 @@
 ---
 title: Wade Wilson
 id: WadeWilson
+subtitle: Walking, Forever-Talking Manmade Hell
 tags:
 - mercenary
+- super
 - h. medialis
 
 bgimage: bg177.gif
@@ -110,6 +112,8 @@ Let's see here… Suction cup thingies, grappling hook, Little Book of Grudges, 
 
 ## Notes
 
+- **What even is gender?** Wade's gender is… indescribable, but something along the lines of **genderfluidity** is accurate. Ish. The guy is mental states and vibes and cute dresses and blood and kevlar and… dogs.
+- Very much into drag.
 - Wade is expressive and emotive! Big, obvious poses and facial expressions! Over-dramatize his feelings!
 - The blades of Wade's katanas are serrated near their hilts.
 - Ryan Reynold's portrayal of Deadpool is *NOT* welcome in this household. 256B Wade is voiced by a gravelly mix of **Alejandro Saab** (*Marvel Rivals*), **Michael John Casey** (*Deadpool: Paws* audiobook), and/or **Nolan North** (*Deadpool* (2013 game), *Spider-Man: Shattered Dimensions*…).  Pick your flavor, really.
@@ -125,8 +129,6 @@ Let's see here… Suction cup thingies, grappling hook, Little Book of Grudges, 
 <img src="/assets/decor/cassette1.png" div class="pagedollbreaker">
 
 - Wade's favorite food is… *not* chimichangas. It's **pancakes**. He prefers them drowned to death in maple syrup and topped with whipped cream. <small>\{\{ *Mmm… whipped cream.* \}\}</small> …But Mexican food comes at a very close second.
-- **What even is gender?** Wade's gender is… indescribable, but something along the lines of **genderfluidity** is accurate. Ish. The guy is mental states and vibes and cute dresses and blood and kevlar and… dogs.
-- Very much into drag.
 - Due to White and Yellow (along with other chaos in his head) along with the desperate need to talk, he thinks out loud and talks to himself. When White and Yellow are being loud, he talks even *louder* and *faster* in response until they shut up.
 - Wade is extremely warm all of the time, regardless of external temperature, due to his healing factor constantly working.
 - Harasses random people on the street if he's especially bored and wants to take his mind off things. The police can't do shit because they know Wade will weasel his way out of any and every prison he lands in… or he'll kill them. He mostly enjoys tormenting said officers by putting donuts on fishing poles and hanging those in front of them.
@@ -135,7 +137,7 @@ Let's see here… Suction cup thingies, grappling hook, Little Book of Grudges, 
 - Wade's pain tolerance greatly depends on his mental state. A healthier mind results in a lower tolerance and vice versa. Hell, the guy can 'happily' endure horrendous physical and mental trauma if he's in a shitty enough headspace.
 - Amazing chef. He's *literally* cooking. Let this man cook.
 - Big fan of nicknames and pet names; makes them up on the spot. There's no such thing as 'too cringy' in this regard and, somehow, remembers every single one he comes up with, despite his bad memory.
-- Wade is Staten Island's King of Rats. The rat populace owe him *favors* and he's unafraid to use *blackmail* to get what he wants. The fucker's a tyrant! He's currently utilizing guerilla warfare against [Lourde's Pigeon Lord](/cast/elizabethallan).
+- Wade is Staten Island's King of Rats. The rat populace owe him *favors* and he's unafraid to use *blackmail* to get what he wants. The fucker's a tyrant! He's currently utilizing guerilla warfare against [Lourdes' Pigeon Lord](/cast/elizabethallan).
 - Also the King of Staten Island and legally changed the name to Islandy McIsland face via social media polls and dubious means. Threatens anyone who tries to legally change it back to Staten Island and he is *NOT* all bark, no bite.
 - *AWFUL* at any sort of video game; always bungles what he's doing and looks like an idiot. Makes up for this with his skills in coin-op/carnival electromechanical shooters.
 - Massive fan of emojis and emoticons. Uses a billion of them in every text, and this man texts often, especially to people he likes. Mostly uses kaomoji because he finds them cute. (~￣▽￣)~

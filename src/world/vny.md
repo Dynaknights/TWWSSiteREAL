@@ -77,7 +77,6 @@ TBA…
 - [Wade Wilson](/cast/wadewilson) declared himself to be the King of the Rats and legally changed the name of Staten Island to Islandy McIsland Face, as decided through a social media poll. This plot of land is nearly always referred to as Staten Island despite this, but Wade will not let lawmakers change the name.
 - Nouvelle-Yorke is having a 1990s fashion/lifestyle resurgence at the moment. This isn't limited to clothing; clamshell phones, hairstyles, makeup, technology, etc. ring vaguely of the 1990s but bastardized, romanticized, and idealized, so to speak.
 - The style people would refer to as [Parisian Girly](https://aesthetics.fandom.com/wiki/Parisian_Girly) is also making a strange comeback now that America has rotten, festered, butchered French in its culture.
-- The most popular dog breed is the poodle.
 - Ballets, plays, mascot cafés, magazines, and puppet shows are in style. Who knew?
 - Very, *very* intense snowball fights are common among children because most of them idolize supers/find them cool and want to be them.
 - The city smells vaguely flowery all of the time, even in its more seedy parts, due to the sheer amount of flora everywhere.

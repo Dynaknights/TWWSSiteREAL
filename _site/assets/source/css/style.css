@@ -2,7 +2,7 @@
 
 :root{
 --header-fx: #08080f;
---link-color: #c0c5ff;
+--link-color: #f94e4e;
 --outlne: filter: drop-shadow(.5px .5px .5px black) 
   drop-shadow(-.5px 0 black) 
   drop-shadow(0 .5px 0 black) 

@@ -1,8 +1,10 @@
 ---
 title: Percival Castle
 id: PercivalCastle
+subtitle: Not a Judge nor a Jury; Only an Executioner
 tags:
-- vigilante
+- super
+- assassin
 - human
 
 bgimage: bg24.png

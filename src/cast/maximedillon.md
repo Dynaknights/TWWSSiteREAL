@@ -1,7 +1,9 @@
 ---
 title: Maxime Dillon
 id: MaximeDillon
+subtitle: A Useless Cog
 tags:
+- super
 - h. medialis
 bgimage: bg112.png
 pagedoll: plushdragon.png

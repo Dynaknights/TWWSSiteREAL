@@ -1,10 +1,10 @@
 ---
 title: Marlowe Tolliver
 id: MarloweTolliver
+subtitle: Our She-Wolf of Lourdes
 tags:
-- notablefigures
-- vny
 - human
+- super
 
 pagedoll: flipphonesanrio.png
 bgimage: bg156.gif
@@ -18,7 +18,7 @@ species: Human
 age: Adult
 occupation: Mercenary, arms dealer, drug dealer
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
-nicknames: Our Wolf of Lourdes, Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Wolfie, Tiny Tolliver
+nicknames: Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Wolfie, Tiny Tolliver
 
 songinc: true
 songartist: Kyary Pamyu Pamyu
@@ -70,6 +70,7 @@ She wants to be heard, dammit!
 
 ## Notes
 
+- Marlowe is **transfem**. She's had a vague idea for all of her childhood that she wanted nothing more than to be a pretty girl, but she only began transitioning (HRT, surgery, appearing more feminine) *after* dismantling Mr. Tolliver's operations.
 - Marlowe is **chubby**, please don't make her skinny! It's made of mostly round shapes, like fucking Santa Claus!
 - Marlowe is **bouncy** and **expressive** in both body language and face! Every emotion is dramatized and sensationalized, like over-the-top acting in a TV show! (I don't watch TV shows or movies and don't know how acting works)
 - Sometimes sticks her tongue out. Sure, why not.
@@ -81,12 +82,11 @@ She wants to be heard, dammit!
 
 - Marlowe's favorite food is **gingerbread**.   
 It doesn't play with its food (Marlowe's a sophisticated lady, thank you very much!), but it does create elaborate stories and designs out of gingerbread before chowing down. There's never a happy ending for her gingerbread men.
-- Marlowe is **transfem**. She's had a vague idea for all of her childhood that she wanted nothing more than to be a pretty girl, but she only began transitioning (HRT, surgery, appearing more feminine) *after* dismantling Mr. Tolliver's operations.
 - Most of her nicknames originated from Marlowe being creatively destructive with her mercenary work, oftentimes turning her targets into bright red smears.
 - Holds heavy appreciation for weird, surreal art.
 - Has written fan-fiction of multiple supers before and will do it again.
 - Alias comes from her usernames on wolf roleplay MMOs she likes to play. She's surprisingly good at roleplaying.
-- Number one kaomoji enjoyer. (๑>◡<๑)
+- Number one kaomoji enjoyer. ₍₍⚞(˶ˆᗜˆ˵)⚟⁾⁾
 - Great friends with Screwball, but, surprisingly, she doesn't see the appeal of live-streaming. Doesn't mind Screwball live-streaming their hangouts, however. It makes her feel like a movie star!!
 - In that same vein, Marlowe believes herself to be "best friends" with a wide variety of supers (and random civilians) all across the moral spectrum that are seemingly chosen at random, regardless if her love is reciprocated or not. Remembers and recognizes each one of these 'friends' with horrific accuracy, and will even go so far as to organize 'outings.'
 - Barks, bites, and growls at people regularly. Not exclusively an indicator of a negative emotion. It just does that out of enjoyment.

@@ -44,10 +44,48 @@ TBA…
 TBA…
 
 ### Leathucarian French
+**Leathucarian French** (otherwise known as **Elderberry French** or **Eagle-Fucker/Kisser French**) is a questionable [variety](https://en.wikipedia.org/wiki/Variety_(linguistics)) of French. It currently stands as the second most prominent variety after standardized Leathucarian English and has wormed its way from its origins of hatred to apathetic day-to-day living.
+
+It's a purposefully chaotic and confusing mess of an isolect erected upon the mountains of spite people — primarily minorities with an emphasis on black people — harbored for France's coup d'etat on the United States (2200s to 2700s).  
+The story goes that since people considered more **worthless** within the social hierarchy — those stuck in laborious blue-collar jobs with low wages and little upward mobility — developed a code to communicate regarding disrupting France's tyrannical rule while remaining inconspicuous. This was initially done by intentionally breaking the rules of standardized French and mixing it with other languages.  
+However, in the modern day, this has since blossomed into what the public consciousness would refer to as **performative**, **vapid**, or **bastardized**, depending on who you asked. To French people currently, Leathucarian French just sounds like standardized English and French mixed together and had unholy spawn, which was, ironically, due to anti-black racism from a plethora of speakers.
+
+France had sought to turn the States into a 'second, better France' of sorts by seizing all of America's assets; most notably, their plans for what's now the **Valse d'Argent**. Despite the sheer drop in reputation France took, its propaganda promoting its lifestyle and aesthetics were highly effective among the masses, who believed that France would finally make America a great and free country, once and for all.  
+What originally aimed to be a variety promising revolution eventually — maybe *inevitably* — fizzled out and ate itself alive in the name of **aesthetic Eurocentrism** and the last vestiges of the **American dream**. *C'est la vie.*
+
+## Holidays
+
+### Seasonal Quartet
+
+**Northshine**
+
 TBA…
 
-### Holidays
+---
+
+**Midsummer**
+
+TBA…
+
+---
+
+**Southshine**
+
+TBA…
+
+---
+
+**Midwinter**
+
+TBA…
+
+### Seven Deaths
+
+TBA…
+
+### L'Enfer Blanc
+
 TBA…
 
 ## Trivia
-TBA…
+- The most popular dog breed is the poodle.

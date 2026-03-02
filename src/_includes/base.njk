@@ -11,8 +11,18 @@ tags:
 <header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})"></header>
       <main>
 
+{% if (subtitle) %}
+
+<div id="container"><main>
+    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
+    <h2 div class="center" style="margin-top: -15px;"><img src="/assets/decor/swirlblue.gif"> {{ subtitle }} <img src="/assets/decor/swirlblue.gif"></h2>
+
+{%- else -%}
+
 <div id="container"><main>
     <h1><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
+
+{% endif %}
 
 {% if (pagedoll) %}
   <div class="pagedoll">

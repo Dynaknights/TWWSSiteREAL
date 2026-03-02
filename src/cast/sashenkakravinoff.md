@@ -1,9 +1,9 @@
 ---
 title: Sashenka Kravinoff
 id: SashenkaKravinoff
+subtitle: On a Quest for Her Grand Finale
 tags:
-- notablefigures
-- vny
+- super
 - h. medialis
 
 bgimage: bg193.png

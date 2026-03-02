@@ -5,7 +5,7 @@ layout: 'base.njk'
 <section>
       {% for cast in collections.cast %}
         <figure> 
-          <a href="/cast/{{ cast.data.id | lower }}"><img src="/assets/thumbs/cast/{{ cast.data.id }}.png" width="100%"></a>
+          <a href="/cast/{{ cast.data.id | lower }}"><img src="/assets/thumbs/cast/{{ cast.data.id }}.png" width="100%" alt="A thumbnail of {{ cast.data.title }}"></a>
         </figure>
       {% endfor %}
 </section>

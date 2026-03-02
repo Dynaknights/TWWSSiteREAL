@@ -126,11 +126,13 @@ Want to be included (or no longer included)? Feel free to ask!
 <div class="box4boxes">
 <div class="center">
 
-<!-- BLACK WEBMASTERS -->
-<div id="blackring">
-    <script type="text/javascript" src="https://00010010.org/webring/js/onionring-variables.js"></script>
-    <script type="text/javascript" src="https://00010010.org/webring/js/mala-widget1.js"></script>
-</div>
+ <map name="w95widget">
+<area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,308,22" alt="no ai webring" title="no ai webring">
+<area href="https://baccyflap.com/noai/?prv&s=web" target="_top" shape="rect" coords="56,36,130,58" alt="previous" title="previous">
+<area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="137,36,211,58" alt="random" title="random">
+<area href="https://baccyflap.com/noai/?nxt&s=web" target="_top" shape="rect" coords="218,36,292,58" alt="next" title="next">
+</map>
+<img usemap="#w95widget" src="https://baccyflap.com/noai/w95widget.gif" alt="a gray Windows 95 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random... and Next"> 
 
 <!-- OC WEBRING -->
 
@@ -158,6 +160,13 @@ Want to be included (or no longer included)? Feel free to ask!
 <script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/widget.js"></script>
 <link rel="stylesheet" href="/assets/source/css/widget.css">
 </div>
+
+<!-- BLACK WEBMASTERS -->
+<div id="blackring">
+    <script type="text/javascript" src="https://00010010.org/webring/js/onionring-variables.js"></script>
+    <script type="text/javascript" src="https://00010010.org/webring/js/mala-widget1.js"></script>
+</div>
+
 </div>
 </div>
 
