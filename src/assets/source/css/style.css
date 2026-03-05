@@ -112,7 +112,7 @@ body {
 .toc li,
 th,
 td,
-blockquote p,
+blockquote em,
 #statuscafe{
 
   filter: drop-shadow(.3px .3px .3px black) 
