@@ -33,7 +33,7 @@ layout: 'base.njk'
     <h2>Miscellaneous!</h2>
     <ul>
       {% for misc in collections.misc %}
-        <li><a href="/misc/{{ misc.data.id }}">{{ misc.data.title }}</a></li>
+        <li><a href="/misc/{{ misc.data.id | lower }}">{{ misc.data.title }}</a></li>
       {% endfor %}
     </ul>
 </section>

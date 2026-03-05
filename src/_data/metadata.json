@@ -5,10 +5,10 @@
 		"css": "/assets/source/css",
 		"img": "/assets/img",
 		"js": "/assets/source/js",
-		"desc": "In another, another, another universe...",
-		"linkbanner":"https://web-surfer.neocities.org/assets/linkBanner.png",
+		"desc": "In another, another, another universe…",
+		"linkbanner":"/assets/icons/linkBanner.png",
 		"tags": "worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel",
 		"author": "Dynaknights",
-		"favicon": "/assets/icons/favicon.png"
+		"favicon": "/assets/icons/favicon2.png"
 	}
 }

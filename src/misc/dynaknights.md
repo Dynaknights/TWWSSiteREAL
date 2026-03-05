@@ -3,40 +3,38 @@
 layout: dynabase.njk
 
 title: About the Webmaster
-id: dynaknights
+id: Dynaknights
 tags:
 - fourth wall
 
 bgimage: bg29.png
-thumbnail: dynaknights.png
 pagedoll: plushfnafbonnie.png
 
 tableFields:
 pronouns: He/him
 species: Engineering Student
 age: Adult
-occupation: Full-time student
-artprogram: Krita
+occupation: Legendary fart master
+artprogram: Krita (or MS Paint)
 codingprogram: VSCodium
 drawingtablet: Gaomon PD1560
-nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie...
+nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie…
 
 ---
 
-Hello.
+Howdy.
 
-My name is **Kirimu**. **Machine** works fine, too. Nice to meet you. Know me by another name? Most likely, that one will work, too.
+My name is **Kirimu**. **Machine** works fine, too. Nice to meet you.  
+Know me by another name? Most likely, that one will work as well.
 
-I'm an engineering major and (allegedly) a "fucking dork ass nerd." I'm a recluse with back pain who's notably unremarkable.
+I'm a recluse (and a yapper) who's got shit social skills and likes certain things too much. Sometimes, they spiral into things I need to get out of my system because I am very much a regulated and well-adjusted human being, just like you. This site's a good example of that.
 
-I made this site to assist in keeping track of **canon lore** and **art** (and whatever) of my Spider-sona-turned-paracosm/project -- *The Wondrous Web-Surfer* -- in an organized-ish manner. It's... not looking too organized at the moment, but I'm just one guy here, man. This shit takes forever because life is a bitch and, by the Stars, so am I.  
+I've kind of lived under a rock my whole life in terms of things within the public consciousness; I never cared about things if they didn't relate to my interests. Especially now, since I decided to quit social media and kill my phone usage entirely in 2025. I've stood my ground surprisingly well, I'd say, but things now go even more over my head than before. I feel like a grouchy old man every time my friends show off new trends and memes now, eugh…  
+I have more time for things I like doing though. So, that's a plus! I also think my memory's a smidge better than it was, maybe.
 
-I watched *Across the Spider-Verse* when I was sixteen, liked the movie, then saw a bunch of people make Spider-sonas and talk about how they were all technically canon to the Marvel Multiverse. Since I would begrudgingly say I'm a Marvel fan if held at gunpoint, I thought: *hey, why don't I make one, too?*
-Then, I got too caught up in making lore for him and combining deranged interests, like I was a fucking *mad scientist*. It turns out I greatly enjoy working on things where I have a cohesive way of engaging with things I enjoy.
+Since doomscrolling's off the table, my free time's taken up by drawing, reading, Vinesauce, and old video games. I say old video games specifically because I never hear about the newer ones and I'm not shilling out $80 for AAA shit I don't even know of when I can emulate for free. 
 
-So, here we are. My little shithole of a universe.
-
-Something, something, <small>mutter, mutter, mutter,</small> **excelsior**.
+Anyway, welcome to my weird nerd site. Thanks for stopping by, sorry about the clutter, insert formal gratitude here, and let me know if there's a typo or if something's broken, por favor, thanks much. <img src="/assets/decor/myMelo1.gif">
 
 <div class="centerDivider">
 
@@ -44,74 +42,153 @@ Something, something, <small>mutter, mutter, mutter,</small> **excelsior**.
 
 </div>
 
-## Likes
-
+## Interests
 
 - **Video Games!!**  
 I really love video games. Hahaha.  
 I'm more into **'retro' games** and **older game hardware** than anything particularly novel (outside of a few titles), but my sentiment still stands. I suck dick at every game I play, but I still enjoy playing them anyway.  
-If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy arcade games, too.  If you're still curious, my favorite video game is *Undertale*. No, I don't like *Deltarune* all that much, sorry.
+If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy arcade games, too.  
+If you're still curious, my favorite video game is ***Undertale*** with ***Ultrakill*** at a very close second. No, I don't like *Deltarune* nearly as much as I like *Undertale* though, sorry to say.  
+
+<div class="center">
+
+Here's my **shelf**; containing both games I like and/or I'm actively playing as of **2026** (or ones I really want to play, anyway…)!
+
+</div>
+<div class="scrollbox">
+
+<div class="funcoverc" style="background-image: url('/assets/funcovers/Undertale.png'); min-width:270px;"></div>
+<div class="funcoverc" style="background-image: url('/assets/funcovers/ULTRAKILL.png'); min-width:270px;"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/LSDDE.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/SF Alpha 3.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Ape Escape.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Chrono Trigger.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Earthbound.png')"></div>
+ <div class="tooltip"><div class="funcoverg" style="background-image: url('/assets/funcovers/Kaze no Notam.png')"><span class="tooltiptext">Kaze no Notam - Notam of Wind (PS1)</span></div></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Klonoa - Door to Phantomile.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Metal Gear Solid.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Planet Laika.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon Black.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon Ultra Moon.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon X.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/R4 Ridge Racer Type 4.png')"></div>
+ <div class="tooltip"><div class="funcoverc" style="background-image: url('/assets/funcovers/Samurai Shodown III.png')"><span class="tooltiptext">Samurai Shodown III: Blades of Blood (PS1)</span></div></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Secret of Mana.png'); min-width:575px;"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Spider-Man.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/In Stars and Time.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Hypnospace Outlaw.png')"></div>
+ 
+</div>
 
 ---
 - **Emulation!!**  
 I need a means to play my nerd games, yeah?  
 Currently, I'm using **DuckStation**, **MAME**, **PPSSPP**, and **PCSX2**. Mostly Duckstation though. PS1 games have captivated me recently.  
-I used to only use RetroArch... but, after three or four years, the shitty UI got to me. So, now I'm in the process of looking for a frontend -- and more emulators for different systems, so I can play more games -- to coalesce all of my ROMs.  
-Do I *need* a frontend? ...No, but I'm a sucker for style.
+I used to only use RetroArch… but, after three or four years, the shitty UI got to me. So, now I'm in the process of looking for a frontend — and more emulators for different systems, so I can play more games — to coalesce all of my ROMs.  
+Do I *need* a frontend? …No, but I'm a sucker for style.
 
 ---
 - **Science**  
-Science is cool. I'm interested in just about anything that isn't geology, but I'm more of a fan of the space sciences than anything else, specifically: **cosmology**, **astronomy**, **astrobiology**, **prebiotic chemistry**, and **astrophysics**.  
+Science is cool. I read science books as a kid for fun.  
+I'm interested in just about anything that isn't geology, but I'm more of a fan of the space sciences than anything else; specifically: **cosmology**, **astronomy**, **astrobiology**, **prebiotic chemistry**, and **astrophysics**. Mostly cosmology though…  
 I also enjoy **arachnology**, **entomology**, **chemistry** (begrudgingly), and **biology** (also begrudgingly).  
-In an typical academic setting, I find any field of science to be horrible, but -- alas -- I still like these regardless.
+In a typical academic setting, I find any field of science to be horrible, but — alas — I still like these regardless.
 
 ---
 - **Art**  
 I've been drawing less and less as I've gotten older for a wide variety of reasons, but I'm still an art kid at heart.
 
 ---
-- **Rap, Rock, Punk, Metal**  
-In terms of music, I listen to... not everything, but a lot of things! These are my favorite four genres.  
-I have neither a favorite song nor album, but I've been listening to ***Disorder*** by Joy Division, ***Skin O' My Teeth*** by Megadeth, and... too many random YouTube playlists, haha.  
-I routinely return to ***2112*** and ***Hemispheres*** by Rush (their only two good albums), ***Deathconsciousness*** by Have a Nice Life, ***Equinox*** by Sorcerer, and ***Untitled 03*** by Kendrick Lamar.  
-<small>I also like ***Invader*** by Kyary Pamyu Pamyu.</small>
+- **Vinesauce!!**  
+I like watching Vinny and Joel play weird games a lot. Remember: Linux will brick your computer and make you drop out of college.
 
 ---
-- **Vinesauce**  
-I like watching Vinny and Joel play weird games sometimes. Talk about dedication.
+- **Music**  
+In terms of music, I listen to… not everything, but a lot of things! My favorite genres are **rap**, **rock**, **punk**, and **metal**.   
+My favorite album is ***Retcon*** by Red Vox; my favorite songs on there are ***The New Flesh*** and ***Memory Loss***. Retcon makes me so happy whenever I listen to it!
+
+<div class="center">
+
+As of **2026**, aside from random YouTube mixtapes and R&B DJ playlists, I'm listening to…
+
+</div>
+<div class="scrollbox">
+
+ <div class="tooltip"><div class="funcoverg" style="background-image: url('/assets/funcovers/Red Vox - Retcon.png')"><span class="tooltiptext">Red Vox - Retcon</span></div></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Red Vox - Another Light.png')"></div>
+ <div class="tooltip"><div class="funcoverg" style="background-image: url('/assets/funcovers/Kendrick Lamar - Untitled Unmastered.png')"><span class="tooltiptext">Kendrick Lamar - Untitled Unmastered.</span></div></div>
+  <div class="funcoverg" style="background-image: url('/assets/funcovers/Have a Nice Life - Deathconsciousness.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Rush - 2112.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Rush - Hemispheres.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Sorcerer - The Equinox.png')"></div>
+ 
+</div>
 
 ---
 - **Comics**  
 This is a weird one.  
 When I first got into Marvel in my tweens, it was through *Into the Spider-Verse* and copious amounts of fan-fiction until I stumbled upon Spideypool. I near-exclusively consumed fan-fiction (and lengthy retrospectives) concerning Marvel for *years* because I disliked the convoluted mess that was the Marvel multiverse. It's still intimidating to this day, honestly!  
-I liked *comic book characters*, but I couldn't bring myself to like comics... until now! ...In my adulthood. Maybe it's just because I'm less picky.  
-As of **early 2026**, I'm working through: ***Spawn***, ***Silver Surfer***, and ***Invincible***.
+I liked *comic book characters*, but I couldn't bring myself to like comics… until now! …In my adulthood. Maybe it's just because I'm less picky.
 
-## Attributes
+<div class="center">
 
-### Abilities
-- ~~Waking up at 5 AM~~ Staying up egregiously late
-- Engineering misery
-- 464 GB storage and 16 GB RAM
+As of **2026** I'm flipping through…
 
-### Equipment
-- High school diploma
-- School-issued condoms
-- Copious amounts of candy hoarded from my university's Dining Hall
-- Regrets
+</div>
+<div class="scrollbox">
 
-## Trivia
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Watchmen.png')"></div>
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.png')"></div>
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Spawn.png')"></div>
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Silver Surfer.png')"></div>
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Invincible.png')"></div>
+ 
+</div>
 
-- I near-exclusively wrote Marvel fan-fiction (with names switched around and anonymized) for my high school's creative writing class. I got a 100% as a final grade.
-- It doesn't look like it, but I've been coding websites for three years... never finished one though.
-- Marvel's best Spider-Man and Deadpool writers are AO3 authors. No, I will not listen to opposing arguments at this time.
-- I wrote about *TWWS* for my AP Lit final. I got a 100% on the final and an A in the class. How? I don't know.
-- I'm also reading *X-Men: the Legacy Quest Trilogy* because I found a copy of the first volume in a Little Free Library. I'm hashtag winning.
+## Why Does This Exist?
+
+I first watched *Across the Spider-Verse* when I was sixteen.
+
+I was disgustingly into Marvel at the time and was hyped for the film. Saw it, liked it, looked at cool stuff relating to it on social media and saw a revival of those Spider-sonas people made in 2018. I thought each and every Spider-sona I saw was the coolest thing on the goddamn planet… except for the AI-generated ones. There's so many of them, I genuinely got sick of 'em. It was like looking into a content farm of my own interests with how easy it was to saturate tags and the like.
+So, I made a Spider-sona as a little one-off thing that was disgustingly self-indulgent. I could never really see myself in **Peter Parker** or even **Miles Morales** — I've always turned to **Deadpool** if I felt unheard — despite liking Spider-Man a lot… so I thought it was cool I could be Spider-Man the way *I* wanted to.
+
+I could finally truly feel seen through my characters and world along with exploring who I am as a person. I can make my perfect story and no one can stop me. Isn't that great?  
+Me, a guy who's been grappling with feeling like an absolute freak for his whole stinkin' life, feeling a little less like a freak because I just so happen to be really into Spider-Man. Whatever assauges the demons, man.
+
+## Manifesto
+
+I don't have a manifesto.
+
+I can't really say this site was birthed out of love for the old web since… y'know, I'm too young for that. However, I was aware of the indie web during my teens and thought it was *soooo* cool. I remember spending hours site-hopping in my free time instead of doing homework.  
+I was bound to try my hand at webmastery eventually. So, why not combine this new interest with my biggest one: the random Marvel AU I made because I'm so normal and well-adjusted about the things I like?
+
+This website was created with the goal of organizing information regarding *TWWS* in a way that's comprehensive, complete, fun (for me) to make, fun (for you) to read about (maybe), and violently disassociated from mainstream social media. I sound like an old fart saying that, I'm sure, but technology sure seems to be cannibalizing itself lately, no?  
+I'm still very much ass at web development and creating stories, but maybe it'll get better with time. I apologize for any hiccups in the meantime. This is like, the fifth fucking iteration of this goddamn site. I'm so tired.
+
+…But since I'm being held at gunpoint, I'll tell you what. Here's a manifesto: **I hope you have fun**.
 
 ## Contact
 
-I truly hate to say this, but your best bet might be **Discord ((at)Dynaknights)**.
-You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
+You can **email me (Dynaknightslol(at)gmail(dot)com)**.
+You can also shoot me a message on the **[guestbook](https://dynaknights.atabook.org/)**.
+
+## Trivia
+
+<img src="/assets/decor/bunnylps.png" div class="pagedollbreaker">
+
+- I can't think of a favorite food, but I will fuck up a **chocolate milkshake** any day of the week. That, and whipped cream?? *Fuck*, yes, dude.
+- Dog person, but cats are fine, too. My favorite breed is the **samoyed**. They're so happy and cute and fluffy… augh.
+- According to a friend of mine, if I were a Pokémon, I'd be **Riolu**.
+- If you wanted to get real technical about my gender, I refer to myself as a **Masculine and Nonbinary** individual; also called a **MAN** for short. Heheheh. I just say I'm transmasc and call it a day.
+- In a very, *very* ideal world, I'd like to be an arcade machine repairman.
+- I've nearly been struck by lightning.
+- I had a sick ass high school internship where I researched aliens in a university for a summer. It's my most cherished K-12 memory *ever*, I think.
+- I made a shitty platformer when I was fifteen and then never tried making a game again. Although, the allure of game development is palpible, no? I'd like to make something for the PS1/a PS1-inspired combat RPG(?) about another paracosm of mine. It might get put onto the site one day. Don't count on it.
+- I didn't understand how things like pretend play or imaginary friends worked when I was younger. I didn't see the point in them and genuinely thought people just conjured up hyper-realistic hallucinations at will.
+- I loved books as a kid. However, I never actively engaged with fiction because I could never 'get' it, so to speak. I enjoyed being read to, sure, but I rarely picked up fiction books until my tweens (unless they were thick and I could flex my literary prowess). Even while I was in my tweens, I remember a period where I'd just read dictionaries.
+- When I was little, I was *really* into the concept of roleplays and video games. My actual experience with roleplays is practically nonexistent because I was — and still am — *way* too shy, but the idea of virtual spaces and pretend play fascinated me. It was probably because I had zero idea why people indulged in fiction. Boy, look at me now.
+- I didn't have an edgy emo phase as a tween; I had an edgier nihilism phase. It's worse than you think.
+- As a little baby transmasc, one of the real-life names I debated using was Wade due to my pedantic interest with Deadpool. I'm glad I didn't! It's not a bad name, but, even now, I still don't quite think it's for me.
 
 <div class="centerDivider">
 
@@ -124,3 +201,22 @@ You can also shoot me an **email (Dynaknightslol(at)gmail(dot)com)**.
   <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
 
   </div>
+
+  
+
+<div class="box4boxes">
+<div class="center">
+
+<small>GRAPHIC WALL ATTACK</small>
+
+<img src="/assets/blinkies/oingoboingo.gif"> <img src="/assets/blinkies/playstation.gif"> <img src="/assets/blinkies/queerlove4ever.gif"> <img src="/assets/blinkies/rubberducky.gif"> <img src="/assets/blinkies/retrogamer.gif"> <img src="/assets/blinkies/sanssweep.gif"> <img src="/assets/blinkies/science.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/scream.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/sillyclown.gif"> <img src="/assets/blinkies/spaceanomaly.gif"> <img src="/assets/blinkies/spacefuneral.gif"> <img src="/assets/blinkies/spideypool.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/startthefire.gif"> <img src="/assets/blinkies/t4t.gif"> <img src="/assets/blinkies/tmascswag.gif"> <img src="/assets/blinkies/uk.gif"> <img src="/assets/blinkies/uncool.gif"> <img src="/assets/blinkies/undertale.gif"> <img src="/assets/blinkies/wazzup.gif"> <img src="/assets/blinkies/whiteboywhy.gif" style="height:20px; width:150px;"> 
+
+<img src="/assets/idbuttons/aroace.png"> <img src="/assets/idbuttons/intp.png"> <img src="/assets/idbuttons/fighter.png"> <img src="/assets/idbuttons/falsegod.png"> <img src="/assets/idbuttons/marvel.png"> <img src="/assets/idbuttons/pcgamer.png"> <img src="/assets/idbuttons/pkmn.png"> <img src="/assets/idbuttons/precure.png"> <img src="/assets/idbuttons/science.png"> <img src="/assets/idbuttons/transmasc.png"> <img src="/assets/idbuttons/undertale.png"> <img src="/assets/idbuttons/nature.gif"> <img src="/assets/idbuttons/liminalspace.png"> <img src="/assets/idbuttons/introvert.png"> <img src="/assets/idbuttons/petscop.png"> <img src="/assets/idbuttons/rock.png"> <img src="/assets/idbuttons/metalhead.png"> <img src="/assets/idbuttons/ULTRAKILL.png">
+
+<img src="/assets/buttons/savedragonsnow.gif"> <a href="https://welcomehomerestorationproject.net/"><img src="/assets/buttons/whbarnaby.gif" style="height:32px;"></a> <a href="https://www.sbnation.com/a/17776-football"><img src="/assets/buttons/17776.gif"></a> <img src="/assets/buttons/activeworlds.gif"> <img src="/assets/buttons/aiistheft.gif"> <img src="/assets/buttons/aj.png"> <img src="/assets/buttons/atari.gif"> <img src="/assets/buttons/beefbrain.gif"> <img src="/assets/buttons/childlibrary.gif"> <img src="/assets/buttons/deletetiktok.gif"> <img src="/assets/buttons/fish.gif"> <img src="/assets/buttons/ditchsocials.gif"> <img src="/assets/buttons/makeawebsite.png"> <img src="/assets/buttons/tboyswag.gif"> <img src="/assets/buttons/yeah.png"> <img src="/assets/buttons/trans.gif">
+<img src="/assets/buttons/ilikecomputer.jpg"> <img src="/assets/buttons/neocities.gif"> <img src="/assets/buttons/nowebp.gif"> <img src="/assets/buttons/nowemulate.gif"> <img src="/assets/buttons/nowspidey.gif"> <img src="/assets/buttons/piracy.gif"> <img src="/assets/buttons/proao3.gif"> <img src="/assets/buttons/webdesignismypassion.gif"> <img src="/assets/buttons/youareastar.gif"> <a href="https://notbyai.fyi/"><img src="/assets/buttons/notbyai.png" style="height:32px;"></a> <img src="/assets/buttons/anarchy.gif"> <img src="/assets/buttons/anonymize.gif"> <img src="/assets/buttons/cocksucker.png"> <img src="/assets/buttons/deaddove.gif"> <img src="/assets/buttons/internetanimal.png"> <img src="/assets/buttons/utact.png"> <img src="/assets/buttons/youretellingme.png"> <img src="/assets/buttons/cssisawesome.png">
+
+<img src="/assets/stamps/stamp136.png"> <img src="/assets/stamps/stamp134.png"> <img src="/assets/stamps/stamp130.png"> <img src="/assets/stamps/stamp123.png"> <img src="/assets/stamps/stamp115.gif"> <img src="/assets/stamps/stamp100.png"> <img src="/assets/stamps/stamp97.gif"> <img src="/assets/stamps/stamp89.gif"> <img src="/assets/stamps/stamp71.png"> <img src="/assets/stamps/stamp53.png"> <img src="/assets/stamps/stamp32.png"> <img src="/assets/stamps/stamp16.gif"> <img src="/assets/stamps/stamp92.gif"> <img src="/assets/stamps/stamp93.gif"> <img src="/assets/stamps/stamp94.png"> <img src="/assets/stamps/stamp108.gif"> <img src="/assets/stamps/fire.gif"> <img src="/assets/stamps/clownlicense.gif">  <img src="/assets/stamps/all-of-twilight.gif"> <img src="/assets/stamps/aceattorney.gif"> <img src="/assets/stamps/slowinternet.gif"> <img src="/assets/stamps/brick.gif"> <img src="/assets/stamps/lousystamp.png"> <img src="/assets/stamps/stamp137.png"> <img src="/assets/stamps/stamp135.png"> <img src="/assets/stamps/stamp128.gif"> <img src="/assets/stamps/stamp125.gif"> <img src="/assets/stamps/stamp103.png"> <img src="/assets/stamps/stamp99.gif"> <img src="/assets/stamps/stamp81.png"> <img src="/assets/stamps/stamp80.png"> <img src="/assets/stamps/stamp70.png"> <img src="/assets/stamps/stamp52.png"> <img src="/assets/stamps/stamp43.gif"> <img src="/assets/stamps/stamp51.gif"> <img src="/assets/stamps/stamp109.gif"> <img src="/assets/stamps/stamp110.gif"> <img src="/assets/stamps/stamp132.gif"> <img src="/assets/stamps/stamp84.png"> <img src="/assets/stamps/creamsoda.gif"> <img src="/assets/stamps/clawdeen.gif"> <img src="/assets/stamps/cautionsharpedges.gif"> <img src="/assets/stamps/retrogamer.png"> <img src="/assets/stamps/real.gif"> <img src="/assets/stamps/gameboy.gif"> <img src="/assets/stamps/orgasmdonor.gif">
+
+</div>
+</div>

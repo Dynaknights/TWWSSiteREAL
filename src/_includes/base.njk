@@ -3,49 +3,55 @@ tags:
 - page
 ---
 
-<!doctype html>
-<html class="no-js" lang="{{ metadata.language }}">
+{% include "header.njk" %}
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>{{ metadata.decor + " | " }} {{ title +"!" if title else "The Wondrous Web-Surfer!" }}</title>
-<link rel="stylesheet" href="{{ metadata.assets.css }}/style.css">
-<meta name="description" content="{{ metadata.assets.desc }}">
-<link rel="icon" href="{{ metadata.assets.favicon }}" sizes="any">
-<script src="{{metadata.assets.js}}/navi.js" type="text/javascript" defer></script>
-
-<meta name="author" content="{{ metadata.assets.author }}">
-<meta name="keywords" content=" {{ metadata.assets.tags }}">
-<meta name="description" content="{{ metadata.assets.desc }}">
-
-<meta itemprop="description" content="{{ metadata.assets.desc }}">
-<meta itemprop="image" content="{{ metadata.assets.linkbanner }}">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="{{ metadata.assets.desc }}">
-<meta name="twitter:image" content="{{ metadata.assets.linkbanner }}">
-
-<meta property="og:type" content="website">
-<meta property="og:url" content="{{ metadata.assets.desc }}">
-<meta property="og:image" content="{{ metadata.assets.linkbanner }}">
-
-<meta name="robots" content="noindex, nofollow">
-</head>
 <body>
     <header-component></header-component>
   
 <header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})"></header>
       <main>
 
+{% if (subtitle) %}
+
+<div id="container"><main>
+    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
+    <h2 div class="center" style="margin-top: -15px;"><img src="/assets/decor/swirlblue.gif"> {{ subtitle }} <img src="/assets/decor/swirlblue.gif"></h2>
+
+{%- else -%}
+
 <div id="container"><main>
     <h1><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
+
+{% endif %}
 
 {% if (pagedoll) %}
   <div class="pagedoll">
   <img src="/assets/decor/{{ pagedoll }}">
   </div>
+  {% endif %}
+
+  {% if (drama) %}
+
+  <div class="centerDivider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+  </div>
+ 
+  <blockquote><em>{{ drama }}</em></blockquote>
+
+    {%- else -%}
+
+    <div class="centerDivider">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+    </div>
+
+  {% endif %}
+
+  {% if (pagedoll2) %}
+  <img src="/assets/decor/{{ pagedoll2 }}" div class="pagedollbreaker">
+  {% endif %}
+
+  {% if (cover) %}
+  <div class="coverhere" style="background-image: url('/assets/gallery/covers/{{ cover }}')"></div>
   {% endif %}
 
   {{ content | safe }}

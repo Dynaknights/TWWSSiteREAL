@@ -1,0 +1,21 @@
+---
+layout: 'base.njk'
+---
+
+{{ content | safe }}
+
+ {% for update in collections.update | reverse %}
+ {% if update.data.currentYear == false %}
+<section>
+<h2>{{ update.date | postDate }}</h2>
+{{ update.content | safe }}
+</section>
+{% endif %}
+
+ {% endfor %}
+
+<div class="center">
+
+ <p>Seems like this is the end... Go to <a href="/updates">more recent updates</a>?</p>
+
+ <div class="center">
