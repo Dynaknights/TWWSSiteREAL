@@ -155,11 +155,11 @@ Want to be included (or no longer included)? Feel free to ask!
 <script src="https://transring.neocities.org/ring.js"></script>
 
 <!-- COOKIE RUN -->
-<div id="ckwr">
-<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/var.js"></script>
-<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/widget.js"></script>
-<link rel="stylesheet" href="/assets/source/css/widget.css">
-</div>
+<div id="ckwr"><div class="webring-wrapper"><div class="webring-title"><img src="https://evehibi.nekoweb.org/ckwr/logo.png"></div><div class="webring-flex"><div class="webring-prev"><a href="https://evehibi.nekoweb.org/ckwr/?action=previous" target="_top"><img class="arrow-image" src="https://evehibi.nekoweb.org/ckwr/w/a.png"></a></div><a href='https://evehibi.nekoweb.org/ckwr/' target="_top">
+
+<img class="webring-image" src="/assets/decor/wr/madeline.jpg" title="This is Dynaknights' favorite cookie! When asked why they liked this cookie, they said: 'He's so silly, I love him..." style="border-radius:5px;"> <!-- replace the src to a link of an image of your favorite cookie, and the title to whatever you want idc really -->
+
+</a><div class="webring-next"><a href="https://evehibi.nekoweb.org/ckwr/?action=next" target="_top"><img class="arrow-image" src="https://evehibi.nekoweb.org/ckwr/w/a.png"></a></div></div></div><link rel="stylesheet" href="https://evehibi.nekoweb.org/ckwr/dynamic.css" /></div>
 
 <!-- BLACK WEBMASTERS -->
 <div id="blackring">

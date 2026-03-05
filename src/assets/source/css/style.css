@@ -112,7 +112,7 @@ body {
 .toc li,
 th,
 td,
-blockquote strong,
+blockquote p,
 #statuscafe{
 
   filter: drop-shadow(.3px .3px .3px black) 
@@ -599,14 +599,22 @@ figure {
   border-radius: 5px;
   overflow-y: scroll;
   text-align: center;
+  color: antiquewhite;
+  
+  p{
+      filter: drop-shadow(.3px .3px .3px black) 
+  drop-shadow(-.3px 0 black) 
+  drop-shadow(0 .3px 0 black) 
+  drop-shadow(0 -.3px 0 black) 
+  drop-shadow(0 .3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black) 
+  drop-shadow(0 -.3px black);
+  }
 
   h3 {
     margin-bottom: 20px;
     text-indent: 35px;
-  }
-
-  strong {
-    border-bottom: 1px black dotted;
   }
 
   img {

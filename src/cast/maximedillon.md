@@ -74,7 +74,7 @@ Just gets channeled through her… *unless* it's too much for her to handle all 
 - **Sharp** and **angular** features, but not *too* sharp.
 - **Scruffy**. Dog-like, but more like a starving stray you found in an abandoned building than a little puppy.
 - **No eyebrows or eyelashes**. They got singed off, along with the rest of the top half of her face. Only a mess of scars and exposed muscle remains.
-- **No fingertips**. Got those burned off, too… along with her toetips.
+- **No fingerprints**. Got those burned off, too…
 - **Eyes and teeth are bright yellow**, not white.
 - **Heterochromatic eyes are not optional**.
 - **Scars** are all over her body.

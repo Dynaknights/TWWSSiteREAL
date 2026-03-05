@@ -19,24 +19,25 @@ birthplace: Volgograd, Russia
 nicknames: Sasha, Kraven, The Hunter, Kitty
 
 songinc: true
-songartist: Mindless Self Indulgence (sorry)
-song: Lights Out
-songlink: https://www.youtube.com/watch?v=v2NZs-t-slg
+songartist: Mindless Self Indulgence
+song: 3S'
+songlink: https://www.youtube.com/watch?v=CdIhfisOZvc
 ---
 
-All the world's a stage.  
-Something to display the glittering facets of the **soul** through the billions of intertwined stories that each build the **human experience**, which is then observed by the innumerable eyes of the Cosmos. Life is a beautiful thing, no?
+*All the world's a stage!*  
+Something to display the glittering facets of the **soul** through the billions of intertwined stories that each build the **human experience**, which is then observed by the innumerable eyes of the Cosmos! Life is a beautiful thing, without a doubt.
 
 Yet, alas, all stories must meet their **bitter ends**. A shame, truly, but an inevitable demise serves as the perfect backdrop for a **climax**, no?  
 *Ah*, do not fret; the life and times of **Sashenka Kravinoff** have been performed with utmost **diligence** and **care**, which is to say that Sashenka's life has been **masterfully orchestrated** exactly how she wished it to be.  
-Her pathetic ancestors have been repeatedly surpassed in all fields — especially **hunting** — thanks to Sashenka's efforts, putting even the grandest of the bunch to shame. Hell, she even **future-proofed** her legacy. *Heh*. No little **upstart** from that wretched bloodline is going to **dethrone** her **god-like status** ever.
+Her pathetic ancestors have been repeatedly surpassed in all fields — especially **hunting** — thanks to Sashenka's efforts, putting even the grandest of the bunch to shame. Hell, she even **future-proofed** her legacy. *Heh*. No little **upstart** from that wretched bloodline is going to **relinquish** her **god-like status**.
 
-See, with such accomplishments, you cannot blame her for growing… bored. The thrill of becoming the greatest hunter the world has ever known suddenly grew **flat** — **insipid**; what more is there to hold if you already have it all? *Retirement*? *Stars*, she must say, people really *do* lack spirit nowadays, no?  
-Ah, she mustn't forget the strain of **aging** and the torture of feeling your body sit on the precipice of **muted decay**. It's clear Sashenka's time is **dwindling** before her very eyes. However, Sashenka would not simply rot out of existence! A tale as grand as hers yearns for a **magnificent ending**!
+See, with such accomplishments, you cannot blame her for growing… bored. The thrill of becoming the greatest hunter the world has ever known suddenly grew **flat** — **insipid**; what more is there to hold if you already have it all? *Retirement*? *Stars*, don't make her laugh, people really *do* lack spirit nowadays. Such a pity, truly.  
+Ah, she shan't forget the strain of **aging** and the torture of feeling your body sit on the precipice of **muted decay**. It's clear Sashenka's time is **dwindling** before her very eyes. However, Sashenka will not simply rot out of existence! A tale as grand as hers yearns for a **magnificent ending**!
 
-Sashenka's soul twitched for something to sink its teeth into again, as if it were a **starving tigress**. After making what was supposed to be a brief visit to **Nouvelle-Yorke**, witnessing the the unbridled chaos of the **superpowered scene**, the prospect of **fresh meat** was too alluring to ignore in more ways than one.
+Sashenka's soul twitched for something to sink its teeth into again, as if it were a **starving tigress**. After making what was supposed to be a brief visit to **Nouvelle-Yorke**, witnessing the the unbridled chaos of the **superpowered scene**, the smell of **fresh meat** was too alluring to ignore in more ways than one.
 
-What exciting times we all live in! The notion of meeting death via a most **spectacular ending** at the hand of a **worthy rival** sends shocks in a number of places the hunter was previously oblivious to!  
+*What exciting times we all live in!*  
+Meeting death via a most **spectacular ending** at the hand of a **worthy rival** sends electrifying shocks coursing through her veins at such an alluring prospect, even now…
 The **survival of the fittest** is in full effect. Let the **final hunt** begin.
 
 ## Attributes
@@ -78,7 +79,7 @@ Her arsenal is nowhere near the likes of [Deadpool](/cast/wadewilson) or [Punish
 
 <img src="/assets/decor/pinbigcats.png" div class="pagedollbreaker">
 
-- Sasha's favorite food is good old **charcuterie**, preferably served with a very, *very* wide selection of meats. Also enjoys **roasted venison**.
+- Sasha's favorite food is **roasted venison**.
 - Her pet lioness is named **Lena**.
 - Sashenka's physical aging is slowed thanks to a custom-made Super Soldier Serum-like substance she commissioned [Willis Faucher](/cast/willisfaucher) and [Lucille Deckard](/cast/lucilledeckard) an assload of money for.  
 She commonly tells people a "magical potion" mutated her. You know. For fun.
@@ -90,4 +91,8 @@ She commonly tells people a "magical potion" mutated her. You know. For fun.
 - Sashenka's very hot, literally. Her body is extremely warm. She likes the temperature contrast between herself and her [wife](/cast/calypsoezilli).
 - She's been drooling a lot for her entire life. Sasha and numerous doctors have no clue why. Drooling intensifies when she sees something she likes.
 - A very, very ***VERY*** horny gal. Like, out of all characters, she's number one on the horniness scale and will *NOT* be out-done.
-- Really into the concept of dependency. She wants to be relied upon for every little thing by a person. Financially, physically, mentally, sexually, romantically, what-have-you. Not against forcing someone to be reliant on her.
+- Really into the concept of dependency. She wants to be relied upon for every little thing by a person. Financially, physically, mentally, sexually, romantically, what-have-you. Not against forcing someone to be reliant on her. It's like a… mother. Sasha's mother was like that, anyway.
+- Knows all of her servants on a personal level, whether they like it or not. Obsessively keeps loads of ~~blackmail~~ information stored away in her office to occasionally peruse. Very picky about hires for this exact reason.
+- The servants of her estate(s) abide by a weird cult-esque system of loyalty. "We're all family here" taken to the extreme.
+- Inserts random tiger facts while humiliating people (typically beating them to death) just to rub her superiority in their faces.
+- Usually ~~forces and manipulates~~ coerces people (family, friends, subordinates, etc.) into calling her Sasha. It makes her feel… familiar. Loved?

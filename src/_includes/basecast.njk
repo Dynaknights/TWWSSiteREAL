@@ -2,6 +2,7 @@
 layout: 'base.njk'
 ---
 
+{{ content | safe }}
 <section>
       {% for cast in collections.cast %}
         <figure> 

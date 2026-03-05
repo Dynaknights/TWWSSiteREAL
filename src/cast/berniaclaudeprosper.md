@@ -61,6 +61,8 @@ Well, if there's a serious wind blowing and Flint's in sand form, she can fly…
 - **Victoria VII Model Revolver**  
 A trusty revolver still in superb condition after all these years. Flint's unsure if this is a lucky gun, considering she mostly uses it for… work.
 - **Other spare guns and weapons**
+- **Pocket shrine**  
+Full of religious memorabilia and pictures of Keemia. 
 
 ## Notes
 - **Tall**. ~6'1 (185.42 cm).

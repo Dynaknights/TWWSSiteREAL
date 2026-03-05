@@ -18,9 +18,9 @@ birthplace: Hometown, Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
 
 songinc: true
-songartist: Heaven Pierce Her
-song: Spiral Out (Keep Going)
-songlink: https://www.youtube.com/watch?v=8V0071pcc74
+songartist: Jack Stauber
+song: We See You, Opal (Reprise)
+songlink: https://www.youtube.com/watch?v=G81RMVmivEQ
 ---
 
 Life is fucking worthless. To **Elizabeth Allan**, this ain't shit but an objective truth.  
