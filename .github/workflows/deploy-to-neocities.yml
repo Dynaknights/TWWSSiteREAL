@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron: '0 0 * * *'
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
@@ -26,7 +28,7 @@ jobs:
         node-version: current
 
     - name: Install dependencies
-      run: npm ci
+      run: npm start
 
       
     - name: build
