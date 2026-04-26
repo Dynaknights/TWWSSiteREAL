@@ -18,9 +18,9 @@ birthplace: Trenton, New Jersey, URL
 nicknames: Max, Maxie, Maxou, Buzz, Sparky
 
 songinc: true
-songartist: Dog Park Dissidents
-song: "Rev Your Motor"
-songlink: https://www.youtube.com/watch?v=YfUntGXM1AE
+songartist: System of a Down
+song: Vicinity of Obscenity
+songlink: https://www.youtube.com/watch?v=FEskZcvVul4
 ---
 
 Oh, man.
@@ -28,7 +28,7 @@ Oh, man.
 Poor fuckin' kid. You look… *haunted*. Stars-damn.  
 Want a cig? It's on the house. Not much she can do for ya, but she can offer a stick o' Stardom.
 
-Hm… You got a **look** on yer face. That's not a bad thing, nah. It's just… familiar. Lost innocence and all that jazz, yeah?
+Hm… You got a look on yer face. That's not a bad thing, nah. It's just… familiar. Lost innocence and all that jazz, yeah?
 
 Oh, boy… The world's a *real* cruel son of a bitch, ain't it, kid?  
 You'll get used to it. Sorta. Can't tell ya it gets much better from here on out though. Sorry, bud, but ya don't seem like the type to fancy *sugarcoating*, anyway.
@@ -36,20 +36,20 @@ You'll get used to it. Sorta. Can't tell ya it gets much better from here on out
 **C'est la vie**. **C'est la guerre**. Maybe they're one in the same, eh?
 
 The name's **Maxime Francine Dillon** — that's just **Max** to you, kid — number one punching bag of the Universe since she popped right out the pussy and had the *audacity* to think that life was gonna be good. How dare she. Unforgivable. Sentenced to eternal torture. From the look on yer face, looks like you got clapped by the Stars, too.  
-Hah. Max was too busy being blinded by **childhood innocence**, when she really should've started **gambling** and checking on her **stock investments** along with her **five side-hustles** instead of sticking her tongue in sockets and shit, huh? Heheh.
+Hah. Max was too busy being blinded by childhood innocence, when she really should've started gambling and checking on her stock investments along with her five side-hustles instead of sticking her tongue in sockets and shit, huh? Heheh.
 
-Hey, look down. Everyone looks so small when you look at 'em from so high up like this, don't they? Like worms, going from point A to point B in a fuckin' **daze**. Self-absorbed and uncaring of everything else 'sides the latest thing in the cultural zeitgeist or whatever; really makes it look like their lives ain't miserable like the rest of us.
+Hey, look down. Everyone looks so small when you look at 'em from so high up like this, don't they? Like worms, going from point A to point B in a fuckin' daze. Self-absorbed and uncaring of everything else 'sides the latest thing in the cultural zeitgeist or whatever; really makes it look like their lives ain't miserable like the rest of us.
 
-Like… what's it like not being so… **aware** of yer body every day?  
-Monitoring each and every part of it, like it could snap and break beneath you any second? Not having doctors charge ya an arm n' a leg just to say ye'r a fuckin' fat ass and need to exercise more? Rottin' days away in bed 'cause yer body's fuckin' weighing you down like lead and you can't do shit but sit there for hours, **alone** and **scared**, itchin' endlessly at yer scars 'till ya fall asleep and repeat the cycle again?  
-She's had to pick up fuckin' becoming a **super** just to last from one day to the next without ripping her skin off. What's it like not havin' to do that?
+Like… what's it like not being so… aware of yer body every day?  
+Monitoring each and every part of it, like it could snap and break beneath you any second? Not having doctors charge ya an arm n' a leg just to say ye'r a fuckin' fat ass and need to exercise more? Rottin' days away in bed 'cause yer body's fuckin' weighing you down like lead and you can't do shit but sit there for hours, alone and scared, itchin' endlessly at yer scars 'till ya fall asleep and repeat the cycle again?  
+She's had to pick up fuckin' becoming a super just to last from one day to the next without ripping her skin off. What's it like not havin' to do that?
 
 Ah… Heh. Shucks. Her bad. Max doesn't mean to throw a pity party. She's just… very tired. If she still had skin 'round her eyes, she'd probably be sportin' eye bags similar to little ol' you.  
-This… **cycle** is **hellish**. Pathetic, disgusting, **tiring**, whatever. Nobody feels like doin' shit to change the world n' whatnot 'cause they've already got it all. Everyone else can go fuck themselves. **C'est la vie**, bitches.
+This… cycle is **hellish**. Pathetic, disgusting, tiring, whatever. Nobody feels like doin' shit to change the world n' whatnot 'cause they've already got it all. Everyone else can go fuck themselves. **C'est la vie**, bitches.
 
-Ugh. Enough with the **sob stories**. It's cold as shit outside; she's gonna head inside 'fore she turns into a popsicle. Come back whenever you're ready and you can talk at her all ya want in front of the heater, bud.
+Ugh. Enough with the sob stories. It's cold as shit outside; she's gonna head inside 'fore she turns into a popsicle. Come back whenever you're ready and you can talk at her all ya want in front of the heater, bud.
 
-…Aw, don't hang your head, stranger. Try your hardest n' you'll pull through. Well, not **unscathed**, but better than nothing, right?  
+…Aw, don't hang your head, stranger. Try your hardest n' you'll pull through. Well, not unscathed, but better than nothing, right?  
 Just… hah. You've been starin' at the pavement below ya for a while. Don't look *too* far down that drop, 'kay, bud?
 
 ## Attributes
@@ -73,12 +73,12 @@ Just gets channeled through her… *unless* it's too much for her to handle all 
 - Stands tall and proud despite this. Well, mostly due to a **visible metal spine**, but whatever.
 - **Sharp** and **angular** features, but not *too* sharp.
 - **Scruffy**. Dog-like, but more like a starving stray you found in an abandoned building than a little puppy.
-- **No eyebrows or eyelashes**. They got singed off, along with the rest of the top half of her face. Only a mess of scars and exposed muscle remains.
+- **No eyebrows**. They got singed off, along with the rest of the top half of her face. Only a mess of scars and exposed muscle remains.
 - **No fingerprints**. Got those burned off, too…
 - **Eyes and teeth are bright yellow**, not white.
 - **Heterochromatic eyes are not optional**.
 - **Scars** are all over her body.
-- Should look like she got pulled out from a trash can.
+- Probably has a devious and malicious shit-eating grin on her face.
 - Has a **rough**, **scratchy**, and **raspy** voice due to her fried vocal cords.
 
 ## Trivia

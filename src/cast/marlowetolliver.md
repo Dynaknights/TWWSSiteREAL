@@ -21,17 +21,17 @@ birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Wolfie, Tiny Tolliver
 
 songinc: true
-songartist: Kyary Pamyu Pamyu
-song: Invader Invader
-songlink: https://www.youtube.com/watch?v=jcIOg_m-bp4
+songartist: Femtanyl & ISSBROKIE
+song: NASTYWERKKKK!
+songlink: https://youtu.be/CFVAE23tekc?si=LZxBRL5vmiRzlOsT
 
 ---
 Despite Mr. Tolliver's efforts, **Marlowe Lore Tolliver** is more than her father's child, and always will be.
 
 
 *Stars*, thank shit for that, 'cause, like, that old fart was so fucking **BORING**! Holy shit! Mr. Tolliver was — without a doubt — the blandest person Marlowe's had the displeasure of meeting, and the fucker's the most absent dad *ever*!  
-Fucking hell! Tolliver's the **number one arms dealer in the world**, but he could at least spoil his only child if he's not gonna talk to her! At least momma's got the excuse of being **dead**!  
-Y'know, she used to believe Mr. Tolliver was a **boogeyman** made up by her nannies and knick-knacks in the attic to keep her in line right up until the pair's first and last meeting, which ended with the son of a bitch getting a bullet between the eyes! People should be prostrating themselves trying to thank her for snuffing that fucker!!
+Fucking hell! Tolliver's the number one arms dealer in the world, but he could at least spoil his only child if he's not gonna talk to her! At least momma's got the excuse of being dead!  
+Y'know, she used to believe Mr. Tolliver was a boogeyman made up by her nannies and knick-knacks in the attic to keep her in line right up until the pair's first and last meeting, which ended with the son of a bitch getting a bullet between the eyes! People should be prostrating themselves trying to thank her for snuffing that fucker!!
 
 Ugh! Gross, gross, *gross!!* Just thinking about Marlowe's childhood makes her want to puke.
 
@@ -40,9 +40,9 @@ Whatever, whatever, what-the-*fuck*-ever.
 On a much lighter note, no one ever told her how much fun life was beyond the Tolliver estate!  
 A *very* sizable inheritance <small>that was totally legit and not stolen</small>, no tethers to the *ye olde ways* of crime, no more standing around in stuffy clothes learning how to disappear without a trace. Little old Marlowe can finally live life the way she wants to, and no one's gonna be stupid enough to tell her otherwise! Y'know, unless they want to be turned into mince meat.
 
-And, ah! She's lived in Nouvelle-Yorke for, like, all of her life, but she's only heard of supers in **hushed tones** between her nannies to prevent little Marlowe from asking questions or — Stars-forbid — getting any **unsavory ideas** in her bouncy little head.
+And, ah! She's lived in Nouvelle-Yorke for, like, all of her life, but she's only heard of supers in hushed tones between her nannies to prevent little Marlowe from asking questions or — Stars-forbid — getting any unsavory ideas in her bouncy little head.
 
-Seeing them trade blows, making such a fucking **spectacle** out of their ideals and morals is such a sight to behold up-close! Everyone's constantly scrambling to prove they're correct, or get the most money, or just piss people off for their amusement… It makes her so excited to finally be a part of! **All the world's a stage**, but the super scene offers so many stories with so many characters to religiously study, Marlowe feels like she's gonna **vomit** from it all!!
+Seeing them trade blows, making such a fucking spectacle out of their ideals and morals is such a sight to behold up-close! Everyone's constantly scrambling to prove they're correct, or get the most money, or just piss people off for their amusement… It makes her so excited to finally be a part of! All the world's a stage, but the super scene offers so many stories with so many characters to religiously study, Marlowe feels like she's gonna vomit from it all!!
 
 Ahahaha… Fucking hell. She's gonna have *so* much fun.
 

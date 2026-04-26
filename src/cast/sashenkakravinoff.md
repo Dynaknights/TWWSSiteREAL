@@ -1,7 +1,7 @@
 ---
 title: Sashenka Kravinoff
 id: SashenkaKravinoff
-subtitle: On a Quest for Her Grand Finale
+subtitle: The Perfect Hunter
 tags:
 - super
 - h. medialis
@@ -19,26 +19,26 @@ birthplace: Volgograd, Russia
 nicknames: Sasha, Kraven, The Hunter, Kitty
 
 songinc: true
-songartist: Mindless Self Indulgence
-song: 3S'
-songlink: https://www.youtube.com/watch?v=CdIhfisOZvc
+songartist: FLAVOR FOLEY
+song: BUTCHER VANITY
+songlink: https://youtu.be/vjBFftpQxxM?si=mB5jAWOU8FRkxcwM
 ---
 
 *All the world's a stage!*  
-Something to display the glittering facets of the **soul** through the billions of intertwined stories that each build the **human experience**, which is then observed by the innumerable eyes of the Cosmos! Life is a beautiful thing, without a doubt.
+Something to display the glittering facets of the soul through the billions of intertwined stories that each build the human experience, which is then observed by the innumerable eyes of the Cosmos! Life is a beautiful thing, without a doubt.
 
-Yet, alas, all stories must meet their **bitter ends**. A shame, truly, but an inevitable demise serves as the perfect backdrop for a **climax**, no?  
-*Ah*, do not fret; the life and times of **Sashenka Kravinoff** have been performed with utmost **diligence** and **care**, which is to say that Sashenka's life has been **masterfully orchestrated** exactly how she wished it to be.  
-Her pathetic ancestors have been repeatedly surpassed in all fields — especially **hunting** — thanks to Sashenka's efforts, putting even the grandest of the bunch to shame. Hell, she even **future-proofed** her legacy. *Heh*. No little **upstart** from that wretched bloodline is going to **relinquish** her **god-like status**.
+Yet, alas, all stories must meet their bitter ends. A shame, truly, but an inevitable demise serves as the perfect backdrop for a **climax**, no?  
+*Ah*, do not fret; the life and times of **Sashenka Kravinoff** have been performed with utmost diligence and care, which is to say that Sashenka's life has been masterfully orchestrated exactly how she wished it to be.  
+Her pathetic ancestors have been repeatedly surpassed in all fields — especially hunting — thanks to Sashenka's efforts, putting even the grandest of the bunch to shame. Hell, she even future-proofed her legacy. *Heh*. No little upstart from that wretched bloodline is going to seize her **manmade divine status**.
 
-See, with such accomplishments, you cannot blame her for growing… bored. The thrill of becoming the greatest hunter the world has ever known suddenly grew **flat** — **insipid**; what more is there to hold if you already have it all? *Retirement*? *Stars*, don't make her laugh, people really *do* lack spirit nowadays. Such a pity, truly.  
-Ah, she shan't forget the strain of **aging** and the torture of feeling your body sit on the precipice of **muted decay**. It's clear Sashenka's time is **dwindling** before her very eyes. However, Sashenka will not simply rot out of existence! A tale as grand as hers yearns for a **magnificent ending**!
+See, with such accomplishments, you cannot blame her for growing… bored. The thrill of becoming the greatest hunter the world has ever known suddenly grew flat — insipid; what more is there to hold if you already have it all? *Retirement*? *Stars*, don't make her laugh, people really *do* lack spirit nowadays. Such a pity, truly.  
+But, ah, she shan't forget the strain of aging and the torture of feeling your body sit on the precipice of muted decay. It's clear Sashenka's time is dwindling before her very eyes. However, Sashenka will not simply rot out of existence! A tale as grand as hers yearns for a **magnificent ending**!
 
-Sashenka's soul twitched for something to sink its teeth into again, as if it were a **starving tigress**. After making what was supposed to be a brief visit to **Nouvelle-Yorke**, witnessing the the unbridled chaos of the **superpowered scene**, the smell of **fresh meat** was too alluring to ignore in more ways than one.
+Sashenka's soul had ached for something to sink its teeth into again, as if it were a starving tigress. After making what was supposed to be a brief visit to Nouvelle-Yorke, witnessing the the unbridled chaos of the superpowered scene, the stench of **fresh meat** was too alluring to ignore in more ways than one.
 
 *What exciting times we all live in!*  
-Meeting death via a most **spectacular ending** at the hand of a **worthy rival** sends electrifying shocks coursing through her veins at such an alluring prospect, even now…
-The **survival of the fittest** is in full effect. Let the **final hunt** begin.
+Meeting death via a most spectacular ending at the hand of a worthy rival sends electrifying shocks coursing through her veins at such an perfect prospect, even now…
+The **survival of the fittest** is in full effect. Let the final hunt begin.
 
 ## Attributes
 

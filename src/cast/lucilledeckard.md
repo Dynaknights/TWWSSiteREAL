@@ -19,9 +19,9 @@ birthplace: Bald Head, Maine, URL
 nicknames: Lulu, Luci, Squid, Doctopus, Cici, Master Planner
 
 songinc: true
-songartist: Oingo Boingo
-song: Weird Science
-songlink: https://www.youtube.com/watch?v=Jm-upHSP9KU
+songartist: Blue Kid
+song: The Dismemberment Song
+songlink: https://www.youtube.com/watch?v=qOb-Ha7UaEw
 ---
 
 …Oh, stars. Wow.
@@ -30,20 +30,20 @@ songlink: https://www.youtube.com/watch?v=Jm-upHSP9KU
 
 You're here for **Lucille Magnum-Belle Deckard**? *Her!*? *Really!?* ***AAAAAHHH!!***
 
-*Ah—!* Wow, wow, ***WOW!!*** ***NO***, no, no, no, no— don't walk away, it's okay! Please, come sit, let her pull up a chair and some treats for you. Lucille doesn't mind curious guests at all! She doesn't bite!
+*Ah—!* Wow, wow, ***WOW!!*** ***NO***, no, no, no, no— don't walk away, it's okay! Please, come sit, let her fetch a seat and some treats for you. Lucille doesn't mind curious guests at all! She doesn't bite!
 
   
 
-*Aheh…* Apologies. Admittedly, it gets quite **lonely** in her little hovel. Lucille's been lacking a team of any sort to assist with projects for a long, *long* time; with the countless hours she spends toiling over projects, the casual human voice sounds almost foreign now. Isn't that strange?
+*Aheh…* Apologies. Admittedly, it gets quite lonely in her little hovel. Lucille's been lacking a team of any sort to assist with projects for a long, *long* time; with the countless hours she spends toiling over projects, the casual human voice sounds almost foreign now. Isn't that strange?
 
-She doesn't exactly miss working with people, though. The rigid social structures of academia — and, by proxy, the world at large — prohibit the imagination, along with genius intellect, required to truly withstand scientific rigor. You'd be surprised how many people find growing body parts to be **unethical** or a waste of university budget, *eugh*. Academia views Lucille to be too much of a damn **space case** to even bother *trying* to see the **good** she aims to achieve for lowly humanity, it's— it's *bonkers!*
+She doesn't exactly miss working with people, however. The rigid social structures of academia — and, by proxy, the world at large — prohibit the imagination, along with genius intellect, required to truly withstand scientific rigor. You'd be surprised how many people find growing body parts to be unethical or a waste of university budget, *eugh*. Academia views Lucille to be too much of a damn space case to even bother *trying* to see the good she aims to achieve for lowly humanity, it's— it's *bonkers!*
 
   
 
-Ah-huh—? The **tentacles** behind her? Some of those aren't technically called tentacles, but she'll let it slide, just for you.  
-Any-who, yes, yes. Those are byproducts of her research; created to assist with alleviating those with intense physical traumas and disabilities! Think **Weapon X**, but with a better ethical standpoint! As in… there's no torture involved, haha. Not beyond her sanity when everything melts into pure math, anyway! Hahaha!
+Ah-huh—? The tentacles behind her? Some of those aren't technically called tentacles, but she'll let it slide, just for you.  
+Any-who, yes, yes. Those are byproducts of her research; created to assist with alleviating the quality of life of those with intense physical traumas and disabilities! Think Weapon X, but with a better ethical standpoint! As in… there's no torture involved, haha. Not beyond her sanity when everything melts into pure math, anyway! Hahaha!
 
-You can touch the pseudo-organs, if you wish! They're a little **slimy** because — eh — she needs to prevent **rot** somehow, right? They're still *very* much prototypes, however. So, maybe a less slime-covered solution will rear its head! These arms *do* leave quite the mess, plus the **scabs** they leave are quite itchy…
+You can touch the pseudo-organs, if you wish! They're a little slimy because — eh — she needs to prevent rot somehow, right? They're still *very* much prototypes, however. So, maybe a less slime-covered solution will rear its head! These arms *do* leave quite the mess, plus the scabs they leave are quite itchy…
 
 Eh? They're similar to already-existing, patented **Oscorp** property? Hah. *Very* funny. Don't mention that repulsive excuse of an organization, please. Lucille's been having such a good day with you around.
 
@@ -51,10 +51,10 @@ Eh? They're similar to already-existing, patented **Oscorp** property? Hah. *Ver
 
 Wait, what? You weren't joking? Ack… Haha… That sounds really bad!
 
-Sounds like Lucille's got her work cut out for her. Ha. Haha. Hahahaha. Hahahahahahahahahaha. Lesser minds will get what's coming to them She's gonna **rip** them apart from the seams until they beg Lucille for mercy and tear into that sniveling snake, [Noémie](/cast/noemiemarisolosborne)'s flesh and heal and tear and heal and tear and her fucking [brat son](/cast/harveyosborne) will be beaten and broken—
+Sounds like Lucille's got her work cut out for her. Ha. Haha. Hahahaha. Hahahahahahahahahaha. Lesser minds will get what's coming to them. She's gonna rip them apart from the seams until they beg Lucille for mercy and tear into that sniveling snake, [Noémie](/cast/noemiemarisolosborne)'s flesh and heal and tear and heal and tear and her fucking [brat son](/cast/harveyosborne) will be beaten and broken—
 
 Hm? No, Lucille's fine. Haha.  
-She's feeling **great**, actually. It's like she's on top of the world and can accomplish **anything** if she puts her mind to it; **euphoria**, but with no drugs! Partially because of lovely little you, of course, but also because the arms have weird effects on mood and such. Better than the empty tedium of day-to-day living, no? Amplifying every biochemical reaction to one-thousand?
+She's feeling great, actually. It's like she's on top of the world and can accomplish anything if she puts her mind to it; euphoria, but with no drugs! Partially because of lovely little you, of course, but also because the arms have weird effects on mood and such. Better than the empty tedium of day-to-day living, no? Amplifying every biochemical reaction to one-thousand?
 
 …Ah! Oh, dear.  
 She sincerely apologizes, she's just been yammering on and on for ages now, huh? So, please, enlighten her; tell her all about *you!*
@@ -104,3 +104,5 @@ Wiggly appendages with hooks trailing down the undersides. Used for locomotion a
 - Her typed emoticons only have one eye. The other is always crossed-out. ( • ⩊ x )
 - Greatly enjoys rubbing her slimy squid limbs all over people and things it likes out of affection.
 - Makes [biscuits](https://en.wikipedia.org/wiki/Kneading_(cats)) with her squid appendages.
+- Has very poor volume control. Always either too quiet or too loud, mostly the latter.
+- Mutters to herself constantly so fast that few can understand what she's saying. If she's not muttering to herself, she's talking to herself. If she's not talking to herself, she's singing to herself. If she's not singing to herself, she's whistling, humming, meowing, shouting, screaming, crying…

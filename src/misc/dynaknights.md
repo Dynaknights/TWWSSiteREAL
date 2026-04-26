@@ -17,7 +17,7 @@ age: Adult
 occupation: Legendary fart master
 artprogram: Krita (or MS Paint)
 codingprogram: VSCodium
-drawingtablet: Gaomon PD1560
+drawingtablet: Gaomon M10K Pro
 nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie…
 
 ---
@@ -32,7 +32,7 @@ I'm a recluse (and a yapper) who's got shit social skills and likes certain thin
 I've kind of lived under a rock my whole life in terms of things within the public consciousness; I never cared about things if they didn't relate to my interests. Especially now, since I decided to quit social media and kill my phone usage entirely in 2025. I've stood my ground surprisingly well, I'd say, but things now go even more over my head than before. I feel like a grouchy old man every time my friends show off new trends and memes now, eugh…  
 I have more time for things I like doing though. So, that's a plus! I also think my memory's a smidge better than it was, maybe.
 
-Since doomscrolling's off the table, my free time's taken up by drawing, reading, Vinesauce, and old video games. I say old video games specifically because I never hear about the newer ones and I'm not shilling out $80 for AAA shit I don't even know of when I can emulate for free. 
+Since doomscrolling's off the table, my free time's taken up by drawing, reading, Vinesauce, and old video games. I say old video games specifically because I never hear about the newer ones and I'm not shilling out $80 for AAA shit I don't even know of when I can emulate for free wink wink nudge nudge. 
 
 Anyway, welcome to my weird nerd site. Thanks for stopping by, sorry about the clutter, insert formal gratitude here, and let me know if there's a typo or if something's broken, por favor, thanks much. <img src="/assets/decor/myMelo1.gif">
 
@@ -48,7 +48,7 @@ Anyway, welcome to my weird nerd site. Thanks for stopping by, sorry about the c
 I really love video games. Hahaha.  
 I'm more into **'retro' games** and **older game hardware** than anything particularly novel (outside of a few titles), but my sentiment still stands. I suck dick at every game I play, but I still enjoy playing them anyway.  
 If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy arcade games, too.  
-If you're still curious, my favorite video game is ***Undertale*** with ***Ultrakill*** at a very close second. No, I don't like *Deltarune* nearly as much as I like *Undertale* though, sorry to say.  
+If you're still curious, my favorite video game is ***Undertale*** with ***Ultrakill*** at a very close second. No, I don't like *Deltarune* nearly as much as I like *Undertale*, sorry to say.  
 
 <div class="center">
 
@@ -77,6 +77,11 @@ Here's my **shelf**; containing both games I like and/or I'm actively playing as
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Spider-Man.png')"></div>
  <div class="funcoverg" style="background-image: url('/assets/funcovers/In Stars and Time.png')"></div>
 <div class="funcoverg" style="background-image: url('/assets/funcovers/Hypnospace Outlaw.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Cave Story.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Dead Cells.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Stardew Valley.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Disco Elysium.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Celeste.png')"></div>
  
 </div>
 
@@ -105,7 +110,7 @@ I like watching Vinny and Joel play weird games a lot. Remember: Linux will bric
 ---
 - **Music**  
 In terms of music, I listen to… not everything, but a lot of things! My favorite genres are **rap**, **rock**, **punk**, and **metal**.   
-My favorite album is ***Retcon*** by Red Vox; my favorite songs on there are ***The New Flesh*** and ***Memory Loss***. Retcon makes me so happy whenever I listen to it!
+My favorite album is ***Retcon*** by Red Vox; my favorite songs on there are ***The New Flesh*** and ***Reminds Me...***. Retcon makes me so happy whenever I listen to it!
 
 <div class="center">
 
@@ -137,6 +142,12 @@ As of **2026** I'm flipping through…
 </div>
 <div class="scrollbox">
 
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Cable and Deadpool.png')"></div>
+<div class="funcoverc" style="background-image: url('/assets/funcovers/Spider-Man1963.png')"></div>
+<div class="funcoverc" style="background-image: url('/assets/funcovers/Spider-Man Deadpool.png')"></div>
+<div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Killogy.png')"></div>
+<div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Killustrated.png')"></div>
+ <div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Circle Chase.png')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Watchmen.png')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.png')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Spawn.png')"></div>
@@ -150,7 +161,7 @@ As of **2026** I'm flipping through…
 I first watched *Across the Spider-Verse* when I was sixteen.
 
 I was disgustingly into Marvel at the time and was hyped for the film. Saw it, liked it, looked at cool stuff relating to it on social media and saw a revival of those Spider-sonas people made in 2018. I thought each and every Spider-sona I saw was the coolest thing on the goddamn planet… except for the AI-generated ones. There's so many of them, I genuinely got sick of 'em. It was like looking into a content farm of my own interests with how easy it was to saturate tags and the like.
-So, I made a Spider-sona as a little one-off thing that was disgustingly self-indulgent. I could never really see myself in **Peter Parker** or even **Miles Morales** — I've always turned to **Deadpool** if I felt unheard — despite liking Spider-Man a lot… so I thought it was cool I could be Spider-Man the way *I* wanted to.
+So, I made a Spider-sona as a little one-off thing that was disgustingly self-indulgent. I could never really see myself in **Peter Parker** or even **Miles Morales** — I've always turned to **Wade Wilson** if I felt unheard — despite liking Spider-Man a lot… so I thought it was cool the mask could be worn the way *I* wanted it to.
 
 I could finally truly feel seen through my characters and world along with exploring who I am as a person. I can make my perfect story and no one can stop me. Isn't that great?  
 Me, a guy who's been grappling with feeling like an absolute freak for his whole stinkin' life, feeling a little less like a freak because I just so happen to be really into Spider-Man. Whatever assauges the demons, man.
@@ -187,8 +198,8 @@ You can also shoot me a message on the **[guestbook](https://dynaknights.atabook
 - I didn't understand how things like pretend play or imaginary friends worked when I was younger. I didn't see the point in them and genuinely thought people just conjured up hyper-realistic hallucinations at will.
 - I loved books as a kid. However, I never actively engaged with fiction because I could never 'get' it, so to speak. I enjoyed being read to, sure, but I rarely picked up fiction books until my tweens (unless they were thick and I could flex my literary prowess). Even while I was in my tweens, I remember a period where I'd just read dictionaries.
 - When I was little, I was *really* into the concept of roleplays and video games. My actual experience with roleplays is practically nonexistent because I was — and still am — *way* too shy, but the idea of virtual spaces and pretend play fascinated me. It was probably because I had zero idea why people indulged in fiction. Boy, look at me now.
-- I didn't have an edgy emo phase as a tween; I had an edgier nihilism phase. It's worse than you think.
-- As a little baby transmasc, one of the real-life names I debated using was Wade due to my pedantic interest with Deadpool. I'm glad I didn't! It's not a bad name, but, even now, I still don't quite think it's for me.
+- I didn't have an edgy emo phase as a tween; I had an edgier nihilism-metaphysics-quantum mechanics-cosmology phase. It's worse than you think.
+- When I was a little baby transmasc, one of the real-life names I debated using was Wade due to my pedantic interest with Deadpool. I'm glad I didn't! It's not a bad name, but, even now, I still don't quite think it's for me.
 
 <div class="centerDivider">
 
@@ -201,22 +212,3 @@ You can also shoot me a message on the **[guestbook](https://dynaknights.atabook
   <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
 
   </div>
-
-  
-
-<div class="box4boxes">
-<div class="center">
-
-<small>GRAPHIC WALL ATTACK</small>
-
-<img src="/assets/blinkies/oingoboingo.gif"> <img src="/assets/blinkies/playstation.gif"> <img src="/assets/blinkies/queerlove4ever.gif"> <img src="/assets/blinkies/rubberducky.gif"> <img src="/assets/blinkies/retrogamer.gif"> <img src="/assets/blinkies/sanssweep.gif"> <img src="/assets/blinkies/science.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/scream.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/sillyclown.gif"> <img src="/assets/blinkies/spaceanomaly.gif"> <img src="/assets/blinkies/spacefuneral.gif"> <img src="/assets/blinkies/spideypool.gif" style="height:20px; width:150px;"> <img src="/assets/blinkies/startthefire.gif"> <img src="/assets/blinkies/t4t.gif"> <img src="/assets/blinkies/tmascswag.gif"> <img src="/assets/blinkies/uk.gif"> <img src="/assets/blinkies/uncool.gif"> <img src="/assets/blinkies/undertale.gif"> <img src="/assets/blinkies/wazzup.gif"> <img src="/assets/blinkies/whiteboywhy.gif" style="height:20px; width:150px;"> 
-
-<img src="/assets/idbuttons/aroace.png"> <img src="/assets/idbuttons/intp.png"> <img src="/assets/idbuttons/fighter.png"> <img src="/assets/idbuttons/falsegod.png"> <img src="/assets/idbuttons/marvel.png"> <img src="/assets/idbuttons/pcgamer.png"> <img src="/assets/idbuttons/pkmn.png"> <img src="/assets/idbuttons/precure.png"> <img src="/assets/idbuttons/science.png"> <img src="/assets/idbuttons/transmasc.png"> <img src="/assets/idbuttons/undertale.png"> <img src="/assets/idbuttons/nature.gif"> <img src="/assets/idbuttons/liminalspace.png"> <img src="/assets/idbuttons/introvert.png"> <img src="/assets/idbuttons/petscop.png"> <img src="/assets/idbuttons/rock.png"> <img src="/assets/idbuttons/metalhead.png"> <img src="/assets/idbuttons/ULTRAKILL.png">
-
-<img src="/assets/buttons/savedragonsnow.gif"> <a href="https://welcomehomerestorationproject.net/"><img src="/assets/buttons/whbarnaby.gif" style="height:32px;"></a> <a href="https://www.sbnation.com/a/17776-football"><img src="/assets/buttons/17776.gif"></a> <img src="/assets/buttons/activeworlds.gif"> <img src="/assets/buttons/aiistheft.gif"> <img src="/assets/buttons/aj.png"> <img src="/assets/buttons/atari.gif"> <img src="/assets/buttons/beefbrain.gif"> <img src="/assets/buttons/childlibrary.gif"> <img src="/assets/buttons/deletetiktok.gif"> <img src="/assets/buttons/fish.gif"> <img src="/assets/buttons/ditchsocials.gif"> <img src="/assets/buttons/makeawebsite.png"> <img src="/assets/buttons/tboyswag.gif"> <img src="/assets/buttons/yeah.png"> <img src="/assets/buttons/trans.gif">
-<img src="/assets/buttons/ilikecomputer.jpg"> <img src="/assets/buttons/neocities.gif"> <img src="/assets/buttons/nowebp.gif"> <img src="/assets/buttons/nowemulate.gif"> <img src="/assets/buttons/nowspidey.gif"> <img src="/assets/buttons/piracy.gif"> <img src="/assets/buttons/proao3.gif"> <img src="/assets/buttons/webdesignismypassion.gif"> <img src="/assets/buttons/youareastar.gif"> <a href="https://notbyai.fyi/"><img src="/assets/buttons/notbyai.png" style="height:32px;"></a> <img src="/assets/buttons/anarchy.gif"> <img src="/assets/buttons/anonymize.gif"> <img src="/assets/buttons/cocksucker.png"> <img src="/assets/buttons/deaddove.gif"> <img src="/assets/buttons/internetanimal.png"> <img src="/assets/buttons/utact.png"> <img src="/assets/buttons/youretellingme.png"> <img src="/assets/buttons/cssisawesome.png">
-
-<img src="/assets/stamps/stamp136.png"> <img src="/assets/stamps/stamp134.png"> <img src="/assets/stamps/stamp130.png"> <img src="/assets/stamps/stamp123.png"> <img src="/assets/stamps/stamp115.gif"> <img src="/assets/stamps/stamp100.png"> <img src="/assets/stamps/stamp97.gif"> <img src="/assets/stamps/stamp89.gif"> <img src="/assets/stamps/stamp71.png"> <img src="/assets/stamps/stamp53.png"> <img src="/assets/stamps/stamp32.png"> <img src="/assets/stamps/stamp16.gif"> <img src="/assets/stamps/stamp92.gif"> <img src="/assets/stamps/stamp93.gif"> <img src="/assets/stamps/stamp94.png"> <img src="/assets/stamps/stamp108.gif"> <img src="/assets/stamps/fire.gif"> <img src="/assets/stamps/clownlicense.gif">  <img src="/assets/stamps/all-of-twilight.gif"> <img src="/assets/stamps/aceattorney.gif"> <img src="/assets/stamps/slowinternet.gif"> <img src="/assets/stamps/brick.gif"> <img src="/assets/stamps/lousystamp.png"> <img src="/assets/stamps/stamp137.png"> <img src="/assets/stamps/stamp135.png"> <img src="/assets/stamps/stamp128.gif"> <img src="/assets/stamps/stamp125.gif"> <img src="/assets/stamps/stamp103.png"> <img src="/assets/stamps/stamp99.gif"> <img src="/assets/stamps/stamp81.png"> <img src="/assets/stamps/stamp80.png"> <img src="/assets/stamps/stamp70.png"> <img src="/assets/stamps/stamp52.png"> <img src="/assets/stamps/stamp43.gif"> <img src="/assets/stamps/stamp51.gif"> <img src="/assets/stamps/stamp109.gif"> <img src="/assets/stamps/stamp110.gif"> <img src="/assets/stamps/stamp132.gif"> <img src="/assets/stamps/stamp84.png"> <img src="/assets/stamps/creamsoda.gif"> <img src="/assets/stamps/clawdeen.gif"> <img src="/assets/stamps/cautionsharpedges.gif"> <img src="/assets/stamps/retrogamer.png"> <img src="/assets/stamps/real.gif"> <img src="/assets/stamps/gameboy.gif"> <img src="/assets/stamps/orgasmdonor.gif">
-
-</div>
-</div>

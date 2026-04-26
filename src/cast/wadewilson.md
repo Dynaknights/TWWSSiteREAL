@@ -22,17 +22,17 @@ birthplace: Regina, Saskatchewan, Canada
 nicknames: Merc with a Mouth, 'Poolie, 'Pool, DP, Regenerating Degenerate, King of Staten Island, Your Cheesy Majesty
 
 songinc: true
-songartist: Giles Corey
-song: "No One is Ever Going to Want Me"
-songlink: https://youtu.be/xMK7IHF69Sc?si=LwFVcKYDsG1G_Iso
+songartist: AC/DC
+song: Dirty Deeds Done Dirt Cheap
+songlink: https://www.youtube.com/watch?v=UIE4UjBtx-o
 ---
 
 Come in, come in! Mai maison est tu maison!  
-Oh, doth his reputation not precede him? <small>Fucking kids these days.</small> **Pool, comma, Dead**; at your humble service — if you've got the **money**, anyway — but call him **Wade Winston Wilson**, por favor.
+Oh, doth his reputation not precede him? <small>Fucking kids these days.</small> **Pool, comma, Dead**; at your humble service — if you've got the moolah, anyway — but call him **Wade Winston Wilson**, por favor.
 
-\[\[ Please, ignore the cancer pus in the mask. Along with the other bodily fluids. \]\]
+*\[\[ Please, ignore the cancer pus in the mask. Along with the other bodily fluids. \]\]*
 
-\{\{ Yeah! And the fact his dad used to beat him! \}\}
+*\{\{ Yeah! And the fact his dad used to beat him! \}\}*
 
 SHUSH, you two. Take a seat, and your pal, Wadey Wilson, is gonna complain about a thing in a moderately thought-out way accompanied by flashy visuals and—
 
@@ -40,42 +40,42 @@ Woah, woah, *woah*. Full-stop.
   
 Where the **FUCK** are the **PICTURES**!?
 
-\[\[ Indie web Wiki database thing. It was on the papers. \]\]
+*\[\[ Indie web wiki database thing. It was on the papers. \]\]*
 
 A sphincter says *who*—?  
-Don't *any* of you *peons* understand the **integrity** and **art** and **tormented souls** and **numerous retcons** that go into **comics**!? What about the poor saps who haven't experienced Wade's testicular tumor glory firsthand!? This is *repulsive*!  
-Like— why the hell's he yappin' about himself in **third-person**, like some omnipresent, Utau the Watcher ass *prick*? Also, he can fucking *swear*! That's the only pro of this *Geocities wannabe*, actually. Thanks for that.
+Don't *any* of you *peons* understand the integrity and art and tormented souls and numerous retcons that go into comics!? What about the poor saps who haven't experienced Wade's testicular tumor glory firsthand!? This is *repulsive*!  
+Like— why the hell's he yappin' about himself in third-person, like some omnipresent, Utau the Watcher ass *prick*? Also, he can fucking *swear*! That's the only pro of this *Geocities wannabe*, actually. Thanks for that.
 
-\[\[ I'm pretty sure the Watcher isn't in this universe. \]\]
+*\[\[ I'm pretty sure the Watcher isn't in this universe. \]\]*
 
-\{\{ Thank fuck! We can finally jerk off without a bald guy in the peanut gallery! \}\}
+*\{\{ Thank fuck! We can FINALLY jerk off without yet another bald guy in the peanut gallery! \}\}*
 
-\[\[ The guy's the direct opposite of a peanut gallery, dumbass. \]\]
+*\[\[ The guy's the direct opposite of a peanut gallery, dumbass. \]\]*
 
 WhatEVER! Wade can work with the chit-chat. He's called the **Merc with a Mouth** for a reason, and he'll be damned if he doesn't live up to the title.
   
-Well, Wade's the best there is in the 'biz at what he does — slicing, dicing, extortion, borrowing, blackmail, potpourri; pick your poison (literally, in some cases) — and *greatly* enjoys the **thrill**, **escapism**, **control**, and **violence** of it all.  
+Well, Wade's the best there is in the 'biz at what he does — slicing, dicing, extortion, borrowing, blackmail, potpourri; pick your poison (literally, in some cases) — and *greatly* enjoys the thrill, escapism, control, and violence of it all.  
 It's also satisfying seeing people get pissy when they realize Wade's the better merc in the end — eat shit, Tasky — but that's just a bonus.    
-The whole **healing factor** thing's a big help, if you ignore all of the **trauma** and **side-effects** that came with it! But, really, *who cares*?
+The whole **healing factor** thing's a big help, if you ignore all of the trauma and side-effects that came with it! But, really, *who cares*?
 
-\[\[ Uh… you? \]\]
+*\[\[ Uh… you? \]\]*
 
 *Any-whosies*, Wade's *sick* and *tired* of this whole thing.  
-Sure, sinking himself into violence until he couldn't distinguish himself from the viscera of casualty after casualty seemed like a *fantastic* idea when he first dragged himself out of the smoldering rubble of the **Weapon X Program** fuck-knows how long ago, but he feels… **stuck** now. Like he's destined to fit in the role of a lunatic with a gun for eternity and not much else.
+Sure, sinking himself into violence until he couldn't distinguish himself from the viscera of casualty after casualty seemed like a *fantastic* idea when he first dragged himself out of the smoldering rubble of the **Weapon X Program** fuck-knows how long ago, but he feels… stuck now. Like he's destined to fit in the role of a lunatic with a gun for eternity and not much else.
   
-\{\{ …Say that again? \}\}
+*\{\{ …Say that again? \}\}*
 
-\[\[ You're not a lunatic with a gun. You'd never only bring one gun with you. \]\]
+*\[\[ You're not a lunatic with a gun. You'd never only bring one gun with you. \]\]*
 
-Even after Wade's *numerous* attempts of self-help and paths to righteousness, which seemed to just *tease* the edge of being free from this filthy cycle and into being somewhat redeemable — ***BAM!*** — he's right back where he started: in **Weasel**'s shithole of a bar while nursing a Blowjob and getting a Gold Card. Fuck this, fuck him, and fuck you. He'll never be any better than a worthless, fugly ass, yapping killer. Every day, he seems to accidentally dig himself a little deeper into the weight of his kill count.    
-They say **history repeats itself**, but *this*— it's so fucking stupid! What joke is there to crack, when only joke's **him**! And he *hates* being the butt of jokes! <small>No pun intended…</small>
+Even after Wade's *numerous* attempts of self-help and paths to righteousness, which seemed to just *tease* the edge of being free from this filthy cycle and into being somewhat redeemable — ***BAM!*** — he's right back where he started: in [Weasel](/cast/jackhammer)'s shithole of a bar while nursing a Blowjob and getting a Gold Card. Fuck this, fuck him, and fuck you. He'll never be any better than a worthless, fugly ass, yapping killer. Every day, he seems to accidentally dig himself a little deeper into the weight of his kill count.    
+They say history repeats itself, but *this*— it's so fucking stupid! What joke is there to crack, when only joke's him! And he *hates* being the butt of jokes! <small>No pun intended…</small>
 
-It's like he's hit a **ceiling**, and he can't possibly go any further. The only way out of stasis is a long way down.  
-There's always *something* that makes Wade ***snap***, like muscles pulled too taut. All of a sudden, the familiar metallic stench of blood melts into crimson kevlar and his head's all scrambled looking for purchase on a reality that doesn't fuckin' exist and he's waking up in a dingy bathtub in a safe-house with velvet red staining the tiles behind him and he can't remember what the hell happened and it repeats again and again and again and again and again and again and ***again***.
+It's like he's hit a ceiling, and he can't possibly go any further. The only way out of stasis is a long way down.  
+There's always *something* that makes Wade *snap*, like muscles pulled too taut. All of a sudden, the familiar metallic stench of blood melts into crimson kevlar and his head's all scrambled looking for purchase on a reality that doesn't fuckin' exist and he's waking up in a dingy bathtub in a safe-house with velvet red staining the tiles behind him and he can't remember what the hell happened and it repeats again and again and again and again and again and again and *again*.
 
-\{\{ Oh, come *ON*! This shit again!? How many times do we need to remind you, old man!? \}\}
+*\{\{ Oh, come ON! This shit again!? How many times do we need to remind you, old man!? \}\}*
 
-\[\[ It probably doesn't work because of the whole annoying, insane, obsessive, fugly serial murderer thing who's got an unfathomably large bounty over his head. There's only so much you can change about yourself before you just look like a parody of a self-help project. \]\]
+*\[\[ It probably doesn't work because of the whole annoying, insane, obsessive, fugly serial murderer thing who's got an unfathomably large bounty over his head. There's only so much you can change about yourself before you just look like a parody of a self-help project. \]\]*
 
 …So what in the *fucking seashells* is that damn childlike hope that never goes away?
 
@@ -122,13 +122,13 @@ Let's see here… Suction cup thingies, grappling hook, Little Book of Grudges, 
 - Has very little body hair that grow in shallow patches. Wade shaves them off (except his eyelashes) because he dislikes them.
 - Eyes and teeth are yellow or yellow-ish. Up to you.
 - Wade's speech bubbles are **yellow**. They've always been yellow in Marvel-licensed media to represent a vague distinction between the rough, gravelly sound of Wade's voice compared to other characters. E256B Wade's voice is like this due to **scarred and mangled vocal cords**, making his voice **strained**, **rough**, and **gravelly**.
-- Wade has **two voices in his head**. **\{\{ This is Yellow \}\}** and **\[\[ This is White \]\]**. They visually appear in boxes colored yellow and white respectively. Are they voices? Alters? Manifestations? Something more? Wade really doesn't know, but they're definitely assholes who are loud as fuck.
+- Wade has **two voices in his head**. ***\{\{ This is Yellow \}\}*** and ***\[\[ This is White \]\]***. They visually appear in boxes colored yellow and white respectively. Are they voices? Alters? Manifestations? Something more? Wade really doesn't know, but they're definitely assholes who are loud as fuck.
 
 ## Trivia
 
 <img src="/assets/decor/cassette1.png" div class="pagedollbreaker">
 
-- Wade's favorite food is… *not* chimichangas. It's **pancakes**. He prefers them drowned to death in maple syrup and topped with whipped cream. <small>\{\{ *Mmm… whipped cream.* \}\}</small> …But Mexican food comes at a very close second.
+- Wade's favorite food is… *not* chimichangas. It's **pancakes**. He prefers them drowned to death in "authentic Canadian" maple syrup and topped with whipped cream. <small>*\{\{ Mmm… whipped cream. \}\}*</small> …But Mexican food comes at a very close second.
 - Due to White and Yellow (along with other chaos in his head) along with the desperate need to talk, he thinks out loud and talks to himself. When White and Yellow are being loud, he talks even *louder* and *faster* in response until they shut up.
 - Wade is extremely warm all of the time, regardless of external temperature, due to his healing factor constantly working.
 - Harasses random people on the street if he's especially bored and wants to take his mind off things. The police can't do shit because they know Wade will weasel his way out of any and every prison he lands in… or he'll kill them. He mostly enjoys tormenting said officers by putting donuts on fishing poles and hanging those in front of them.

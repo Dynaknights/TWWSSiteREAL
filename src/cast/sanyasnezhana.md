@@ -12,7 +12,7 @@ pagedoll: canvas.png
 tableFields:
 pronouns: Any pronouns
 alias: Chameleon
-species: Human mutate
+species: Human mutant
 age: Adult
 occupation: Criminal, freelance artist
 birthplace: Volgograd, Russia
@@ -24,19 +24,19 @@ song: Wet
 songlink: https://www.youtube.com/watch?v=wqPdeT6Jpdg
 ---
 
-Despite humanity being at constant war with Mother Nature no longer, the cardinal rule, **survival of the fittest**, eternally reigns supreme. Death is the rule, survival is the exception, and hope is damned to be forever in vain.  
-The strong flourish upon the suffering of the weak and — Glory, save her soul — **Sanya Snezhana** is the **epitome** of ***weak***.  
-Every moment warrants a constant reminder, smearing it in the face: life has no place for something as indubitably **frail**, **wretched**, and **pathetic** as meek little Sanya beyond licking the shit upon its heel and prostrating herself as a show of deference.
+Despite humanity being at constant war with Mother Nature no longer, the cardinal law, **survival of the fittest**, eternally reigns supreme. Death is the rule, survival is the exception, and hope is damned to be forever in vain.  
+The strong flourish upon the suffering of the weak and — Glory, save her soul — **Sanya Snezhana** is the epitome of ***weak***.  
+Every moment warrants a constant reminder, smearing it in the face: life has no place for something as indubitably frail, wretched, and pathetic as meek little Sanya beyond licking the shit upon its heel and prostrating herself as a show of deference.
 
-When you find yourself to be a **lowly little mouse**, every figure is a **skyscraper**. Every extended hand aims to be the cause of your complete and utter **destruction**. Every grin expertly hides **gnashing teeth** *drooling* at the prospect of rending pale, teary-eyed flesh asunder. One's true colors can be glimpsed by becoming the muse of boundless **gluttony**, **lust**, and **rage**.  
+When you find yourself to be a lowly little mouse, every figure is a skyscraper. Every extended hand aims to be the cause of your complete and utter destruction. Every grin expertly hides gnashing teeth *drooling* at the prospect of rending pale, teary-eyed flesh asunder. One's true colors can be glimpsed by becoming the muse of boundless gluttony, lust, and rage.  
 …What a cold, heartless, *unloving* beast the Galactic Glory has turned out to be.  
-Thus, when she felt her very identity **fracture** under the unyielding force of **mutating**, she explored the art of **camouflage** to escape the drooling maw of the **Kravinoff estate**, melding her skin and self to be perfect replicas of her targets served as a crutch to understand how **insignificant** and **infinitesimal** she truly is in the eyes of life and the Universe…
+Thus, when Sanya felt her very identity fracture beneath the unyielding force of mutating, she explored the art of camouflage to escape the drooling maw of the Kravinoff estate, melding her skin and self to be perfect replicas of her targets served as a crutch to understand how insignificant and infinitesimal she truly is in the eyes of life and the Universe…
 
-…No matter. Her curse has, undoubtedly, served Sanya well in the grand scheme of things. The gilded muzzles from the Kravinoff estate would still be a haunting presence without this newfound power, after all. *Anything*, even death itself, is a **luxury** compared to that **perdition**.  
-Now that she's in the chaotic graces of Nouvelle-Yorke, however, she found her most fallible mind beginning to wonder to and fro, free and unrestrained from the burden of appearing prim and proper; did she miss the Kravinoff estate? Even now, she feels dredges of… anguish — thinking of her **elder sister**, especially. That *pathetic excuse* of a creature; the gluttonous **tiger**.
+…No matter. Her curse has, undoubtedly, served Sanya well in the grand scheme of things. The gilded muzzles from the Kravinoff estate would still be a haunting presence without this newfound power, after all. *Anything*, even death itself, is a luxury compared to that perdition.  
+Now that she's in the chaotic graces of Nouvelle-Yorke, however, she found her most fallible mind beginning to wonder to and fro, free and unrestrained from the burden of appearing prim and proper; did she miss the Kravinoff estate? Even now, she feels dredges of… anguish — thinking of her [elder sister](/cast/sashenkakravinoff), especially. That *pathetic excuse* of a creature; the gluttonous **tiger**.
 
 No, surely. Impossible. The past was a living hell and time marches forever onward.  
-…Although, at least that **hell** — not just the mansion, but her **sister** — had given Sanya a purpose for living. The ultimate terror of being **directionless**, like a leaf caught in a violent wind, is being realized.
+…Although, at least that hell — not just the mansion, but her sister — had given Sanya a purpose for living. The ultimate terror of being directionless, like a leaf caught in a violent wind, is being realized.
 
 How pathetic this all is. *Behold*, the Universe's longest running gag.
 
@@ -44,7 +44,7 @@ How pathetic this all is. *Behold*, the Universe's longest running gag.
 
 ### Abilities
 - **Appearance alteration**  
-You know how marine animals change the pigmentation of their skin? That's how Sanya alters traits like skin/eye color, freckles, beauty marks, etc. Anything that isn't flat can be molded directly from her skin, like clay, or faked through props.
+You know how marine animals change the pigmentation of their skin? That's how Sanya alters traits like skin/eye color, freckles, beauty marks, etc. Anything that isn't flat can be molded directly from her skin, like clay, or faked through props. Kind of a pain to maintain, however. Not to mention the whole… depersonalization thing.
 - **Mastery of mimickry**
 - **Mastery of disguise**
 
