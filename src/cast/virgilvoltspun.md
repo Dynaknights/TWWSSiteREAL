@@ -31,9 +31,9 @@ So, go on then. Call him what you'd like.
 
 Miserable. Wretched. Hell, even a downer, if you will. It's not gonna change shit in the long run; that's if there'll even *be* a long run to look forward to in the first place.
 
-'Course, when **Virgil Vesper Voltspun** first got mutated thanks to that stupid ass spider biting him in the middle of his literal suicide attempt a while back, he thought — *heh*, don't make fun of him — his newfound superhuman abilities were the coolest thing in the whole fucking world. Y'know, 'cause he was twelve and didn't know what he was getting into.
+'Course, when **Virgil Vesper Voltspun** first got mutated thanks to that stupid ass spider biting him in the middle of his literal suicide attempt a while back, he thought — *heh*, don't make fun of him — his newfound superhuman abilities were the coolest thing in the whole fucking world. Y'know, 'cause he was *twelve* and didn't know what he was getting into.
 
-The fuck's is a cooler thing to a twelve-year-old than getting superpowers?
+The fuck's a cooler thing to a twelve-year-old than getting superpowers?
 
 Becoming a vigilante, that's right.  
 Virgil's been a downright loser since he was a kid. People *literally* gave him fucking *wedgies*. Of *course* he's gonna embrace the possibility of being one of the cool vigilantes and supers on TV without thinking twice! It's a miracle he even thought of obscuring his identity with this whole '**Web-Surfer**' personality!
@@ -63,7 +63,7 @@ Ultra durable, strong, and plentiful webbing is produced in Virgil's body, which
 - **Somewhat faster processing speed**
 - **"Spider-Sense"**  
 It's a bit complicated, but, in short, he can sense vibrations, chemicals, electricity (to some extent), and air currents from anything via tactile hairs all over his body, like Daredevil's hearing, so to speak. If something seems dangerous in his opinion, the epicenter of this sense on the back of his nape triggers his brain to activate fight or flight. All of this happens very, very fast, so people speculate Web-Surfer has precognition, which is untrue.  
-He can also kind of tell/guess what a person is feeling or thinking since the sense can pick up biochemical reactions, sort of like pheromones (although humans probably don't have those). He's memorized a few specific substances and their correlated emotion (mostly fear and danger), but he's still bad at emotions. He frequently misinterprets them and/or doubts both his abilities along with the other party, thinking they're hiding their emotions and secretly hate him.
+He can also kind of tell/guess what a person is feeling or thinking since the sense can pick up biochemical reactions, sort of like pheromones (although humans probably don't have those). He's memorized a few specific substances and their correlated emotions (mostly fear and danger), but he's still bad at feelings. He frequently misinterprets them and/or doubts both his abilities along with the other party, thinking they're hiding their emotions and secretly hate him.
 - **Highly accelerated metabolism**
 - **Healing factor**  
 Not as good as [Deadpool](/cast/wadewilson)'s or Wolverine's, but nothing to sneeze at either. Grants a major resistance to alcohol and drugs, but not total immunity.

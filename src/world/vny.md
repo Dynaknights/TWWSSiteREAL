@@ -23,12 +23,12 @@ nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 
 It's chock-full of contradictions like that; keeping its eyes bloodshot while foaming at the mouth like a rabid animal, but still keeping those same eyes glued to the Stars, trying endlessly to touch the sky while drowning in its own perfect filth.
 
-<img src="/assets/decor/parfait.png" div class="pagedollbreaker">
+<img src="/assets/decor/bananasplit.png" div class="pagedollbreaker">
 
 After the Empty Eras' end, reformation and generational compensation was promised by exponentially wealthy elites. Flowery speeches daisy-chained upon shimmering podiums by politicians had branded Nouvelle-Yorke as Stardom incarnate; a paragon of an idealistic future.  
 Behold, the fruits of superficial labor rendered La Pomme Grosse as yet another star-gilded hell. Superficial labor by superficial politicians bred a superficial society who praises spectacle and presentation beyond all else.
 
-The architecture is daring, bold, nigh-unconceivable. Skyscrapers, streets, and landmarks each seem to exude auras of character through their elaborate swooping arches and eternally twisting bridges. Ornate pillars, along with statues, expertly crafted by sculptors made the comeback of a lifetime by lining streets, decorating entranceways, and offering public places to sit and rest.  
+The architecture is daring, bold, nigh-unconceivable. Skyscrapers, streets, and landmarks each seem to exude auras of character through their elaborate swooping arches and eternally twisting bridges. Ornate pillars, along with statues, expertly crafted by sculptors made the comeback of a lifetime by lining streets, decorating entrance ways, and offering public places to sit and rest.  
 Hell, even local third spaces of all kinds have begun springing up from their graves. Parks are happily abundant with more flora and fauna than ever, Nouvelle-Yorke's transportation and housing systems have been completely re-imagined from scratch with an emphasis on walkability and community. Not to mention the cleanliness, of course, tended to by diligent robots created by expert [Lucille Deckard](/cast/lucilledeckard) and funded by [Oscorp](/world/vny#Oscorp) to drastically improve the quality of life. It's no wonder people had swallowed politicians' thorned words when they were first spouted when the results are like this.  
 …Such is the superficial presentation of Nouvelle-Yorke; a city that endlessly brags about its changes since the repulsive 21st century.
 

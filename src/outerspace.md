@@ -39,7 +39,7 @@ Surya kind of just… appeared one day in **late 2112**, with the entire solar s
 
 ## Valse d'Argent
 
-<img src="/assets/decor/stampspace.png" div class="pagedollbreaker">
+<img src="/assets/decor/somalune.png" div class="pagedollbreaker">
 
 The **Valse d'Argent** is a partial [Dyson swarm](https://www.space.com/dyson-sphere.html) aimed to collect Sol-Surya's <small>(mainly Surya's)</small> waste heat ~3.25 AU from Sol (a little bit beyond Mars' orbit).  
 The Valse only collects **~2.1%** of this residual heat, but this smidge of energy — coupled with backup nuclear power plants — grants more than enough energy to last for generations and then some.  

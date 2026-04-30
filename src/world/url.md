@@ -22,7 +22,7 @@ religion: Neo-Panpsychism (59%)
 <div class="center">
 <div class="bigishbox">
 
-This article is a stub.  
+**This article is a stub.**  
 I kind of doubt you could assist in improving it, since this site doesn't take volunteers, but it'll be bigger soon enough. Sorry about that.
 
 </div>
@@ -50,6 +50,9 @@ TBA…
 TBA…
 
 ## Society and Culture
+TBA…
+
+### French/American Lean
 TBA…
 
 ### Leathucarian French
