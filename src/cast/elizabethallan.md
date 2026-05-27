@@ -18,9 +18,9 @@ birthplace: Hometown, West Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
 
 songinc: true
-songartist: Femtanyl
-song: DOGMATICA
-songlink: https://youtu.be/PRXS2kDFVIY?si=61r2nJNOIshUN8JM
+songartist: Limp Bizkit
+song: Faith
+songlink: https://www.youtube.com/watch?v=l-EdCNjumvI
 ---
 
 Life is fucking worthless. To **Elizabeth Allan**, this ain't shit but an objective truth.  
@@ -68,16 +68,14 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 - Great cook! Terrible baker. Gets baked goods by either buying them or nagging her friends into baking for her.
 - Has a rabbit-filled paracosm named **Sunset Silver**. Or, well, *used to*, anyway.
 - *Massive* fan-fiction lover.
-- Everyone calls her Liz and gets miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun); he's done that ever since they first met and can't break the habit.
+- Greatly prefers to be called 'Liz' and gets miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), who's done that ever since they first met and can't break the habit.
 - Regularly visits the plentiful mascot cafes within Nouvelle-Yorke and is able to recall the respective characters from every single one.
 - Currently testing weight loss techniques via endless pacing while daydreaming. Just ends up with really sore feet every time.
-- Enjoys roller skating while blasting music from her walkman.
-- Also likes blogging and pretending she's one of those stereotypical preppy girls from shitty teen movies.
+- Loves pretending she's a protagonist from niche coming-of-age movies that are heavily romanticized so that she doesn't spiral when she thinks about her life for too long.
 - Says hi to people by waving one arm in massive arcs over her head.
 - Greatly enjoys binge-eating while watching/playing bad horror media. …And then gets upset later because she was binge-eating.
-- Amazing at racing games despite rarely touching them.
-- …But she's terrible at air hockey.
+- Amazing at racing games despite rarely touching them. …But she's terrible at air hockey, regardless of her competitive nature.
 - Convinced Lourdes' population of pigeons to obey her every command by training them during a severe mental episode in high school, then crowned herself as Lourdes' Pigeon Lord and hasn't relinquished her title since. Currently at war with [Staten's King of Rats](/cast/wadewilson).
 - Almost misses Hometown due to Nouvelle-Yorke's constant chaos and bustle. *Almost*.
 - Was the person who crafted her and Virgil's matching hat-wings with the intention of them being keychains. Virgil convinced Liz to let him shove magnets into the wings and her hat in their high school years to "make them even cooler."
-- Regularly bites people. Nearly broke her teeth off trying to bite Virgil once and, much to Liz's dismay, hasn't bitten him that hard since.
+- Regularly bites people. Regrets nothing.

@@ -12,13 +12,13 @@ tags:
 canonical: true
 ---
 
-The explosive end of the third millennium heralds a colorfully bleak future.
+The end of the third millennium heralds a colorfully bleak future.
 
-Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from climate change and energy crises to world hunger and healthcare. Society will never be a perfect futuristic paradise, like their ancestors had hoped, but the asymptote between an idealistic utopia and the land of the living gets smaller with each passing day.
+Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from climate change and energy crises to world hunger and healthcare. Society will never be a perfect paradise, like their ancestors had wished, but the asymptote between an idealistic utopia and the land of the living gets smaller with each passing day.
 
-However — to absolutely nobody's surprise — there's cracks in this idyllic perception.  
-Namely, the **2990s** feel like a bastardization of the 1990s accompanied by the relentless, superficial chaos that dominated the early 21st century. It feels like very little — if anything — has actually changed for the better as the centuries went by, despite people's efforts. Has humanity reached a impenetrable ceiling in terms of progress or is something too entangled within humanity's core for them to escape their self-made hell?  
-Discrimination, poverty, ludicrously high crime rates, wealth gaps, censorship, avarice, climbing suicide rates, and political corruption run rampant beneath the dream-like guise of social betterment and redemption, despite what politicians might tell you. The American dream still prevails, but it's all dolled up in endless flowers.  
+However — to absolutely nobody's surprise — there's cracks in this perception.  
+The most befitting descriptor of the **2990s** is '***stagnant***.' It feels like very little — if anything — has actually changed for the better as the centuries went by, despite people's efforts. Has humanity reached a ceiling in terms of progress or is human nature at fault?  
+Discrimination, poverty, ludicrously high crime rates, wealth gaps, censorship, avarice, climbing suicide rates, and political corruption run rampant beneath the dreamy guise of social betterment and redemption, despite what politicians might tell you. The American dream still prevails, but it's all dolled up in endless flowers.  
 Does anyone *actually* wish for life to get better or do they only wish to *play the part*? Humans *do* prefer the paths with the least resistance, after all.
 
 Speaking of life, the Universe may or may not be on its last legs. The human experience and reality itself feels like they're breaking themselves apart, like a puppet theatre on fire; the absolute destruction of a simulacrum, the end of a parody, a satire fragmenting itself out of existence. Seems to be a good thing, really.  

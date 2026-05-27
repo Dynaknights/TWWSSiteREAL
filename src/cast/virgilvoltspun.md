@@ -18,12 +18,12 @@ species: Human mutate
 age: Adult
 occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, Wisconsin, URL
-nicknames: Vee, Vivi, Virge, Virgin, Neuro-Die-a-Virgin, Webby, Webs, Web-Head, Webbed Wonder, Spider, Webster…
+nicknames: Vee, Vivi, Virge, Virgin, Neuro-Die-a-Virgin, Publius, Webby, Webs, Web-Head, Webster, Spider…
 
 songinc: true
-songartist: System of a Down
-song: CUBErt
-songlink: https://www.youtube.com/watch?v=CQM1Cuuorg4
+songartist: Red Vox
+song: Reminds Me…
+songlink: https://youtu.be/CyhmPzizEeU?si=GNNh9n3qNsBZKrLs
 ---
 
 Okay. Let's take this from the top, one last time.  
@@ -55,7 +55,7 @@ Ha. Hahaha. We're all fucked.
 ## Attributes
 
 ### Abilities
-- **Adehesion-based wall-crawling**  
+- **"Stick-'Em Powers"**  
 [Setae](https://en.wikipedia.org/wiki/Seta) (bristles) on Virgil's hands and feet enable him to 'stick' onto solid surfaces. These are very, *VERY* [sticky](https://thescienceof.org/wall-crawling-spider-man-geckos-van-der-waals-forces/) to make up for Virgil not being spider-sized. His palms and soles look unnaturally hairy at times.
 - **Organic webbing**  
 Ultra durable, strong, and plentiful webbing is produced in Virgil's body, which emerges through the spinnerets in his wrists. Very limited and often causes bleeding from the spigots due to overuse.
@@ -75,21 +75,21 @@ Most prominent of these include: reclusiveness, aggression, defensiveness, skitt
 - **Venom**  
 Not the symbiote.  
 Virgil's chelicerae can administer medically significant — but not serious, goes away on its own — venom. Symptoms include: muscle spasms, cramping, paralysis, numbness, tremors, and feelings of impending doom.
-- **"Return to Sender"**  
+- **"Knockback"**  
 You ever play *Ultrakill*?  
 Virgil is able to counter any projectile with at least double of its oncoming force to send it back whence it came.  
 Two problems though: he needs to actually be able to hit the projectile *hard* (light taps don't count, plus, the projectile must have a solid surface, no liquids nor gasses) and he must react fast enough to deflect it (for example: he could, hypothetically, punch a bullet, but it'd be highly risky due to the sheer speed of one).
 
 ### Equipment
 - **Wrist-mounted web-shooters + web-fluid**  
-This world is an advanced one that is so, so eager to invade your privacy. Technology developed to track people through a wide variety of biological signatures are not uncommon. Thus, Virgil developed a synthetic, better variant of his webbing. Also because the feeling of webs coming out of your arms is disgusting.
+This world is an advanced one that is so, so eager to invade your privacy. Technology developed to track people through a wide variety of biological signatures are not uncommon. Thus, Virgil devised a synthetic, better variant of his webbing. Also because the feeling of webs coming out of your arms is disgusting.
 - **Drones**  
 Primarily for pictures and not exactly useful for most of his vigilante work. Used to photograph, spy on or track adversaries, and survey areas.  
 Shaped like metallic bugs with massive lenses for faces.
 - **Web-wings**  
 Remember ballooning? Yeah… This is how he does that.
-- **Computerized mask**  
-Virgil's got a computer in his mask, Tony Stark style, but make it broke. No AI though.
+- **Mask**  
+Webby's got electronics in his mask to assist with his work, Tony Stark style, but make it broke. No AI though, too expensive to replace.
 - **Hand and foot pads**  
 Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints, provide small bursts of electricity, and… squeak when pressed on occasion.
 
@@ -106,7 +106,7 @@ Not just for decoration. His suit has dubious access to police resources and the
 
 <img src="/assets/decor/coinslot.png" div class="pagedollbreaker">
 
-- Virgil's favorite food is **Chicago-style meat-lovers' pizza topped with honey and dandelions**. He does *not* enjoy chunky tomato sauce though.
+- Virgil's favorite food is **Chicago-style meat-lovers' pizza drizzled with honey and dandelions**. He does *not* enjoy chunky tomato sauce though.
 - Virgil was bitten by a frantic, abnormally large ***[Heteroscodra maculata](https://en.wikipedia.org/wiki/Heteroscodra_maculata)***.
 - Virgil owns two female frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
 - Did not name himself 'Web-Surfer.' He made a computer joke when he was first starting out as a vigilante and someone thought it was his name, spread it, and here we are. He was originally gonna call himself something more straightforward and easier to remember but, alas, everyone already knew him as Web-Surfer. He could only salvage the hyphen.
@@ -118,6 +118,5 @@ Not just for decoration. His suit has dubious access to police resources and the
 - Virgil's enhanced senses and Spider-Sense make it extremely difficult to sneak up on/surprise him. However, it's not *impossible*.
 - Uses video game moves in fights. Did this when he was starting off due to a lack of combat training, but got too used to it even after learning to fight. You ever see someone perform a twenty-hit aerial combo in real life? That's Virgil's style.
 - May or may not be the only person in the Voltspun bloodline to not be named after a consumable item. His deadname is a type of cheese, though.
-- Greatly enjoys terrorizing people with sleds.
-- Spider-Sense can be thwarted by overstimulation, emotional breakdowns, trust, stress, chemical interference, biting/touching the back of Virgil's neck, etc. It's only a body part, after all, and is as fallible as the rest of him. I'm sure this won't bite him in the ass at all any time soon.
-- Despite the endless virginity jokes his name brought upon him, Virgil has had sex. 
+- Despite the endless virginity jokes his name brought upon him, Virgil has had sex.
+- Web-Surfer doesn't like surfing.

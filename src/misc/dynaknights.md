@@ -27,7 +27,7 @@ Howdy.
 My name is **Kirimu**. **Machine** works fine, too. Nice to meet you.  
 Know me by another name? Most likely, that one will work as well.
 
-I'm a recluse (and a yapper) who's got shit social skills and likes certain things too much. Sometimes, they spiral into things I need to get out of my system because I am very much a regulated and well-adjusted human being, just like you. This site's a good example of that.
+I'm a recluse (and a yapper) whose got shit social skills and likes certain things too much. Sometimes, they spiral into things I need to get out of my system because I am very much a regulated and well-adjusted human being, just like you. This site's a good example of that.
 
 I've kind of lived under a rock my whole life in terms of things within the public consciousness; I never cared about things if they didn't relate to my interests. Especially now, since I decided to quit social media and kill my phone usage entirely in 2025. I've stood my ground surprisingly well, I'd say, but things now go even more over my head than before. I feel like a grouchy old man every time my friends show off new trends and memes now, eugh…  
 I have more time for things I like doing though. So, that's a plus! I also think my memory's a smidge better than it was, maybe.
@@ -37,6 +37,8 @@ Since doomscrolling's off the table, my free time's taken up by drawing, reading
 Anyway, welcome to my weird nerd site. Thanks for stopping by, sorry about the clutter, insert formal gratitude here, and let me know if there's a typo or if something's broken, por favor, thanks much. <img src="/assets/decor/myMelo1.gif">
 
 <div class="centerDivider">
+
+<marquee><img src="/assets/idbuttons/aroace.png"> <img src="/assets/idbuttons/intp.png"> <img src="/assets/idbuttons/fighter.png"> <img src="/assets/idbuttons/falsegod.png"> <img src="/assets/idbuttons/marvel.png"> <img src="/assets/idbuttons/pcgamer.png"> <img src="/assets/idbuttons/pkmn.png"> <img src="/assets/idbuttons/precure.png"> <img src="/assets/idbuttons/science.png"> <img src="/assets/idbuttons/transmasc.png"> <img src="/assets/idbuttons/undertale.png"> <img src="/assets/idbuttons/nature.gif"> <img src="/assets/idbuttons/liminalspace.png"> <img src="/assets/idbuttons/introvert.png"> <img src="/assets/idbuttons/petscop.png"> <img src="/assets/idbuttons/rock.png"> <img src="/assets/idbuttons/metalhead.png"></marquee>
 
 <img src="/assets/dividers/divider31.png" style="height:70%; width:70%">
 
@@ -78,10 +80,10 @@ Here's my **shelf**; containing both games I like and/or I'm actively playing as
  <div class="funcoverg" style="background-image: url('/assets/funcovers/In Stars and Time.png')"></div>
 <div class="funcoverg" style="background-image: url('/assets/funcovers/Hypnospace Outlaw.png')"></div>
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Cave Story.png')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Dead Cells.png')"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Stardew Valley.png')"></div>
+ <div class="funcoverg" style="background-image: url('/assets/funcovers/Rule of Rose.jpg'); min-width:290px;"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Parasite Eve.jpg'); min-width:290px;"></div>
 <div class="funcoverg" style="background-image: url('/assets/funcovers/Disco Elysium.png')"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Celeste.png')"></div>
+<div class="funcoverg" style="background-image: url('/assets/funcovers/Koudelka.png'); min-width:450px;)"></div>
  
 </div>
 
@@ -153,6 +155,8 @@ As of **2026** I'm flipping through…
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Spawn.png')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Silver Surfer.png')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Invincible.png')"></div>
+  <div class="funcoverc" style="background-image: url('/assets/funcovers/runaways.jpg')"></div>
+   <div class="funcoverc" style="background-image: url('/assets/funcovers/saga.jpg')"></div>
  
 </div>
 
@@ -168,15 +172,9 @@ Me, a guy who's been grappling with feeling like an absolute freak for his whole
 
 ## Manifesto
 
-I don't have a manifesto.
+Man, I see so many websites boast manifestos that it almost pains me to say I don't have one.
 
-I can't really say this site was birthed out of love for the old web since… y'know, I'm too young for that. However, I was aware of the indie web during my teens and thought it was *soooo* cool. I remember spending hours site-hopping in my free time instead of doing homework.  
-I was bound to try my hand at webmastery eventually. So, why not combine this new interest with my biggest one: the random Marvel AU I made because I'm so normal and well-adjusted about the things I like?
-
-This website was created with the goal of organizing information regarding *TWWS* in a way that's comprehensive, complete, fun (for me) to make, fun (for you) to read about (maybe), and violently disassociated from mainstream social media. I sound like an old fart saying that, I'm sure, but technology sure seems to be cannibalizing itself lately, no?  
-I'm still very much ass at web development and creating stories, but maybe it'll get better with time. I apologize for any hiccups in the meantime. This is like, the fifth fucking iteration of this goddamn site. I'm so tired.
-
-…But since I'm being held at gunpoint, I'll tell you what. Here's a manifesto: **I hope you have fun**.
+Now, hey, don't get the wrong idea and assume that either *TWWS* or myself claim to be apolitical or whatever; that's untrue and (in my opinion) ignorant on a lot of levels. I just feel as though anything I'd put in a manifesto has probably been written and rewritten to death in a spiraling list of long-winded text boxes. Either that, or my views on certain somethings have been stated/implied on the site somewhere. I'm not going to bother with spelling things out more than I have already.
 
 ## Contact
 

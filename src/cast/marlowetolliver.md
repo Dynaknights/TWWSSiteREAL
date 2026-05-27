@@ -83,6 +83,7 @@ She wants to be heard, dammit!
 - Marlowe's favorite food is **gingerbread**.   
 It doesn't play with its food (Marlowe's a sophisticated lady, thank you very much!), but it does create elaborate stories and designs out of gingerbread before chowing down. There's never a happy ending for her gingerbread men.
 - Most of her nicknames originated from Marlowe being creatively destructive with her mercenary work, oftentimes turning her targets into bright red smears.
+- Satisfies her primal need to tear flesh off of carcasses by eating really tough steak.
 - Holds heavy appreciation for weird, surreal art.
 - Has written fan-fiction of multiple supers before and will do it again.
 - Alias comes from her usernames on wolf roleplay MMOs she likes to play. She's surprisingly good at roleplaying.

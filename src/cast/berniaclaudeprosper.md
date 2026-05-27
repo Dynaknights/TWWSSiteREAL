@@ -37,7 +37,7 @@ Anyway, ma was huggin' little ol' Bernie. Suffocatin' him with those thick curls
 
 Now, look at Flint. Can't even remember either of their faces nor a childhood home. Fucking hell. He's a stars-damned mess.  
 Couldn't get his act together and study 'cause he was high off the power that came with pa's death. The bullet changed everything in a single *bang*, really.  
-*Heh.* Flint can't hold a fucking job either, clearly. He was forced to do odd jobs as a gun-for-hire until he landed in the wretched graces of **Lonnie Lincoln** recently, that *useless bitch*, who — Stars, forgive him — had explained their contract by appealing to Flint's desires so much, the gun-slinger found it ridiculous to say no.
+*Heh.* Flint can't hold a fucking job either, clearly. He bounced 'round some odd jobs as a gun-for-hire 'till he landed in the wretched graces of **Lonnie Lincoln** recently, that *useless bitch*, who — Stars, forgive him — had explained their contract by appealing to Flint's desires so much, the gun-slinger found it ridiculous to say no.
 
 …Especially not with a kid at home who deserved the childhood Flint never got, see. She could finally put a safe and comfortable future in [Keemia](/cast/keemiaprosper)'s grubby lil' mitts after all of their sufferin', and all old Flint had to do was to do what she did best? Hey, stranger, sign her up, why don'tcha? Better than being homeless!  
 Fuckin' dumbass ol' Flint fucking herself over again. Got the whole story all twisted again.  

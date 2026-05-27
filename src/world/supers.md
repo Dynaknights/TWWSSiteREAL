@@ -22,9 +22,9 @@ I kind of doubt you could assist in improving it, since this site doesn't take v
 
 <img src="/assets/decor/plushmiles.png" div class="pagedollbreaker">
 
-**Supers** are people — typically **superhumans**, though not exclusively — who engage with crime through violence; they could be instigating crimes, fighting perceived lawbreakers to reinforce their ideologies, fighting the people who are fighting the people who instigated the crimes, or be ethically apathetic and only care about who pays more, etc.
+**Supers** are people — typically [mutated individuals](/world/mutations), though not exclusively — who engage with crime through violence; they could be instigating crimes, fighting perceived lawbreakers to reinforce their ideologies, fighting the people who are fighting the people who instigated the crimes, or be ethically apathetic and only care about who pays more, etc.
 
-Within the realm of fiction, such individuals have been referred to as **superheroes**, **supervillains**, **antiheroes**, and a litany of other titles or labels in order to categorize them via archetypal labels. This practice is only regulated to supers originating from fiction (even then, the term 'super' is usually used out of habit) for three reasons: the impossibility of definitively knowing someone's moral compass, the complexity and subjectivity of morality (i.e., what is and is not a criminal act worthy of punishment? What's the line between heroism and being an asshole?), and the fact that one's morality changes with time (someone who was considered a 'good person' in the past may be perceived as 'evil' later on or vice versa).  
+Within the realm of fiction, such individuals have been referred to as **superheroes**, **supervillains**, **antiheroes**, and a litany of other titles or labels in order to categorize them via archetypes. This practice is only regulated to supers originating from fiction (even then, the term 'super' is usually used out of habit) for three reasons: the impossibility of definitively knowing someone's moral compass, the complexity and subjectivity of morality (i.e., what is and is not a criminal act worthy of punishment? What's the line between heroism and being an asshole?), and the fact that one's morality changes with time (someone who was considered a 'good person' in the past may be perceived as 'evil' later on or vice versa). <small>Also because a lot of supers find it rude to call them literal villains but y'know who cares.</small>  
 Generally, it's considered bad practice (especially in news/journalistic fields, which can result in being fired or worse) and a poor judge of character. There are times where groups or individuals with established reputations are defined by these labels (especially if they explicitly use them), but those cases are few and far between.
 
 ## History
@@ -38,7 +38,7 @@ TBA…
 ## The Super Scene
 
 The subculture surrounding supers is what's colloquially dubbed as the **super scene** (if not called the **super subculture**).  
-That's a pretty loose definition, but what's defined as 'culture' in general is broad; art of any and all kinds, social media/in-person networks or spaces, ethics, politics, music, fashion, fandoms… fan-fiction, whatever, etc. All of these and beyond falls into that lenient definition as long as supers are the primary topic.
+That's a pretty loose definition, but what's defined as 'culture' in general is broad; art of any and all kinds, social media/in-person networks or spaces, ethics, politics, music, fashion, fandoms… fan-fiction, whatever, etc. All of these and beyond fall into that lenient definition as long as supers are the primary topic.
 
 It should be noted that the overarching term "subculture" is used as opposed to describing people within the super scene as a "fandom" (although, fandoms are subcultures in themselves) due to there being too many individual supers with individual fandoms to fit comfortably underneath one umbrella term.
 
@@ -90,4 +90,4 @@ TBA…
 - Some supers enjoy listening to music while they work, but it gives the enemy a tactical advantage… Man…
 - A lot of supers tend to wear hearing aids or some sort of vision correctors due to explosions and the like damaging their senses.
 - Puns are very much frowned upon within the super scene.
-- There's a small tradition of gifting superheroes street food as gratitude, typically hotdogs due to the number of hotdog vendors that get caught in crossfire.
+- There's a small tradition of gifting superheroes street food as gratitude, typically hotdogs due to the number of hotdog vendors who get caught in crossfire.

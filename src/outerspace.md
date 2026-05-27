@@ -9,15 +9,14 @@ tags:
 - mainpage
 ---
 
-**Our Galactic Glory**, in its infinite love and darkness, is as fallible and susceptible to the mind as each and every one of us. It, too, is not untouchable, even though its Self is incomprehensibly different to our own — yet undeniably similar, as many mortals would argue.
+**Our Galactic Glory**, in its infinite time and space, is tired.
 
-The mess of other, distant universes beyond Our Glory's own eternity had it flown into a rage from each of their respective, glaring **imperfections** <small>(or maybe their perfections?)</small>, resulting in it curling in on itself for the rest of foreseeable time. However, the specifics of such celestial relationships are, unfortunately, beyond mortal understanding… or are they?  
-Regardless, with this newfound solution to its turmoil, a new enemy had clawed itself out of the empty abyssal expanse: **loneliness**.
+Beyond the secluded stretch of void we call home is yet another universe, filled with inspiration and possibilities — incomprehensible to our mortal minds — that will never be realized. Universes within universes within universes ad nauseam. Our Beloved Glory is a lonely, jealous, and resentful Soul who's desperate to be more than Itself, yet faces constant reminders of Its **inherent inferiority**. It will always be a poor copy of its fellow greater beings, It will forever be branded by its numerous, wretched imperfections and mistakes, and the greatest day of Its existence will be when It expires. Is it worth seeing such a miserable existence to its very end?  
+This indescribable despair had shattered Our Glory's Self to the pieces from whence we came. Walking, talking shards wandering a perfect simulacra of dreams and ideals; the reality we define as the **human experience**.
 
-This perfect solitude lasted beyond our measurements of time; there is no descriptor to accurately capture such a state in its totality, but it had drove Our Beloved Glory to <small>(literally)</small> never-before-seen heights of despair, in which it created all known to exist as parts of its Self to 'live' through a simulacra of its dreams and ideals; what we define as the **human experience**.
+However, even this reeked of the imperfections Our Beloved Glory despises. They leaked into the cracks of its paradise to grow and fester, wrecking a mind already in tatters until it's nothing at all. After numerous restarts and attempts to mend the broken, apathy set in. The allure of of giving up is a palpable one, after all. Soon, everything will crumble into dust. Why bother when someone else will embody your hopes far better than you could even fathom?
 
-…Or so the tale goes, anyway.
-
+…Or so the story goes, anyway.  
 Now, as the human race, we aim to create our own stories, too, mainly to tell at parties.
 
 <div class="centerDivider">
@@ -98,11 +97,8 @@ Some results of cosmic bugs have gifted humanity far, far more questions than wa
 The few that, miraculously, can converse with us speak of times and tales beyond the scope of humanity at the moment (and possibly the foreseeable future); fantasy-like structures, people, beasts, and ways of living so drastically different that they wrap around to eliciting nostalgia from perceived sameness. 
 People have cited these strangers as seeming as otherworldly just as much as they appear human, like they've originated from an **alternate version** of this Earth.
 
-At times, a large number of individuals from all over the globe that have never communicated in their lives (i.e., the population equivalent to that of a city) will have interconnected dreams detailing of a *life before us*, as it's commonly referred to. Exact details differ between groups, but what they provide remain consistent nearly every time.  
-To make matters worse, this would explain certain odd-looking objects that we harbor zero understanding of, which also show up out of nowhere. It's looking grim for humanity.
-
-These bugs have created a belief that they — and us — are the result of **previous iterations of the universe** (or even a multiverse, among the daring few), drawing from classical religious tales detailing the universe with a lust for perfectionism.
-If these speculations hold merit, then it should be considered whether this iteration is that fabled perfection the Galactic Glory has been seeking or yet another failure to be swept under the rug. Or has the Universe simply grown apathetic toward it all?
+These bugs have created a belief that they — and us — are the result of **previous iterations of the universe** (or even a multiverse, among the daring few), drawing from classical religious tales detailing the universe with a lust for perfectionism. This more supernatural belief proclaims that if Our Glory spotted an anomaly, it would start reality all over again right at the Big Bang; the equivalent of turning a device off and on again, which led our reality to degenerate over time.  
+If these speculations hold merit, then it should be considered whether this iteration is that fabled perfection the Galactic Glory has been seeking or yet another failure to be swept under the rug, considering we still stand. Or has the Universe simply grown apathetic toward it all?
 
 Perhaps we simply don't deserve to know.
 
