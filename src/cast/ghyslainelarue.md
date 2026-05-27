@@ -1,7 +1,7 @@
 ---
 title: Ghyslaine LaRue
 subtitle: The Apple of an Eye
-id: ghyslainelarue
+id: GhyslaineLaRue
 tags:
 - human
 bgimage: bg65.png
