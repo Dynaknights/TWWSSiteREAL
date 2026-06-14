@@ -2,7 +2,7 @@
 title: Page Not Found
 id: not_found
 bgimage: bg183.png
-pagedoll: gba.png
+pagedoll: gba
 layout: 'base.njk'
 ---
 

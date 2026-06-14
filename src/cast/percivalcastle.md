@@ -8,7 +8,7 @@ tags:
 - human
 
 bgimage: bg24.png
-pagedoll: dogtags.png
+pagedoll: dogtags
 
 compdate: 2026-01-14
 
@@ -21,10 +21,11 @@ occupation: Vigilante, assassin
 birthplace: Lourdes, Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Pyrel, Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
 
-songinc: true
-songartist: Nonpoint
 song: Bullet with a Name
 songlink: https://www.youtube.com/watch?v=KuHsmUon6Mg
+
+song2: Rip & Tear
+songlink2: https://www.youtube.com/watch?v=zZMg9ryeWOw
 ---
 
 This line of work's a useless, hopeless battle. No doubts about it.
@@ -100,4 +101,4 @@ A personal arsenal, including…
 - Greatly dislikes the URL Army and police after they began associating the Punisher's logo with their own agendas. Very, *very* begrudgingly hit up She-Hulk to force them to stop (along with death threats, of course).
 - Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her. Uses the death of said wife as an excuse for their 'war on crime,' but maybe it's something *more*. Whatever it is, Pyrel doesn't care. …They *hope* they don't, anyway.
 - Very interested in weapons; mainly guns. For effective killing, of course, but also actually understanding the engineering behind such tools and how they work so well (or do not).
-- Secret *Warhammer: 40k* fan. Finds comfort in its bleak setting, but will never admit this.
+- Secret *Warhammer: 40k* fan. Finds a strange sense of comfort in its bleak setting, but will never admit this.

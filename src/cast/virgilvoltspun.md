@@ -7,7 +7,7 @@ tags:
 - h. medialis
 
 bgimage: bg123.gif
-pagedoll: stampspace2.png
+pagedoll: stampspace2
 
 compdate: 2025-10-29
 
@@ -20,10 +20,21 @@ occupation: Vigilante, freelance photographer, full-time student
 birthplace: Disco, Wisconsin, URL
 nicknames: Vee, Vivi, Virge, Virgin, Neuro-Die-a-Virgin, Publius, Webby, Webs, Web-Head, Webster, Spider…
 
-songinc: true
-songartist: Red Vox
 song: Reminds Me…
 songlink: https://youtu.be/CyhmPzizEeU?si=GNNh9n3qNsBZKrLs
+
+song2: Eyeless
+songlink2: https://www.youtube.com/watch?v=WLubS6QOMsQ
+
+song3: Why Can't This Be Easy
+songlink3: https://www.youtube.com/watch?v=YQSU2oEcuPA&list=RDYQSU2oEcuPA&start_radio=1
+
+song4: A/V
+songlink4: https://www.youtube.com/watch?v=uGANSyV1C10&list=OLAK5uy_np9p2WQD6QW1yc7URYzAxrPR7rcdPjdq4&index=6
+
+song5: Be Someone Forever
+songlink5: https://www.youtube.com/watch?v=tKu93n5-QS4&pp=ygUSYmUgc29tZW9uZSBmb3JldmVy
+
 ---
 
 Okay. Let's take this from the top, one last time.  
@@ -60,7 +71,7 @@ Ha. Hahaha. We're all fucked.
 - **Organic webbing**  
 Ultra durable, strong, and plentiful webbing is produced in Virgil's body, which emerges through the spinnerets in his wrists. Very limited and often causes bleeding from the spigots due to overuse.
 - **Enhanced senses, durability, speed, stamina, agility, and equilibrium**  
-- **Somewhat faster processing speed**
+- **Above average processing speed**
 - **"Spider-Sense"**  
 It's a bit complicated, but, in short, he can sense vibrations, chemicals, electricity (to some extent), and air currents from anything via tactile hairs all over his body, like Daredevil's hearing, so to speak. If something seems dangerous in his opinion, the epicenter of this sense on the back of his nape triggers his brain to activate fight or flight. All of this happens very, very fast, so people speculate Web-Surfer has precognition, which is untrue.  
 He can also kind of tell/guess what a person is feeling or thinking since the sense can pick up biochemical reactions, sort of like pheromones (although humans probably don't have those). He's memorized a few specific substances and their correlated emotions (mostly fear and danger), but he's still bad at feelings. He frequently misinterprets them and/or doubts both his abilities along with the other party, thinking they're hiding their emotions and secretly hate him.

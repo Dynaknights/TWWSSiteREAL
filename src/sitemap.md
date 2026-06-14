@@ -2,7 +2,7 @@
 title: Sitemap
 id: sitemap
 bgimage: bg72.gif
-pagedoll: computer.png
+pagedoll: computer
 layout: 'sitemapbase.njk'
 tags:
 - mainpage

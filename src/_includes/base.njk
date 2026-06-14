@@ -8,32 +8,25 @@ tags:
 <body>
     <header-component></header-component>
   
-<header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})"></header>
+<header id="header" style="background-image: url(/assets/bgs/{{ bgimage }})" alt="A repeating pattern"></header>
       <main>
 
+<div id="container"><main>
+    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your left) flapping"> {{ title +"!" }} <img src="/assets/decor/wing2.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your right) flapping"></h1>
 {% if (subtitle) %}
-
-<div id="container"><main>
-    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
-    <h2 div class="center" style="margin-top: -15px;"><img src="/assets/decor/swirlblue.gif"> {{ subtitle }} <img src="/assets/decor/swirlblue.gif"></h2>
-
-{%- else -%}
-
-<div id="container"><main>
-    <h1><img src="/assets/decor/wing1.gif"> {{ title +"!" }} <img src="/assets/decor/wing2.gif"></h1>
-
+ <h2 div class="center" style="margin-top: -15px;"><img src="/assets/decor/swirlblue.gif"  alt="A pixel art GIF of a baby blue swirl"> {{ subtitle }} <img src="/assets/decor/swirlblue.gif" alt="A pixel art GIF of a baby blue swirl"></h2>
 {% endif %}
 
 {% if (pagedoll) %}
   <div class="pagedoll">
-  <a href="#"><img src="/assets/decor/{{ pagedoll }}"></a>
+  <a href="#"><img src="/assets/decor/{{ pagedoll }}.png" alt="Pagedoll"></a>
   </div>
   {% endif %}
 
   {% if (drama) %}
 
   <div class="centerDivider">
-  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
   </div>
  
   <blockquote><em>{{ drama }}</em></blockquote>
@@ -41,17 +34,17 @@ tags:
     {%- else -%}
 
     <div class="centerDivider">
-      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
     </div>
 
   {% endif %}
 
   {% if (pagedoll2) %}
-  <img src="/assets/decor/{{ pagedoll2 }}" div class="pagedollbreaker">
+  <img src="/assets/decor/{{ pagedoll2 }}.png" div class="pagedollbreaker" alt="Pagedoll">
   {% endif %}
 
   {% if (cover) %}
-  <div class="coverhere" style="background-image: url('/assets/gallery/covers/{{ cover }}')"></div>
+  <div class="coverhere" style="background-image: url('/assets/gallery/{{ cover }}.png')" alt="A fake TWWS comic book-like cover."></div>
   {% endif %}
 
   {{ content | safe }}

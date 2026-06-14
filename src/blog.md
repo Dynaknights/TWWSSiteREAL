@@ -2,7 +2,7 @@
 title: Blogging & Yapping
 id: blog
 bgimage: bg20.png
-pagedoll: tamagotchi1.png
+pagedoll: tamagotchi1
 layout: 'blogdirbase.njk'
 tags:
 - mainpage

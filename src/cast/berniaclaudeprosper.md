@@ -6,7 +6,7 @@ tags:
 - super
 - h. medialis
 bgimage: bg105.png
-pagedoll: seashellashtray.png
+pagedoll: seashellashtray
 
 tableFields:
 pronouns: She/her, he/him
@@ -17,10 +17,23 @@ occupation: Criminal, hired gun, bounty hunter
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Bernie, Flint, Flintlock, Sandy
 
-songinc: true
-songartist: Juvenile
-song: Rodeo
-songlink: https://youtu.be/Wqkhn5nNsdY?si=OHFC-FHZ_mx9eZKd
+song: Saint Bernard
+songlink: https://www.youtube.com/watch?v=9sXA64B_8D0
+
+song2: Satanic Cowboy
+songlink2: https://www.youtube.com/watch?v=ZDr6ZNe8QjE
+
+song3: Heaven Knows I'm Miserable Now
+songlink3: https://www.youtube.com/watch?v=PQyqrlFOe5s&pp=ygUeaGVhdmVuIGtub3dzIGknbSBtaXNlcmFibGUgbm930gcJCSMLAYcqIYzv
+
+song4: Good Old-Fashioned Lover Boy
+songlink4: https://www.youtube.com/watch?v=E33xxupPyKg&pp=ygUcZ29vZCBvbGQgZmFzaGlvbmVkIGxvdmVyIGJveQ%3D%3D
+
+song5: Please Take a Letter, Miss Brown
+songlink5: https://www.youtube.com/watch?v=qocG0-pPBeg
+
+song6: Kill Yourself
+songlink6: https://www.youtube.com/watch?v=sSermkEB7Ds
 ---
 
 Glory, may your endless mercy endure for eternity.

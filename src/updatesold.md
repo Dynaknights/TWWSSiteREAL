@@ -2,7 +2,7 @@
 title: Older Update Log
 id: updatesold
 bgimage: bg191.gif
-pagedoll: 'newspaper.png'
+pagedoll: 'newspaper'
 layout: 'updatesbaseold.njk'
 tags:
 - mainpage

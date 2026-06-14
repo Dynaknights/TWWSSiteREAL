@@ -6,7 +6,7 @@ tags:
 - human
 - super
 
-pagedoll: flipphonesanrio.png
+pagedoll: flipphonesanrio
 bgimage: bg156.gif
 
 compdate: 2026-01-09
@@ -20,11 +20,17 @@ occupation: Mercenary, arms dealer, drug dealer
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Notre-Dame de Violence, Big Bad Wolf, She-Wolf, Mar, Lou, Lowe, Wolfie, Tiny Tolliver
 
-songinc: true
-songartist: Femtanyl & ISSBROKIE
 song: NASTYWERKKKK!
 songlink: https://youtu.be/CFVAE23tekc?si=LZxBRL5vmiRzlOsT
 
+song2: DOGMATICA
+songlink2: https://www.youtube.com/watch?v=PRXS2kDFVIY
+
+song3: Invader Invader
+songlink3: https://www.youtube.com/watch?v=jcIOg_m-bp4
+
+song4: Weird Girl
+songlink4: https://www.youtube.com/watch?v=ziGtsv3PsN4
 ---
 Despite Mr. Tolliver's efforts, **Marlowe Lore Tolliver** is more than her father's child, and always will be.
 

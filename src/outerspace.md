@@ -1,8 +1,8 @@
 ---
 title: Outer Space
 id: outerspace
-pagedoll: feltrocket.png
-pagedoll2: stars1.png
+pagedoll: feltrocket
+pagedoll2: stars1
 bgimage: bg123.gif
 layout: 'basetoc.njk'
 tags:

@@ -7,7 +7,7 @@ tags:
 - human
 
 bgimage: bg180.png
-pagedoll: stampcrystal.png
+pagedoll: stampcrystal
 
 tableFields:
 pronouns: She/her (pref), they/them, he/him
@@ -17,10 +17,20 @@ occupation: Full-time student, barista, freelance artist
 birthplace: Hometown, West Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
 
-songinc: true
-songartist: Limp Bizkit
 song: Faith
 songlink: https://www.youtube.com/watch?v=l-EdCNjumvI
+
+song2: Hate Bein' Sober
+songlink2: https://www.youtube.com/watch?v=6LabALciaCk
+
+song3: Bloodeater
+songlink3: https://www.youtube.com/watch?v=hxPa2dSdHdc
+
+song4: Kitty
+songlink4: https://www.youtube.com/watch?v=wo2L--mZ4h8
+
+song5: Terrorist
+songlink5: https://www.youtube.com/watch?v=lA1Y-vCsPt0
 ---
 
 Life is fucking worthless. To **Elizabeth Allan**, this ain't shit but an objective truth.  
@@ -68,6 +78,7 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 - Great cook! Terrible baker. Gets baked goods by either buying them or nagging her friends into baking for her.
 - Has a rabbit-filled paracosm named **Sunset Silver**. Or, well, *used to*, anyway.
 - *Massive* fan-fiction lover.
+- Is a very lovey-dovey, sentimental person when it comes to her friends and she HATES it. Will tear up when drunk and all of her friends are having fun together out of affection.
 - Greatly prefers to be called 'Liz' and gets miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), who's done that ever since they first met and can't break the habit.
 - Regularly visits the plentiful mascot cafes within Nouvelle-Yorke and is able to recall the respective characters from every single one.
 - Currently testing weight loss techniques via endless pacing while daydreaming. Just ends up with really sore feet every time.
@@ -78,4 +89,4 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 - Convinced Lourdes' population of pigeons to obey her every command by training them during a severe mental episode in high school, then crowned herself as Lourdes' Pigeon Lord and hasn't relinquished her title since. Currently at war with [Staten's King of Rats](/cast/wadewilson).
 - Almost misses Hometown due to Nouvelle-Yorke's constant chaos and bustle. *Almost*.
 - Was the person who crafted her and Virgil's matching hat-wings with the intention of them being keychains. Virgil convinced Liz to let him shove magnets into the wings and her hat in their high school years to "make them even cooler."
-- Regularly bites people. Regrets nothing.
+- Regularly bites people out of affection. Regrets nothing.

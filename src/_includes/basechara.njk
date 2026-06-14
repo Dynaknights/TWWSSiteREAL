@@ -48,8 +48,8 @@ layout: 'base.njk'
 
   {% if (song) %}
     <tr>
-    <td>Song</td>
-    <td><a href="{{ songlink }}">{{ songartist }} -  <i>{{ song }}</i></a></td>
+    <td>Song(s)</td>
+    <td><a target="_blank" href="{{ songlink }}"><i>{{ song }}</i></a>{% if (song2) %}, <a target="_blank" href="{{ songlink2 }}"><i>{{ song2 }}</i></a>{% endif %}{% if (song3) %}, <a target="_blank" href="{{ songlink3 }}"><i>{{ song3 }}</i></a>{% endif %}{% if (song4) %}, <a target="_blank" href="{{ songlink4 }}"><i>{{ song4 }}</i></a>{% endif %}{% if (song5) %}, <a target="_blank" href="{{ songlink5 }}"><i>{{ song5 }}</i></a>{% endif %}{% if (song6) %}, <a target="_blank" href="{{ songlink6 }}"><i>{{ song6 }}</i></a>{% endif %}</td>
   </tr>
   {% endif %}
 

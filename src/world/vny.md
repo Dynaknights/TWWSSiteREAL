@@ -7,7 +7,7 @@ tags:
 
 bigger: true
 bgimage: bg103.gif
-pagedoll: paperboat.png
+pagedoll: paperboat
 thumbnail: unfinished.png
 
 state: Nouvelle-Yorke (NY)

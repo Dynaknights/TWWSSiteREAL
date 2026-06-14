@@ -6,7 +6,7 @@ tags:
 - mutations
 
 bgimage: bg195.jpg
-pagedoll: whoa.png
+pagedoll: whoa
 
 nicknames: Supes, capes, caped crusaders
 ---

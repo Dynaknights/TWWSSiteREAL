@@ -9,6 +9,8 @@ module.exports=function(eleventyConfig){
       return DateTime.fromJSDate(dateObj, { zone: 'utc'}).toLocaleString(DateTime.DATE_MED);
     })
 
+  // Gallery start
+
     eleventyConfig.addFilter('getOnlyMyArt', function (arr) {
 	return arr.filter(a => !a.author);
 });
@@ -19,6 +21,8 @@ eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
 eleventyConfig.addFilter('filterGallery', function (arr, f) {
 	return arr.filter(a => a.Ct?.includes(f.toLowerCase()));
 });
+
+// Page ordering start
 
     eleventyConfig.addCollection("mainpage", function(collection) {
         return collection.getFilteredByGlob("src/*.md").sort(function(a, b) {

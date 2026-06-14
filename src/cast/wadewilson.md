@@ -8,7 +8,7 @@ tags:
 - h. medialis
 
 bgimage: bg177.gif
-pagedoll: ipod.png
+pagedoll: ipod
 
 compdate: 2025-10-29
 
@@ -19,10 +19,8 @@ species: Human mutate
 age: Adult
 occupation: Mercenary, criminal, vigilante…?
 birthplace: Regina, Saskatchewan, Canada
-nicknames: Merc with a Mouth, 'Poolie, 'Pool, DP, Regenerating Degenerate, King of Staten Island, Your Cheesy Majesty
+nicknames: Merc with a Mouth, 'Poolie, 'Pool, DP, Regenerating Degenerate, King of Staten Island, Your Cheesiness
 
-songinc: true
-songartist: AC/DC
 song: Dirty Deeds Done Dirt Cheap
 songlink: https://www.youtube.com/watch?v=UIE4UjBtx-o
 ---

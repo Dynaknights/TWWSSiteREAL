@@ -2,7 +2,7 @@
 title: Update Log
 id: updates
 bgimage: bg28.png
-pagedoll: 'bulletinboard.gif'
+pagedoll: 'flipphone'
 layout: 'updatesbase.njk'
 tags:
 - mainpage

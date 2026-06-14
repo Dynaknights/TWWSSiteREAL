@@ -113,14 +113,14 @@ display: none;
 
 <!-- Side navigation -->
 <div class="sidenav">
-<div class="imagehere" style="background-image: url('/assets/decor/navsmicon.png')"></div><br>
+<div class="imagehere" style="background-image: url('/assets/decor/navsmicon.png')" alt="An icon of Spider-Man"></div><br>
 <a href="/index">Home</a>
 <a href="/cast">Meet the Cast</a>
 <a href="/e256b">Earth-256-B</a>
 <a href="/outerspace">Outer Space</a>
-<a href="/sitemap">Sitemap</a>
-<a href="/misc">Miscellaneous</a>
 <a href="/blog">Blog</a>
+<a href="/misc">Miscellaneous</a>
+<a href="/sitemap">Sitemap</a>
 <a href="/updates">Updates</a>
 </div>
 `;

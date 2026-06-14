@@ -7,7 +7,7 @@ tags:
 - h. medialis
 
 bgimage: bg152.png
-pagedoll: canvas.png
+pagedoll: canvas
 
 tableFields:
 pronouns: Any pronouns
@@ -18,8 +18,6 @@ occupation: Criminal, freelance artist
 birthplace: Volgograd, Russia
 nicknames: Mouse, Fussy Baby, *various insults*
 
-songinc: true
-songartist: Dazey and the Scouts
 song: Wet
 songlink: https://www.youtube.com/watch?v=wqPdeT6Jpdg
 ---

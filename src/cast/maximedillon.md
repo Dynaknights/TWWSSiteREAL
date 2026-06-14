@@ -6,7 +6,7 @@ tags:
 - super
 - h. medialis
 bgimage: bg112.png
-pagedoll: plushdragon.png
+pagedoll: plushdragon
 
 tableFields:
 pronouns: She/her(?)
@@ -17,10 +17,12 @@ occupation: Criminal
 birthplace: Trenton, New Jersey, URL
 nicknames: Max, Maxie, Maxou, Buzz, Sparky
 
-songinc: true
-songartist: System of a Down
 song: Vicinity of Obscenity
 songlink: https://www.youtube.com/watch?v=FEskZcvVul4
+
+song2: Murder of the Universe
+songlink2: https://www.youtube.com/watch?v=jYBB7bRW4z0
+
 ---
 
 Oh, man.

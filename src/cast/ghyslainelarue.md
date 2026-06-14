@@ -5,7 +5,7 @@ id: GhyslaineLaRue
 tags:
 - human
 bgimage: bg65.png
-pagedoll: applecute.png
+pagedoll: applecute
 
 tableFields:
 pronouns: She/her, they/them
@@ -15,10 +15,20 @@ occupation: Student, Oscorp intern
 birthplace: Smiley Township, Minnesota, URL
 nicknames: Laine, Jizz-laine, Melpomene, Pomme, Apple Pie, Worm Brain
 
-songinc: true
-songartist: Creamcheese of Son
 song: ロートとハイ
 songlink: https://youtu.be/J8FlGMUWWrc?t=0&si=EossS1TcXqp4I6PD
+
+song2: Molly Sells Molly by the Seashore
+songlink2: https://www.youtube.com/watch?v=m5OK5T2mZis
+
+song3: Um Can We Communicate
+songlink3: https://www.youtube.com/watch?v=pVeTW-4U04Q
+
+song4: Special Stage
+songlink4: https://www.youtube.com/watch?v=cuzotd7eQvc
+
+song5: Won't Stop, Just Go!
+songlink5: https://www.youtube.com/watch?v=sIx8rJxfarI
 ---
 
 **Ghyslaine Fleur LaRue** is completely, utterly, and statistically **unlovable**.
@@ -48,6 +58,7 @@ She finds it soothing.
 - Displays very little body language if ever.
 - Glasses are not optional.
 - Just go to town on bracelets. Ghyslaine loves friendship and kandi bracelets. Give her lots, if you want.
+- Has a soft, raspy voice.
 
 ## Trivia
 
@@ -56,15 +67,17 @@ She finds it soothing.
 - Adores **Honeycrisp apples** to death and it's been her favorite food for as long as she can remember. Ghyslaine can eat truckloads of the stuff and will never tire of it. It's simple, plain, delicious, and keeps the doctor away.
 - She prefers orange juice to apple juice. Traitor…
 - When they first moved to VNY, they found out very quickly that saying "actually" when correcting someone's a pretty bad move.
-- They're not a conspiracy theorist, but they *do* enjoy reading about cryptids, cults, supernatural encounters, weird creatures, and legends along with their origins. She just finds them very, very interesting.
-- A surprisingly big fan of horror stories, but not so much horror films.
+- They're not a conspiracy theorist, but they enjoy reading about cryptids, cults, supernatural encounters, weird creatures, and legends along with their origins. She just finds them very, very interesting.
+- A surprisingly big fan of horror stories, but not so much a fan of horror films.
 - Still a bit hesitant when trying new things, but she's much more receptive when her friends are with her.
 - Explores old buildings as a sort of rebellion against how she was in the past.
 - Favorite activity to do with [MJ](/cast/mariejuliewatson) is coming up with scary stories together while snuggling. Also [Liz](/cast/elizabethallan) is there sometimes so they talk about horror while they have sleepovers.
-- Would love to run a story-based TTRPG horror campaign or engage in a horror roleplay in general but she's unsure how that would go down. And how she'd find people interested to join her. And how to not be painfully shy. And how to have her characters be convincing. And-
+- She and MJ run a small 'garage band' called Glockamole for fun. Ghyslaine's the drummer/guitarist and MJ's the pianist/other guitarist. Other instruments and vocals are covered by any friend of theirs who feels up to the task, but they don't have to be committed.
+- Would love to run a story-based TTRPG horror campaign or engage in a horror roleplay in general but she's unsure how that would go down. And how she'd find people interested to join her. And how to not be painfully shy. And how to have her characters be convincing. And—
+- Makes TTRPG campaigns because she likes the process of worldbuilding and the like. Never shows these to anyone because what if they're not interested and they shit on her interests and Ghyslaine can never look at this now no longer calming activity again because it's stupid and childish.
 - ***HATES*** removing her little apple hat in public. It adds character!!
 - Can never help being surprised when people are nice to her even when they get nothing in return.
-- Dislikes playing most video games because she gets way too frustrated way too easily. If a game's interesting, she'll either watch someone play it or get [Virgil](/cast/virgilvoltspun) to play it for her.
+- Dislikes playing most video games because she gets way too frustrated way too easily, especially if there's no save states. If a game's interesting, she'll either watch someone play it or get [Virgil](/cast/virgilvoltspun) to play it for her.
 - Outside of her 'main' friend group, she doesn't have many friendly faces to speak of, so she tries meeting new people by frequenting small forums to minimal success.
-- Has taken up blogging because forums are intimidating and 'mainstream' social media is incomprehensibly stressful.
+- Has taken up blogging instead because forums are intimidating and 'mainstream' social media is incomprehensibly stressful.
 - Enjoys bracelet-making and doodling because it gives her something to do with her hands that isn't biting the shit out of hangnails.

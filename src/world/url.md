@@ -7,7 +7,7 @@ tags:
 
 biggest: true
 bgimage: bg79.gif
-pagedoll: croissant.png
+pagedoll: croissant
 
 population: 666,600,000
 leader: John President

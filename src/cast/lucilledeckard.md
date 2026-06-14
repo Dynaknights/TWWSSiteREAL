@@ -7,7 +7,7 @@ tags:
 - h. medialis
 
 bgimage: bg45.png
-pagedoll: dolphin.png
+pagedoll: dolphin
 
 tableFields:
 pronouns: She/her, it/its
@@ -18,10 +18,11 @@ occupation: Criminal, scientist, bio-engineer
 birthplace: Bald Head, Maine, URL
 nicknames: Lulu, Luci, Squid, Doctopus, Cici, Master Planner
 
-songinc: true
-songartist: Blue Kid
 song: The Dismemberment Song
 songlink: https://www.youtube.com/watch?v=qOb-Ha7UaEw
+
+song2: Weird Science
+songlink2: https://www.youtube.com/watch?v=Jm-upHSP9KU
 ---
 
 …Oh, stars. Wow.

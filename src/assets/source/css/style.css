@@ -196,7 +196,7 @@ h5 a:hover {
 #toc,
 table{
   a:hover{
-    -webkit-text-fill-color: var(--link-color);
+    -webkit-text-fill-color: #d22929;
   }
 }
 /*
@@ -863,7 +863,7 @@ table {
   color: antiquewhite;
   width: 100%;
   max-width: 1000px;
-  background-color: #6a64b5;
+  background-color: #6086bb;
   border: 2px solid black;
   border-radius: 5px;
   border-collapse: separate;
@@ -892,7 +892,7 @@ td:nth-child(odd) {
 }
 
 tr:nth-child(odd) {
-  background-color: #4d4b8f;
+  background-color: #3d5780;
 }
 
 .footercenter{

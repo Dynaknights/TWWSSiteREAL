@@ -2,8 +2,8 @@
 title: The Wondrous Web-Surfer
 id: index
 bgimage: bg184.png
-pagedoll: stampcca.png
-cover: preteensuperposition.png
+pagedoll: stampcca
+cover: 2025/preteensuperposition
 drama: In another, another, another universe…
 layout: 'base.njk'
 tags:
@@ -38,14 +38,14 @@ Cynical, pissed, and exhausted beyond all else, he grapples with his crumbling f
 <section>
 
 ## Don't Know Where to Start?
+
 ***Fear not, false believer!***
- 
-It's a good idea to read up on the titular nerd: [Virgil Voltspun](/cast/virgilvoltspun) along with the other [denizens](/cast) of the weird, wide world they live in.  
-Say, speaking of their weird, wide world, why not read about that, too? There's a list of topics relating to [Earth-256-B](/e256b) for you to peruse at your leisure!
+
+Start with whatever topic about [this world](/e256b) piques your interest. If you get sick of that, go get some [characters](/cast) to chew on.
 
 If you don't have JavaScript enabled, utilize the handy [Sitemap](/sitemap) to navigate the site!
 
-<small>…You could also [sign my guestbook](https://dynaknights.atabook.org/). Winky face.</small>
+…You could also [sign my guestbook](https://dynaknights.atabook.org/). Winky face.
 
 ***Excelsior!***
 

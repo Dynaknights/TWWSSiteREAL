@@ -7,7 +7,7 @@ tags:
 - h. medialis
 
 bgimage: bg193.png
-pagedoll: cigarettes.gif
+pagedoll: swirlred2
 
 tableFields:
 pronouns: She/her
@@ -18,10 +18,11 @@ occupation: Mercenary, big-game hunter, TV star (former), Russian nobility (form
 birthplace: Volgograd, Russia
 nicknames: Sasha, Kraven, The Hunter, Kitty
 
-songinc: true
-songartist: FLAVOR FOLEY
 song: BUTCHER VANITY
 songlink: https://youtu.be/vjBFftpQxxM?si=mB5jAWOU8FRkxcwM
+
+song2: 3s'
+songlink2: https://www.youtube.com/watch?v=CdIhfisOZvc
 ---
 
 *All the world's a stage!*  

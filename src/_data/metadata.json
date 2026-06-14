@@ -1,6 +1,7 @@
 {
 	"decor": "✦",
 	"language": "en-US",
+	"url": "https://web-surfer.neocities.org",
 	"assets": {
 		"css": "/assets/source/css",
 		"img": "/assets/img",
@@ -9,6 +10,7 @@
 		"linkbanner":"/assets/icons/linkBanner.png",
 		"tags": "worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel",
 		"author": "Dynaknights",
-		"favicon": "/assets/icons/favicon2.png"
+		"favicon": "/assets/icons/favicon2.png",
+		"title": "The Wondrous Web-Surfer!"
 	}
 }
