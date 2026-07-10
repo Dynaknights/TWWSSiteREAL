@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+:root {
+  --bg-primary: #000000;
+  --text-primary: #ff66cc;
+  --accent1: #6666ff;
+  --accent2: #ff33ff;
+  --accent3: #00ff99;
+  --accent4: #ff9966;
+}
+
+@keyframes floating {
+  0% { transform: translateY(0px) }
+  50% { transform: translateY(-10px) }
+  100% { transform: translateY(0px) }
+}
+
+@keyframes sparkle {
+  0%, 100% { opacity: 1 }
+  50% { opacity: 0.5 }
+}
+
+@keyframes scanline {
+  0% { transform: translateY(0px) }
+  100% { transform: translateY(100vh) }
+}
+
+@keyframes rainbow-text {
+  0% { color: var(--text-primary) }
+  25% { color: var(--accent1) }
+  50% { color: var(--accent2) }
+  75% { color: var(--accent3) }
+  100% { color: var(--text-primary) }
+}
+
+body {
+  background-color: var(--bg-primary);
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(102, 102, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 90% 80%, rgba(255, 102, 204, 0.1) 0%, transparent 50%);
+  color: var(--text-primary);
+  font-family: "MS Gothic", "VT323", monospace;
+  cursor: url("/api/placeholder/32/32"), auto;
+  margin: 0;
+  line-height: 1.6;
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    transparent 0px,
+    rgba(0, 0, 0, 0.1) 1px,
+    transparent 2px
+  );
+  pointer-events: none;
+  animation: scanline 10s linear infinite;
+  z-index: 999;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.sidebar {
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid var(--accent1);
+  padding: 1rem;
+  height: fit-content;
+  position: sticky;
+  top: 2rem;
+}
+
+.profile-section {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid var(--accent2);
+  margin: 1rem auto;
+  background: linear-gradient(45deg, var(--accent1), var(--accent2));
+}
+
+.stats-box {
+  background: rgba(102, 102, 255, 0.1);
+  border: 1px solid var(--accent1);
+  padding: 0.5rem;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.mood-tracker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.mood-day {
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--accent1);
+  animation: sparkle 2s infinite;
+}
+
+.header {
+  text-align: center;
+  border: 3px solid var(--accent1);
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(45deg, #000000, #330033);
+  box-shadow: 0 0 20px var(--accent2);
+  position: relative;
+  overflow: hidden;
+}
+
+.header::before {
+  content: "♥";
+  position: absolute;
+  font-size: 100px;
+  opacity: 0.1;
+  animation: floating 3s ease-in-out infinite;
+}
+
+.glitch-text {
+  animation: glitch 3s infinite;
+  text-shadow: 2px 2px var(--accent1),
+               -2px -2px var(--accent2);
+}
+
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  animation: marquee 20s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%) }
+  100% { transform: translateX(-100%) }
+}
+
+.content-grid {
+  display: grid;
+  gap: 2rem;
+}
+
+.post {
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid var(--accent2);
+  padding: 1rem;
+  position: relative;
+}
+
+.post::before {
+  content: "✧";
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  color: var(--accent3);
+  animation: sparkle 2s infinite;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  background: rgba(102, 102, 255, 0.2);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  animation: rainbow-text 3s infinite;
+}
+
+.music-player {
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid var(--accent4);
+  padding: 0.5rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.now-playing {
+  animation: rainbow-text 3s infinite;
+}
+
+.shrine-section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.shrine-item {
+  aspect-ratio: 1;
+  background: rgba(102, 102, 255, 0.1);
+  border: 1px solid var(--accent1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: floating 3s ease-in-out infinite;
+}
+
+.visitor-counter {
+  text-align: center;
+  margin: 1rem 0;
+  font-family: "Digital", monospace;
+  color: var(--accent3);
+  text-shadow: 0 0 5px var(--accent3);
+}
+
+</style>
+</head>
+<body>
+  <div class="main-container">
+    <aside class="sidebar">
+      <div class="profile-section">
+        <div class="profile-pic"></div>
+        <h3 class="glitch-text">✧ cyber_angel_2004 ✧</h3>
+        <div class="stats-box">
+          <div>♡ age: 19</div>
+          <div>♡ sign: pisces</div>
+          <div>♡ timezone: GMT+1</div>
+        </div>
+      </div>
+
+      <div class="music-player">
+        <div class="now-playing">♫ now playing ♫</div>
+        <div>Bladee - Be Nice 2 Me</div>
+        <div>[▮▮▮▮▮▯▯▯▯▯]</div>
+      </div>
+
+      <div class="mood-tracker">
+        <div class="mood-day" style="background: #ff66cc"></div>
+        <div class="mood-day" style="background: #6666ff"></div>
+        <div class="mood-day" style="background: #ff33ff"></div>
+        <div class="mood-day" style="background: #00ff99"></div>
+      </div>
+
+      <div class="visitor-counter">
+        ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+        <div>visitors: 13,337</div>
+      </div>
+    </aside>
+
+    <main class="content-grid">
+      <header class="header">
+        <h1 class="glitch-text">✧ Cyber Dreamscape ✧</h1>
+        <nav class="navigation">
+          <a href="#" class="nav-link">Home</a>
+          <a href="#" class="nav-link">Shrine</a>
+          <a href="#" class="nav-link">Archive</a>
+          <a href="#" class="nav-link">Links</a>
+        </nav>
+        <div class="marquee">
+          ★彡 welcome to my cyber realm 彡★ · currently vibing in the digital void · please sign my guestbook ·
+        </div>
+      </header>
+
+      <div class="post">
+        <div class="status-update">
+          ⋆˙⟡♡ currently: listening to drain gang & feeling ethereal ♡⟡˙⋆
+        </div>
+        <p>
+          today's thoughts: sometimes i wonder if we're all just NPCs in someone else's game... 
+          been spending too much time on /jp/ maybe... (。-`ω´-)
+        </p>
+        <div class="tags">
+          <span class="tag">#doomercore</span>
+          <span class="tag">#webcore</span>
+          <span class="tag">#digitalart</span>
+        </div>
+      </div>
+
+      <div class="shrine-section">
+        <div class="shrine-item">☆</div>
+        <div class="shrine-item">♡</div>
+        <div class="shrine-item">☆</div>
+        <div class="shrine-item">♡</div>
+        <div class="shrine-item">☆</div>
+        <div class="shrine-item">♡</div>
+      </div>
+
+      <div class="post">
+        <h3>✧ current obsessions ✧</h3>
+        <ul style="list-style: none; padding: 0;">
+          <li>♡ Serial Experiments Lain</li>
+          <li>♡ Y2K fashion</li>
+          <li>♡ Vaporwave aesthetics</li>
+          <li>♡ Pixel art</li>
+        </ul>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

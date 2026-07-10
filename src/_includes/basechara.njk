@@ -5,9 +5,6 @@ layout: 'base.njk'
       <div class="characterprofile">
     <div class="charactermain-image" style="background-image: url('/assets/thumbs/cast/{{ id }}.png')" alt="A thumbnail of {{ title }}"></div>
       <table>
-  <tr>
-    <th colspan="2"> </th>
-  </tr>
 
   <tr>
     <td>Pronouns</td>
@@ -16,7 +13,7 @@ layout: 'base.njk'
 
   {% if (alias) %}
     <tr>
-    <td>Alias</td>
+    <td>Nom de Plume</td>
     <td>{{ alias }}</td>
   </tr>
   {% endif %}
@@ -52,10 +49,6 @@ layout: 'base.njk'
     <td><a target="_blank" href="{{ songlink }}"><i>{{ song }}</i></a>{% if (song2) %}, <a target="_blank" href="{{ songlink2 }}"><i>{{ song2 }}</i></a>{% endif %}{% if (song3) %}, <a target="_blank" href="{{ songlink3 }}"><i>{{ song3 }}</i></a>{% endif %}{% if (song4) %}, <a target="_blank" href="{{ songlink4 }}"><i>{{ song4 }}</i></a>{% endif %}{% if (song5) %}, <a target="_blank" href="{{ songlink5 }}"><i>{{ song5 }}</i></a>{% endif %}{% if (song6) %}, <a target="_blank" href="{{ songlink6 }}"><i>{{ song6 }}</i></a>{% endif %}</td>
   </tr>
   {% endif %}
-
-    <tr>
-    <th colspan="2"> </th>
-  </tr>
 </table>
   </div>
 
@@ -63,6 +56,7 @@ layout: 'base.njk'
 
 <div id="contents">
   {{ content | safe }}
+
   
 </div>
 </div>

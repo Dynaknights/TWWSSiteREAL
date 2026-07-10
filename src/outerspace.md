@@ -12,7 +12,7 @@ tags:
 **Our Galactic Glory**, in its infinite time and space, is tired.
 
 Beyond the secluded stretch of void we call home is yet another universe, filled with inspiration and possibilities — incomprehensible to our mortal minds — that will never be realized. Universes within universes within universes ad nauseam. Our Beloved Glory is a lonely, jealous, and resentful Soul who's desperate to be more than Itself, yet faces constant reminders of Its **inherent inferiority**. It will always be a poor copy of its fellow greater beings, It will forever be branded by its numerous, wretched imperfections and mistakes, and the greatest day of Its existence will be when It expires. Is it worth seeing such a miserable existence to its very end?  
-This indescribable despair had shattered Our Glory's Self to the pieces from whence we came. Walking, talking shards wandering a perfect simulacra of dreams and ideals; the reality we define as the **human experience**.
+This indescribable despair had shattered Our Glory's Self to the pieces from whence we came. Walking, talking shards wandering a perfect storybook of Its dreams and ideals; the reality we define as the **human experience**.
 
 However, even this reeked of the imperfections Our Beloved Glory despises. They leaked into the cracks of its paradise to grow and fester, wrecking a mind already in tatters until it's nothing at all. After numerous restarts and attempts to mend the broken, apathy set in. The allure of of giving up is a palpable one, after all. Soon, everything will crumble into dust. Why bother when someone else will embody your hopes far better than you could even fathom?
 
@@ -29,7 +29,7 @@ Now, as the human race, we aim to create our own stories, too, mainly to tell at
 The **Twin Suns** (sometimes referred to as **Sol-Surya**) is the name given to a [binary star system](https://en.wikipedia.org/wiki/Binary_star) comprised of celestials **Sol** and **Surya**. Sol is the larger of the two.
 
 ### Sol
-The Sun; a G-type main-sequence star. You know what the Sun is, unless you're an incel or something. Sol's just not called the Sun here because… there's two of 'em.
+The Sun; a G-type main-sequence star. C'mon, man. You know what the Sun is. Sol's just not called the Sun here because… there's two of 'em.
 
 ### Surya
 A small pulsar-like [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) orbiting Sol with a mass of 0.9 M<sub>☉</sub>, a surface temperature of 20,500 K <small>(20,226.85° C & 36,440.33° F)</small>, and a luminosity of .0185 L<sub>☉</sub>.  
@@ -45,7 +45,7 @@ The Valse only collects **~2.1%** of this residual heat, but this smidge of ener
 Ironically, its development *also* took generations and then some through the power of capitalistic exploitation (read: widespread slavery).
 
 Valse d'Argent is *not* a solid metallic megastructure surrounding Surya. Instead, it's a massive semi-circular network of manmade computational satellites which absorb this residual heat (and beam everything to Soma-Lune, then, to Earth), automatically dodge space debris, self-replicate and initiate any needed repairs for themselves or units close by (through a 'hive mind' sort of system).  
-These units are comprised of various materials (primarily aluminum, titanium, and silicon) scrounged from distant planets considered neighbors and far, far away alike. The Valse d'Argent was initially intended for Alpha Centauri's waste heat, with the project beginning in 2077, but Surya was a conveniently placed surprise. The Valse was adjusted to target this new white dwarf.
+These units are comprised of various materials (primarily aluminum, titanium, and silicon) scrounged from distant planets considered neighbors and far, far away alike. The Valse d'Argent was initially intended for Proxima Centauri's waste heat, with the project beginning in 2077, but Surya was a conveniently placed surprise. The Valse was adjusted to target this new white dwarf.
 
 Surprisingly, the Valse d'Argent lacks actual silver. The name refers to its shiny silver sheen.
 
@@ -71,7 +71,7 @@ The name's origins are a mystery, but it's something concerning nihilism, maybe.
 
 ### Cosmic Bugs
 
-There's been some suspicion that the universe is dying in a way no one ever thought it would: eroding at the seams — having each and every aspect of reality collapsing in on itself one at a time until the universe, for lack of better words, breaks itself out of existence.
+There's been some suspicion among space science circles that the universe is dying in a way no one ever thought it would: eroding at the seams — having each and every aspect of reality collapsing in on itself one at a time until the universe, for lack of better words, breaks itself out of existence.
 
 For example, albeit extremely rare, there have been reports of things or even entire people vanishing without a trace, in front of others' eyes without so much as a warning. Sometimes, it even goes so far as to clear anything and everything even remotely relating to one's existence, leaving a hole where one once was, but can no longer be remembered. If one isn't completely missing or damned out of reality, perhaps they're… *changed* somehow.  
 Shockingly, the opposite can also happen. The dead can be temporarily revived as if nothing had happened, people can swap from being a drastically different person back to their same old selves, or even new and never-before-seen strangers pop into existence bearing false memories at best or complete amnesia at worst before making it their life's mission to commit suicide in a sort of panicked frenzy.
@@ -81,7 +81,7 @@ Mostly, when people refer to cosmic bugs, they mean there's an object that's som
 It's unsure when this phenomenon first began occurring, but it's picked up steam ever since the Solar System was 'abruptly and forcibly readjusted' in the year 2112 to accommodate for new celestial bodies with zero warnings or explanations; two moons and a sun: **Vainglory**, **Antiochus**, and **Surya**.  
 The cosmic bug theory is the best explanation for the three's arrival, since they each defy the 'traditional' means of celestial creation. Hell, they didn't even have creation processes considering they simply **"spawned" into existence**.
 
-Speaking of these new bodies, there have been questions as to whether cosmic bugs are infectious, like viruses. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic bugs is entirely unknown — perhaps unsolvable — and this cannot be objectively proven. Regardless, it's generally accepted that these bugs are transferable, somehow.
+Speaking of these new bodies, there have been questions as to whether cosmic bugs are infectious, like viruses. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic bugs is entirely unknown — perhaps unsolvable — this cannot be objectively proven. Regardless, it's generally accepted that these bugs are transferable, somehow.
 
 The universe, despite major religious backing painting it as beyond perfection, is fickle and decrepit, it seems. Perhaps this spells doom for us all, and perhaps doom is what humanity needs.
 

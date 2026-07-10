@@ -40,14 +40,15 @@ border: 2px black solid;
 border-top-left-radius: 10px;
 border-bottom-right-radius: 10px;
 background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
-transition: box-shadow .3s;
+text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
+-1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
 }
 
 .sidenav a:hover {
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
   -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
+  transition-duration: 0.1s;
   -webkit-transition-property: transform;
   transition-property: transform;
   background: linear-gradient(to bottom, rgba(55,44,117,1) 0%,rgba(132,41,206,1) 50%,rgba(132,41,206,1) 51%,rgba(245,219,255,1) 100%);
@@ -114,6 +115,7 @@ display: none;
 <!-- Side navigation -->
 <div class="sidenav">
 <div class="imagehere" style="background-image: url('/assets/decor/navsmicon.png')" alt="An icon of Spider-Man"></div><br>
+<nav>
 <a href="/index">Home</a>
 <a href="/cast">Meet the Cast</a>
 <a href="/e256b">Earth-256-B</a>
@@ -122,6 +124,7 @@ display: none;
 <a href="/misc">Miscellaneous</a>
 <a href="/sitemap">Sitemap</a>
 <a href="/updates">Updates</a>
+</nav>
 </div>
 `;
 }

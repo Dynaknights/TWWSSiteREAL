@@ -46,9 +46,6 @@ The Republic is certainly a dream, but it's never been the people's.
 ## Coup d'Etat
 TBA…
 
-## Government
-TBA…
-
 ## Society and Culture
 TBA…
 
@@ -56,7 +53,7 @@ TBA…
 TBA…
 
 ### Leathucarian French
-**Leathucarian French** (otherwise known as Elderberry French or Eagle-Fucker/Kisser French) is a questionable [variety](https://en.wikipedia.org/wiki/Variety_(linguistics)) of French. It currently stands as the second most prominent variety after standardized Leathucarian English and has wormed its way from its origins of hatred to apathetic day-to-day living.
+**Leathucarian French** (otherwise known as Elderberry French or Eagle-Fucker/Kisser French) is a questionable [variety](https://en.wikipedia.org/wiki/Variety*(linguistics)) of French. It currently stands as the second most prominent variety after standardized Leathucarian English and has wormed its way from its origins of hatred to apathetic day-to-day living.
 
 It's a purposefully chaotic and confusing mess of an isolect erected upon the mountains of spite people — primarily minorities with an emphasis on black people — harbored for France's coup d'etat on the United States (2200s to 2700s).  
 The story goes that people considered more worthless within the social hierarchy — those stuck in laborious blue-collar jobs with low wages and little upward mobility — developed a code to communicate regarding disrupting France's tyrannical rule while remaining inconspicuous. This was initially done by intentionally breaking the rules of standardized French and mixing it with other languages.  
@@ -101,4 +98,6 @@ TBA…
 TBA…
 
 ## Trivia
+- $1 URD ≈ $1.35 USD.
 - The most popular dog breed is the poodle.
+- Since France's takeover, President Centauri and his cabinet were the first politicians to have legitimate names instead of titles or poetical monikers.

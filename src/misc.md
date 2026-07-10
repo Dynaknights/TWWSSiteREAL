@@ -16,7 +16,7 @@ tags:
 <a href="/misc/dynaknights"><img src="/assets/thumbs/cast/Dynaknights.png" alt="A thumbnail of Dynaknights"></a>
 </figure>
 
-Click on the box to learn about me and the origins of this hellish site! …Must be very interesting, I guess.
+Learn about me and the origins of this hellish site! …Must be very interesting, I guess.
 
 </div>
 </div>
@@ -63,20 +63,15 @@ Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Haw
 </div>
 
 ### Buttons and Webrings
-
-<div class="center">
 <div class="box4boxes">
+<div class="center">
 
-***Behold!*** MORE links to other sites!
-
-...Which is on [this page](/misc/links) due to load times.
+You want to [click here](/misc/links) and see my affiliates so bad…
 
 </div>
 </div>
-
 
 ### Graphic Wall Attack
-
 
 <div class="box4boxes">
 <div class="center">
@@ -95,9 +90,16 @@ Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Haw
 ## Post-Credits Credits Scene
 
 All works (art, writing, code, etc.) are mine unless listed otherwise. Do not claim it as your own or skip out on crediting me, por favor.
-If I fucked up crediting you or if you'd like your crediting updated, just email me at **Dynaknightslol[at]gmail[dot]com**… Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form. I'd greatly prefer you just email me though.
 
-Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can.
+<address>
+
+If you need anything (credits updates, questions, concerns, or nothing at all) just email me at **Dynaknights[at]proton[dot]me**.
+
+</address>
+
+…Or utilize the ever-handy [guestbook](https://dynaknights.atabook.org/) as a contact form. I'd greatly prefer you just email me though.
+
+Feel free to use my works for **personal use only with credit**. I don't know *why* you'd use them, but you can, just don't upload crusty .WEBPs to Pinterest.  
 **Anything and everything created by me is NOT for commercial usage**. The site's foundations aren't mine, so I don't exactly care what you do with my code if you're not ripping it off down to the last semi-colon.
 
 *The Amazing Spider-Man* was created by Steve Ditko and Stan Lee.  

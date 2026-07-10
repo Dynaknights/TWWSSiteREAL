@@ -8,7 +8,7 @@ tags:
 bgimage: bg195.jpg
 pagedoll: whoa
 
-nicknames: Supes, capes, caped crusaders
+nicknames: Supes, capes, caped crusaders, powercreeps, pokies
 ---
 
 <div class="center">
@@ -56,27 +56,15 @@ So, it should also be no secret that supers love having fans.
 Of course, one's opinion on respective fame is a case-by-case basis, but most lean into the celebrity aspect of the super scene as the need for attention is a bottomless pit. Supers are seen generally in the same scope as social media influencers or musicians (albeit more violent) — all of the caveats and hang-ups included.  
 A lot of supers itch for cash and a need to please. As a result, their battles and escapades slowly shift into domains similar to performances… or advertisements. They could become big-name figures within high culture and celebrity spheres, abandoning a core fanbase for greater material heights. Their reputation can plummet due to an especially bad decision or mistake made on the battlefield, which — due to the delicate nature of their work — can lead to catastrophes. Whatever they do, supers wrap themselves in an aura of spectacle and mystique with their snappy quips and skin-tight suits for the sake of coolness and, by the Stars, does that shit work.
 
+### Superpunk!
+
+TBA…
+
 ## Controversies
 
 TBA…
 
-### Mental Torment
-
-TBA…
-
-### Corruption
-
-TBA…
-
-### The Status Quo
-
-TBA…
-
-### Sell-Outs & Propaganda
-
-TBA…
-
-## Special Operations
+## SPNY Special Operations
 
 TBA…
 

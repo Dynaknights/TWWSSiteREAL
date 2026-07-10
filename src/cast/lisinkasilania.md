@@ -67,7 +67,7 @@ Lisin's venom glands are stored within her telson ('tail bulb') on her metasoma 
 - **Enhanced senses, durability, speed, stamina, agility, and equilibrium**  
 - **Above average processing speed**
 - **"Sixth-Sense"**  
-Works similarly to [Virgil's Spider-Sense](/cast/virgilvoltspun/#Abilities), but her Sixth-Sense specializes in [mechanical stimuli](https://en.wikipedia.org/wiki/Mechanosensation), not vibrations, which are then converted to electrical signals. She also sucks at telling people's emotions unless they're horny. Hasn't bothered to memorize specific (bio)chemical formulas/'sensations' outside of the ones indicating horniness and rage.
+Works similarly to [Virgil's Spider-Sense](/cast/virgilvoltspun/#Abilities), but her Sixth-Sense specializes in [mechanical stimuli](https://en.wikipedia.org/wiki/Mechanosensation), not vibrations, which are then converted to electrical signals. It's less of a legitimate 'sense' and more like enhanced senses bundled with a beefed up 'fight or flight' instinct like Virgil's Spider-Sense, actually.
 - **Accelerated metabolism**  
 Due to her being part scorpion, you'd think she'd have slow metabolism. However, she's tall, beefy, and nearly-constantly moving.
 - **Healing factor**

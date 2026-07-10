@@ -5,6 +5,15 @@ tags:
 
 {% include "header.njk" %}
 
+
+<noscript>
+<div class="center">
+
+Hey, sorry, but this site probably looks wonky because <strong><em>you don't seem to have JavaScript enabled</em></strong>, which is required to see the navigation menu (and a table of contents). You should utilize the <a href="/sitemap" style="color: #8ccfff;">Sitemap</a> to get around if you decide to leave JS disabled. :)
+
+</div>
+</noscript>
+
 <body>
     <header-component></header-component>
   
@@ -19,7 +28,7 @@ tags:
 
 {% if (pagedoll) %}
   <div class="pagedoll">
-  <a href="#"><img src="/assets/decor/{{ pagedoll }}.png" alt="Pagedoll"></a>
+  <a href="#"><img src="/assets/decor/{{ pagedoll }}.png" alt="Pagedoll" title="Back to top"></a>
   </div>
   {% endif %}
 
@@ -44,7 +53,7 @@ tags:
   {% endif %}
 
   {% if (cover) %}
-  <div class="coverhere" style="background-image: url('/assets/gallery/{{ cover }}.png')" alt="A fake TWWS comic book-like cover."></div>
+  <div class="coverhere" style="background-image: url('/assets/gallery/{{ cover }}.png')" alt="A fake TWWS comic book inspired cover."></div>
   {% endif %}
 
   {{ content | safe }}

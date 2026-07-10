@@ -17,12 +17,12 @@ tags:
 Organize updates  
 Compress image assets  
 Splash/warning page  
-Custom menu buttons  
+Custom menu buttons?  
 RSS feed  
 Fix icky divider issue  
-Implement [Webamp](https://webamp.org/) somehow  
+Implement [Webamp](https://webamp.org/) somehow maybe  
 SHRINES!!   
-Finish Nouvelle-Yorke & United Republic's pages  
+Finish ~~Nouvelle-Yorke~~ & United Republic's pages  
 ToyHouse ribbons for characters on their respective pages maybe?  
 Character galleries with lightbox!!  
 Written works section!!  
@@ -37,10 +37,10 @@ Draw new character thumbnails
 Draw location 'thumbnails'  
 Draw pagedolls  
 Draw other on-site graphics  
-Figure out how to remove 404 from Sitemap…
 
 **Completed**
 
+~~Figure out how to remove 404 from Sitemap…~~  
 ~~Add shelf on About Me for games and music~~  
 ~~Shorten About Me & other pages~~  
 ~~Create 404 page~~  

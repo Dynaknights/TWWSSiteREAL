@@ -1,7 +1,7 @@
 ---
 title: Maxime Dillon
 id: MaximeDillon
-subtitle: A Useless Cog
+subtitle: Can't Get Out of Bed
 tags:
 - super
 - h. medialis

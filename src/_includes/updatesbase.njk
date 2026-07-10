@@ -7,7 +7,7 @@ layout: 'base.njk'
  {% for update in collections.update | reverse %}
  {% if update.data.currentYear == true %}
 <section>
-<h2>{{ update.date | postDate }}</h2>
+<h2><time>{{ update.date | postDate }}</time></h2>
 {{ update.content | safe }}
 </section>
 {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: Lucille Deckard
 id: LucilleDeckard
-subtitle: Seeking Absolute Retribution
+subtitle: Normal and Well-Regulated
 tags:
 - super
 - h. medialis
@@ -14,7 +14,7 @@ pronouns: She/her, it/its
 alias: Mastermind
 species: Human(?)
 age: Adult
-occupation: Criminal, scientist, bio-engineer
+occupation: Criminal, scientist, bioengineer
 birthplace: Bald Head, Maine, URL
 nicknames: Lulu, Luci, Squid, Doctopus, Cici, Master Planner
 

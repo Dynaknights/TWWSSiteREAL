@@ -56,7 +56,8 @@ h1,
 h2,
 h3,
 h4,
-h5 {
+h5,
+.sectionheaders {
   -webkit-text-fill-color: antiquewhite;
   font-family: 'SuperSquad';
   margin-bottom: 20px;
@@ -69,7 +70,8 @@ h5 {
   h2,
   h3,
   h4,
-  h5{
+  h5,
+  .sectionheaders{
     text-align: left;
   }
 
@@ -83,7 +85,8 @@ h1 {
   text-align: center;
 }
 
-h2 {
+h2,
+.sectionheaders {
   font-size: 25px;
   margin: auto;
   margin-top: 15px;
@@ -118,16 +121,12 @@ body {
 .toc li,
 th,
 td{
+text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
+-1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
+}
 
-  filter: drop-shadow(.3px .3px .3px black) 
-  drop-shadow(-.3px 0 black) 
-  drop-shadow(0 .3px 0 black) 
-  drop-shadow(0 -.3px 0 black) 
-  drop-shadow(0 .3px black) 
-  drop-shadow(0 -.3px black) 
-  drop-shadow(0 -.3px black) 
-  drop-shadow(0 -.3px black);
-
+.sectionheaders{
+    -webkit-text-stroke: 1.1px var(--header-fx);
 }
 
 #statuscafe{
@@ -189,7 +188,8 @@ h1 a:hover,
 h2 a:hover,
 h3 a:hover,
 h4 a:hover,
-h5 a:hover {
+h5 a:hover,
+.sectionheaders a:hover {
   color: inherit;
 }
 
@@ -282,7 +282,7 @@ float: right;
     box-shadow: 5px 10px black;
   border: 4px solid #000000;
   border-radius: 1px;
-   transition: .2s ease-in-out;
+   transition: .1s ease-in-out;
 }
 
 .funcoverc {
@@ -297,7 +297,7 @@ margin:20px;
     box-shadow: 5px 10px black;
   border: 4px solid #000000;
   border-radius: 1px;
-   transition: .2s ease-in-out;
+   transition: .1s ease-in-out;
 }
 
 .funcoverg {
@@ -311,7 +311,7 @@ float: right;
     box-shadow: 5px 10px black;
   border: 4px solid #000000;
   border-radius: 1px;
-   transition: .2s ease-in-out;
+   transition: .1s ease-in-out;
 }
 
 .coverhere:hover,
@@ -461,7 +461,7 @@ figure img {
   white-space: normal;
   display: inline-block;
   transition: box-shadow .3s;
-  transition: all .2s ease-in-out;
+  transition: all .1s ease-in-out;
 }
 
 figure img:hover {
@@ -483,7 +483,7 @@ figure {
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
-	transition: all .2s ease-in-out;
+	transition: all .1s ease-in-out;
   margin-bottom: -4px;
 }
 .button:hover { 
@@ -507,16 +507,10 @@ figure {
 
   li {
     font-size: .9em;
-    list-style-type: "✦ ";
+    list-style-type: "✶ ";
+    text-shadow: -1px 0px 0 #181824, 1.5px -1px 0 #181824, -1px 1px 0 #181824, 1.5px 1px 0 #181824,
+    -1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
 
-  filter: drop-shadow(.3px .3px .3px black) 
-  drop-shadow(-.3px 0 black) 
-  drop-shadow(0 .3px 0 black) 
-  drop-shadow(0 -.3px 0 black) 
-  drop-shadow(0 .3px black) 
-  drop-shadow(0 -.3px black) 
-  drop-shadow(0 -.3px black) 
-  drop-shadow(0 -.3px black);
 
   }
 
@@ -863,7 +857,7 @@ table {
   color: antiquewhite;
   width: 100%;
   max-width: 1000px;
-  background-color: #6086bb;
+  background-color: #3d5780;
   border: 2px solid black;
   border-radius: 5px;
   border-collapse: separate;
@@ -883,7 +877,7 @@ tbody {
 td,
 th {
   text-align: left;
-  padding: 3px 10px;
+  padding: 4px 10px;
 }
 
 td:nth-child(odd) {
@@ -892,7 +886,7 @@ td:nth-child(odd) {
 }
 
 tr:nth-child(odd) {
-  background-color: #3d5780;
+  background-color: #6086bb;
 }
 
 .footercenter{

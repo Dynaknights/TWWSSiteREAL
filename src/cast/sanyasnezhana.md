@@ -1,7 +1,7 @@
 ---
 title: Sanya Snezhana
 id: SanyaSnezhana
-subtitle: Aimless and Lost
+subtitle: The Imperfect Prey
 tags:
 - super
 - h. medialis

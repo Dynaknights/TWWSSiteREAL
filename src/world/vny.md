@@ -40,7 +40,7 @@ Ville-de-Nouvelle-Yorke is the mighty City of Dreams, but trouble simmers undern
 ## Le Clairon Quotidien!
 
 ***Le Clairon Quotidien!*** (*"Nouvelle-Yorke's Blooming Gazette!"*), sometimes colloquially called ***Le Clairon*** or ***The Bugle***, is a Leathucarian news tabloid/podcast/radio show stationed in the heart of downtown Manhattan, Nouvelle-Yorke.  
-Its editor and publisher-in-chief, **[Jean-Jacquet Jacquemond du Jort](/cast/jeanjacquetjacquemond)** (typically referred to as **J.J. Jacquemond**), is the host of both the podcast and radio show. This is manageable for Jacquemond because both the podcast and the radio show use the exact same clips; the radio show is recorded live, then the audio is uploaded as a podcast later.
+Its editor and publisher-in-chief, **Jean-Jacquet Jacquemond du Jort** (typically referred to as **J.J. Jacquemond**), is the host of both the podcast and radio show. This is manageable for Jacquemond because both the podcast and the radio show use the exact same clips; the radio show is recorded live, then the audio is uploaded as a podcast later.
 
 Each and every one of these news formats mainly focuses on criticizing supers, discussing current events, and — rarely — exploring Nouvelle-Yorke's way of life. Mostly, it focuses on [Web-Surfer](/cast/virgilvoltspun) and anything involved with him; partially due to Jacquemond's hatred for the super, but also due to Web-Surfer's popularity within the superpowered scene.  
 Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le Rêve Super!***, which also focuses on supers, but in a more celebrity-like lens similarly to that of fashion/gossip magazines. *Le Rêve* includes romance, personal drama, rumors, exclusive interviews/photoshoots with popular supers, and other stereotypical subjects.  
@@ -50,31 +50,32 @@ Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le R�
 
 ## Oscorp Industries
 **Oscorp Industries** is a multibillion-dollar conglomerate stationed in downtown Manhattan, Nouvelle-Yorke with primary focuses on science and engineering innovations. Currently, it stands as one of the largest and wealthiest tech companies in the world alongside Stark Industries mostly due to its financial grip over the Valse d'Argent.  
-The company was co-founded by CEO [Noémie-Marisol Osborne](/cast/noemiemarisolosborne) and [Lucille Deckard](/cast/lucilledeckard) just after their college days sometime in the 2950s. However, only Noémie remains after Lucille's indefinite termination. Currently, the next projected CEO is Noémie's son: [Harvey Osborne](/cast/harveyosborne).
+The company was co-founded by CEO [Noémie-Marisol Osborne](/cast/noemiemarisolosborne) and [Lucille Deckard](/cast/lucilledeckard) just after their college days sometime in the 2960s. However, only Noémie remains after Lucille's indefinite termination. Currently, the next projected CEO is Noémie's son: [Harvey Osborne](/cast/harveyosborne).
 
 <img src="/assets/decor/monarch.png" div class="pagedollbreaker">
 
-Oscorp was initially created as a biotechnological company that aimed to alleviate the lives of those with disabilities and medical illnesses, but shifted its scope to general technological innovation, acting as a benefactor to fund projects that catch its eye. Currently, its main focuses are: the Valse d'Argent, digital communication, and public safety; the latter of which focuses on sponsoring specific supers, acting as one of many companies who 'produce' supers.  
+Oscorp was initially created as a biotechnological company that aimed to alleviate the lives of those with disabilities and medical illnesses, but later broadened its scope to general technological innovations, acting as a benefactor to fund projects that catch its eye. Currently, its main focuses are: the Valse d'Argent, digital communication, and public safety; the latter of which focuses on sponsoring specific supers, acting as one of many companies who 'produce' supers.  
 Despite the focus on STEM, Oscorp also funds Nouvelle-Yorke museums, food pantries, political campaigns, local businesses, universities, etc.
 
-Recently, Oscorp has come under fire for scandals revolving around mutant trafficking, aiming to be a monopoly, political persuasion, employee treatment, and Noémie's questionable mental state. Oscorp either refuses these claims or denies comments at public appearances.
+Recently, Oscorp has come under fire for scandals revolving around mutant trafficking, aiming to be a monopoly, political persuasion, employee treatment, and Noémie's questionable mental state. Oscorp either offers no response or denies them outright.
 
 Regardless, Oscorp seems to be steadfast due to its extreme financial influence. It might even be downright impossible to shake its foundations, but who knows.
 
 ## Universities
 
 ### Duchess State University
-**Duchess State University** (colloquially called Duchess State or DSU) is a public urban research university in Lourdes, Ville-de-Nouvelle-Yorke and is a part of the Nouvelle-Yorke University System. Duchess State is the largest university within the Ville-de-Nouvelle-Yorke metropolitan area and the Nouvelle-Yorke University System (NYUS) in terms of student body, boasting around 25,000 students in the 2999 autumn semester.
+**Duchess State University** (colloquially called Duchess State or DSU) is a public urban research university in Lourdes, Ville-de-Nouvelle-Yorke and is a part of the Système l'Universitaire de Nouvelle-Yorke 2 (SUNY2). Duchess State is the largest university within the Ville-de-Nouvelle-Yorke metropolitan area and the Nouvelle-Yorke University System (2) in terms of student body, boasting around 25,000 students in the 2999 autumn semester.
 
 ### Empire State University
-**Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as the most elite university in all of the state along with being the flagship campus of the NYUS in which it resides.
+**Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as one of the most elite universities in all of the state along with being the flagship campus of the SUNY2.
 
 ## Notes
 - Nouvelle-Yorke is separated into five boroughs: **Manhattan**, **Lourdes**, **the Bronx**, **Islandy McIsland Face**, and **Roi des Chiens**.
 
 ## Trivia
+- SUNY1 has died tragically. RIP.
 - Empire State's mascot is a sparrowhawk named Bijou. The university's colors are blue and yellow.
-- Duchess State's mascot is a gargoyle named Doyle. The university's colors are purple and gold.
+- Duchess State's mascot is a gargoyle named Doyle. The university's colors are purple and white.
 - Nouvelle-Yorke is having a 1990s fashion/lifestyle resurgence at the moment. This isn't limited to clothing; clamshell phones, hairstyles, makeup, technology, etc. ring vaguely of the 1990s but bastardized, romanticized, and idealized, so to speak.
 - The style people would refer to as [Parisian Girly](https://aesthetics.fandom.com/wiki/Parisian_Girly) is also making a strange comeback since Leathucaria has rotten, festered, butchered French in its culture.
 - Ballets, plays, mascot cafés, magazines, and puppet shows are in style. Who knew?

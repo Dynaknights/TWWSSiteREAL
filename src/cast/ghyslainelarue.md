@@ -29,9 +29,12 @@ songlink4: https://www.youtube.com/watch?v=cuzotd7eQvc
 
 song5: Won't Stop, Just Go!
 songlink5: https://www.youtube.com/watch?v=sIx8rJxfarI
+
+song6: Awa Our Music
+songlink6: https://www.youtube.com/watch?v=5LRk_cZCmBw
 ---
 
-**Ghyslaine Fleur LaRue** is completely, utterly, and statistically **unlovable**.
+**Ghyslaine Blanchefleur LaRue** is completely, utterly, and statistically **unlovable**.
 
 
 It is of utmost importance that you know this conclusion arose from years of social experiments and observational records conducted by Ghyslaine herself, not from psychological distress, like people have assumed. She harbors an exhaustive list of personality traits, habits, and factors matching the diagnostic criteria for common disorders deemed unacceptable by a wide variety of cultures. Ghyslaine is fine. She will not say there was little difficulty in accepting this, but — after years of reaching the same answer — they must begrudgingly admit this is a fact of life; there is nothing Ghyslaine can do. If she ever wants to protest, they need only to look through her endless notes and attached spreadsheets to seek counterarguments to each and every point made. Despite this, Ghyslaine has a rebuttal that holds merit: her previous perceptions of life itself were **myopic** in scope.
@@ -56,9 +59,10 @@ She finds it soothing.
 - Ghyslaine is **transfem**. She starts publicly transitioning (HRT, dressing more feminine) during her mid teens due to her supportive father and general disregard toward her hometown.
 - Ghyslaine is monotonous and stoic. She's trying to amend that by smiling and generally showing more expressions, but she's just not a very emotive person.
 - Displays very little body language if ever.
-- Glasses are not optional.
+- Glasses are not optional, but the eyeglass chains are because I forget to draw them all the time.
 - Just go to town on bracelets. Ghyslaine loves friendship and kandi bracelets. Give her lots, if you want.
 - Has a soft, raspy voice.
+- Ghyslaine has numerous scars littering her thighs, chest, and upper arms from her time in Minnesota. Doesn't typically wear anything more revealing than a T-shirt for this reason.
 
 ## Trivia
 
@@ -70,7 +74,6 @@ She finds it soothing.
 - They're not a conspiracy theorist, but they enjoy reading about cryptids, cults, supernatural encounters, weird creatures, and legends along with their origins. She just finds them very, very interesting.
 - A surprisingly big fan of horror stories, but not so much a fan of horror films.
 - Still a bit hesitant when trying new things, but she's much more receptive when her friends are with her.
-- Explores old buildings as a sort of rebellion against how she was in the past.
 - Favorite activity to do with [MJ](/cast/mariejuliewatson) is coming up with scary stories together while snuggling. Also [Liz](/cast/elizabethallan) is there sometimes so they talk about horror while they have sleepovers.
 - She and MJ run a small 'garage band' called Glockamole for fun. Ghyslaine's the drummer/guitarist and MJ's the pianist/other guitarist. Other instruments and vocals are covered by any friend of theirs who feels up to the task, but they don't have to be committed.
 - Would love to run a story-based TTRPG horror campaign or engage in a horror roleplay in general but she's unsure how that would go down. And how she'd find people interested to join her. And how to not be painfully shy. And how to have her characters be convincing. And—

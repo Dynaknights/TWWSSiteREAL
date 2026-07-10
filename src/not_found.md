@@ -4,6 +4,7 @@ id: not_found
 bgimage: bg183.png
 pagedoll: gba
 layout: 'base.njk'
+eleventyExcludeFromCollections: true
 ---
 
 <section style="width:100%;">

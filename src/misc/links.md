@@ -84,6 +84,9 @@ tags:
 </div>
 </div>
 
+<!-- TRANSING THE NET -->
+<script src="https://transring.neocities.org/ring.js"></script>
+
 <!-- SELF-INSERT -->
 <div id="selfinsertwebring">
 	<script src="/assets/source/js/showWebring.js"></script>
@@ -100,15 +103,6 @@ tags:
 <img class="webring-image" src="/assets/decor/wr/madeline.webp" title="This is Dynaknights' favorite cookie! When asked why they liked this cookie, they said: 'He's so silly, I love him..." style="border-radius:5px;"> <!-- replace the src to a link of an image of your favorite cookie, and the title to whatever you want idc really -->
 
 </a><div class="webring-next"><a href="https://evehibi.nekoweb.org/ckwr/?action=next" target="_top"><img class="arrow-image" src="https://evehibi.nekoweb.org/ckwr/w/a.png"></a></div></div></div><link rel="stylesheet" href="https://evehibi.nekoweb.org/ckwr/dynamic.css" /></div>
-
-<!-- BLACK WEBMASTERS -->
-<div id="blackring">
-    <script type="text/javascript" src="https://00010010.org/webring/js/onionring-variables.js"></script>
-    <script type="text/javascript" src="https://00010010.org/webring/js/mala-widget1.js"></script>
-</div>
-
-<!-- TRANSING -->
-<script src="https://transring.neocities.org/ring.js"></script>
 
 </div>
 </div>

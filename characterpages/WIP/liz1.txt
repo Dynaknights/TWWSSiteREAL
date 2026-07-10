@@ -1,0 +1,1674 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YumeTwint.exe — Decora Desktop OS</title>
+<link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=M+PLUS+Rounded+1c:wght@400;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   ROOT PALETTE — DECORA / KEITAI / WIN98 PASTEL
+   ============================================================ */
+:root {
+  --bg:          #FFD1DC;
+  --bg-panel:    #FFF5F8;
+  --bg-deep:     #FFB6C1;
+  --win-bar:     #FF9BB5;
+  --win-bar2:    #C86490;
+  --accent:      #FF4FA3;
+  --accent-2:    #B4A0FF;
+  --accent-3:    #A8E6CF;
+  --accent-4:    #FFE082;
+  --text:        #3A1A2A;
+  --text-muted:  #9A6880;
+  --border:      #E895BB;
+  --border-light:#F5C8DC;
+  --win-btn:     #F8B8D0;
+  --notepad-bg:  #FFFDF8;
+  --aim-bg:      #FFF0F8;
+  --font-pixel:  'Press Start 2P', monospace;
+  --font-dot:    'DotGothic16', monospace;
+  --font-round:  'M PLUS Rounded 1c', sans-serif;
+}
+
+/* ============================================================
+   GLOBAL RESET + BASE
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg);
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Ctext y='18' font-size='14' fill='%23FF9BB5' opacity='0.55'%3E%F0%9F%8D%93%3C/text%3E%3C/svg%3E");
+  background-repeat: repeat;
+  font-family: var(--font-round);
+  color: var(--text);
+  cursor: none;
+  overflow-x: hidden;
+}
+
+/* CUSTOM CURSOR */
+.cursor-dot {
+  position: fixed;
+  width: 10px; height: 10px;
+  background: var(--accent);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99999;
+  transform: translate(-50%,-50%);
+  box-shadow: 0 0 6px var(--accent);
+  transition: transform 60ms;
+}
+
+/* SPARKLE TRAILS */
+.sparkle {
+  position: fixed;
+  pointer-events: none;
+  z-index: 99998;
+  font-size: 12px;
+  animation: sparkle-fade 0.8s ease-out forwards;
+  transform: translate(-50%, -50%);
+}
+@keyframes sparkle-fade {
+  0%   { opacity: 1; transform: translate(-50%,-50%) scale(1); }
+  100% { opacity: 0; transform: translate(-50%,-80%) scale(0.3); }
+}
+
+/* CONFETTI */
+.confetti-piece {
+  position: fixed;
+  width: 10px; height: 10px;
+  pointer-events: none;
+  z-index: 99990;
+  border-radius: 2px;
+  animation: confetti-fall linear forwards;
+}
+@keyframes confetti-fall {
+  0%   { transform: translateY(-20px) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(110vh) rotate(720deg); opacity: 0; }
+}
+
+/* KAWAII SCREAM OVERLAY */
+#scream-overlay {
+  display: none;
+  position: fixed; inset: 0;
+  background: linear-gradient(135deg, #FFD1DC, #B4A0FF, #A8E6CF, #FFE082, #FFD1DC);
+  background-size: 400% 400%;
+  animation: scream-bg 0.5s ease infinite;
+  z-index: 9990;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-pixel);
+  font-size: 18px;
+  color: var(--accent);
+  text-align: center;
+  pointer-events: none;
+}
+#scream-overlay.active { display: flex; }
+@keyframes scream-bg {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ============================================================
+   MAIN DESKTOP LAYOUT
+   ============================================================ */
+#desktop {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 30px 16px;
+  gap: 0;
+  position: relative;
+}
+
+/* ============================================================
+   SIDEBAR / PIXEL CHARM DOCK
+   ============================================================ */
+#charm-dock {
+  width: 68px;
+  min-height: 520px;
+  background: linear-gradient(180deg, #FFF0F8 0%, #FFE0EE 100%);
+  border: 2.5px solid var(--border);
+  border-right: none;
+  border-radius: 12px 0 0 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  padding: 10px 0 10px 0;
+  box-shadow: -3px 3px 0 var(--border-light);
+  position: relative;
+  z-index: 10;
+}
+
+.dock-charm {
+  width: 48px; height: 48px;
+  margin: 4px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: none;
+  border-radius: 8px;
+  transition: background 100ms, transform 100ms;
+  position: relative;
+}
+.dock-charm:hover {
+  background: rgba(255,160,200,0.3);
+  transform: scale(1.12);
+}
+.dock-charm canvas {
+  image-rendering: pixelated;
+}
+.dock-tooltip {
+  position: absolute;
+  left: 58px;
+  background: var(--win-bar);
+  color: #fff;
+  font-family: var(--font-dot);
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+  pointer-events: none;
+  display: none;
+  z-index: 200;
+  border: 1px solid var(--accent);
+}
+.dock-charm:hover .dock-tooltip { display: block; }
+
+.dock-divider {
+  width: 36px; height: 2px;
+  background: var(--border-light);
+  border-radius: 2px;
+  margin: 3px auto;
+}
+
+/* ============================================================
+   MAIN OS WINDOW
+   ============================================================ */
+#os-window {
+  width: 740px;
+  min-height: 560px;
+  background: var(--bg-panel);
+  border: 2.5px solid var(--border);
+  border-radius: 0 12px 12px 0;
+  box-shadow: 6px 8px 0 var(--border), inset 0 0 0 1px rgba(255,255,255,0.8);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+}
+
+/* TITLE BAR */
+#title-bar {
+  background: linear-gradient(90deg, var(--win-bar) 0%, var(--win-bar2) 50%, var(--win-bar) 100%);
+  border-radius: 0 10px 0 0;
+  padding: 0 8px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--win-bar2);
+  user-select: none;
+}
+
+#title-bar-text {
+  font-family: var(--font-dot);
+  font-size: 13px;
+  color: #fff;
+  text-shadow: 1px 1px 0 #C05080, 0 0 8px rgba(255,200,220,0.8);
+  letter-spacing: 0.04em;
+  animation: title-glitter 2s steps(1) infinite;
+}
+@keyframes title-glitter {
+  0%,100% { text-shadow: 1px 1px 0 #C05080, 0 0 8px rgba(255,200,220,0.9); }
+  25%      { text-shadow: 1px 1px 0 #A040FF, 0 0 12px rgba(180,160,255,1); }
+  50%      { text-shadow: 1px 1px 0 #C05080, 0 0 6px rgba(255,220,100,0.9); }
+  75%      { text-shadow: 1px 1px 0 #FF4FA3, 0 0 10px rgba(255,100,200,1); }
+}
+
+#title-buttons {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.title-btn {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  border: 2px solid rgba(255,255,255,0.7);
+  cursor: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: bold;
+  transition: transform 80ms;
+  position: relative;
+  overflow: hidden;
+}
+.title-btn:hover { transform: scale(1.2); }
+.title-btn::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(255,255,255,0.5) 0%, transparent 60%);
+  border-radius: 50%;
+}
+.btn-close   { background: #FF6B9D; }
+.btn-min     { background: #FFE066; }
+.btn-max     { background: #A8E6CF; }
+
+/* MENU BAR */
+#menu-bar {
+  background: #FFF5F8;
+  border-bottom: 1px solid var(--border-light);
+  padding: 3px 10px;
+  display: flex;
+  gap: 16px;
+  font-family: var(--font-dot);
+  font-size: 12px;
+  color: var(--text);
+}
+#menu-bar span {
+  cursor: none;
+  padding: 2px 6px;
+  border-radius: 3px;
+  transition: background 80ms;
+}
+#menu-bar span:hover {
+  background: var(--win-bar);
+  color: #fff;
+}
+
+/* INNER LAYOUT */
+#window-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 0 0 10px 0;
+}
+
+/* ============================================================
+   NOTEPAD AREA (LEFT MAIN)
+   ============================================================ */
+#notepad-area {
+  flex: 1;
+  background: var(--notepad-bg);
+  padding: 16px 18px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  font-size: 13.5px;
+  line-height: 1.9;
+  color: var(--text);
+  border-right: 2px dotted var(--border-light);
+  position: relative;
+}
+#notepad-area::-webkit-scrollbar { width: 8px; }
+#notepad-area::-webkit-scrollbar-track { background: var(--bg-deep); }
+#notepad-area::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+.nb-line { margin-bottom: 2px; }
+.nb-heading {
+  font-family: var(--font-dot);
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  margin: 12px 0 4px 0;
+  display: block;
+}
+.nb-divider {
+  width: 100%;
+  height: 2px;
+  background: repeating-linear-gradient(90deg, var(--accent) 0, var(--accent) 4px, transparent 4px, transparent 8px);
+  margin: 10px 0;
+  border: none;
+}
+
+/* RAINBOW TEXT */
+.rainbow { 
+  background: linear-gradient(90deg, #FF4FA3, #FF9BB5, #FFE082, #A8E6CF, #B4A0FF, #FF4FA3);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: rainbow-slide 3s linear infinite;
+  font-weight: bold;
+}
+@keyframes rainbow-slide {
+  0%   { background-position: 0% center; }
+  100% { background-position: 200% center; }
+}
+
+.r1 { color: #FF4FA3; text-shadow: 1.5px 1.5px 0 rgba(255,80,163,0.25); }
+.r2 { color: #FF9BB5; text-shadow: 1.5px 1.5px 0 rgba(255,155,181,0.25); }
+.r3 { color: #9B59B6; text-shadow: 1.5px 1.5px 0 rgba(155,89,182,0.25); }
+.r4 { color: #3498DB; text-shadow: 1.5px 1.5px 0 rgba(52,152,219,0.25); }
+.r5 { color: #2ECC71; text-shadow: 1.5px 1.5px 0 rgba(46,204,113,0.25); }
+.r6 { color: #F39C12; text-shadow: 1.5px 1.5px 0 rgba(243,156,18,0.25); }
+
+/* STRAWBERRY ICON */
+#strawberry-btn {
+  display: inline-block;
+  font-size: 26px;
+  cursor: none;
+  transition: transform 150ms;
+  vertical-align: middle;
+  animation: float-berry 3s ease-in-out infinite;
+  line-height: 1;
+}
+#strawberry-btn:hover { transform: scale(1.3) rotate(-10deg); }
+@keyframes float-berry {
+  0%,100% { transform: translateY(0); }
+  50%     { transform: translateY(-5px); }
+}
+
+/* MINI PIXEL ART SECTIONS */
+.pixel-box {
+  display: inline-block;
+  background: var(--bg-deep);
+  border: 1.5px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-family: var(--font-dot);
+  font-size: 11px;
+  color: var(--text-muted);
+  margin: 4px 2px;
+  box-shadow: 2px 2px 0 var(--border-light);
+}
+
+.blinking {
+  animation: blink-text 1.2s steps(1) infinite;
+}
+@keyframes blink-text {
+  0%,49% { opacity: 1; }
+  50%,100% { opacity: 0; }
+}
+
+/* ============================================================
+   RIGHT SIDEBAR — AIM BUDDY LIST
+   ============================================================ */
+#aim-panel {
+  width: 180px;
+  background: var(--aim-bg);
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-dot);
+  font-size: 11px;
+  overflow: hidden;
+}
+
+#aim-titlebar {
+  background: linear-gradient(90deg, #B4A0FF, #8B6FFF);
+  padding: 5px 8px;
+  color: #fff;
+  font-size: 11px;
+  font-family: var(--font-dot);
+  text-shadow: 1px 1px 0 #6040C0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+#aim-titlebar::before {
+  content: '';
+  display: inline-block;
+  width: 14px; height: 14px;
+  background: #FFE082;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 4px #FFE082;
+  animation: online-pulse 2s ease-in-out infinite;
+}
+@keyframes online-pulse {
+  0%,100% { box-shadow: 0 0 4px #FFE082; }
+  50%     { box-shadow: 0 0 10px #FFE082, 0 0 18px rgba(255,224,130,0.5); }
+}
+
+#aim-search {
+  padding: 5px 6px;
+  border-bottom: 1px solid var(--border-light);
+  background: #FFF8FF;
+  flex-shrink: 0;
+}
+#aim-search input {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px 5px;
+  font-family: var(--font-dot);
+  font-size: 10px;
+  background: #fff;
+  color: var(--text);
+  outline: none;
+}
+
+.aim-group-header {
+  background: linear-gradient(90deg, var(--border-light), transparent);
+  padding: 4px 8px;
+  color: var(--accent);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  border-bottom: 1px dotted var(--border-light);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: none;
+  flex-shrink: 0;
+}
+
+#aim-list {
+  flex: 1;
+  overflow-y: auto;
+}
+#aim-list::-webkit-scrollbar { width: 6px; }
+#aim-list::-webkit-scrollbar-track { background: var(--aim-bg); }
+#aim-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+.buddy-item {
+  padding: 5px 8px 5px 18px;
+  cursor: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: background 80ms;
+  font-size: 11px;
+  color: var(--text);
+  border-bottom: 1px solid rgba(255,200,220,0.3);
+}
+.buddy-item:hover { background: rgba(255,160,200,0.2); }
+.buddy-status {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.status-online  { background: #5CB85C; box-shadow: 0 0 4px #5CB85C; }
+.status-away    { background: #FFE066; box-shadow: 0 0 4px #FFE066; }
+.status-offline { background: #aaa; }
+.buddy-name {
+  font-size: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.buddy-msg {
+  font-size: 9px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  margin-top: 1px;
+}
+
+#aim-footer {
+  padding: 6px;
+  border-top: 1px solid var(--border-light);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.aim-footer-btn {
+  background: linear-gradient(135deg, #FF9BB5, #FF4FA3);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-family: var(--font-dot);
+  font-size: 9px;
+  cursor: none;
+  text-align: center;
+  transition: transform 80ms, box-shadow 80ms;
+  box-shadow: 0 2px 0 #C05080;
+}
+.aim-footer-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 0 #C05080;
+}
+
+/* ============================================================
+   STATUS BAR
+   ============================================================ */
+#status-bar {
+  background: linear-gradient(90deg, #F8D8E8, #EEC8DC);
+  border-top: 2px solid var(--border-light);
+  padding: 4px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--font-dot);
+  font-size: 10px;
+  color: var(--text-muted);
+  flex-shrink: 0;
+  border-radius: 0 0 10px 0;
+}
+#status-bar .status-left { display: flex; gap: 16px; align-items: center; }
+#status-bar .status-right { display: flex; gap: 10px; align-items: center; }
+#clock-display {
+  font-family: var(--font-dot);
+  font-size: 11px;
+  color: var(--accent);
+}
+
+/* ============================================================
+   MUTE BUTTON — HEART LOLLIPOP
+   ============================================================ */
+#mute-btn {
+  position: fixed;
+  bottom: 28px;
+  right: 30px;
+  z-index: 1000;
+  cursor: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  transition: transform 100ms;
+  filter: drop-shadow(0 3px 8px rgba(255,80,163,0.4));
+}
+#mute-btn:hover { transform: scale(1.12) rotate(-5deg); }
+
+.lollipop-head {
+  width: 42px; height: 42px;
+  background: radial-gradient(circle at 35% 35%, #FF9BB5, #FF4FA3 60%, #C82870);
+  border-radius: 50% 50% 45% 45%;
+  position: relative;
+  border: 2.5px solid #C82870;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  box-shadow: 0 0 12px rgba(255,80,163,0.5);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  clip-path: none;
+}
+.lollipop-head::after {
+  content: '';
+  position: absolute;
+  top: 6px; left: 8px;
+  width: 10px; height: 6px;
+  background: rgba(255,255,255,0.45);
+  border-radius: 50%;
+  transform: rotate(-30deg);
+}
+.lollipop-stick {
+  width: 5px; height: 28px;
+  background: linear-gradient(180deg, #F0A0B8, #C87090);
+  border-radius: 0 0 3px 3px;
+}
+.lollipop-label {
+  font-family: var(--font-dot);
+  font-size: 9px;
+  color: var(--accent);
+  text-align: center;
+  margin-top: 2px;
+  line-height: 1.2;
+}
+
+/* ============================================================
+   PIXEL ART CHARM CANVASES (drawn by JS)
+   ============================================================ */
+.charm-canvas {
+  image-rendering: pixelated;
+  display: block;
+}
+
+/* ============================================================
+   NOW PLAYING WIDGET
+   ============================================================ */
+#nowplaying {
+  position: fixed;
+  top: 20px;
+  right: 24px;
+  z-index: 500;
+  background: linear-gradient(135deg, #FFF0F8, #FFE8F4);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 12px 8px 10px;
+  box-shadow: 3px 3px 0 var(--border-light);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-dot);
+  font-size: 10px;
+  min-width: 170px;
+  max-width: 200px;
+}
+.np-disc {
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  background: conic-gradient(
+    #FF4FA3 0deg 60deg,
+    #FFE082 60deg 120deg,
+    #A8E6CF 120deg 180deg,
+    #B4A0FF 180deg 240deg,
+    #FF9BB5 240deg 300deg,
+    #FF4FA3 300deg 360deg
+  );
+  border: 3px solid #fff;
+  box-shadow: 0 0 8px rgba(255,80,163,0.4);
+  flex-shrink: 0;
+  animation: disc-spin 4s linear infinite;
+  position: relative;
+}
+.np-disc::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 8px; height: 8px;
+  background: #fff;
+  border-radius: 50%;
+  transform: translate(-50%,-50%);
+}
+@keyframes disc-spin { from { transform: rotate(0); } to { transform: rotate(360deg); } }
+.np-disc.paused { animation-play-state: paused; }
+.np-info { flex: 1; overflow: hidden; }
+.np-title {
+  color: var(--accent);
+  font-size: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  animation: marquee-text 8s linear infinite;
+  display: block;
+}
+@keyframes marquee-text {
+  0%,20% { transform: translateX(0); }
+  80%,100% { transform: translateX(-40%); }
+}
+.np-artist { color: var(--text-muted); font-size: 9px; display: block; margin-top: 2px; }
+.np-bar {
+  height: 3px;
+  background: var(--border-light);
+  border-radius: 2px;
+  margin-top: 4px;
+  overflow: hidden;
+}
+.np-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  border-radius: 2px;
+  animation: progress-anim 12s linear infinite;
+}
+@keyframes progress-anim {
+  from { width: 0%; }
+  to   { width: 100%; }
+}
+
+/* ============================================================
+   MISC DECORATIONS
+   ============================================================ */
+.star-blink {
+  display: inline-block;
+  color: var(--accent-4);
+  animation: star-blink-anim 1.5s steps(1) infinite;
+}
+@keyframes star-blink-anim {
+  0%,49%  { opacity: 1; color: var(--accent-4); }
+  50%,100% { opacity: 0.3; color: var(--accent-2); }
+}
+
+.wiggle {
+  display: inline-block;
+  animation: wiggle-anim 2.5s ease-in-out infinite;
+}
+@keyframes wiggle-anim {
+  0%,100% { transform: rotate(-4deg); }
+  50%     { transform: rotate(4deg); }
+}
+
+/* PAGE SHAKE */
+@keyframes kawaii-shake {
+  0%,100% { transform: translate(0,0) rotate(0); }
+  10%     { transform: translate(-4px,3px) rotate(-1deg); }
+  20%     { transform: translate(4px,-3px) rotate(1deg); }
+  30%     { transform: translate(-3px,4px) rotate(-0.5deg); }
+  40%     { transform: translate(3px,-2px) rotate(0.5deg); }
+  50%     { transform: translate(-2px,2px) rotate(-1deg); }
+  60%     { transform: translate(2px,-3px) rotate(1deg); }
+  70%     { transform: translate(-4px,2px) rotate(-0.5deg); }
+  80%     { transform: translate(4px,3px) rotate(0.5deg); }
+  90%     { transform: translate(-1px,-1px) rotate(0); }
+}
+body.kawaii-scream { animation: kawaii-shake 0.6s ease 3; }
+
+/* Noise subtle overlay (soft kawaii version) */
+.noise-overlay {
+  position: fixed; inset: 0;
+  z-index: 9995;
+  pointer-events: none;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 128px 128px;
+}
+
+/* Floating pixel deco outside window */
+.float-deco {
+  position: fixed;
+  pointer-events: none;
+  font-size: 20px;
+  z-index: 5;
+  animation: float-deco-anim var(--dur, 5s) ease-in-out infinite;
+}
+@keyframes float-deco-anim {
+  0%,100% { transform: translateY(0) rotate(0deg); }
+  50%     { transform: translateY(-14px) rotate(8deg); }
+}
+</style>
+</head>
+<body>
+
+<!-- NOISE OVERLAY -->
+<div class="noise-overlay"></div>
+
+<!-- SCREAM OVERLAY -->
+<div id="scream-overlay">
+  <div>
+    <div style="font-size:28px; animation: title-glitter 0.3s steps(1) infinite; color:#FF4FA3; margin-bottom:12px;">★ KAWAII SCREAM!! ★</div>
+    <div style="font-size:12px; color: #B4A0FF;">(*´∀｀*)ﾉﾞ  ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
+  </div>
+</div>
+
+<!-- CURSOR DOT -->
+<div class="cursor-dot" id="cursor-dot"></div>
+
+<!-- NOW PLAYING WIDGET -->
+<div id="nowplaying" title="8-bit City Pop Loop">
+  <div class="np-disc" id="np-disc"></div>
+  <div class="np-info">
+    <span class="np-title">Pastel Keitai Groove.mid</span>
+    <span class="np-artist">DJ YumeTwint</span>
+    <div class="np-bar"><div class="np-bar-fill" id="np-fill"></div></div>
+  </div>
+</div>
+
+<!-- MUTE BUTTON — HEART LOLLIPOP -->
+<div id="mute-btn" title="MUTE / UNMUTE" onclick="toggleMute()">
+  <div class="lollipop-head" id="lollipop-head">
+    <span id="mute-icon" style="font-size:14px; position:relative; z-index:2;">♪</span>
+  </div>
+  <div class="lollipop-stick"></div>
+  <div class="lollipop-label" id="mute-label">♪ music<br>playing</div>
+</div>
+
+<!-- FLOATING PAGE DECOS -->
+<span class="float-deco" style="top:12%; left:5%; --dur:4.2s; font-size:18px; opacity:0.6;">✿</span>
+<span class="float-deco" style="top:72%; left:2%; --dur:5.8s; font-size:14px; opacity:0.5;">◇</span>
+<span class="float-deco" style="top:30%; right:4%; --dur:3.9s; font-size:16px; opacity:0.55;">♡</span>
+<span class="float-deco" style="bottom:15%; right:6%; --dur:6.1s; font-size:20px; opacity:0.5;">☆</span>
+
+<!-- MAIN DESKTOP -->
+<div id="desktop">
+
+  <!-- CHARM DOCK (left sidebar) -->
+  <div id="charm-dock">
+
+    <div class="dock-charm" title="tamagotchi.exe">
+      <canvas class="charm-canvas" id="charm-tama" width="40" height="40"></canvas>
+      <span class="dock-tooltip">tamagotchi.exe</span>
+    </div>
+
+    <div class="dock-divider"></div>
+
+    <div class="dock-charm" title="milk_carton.exe">
+      <canvas class="charm-canvas" id="charm-milk" width="40" height="40"></canvas>
+      <span class="dock-tooltip">milk_carton.exe</span>
+    </div>
+
+    <div class="dock-divider"></div>
+
+    <div class="dock-charm" title="flip_phone.exe">
+      <canvas class="charm-canvas" id="charm-phone" width="40" height="40"></canvas>
+      <span class="dock-tooltip">flip_phone.exe</span>
+    </div>
+
+    <div class="dock-divider"></div>
+
+    <div class="dock-charm" title="angel.exe">
+      <canvas class="charm-canvas" id="charm-angel" width="40" height="40"></canvas>
+      <span class="dock-tooltip">angel.exe</span>
+    </div>
+
+    <div class="dock-divider"></div>
+
+    <div class="dock-charm" title="star_wand.exe">
+      <canvas class="charm-canvas" id="charm-wand" width="40" height="40"></canvas>
+      <span class="dock-tooltip">star_wand.exe</span>
+    </div>
+
+    <div class="dock-divider"></div>
+
+    <div class="dock-charm" title="bow.exe">
+      <canvas class="charm-canvas" id="charm-bow" width="40" height="40"></canvas>
+      <span class="dock-tooltip">bow.exe</span>
+    </div>
+
+  </div>
+
+  <!-- OS WINDOW -->
+  <div id="os-window">
+
+    <!-- TITLE BAR -->
+    <div id="title-bar">
+      <div id="title-bar-text">★彡 MYPAGE.exe — ONLINE 彡★</div>
+      <div id="title-buttons">
+        <div class="title-btn btn-min" title="minimize">&#x2014;</div>
+        <div class="title-btn btn-max" title="maximize">&#x25A1;</div>
+        <div class="title-btn btn-close" title="close">&#x2715;</div>
+      </div>
+    </div>
+
+    <!-- MENU BAR -->
+    <div id="menu-bar">
+      <span>File</span>
+      <span>Edit</span>
+      <span>View</span>
+      <span>Format</span>
+      <span>kawaii~*</span>
+      <span>Help</span>
+    </div>
+
+    <!-- BODY -->
+    <div id="window-body">
+
+      <!-- NOTEPAD MAIN CONTENT -->
+      <div id="notepad-area">
+
+        <!-- Big heading -->
+        <div style="text-align:center; margin-bottom: 10px;">
+          <span class="wiggle" style="font-size:22px; color: var(--accent); font-family: var(--font-dot); letter-spacing:0.1em; display:block;">
+            <span class="star-blink">★</span>
+            &nbsp;w e l c o m e  t o  m y  p a g e !&nbsp;
+            <span class="star-blink" style="animation-delay:0.6s;">★</span>
+          </span>
+          <div style="font-family: var(--font-dot); font-size:10px; color: var(--text-muted); margin-top:4px; letter-spacing:0.08em;">
+            ･ﾟ✧ yume-twint desktop OS v2.kawaii ✧ﾟ･
+          </div>
+        </div>
+
+        <div class="nb-divider"></div>
+
+        <p class="nb-line">
+          <span class="r1">h</span><span class="r2">e</span><span class="r3">l</span><span class="r4">l</span><span class="r5">o</span><span class="r6">!</span>
+          <span style="color: var(--text);">&nbsp;my name is&nbsp;</span>
+          <strong style="color: var(--accent); font-family: var(--font-dot); font-size:13px;">yume-chan</strong>
+          <span style="color: var(--text);">&nbsp;&amp; this is my magical corner of the internet!!</span>
+        </p>
+        <p class="nb-line" style="color: var(--text-muted); font-size:12px; padding-left: 12px;">
+          (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ &nbsp;puella magi of the keitai universe
+        </p>
+
+        <div class="nb-divider"></div>
+
+        <!-- Strawberry button section -->
+        <div style="background: linear-gradient(135deg, #FFF0F8, #FFE8F4); border: 2px dashed var(--border); border-radius:10px; padding:10px 14px; margin: 10px 0;">
+          <div style="font-family: var(--font-dot); font-size:11px; color: var(--accent); margin-bottom:6px; letter-spacing:0.06em;">
+            &#x2665;  secret button  &#x2665;
+          </div>
+          <p class="nb-line" style="font-size:12px;">
+            click the strawberry <strong>3 times</strong> for a surprise~!!
+          </p>
+          <div style="text-align:center; margin-top:8px;">
+            <span id="strawberry-btn" onclick="strawberryClick()" title="click me 3 times!">&#x1F353;</span>
+            <span id="berry-counter" style="font-family:var(--font-dot); font-size:9px; color:var(--text-muted); display:inline-block; margin-left:8px; vertical-align:middle;"></span>
+          </div>
+        </div>
+
+        <!-- About section -->
+        <span class="nb-heading">
+          <span class="r1">~</span><span class="r2">~</span><span class="r3">~</span>
+          &nbsp;<span style="background: linear-gradient(90deg,var(--accent),var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text;">about me!!</span>&nbsp;
+          <span class="r4">~</span><span class="r5">~</span><span class="r6">~</span>
+        </span>
+
+        <div class="nb-line" style="display:flex; flex-wrap:wrap; gap:6px; margin:6px 0 10px 0;">
+          <span class="pixel-box">&#x2665; age: 17</span>
+          <span class="pixel-box">&#x2606; sign: libra</span>
+          <span class="pixel-box">&#x2764; status: <span class="blinking">dreaming</span></span>
+          <span class="pixel-box">&#x266B; vibe: citypop</span>
+          <span class="pixel-box">&#x2728; mode: kawaii</span>
+        </div>
+
+        <p class="nb-line" style="padding-left:10px; font-size:13px; color: var(--text);">
+          <span class="r2">i</span> <span class="r3">l</span><span class="r4">o</span><span class="r5">v</span><span class="r6">e</span>
+          &nbsp;collecting keitai straps, melon soda, pixel art and vintage sanrio!!
+          my room is 100% decora style and i have 47 tamagotchis (they r all alive)
+        </p>
+
+        <p class="nb-line" style="padding-left:10px; font-size:12px; color: var(--text-muted); margin-top:4px;">
+          ✦ currently obsessed with: citypop, magical girl anime, strawberry milk ✦
+        </p>
+
+        <div class="nb-divider"></div>
+
+        <!-- Blog/diary section -->
+        <span class="nb-heading">
+          <span style="color: var(--accent-2); font-family: var(--font-dot); font-size:12px;">&#x1F4D3; diary / latest entry</span>
+        </span>
+
+        <div style="background:#FFF8FF; border-left: 3px solid var(--accent); padding: 8px 12px; border-radius: 0 8px 8px 0; margin: 6px 0 10px 0; font-size:12.5px;">
+          <div style="font-family:var(--font-dot); font-size:9px; color:var(--text-muted); margin-bottom:5px;">
+            04/19/2026 &nbsp;·&nbsp; 11:11 PM
+          </div>
+          <p style="color:var(--text); line-height:1.8;">
+            today i found a limited edition melon soda tamagotchi at the 2nd hand shop!! it was only ¥500 and it came with a strawberry phone charm attached.. i think the universe is sending me signs.
+            also my best friend
+            <span style="color: var(--accent); font-family: var(--font-dot); font-size:11px;">xX_mel0n_s0da_Xx</span>
+            said she might visit next weekend and we are gonna do decora coord shoots!!
+          </p>
+          <p style="font-size:11px; color:var(--text-muted); margin-top:6px;">
+            mood: <span class="rainbow" style="font-size:11px;">fluffy and soft like cotton candy</span> 　☁️
+          </p>
+        </div>
+
+        <div class="nb-divider"></div>
+
+        <!-- Fav things -->
+        <span class="nb-heading">
+          <span style="color: var(--accent-3); font-family: var(--font-dot); font-size:12px;">&#x2728; current faves</span>
+        </span>
+
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; margin: 6px 0 10px 0; font-size:12px;">
+          <div class="pixel-box" style="padding:8px 10px;">
+            <div style="color:var(--accent); font-family:var(--font-dot); font-size:9px; margin-bottom:4px;">NOW PLAYING</div>
+            <div>Plastic Love - Mariya Takeuchi</div>
+            <div style="font-size:10px; color:var(--text-muted);">on repeat x999</div>
+          </div>
+          <div class="pixel-box" style="padding:8px 10px;">
+            <div style="color:var(--accent-2); font-family:var(--font-dot); font-size:9px; margin-bottom:4px;">WATCHING</div>
+            <div>Cardcaptor Sakura rewatch</div>
+            <div style="font-size:10px; color:var(--text-muted);">ep 14/70 ♡</div>
+          </div>
+          <div class="pixel-box" style="padding:8px 10px;">
+            <div style="color:var(--accent-3); font-family:var(--font-dot); font-size:9px; margin-bottom:4px;">EATING</div>
+            <div>ichigo daifuku + melon soda</div>
+            <div style="font-size:10px; color:var(--text-muted);">every day diet</div>
+          </div>
+          <div class="pixel-box" style="padding:8px 10px;">
+            <div style="color:var(--accent-4); font-family:var(--font-dot); font-size:9px; margin-bottom:4px; color:#C08000;">WEARING</div>
+            <div>decora coord #34-pink</div>
+            <div style="font-size:10px; color:var(--text-muted);">47 clips today!!</div>
+          </div>
+        </div>
+
+        <div class="nb-divider"></div>
+
+        <!-- Footer note -->
+        <p style="text-align:center; font-family:var(--font-dot); font-size:9px; color:var(--text-muted); letter-spacing:0.08em; padding: 6px 0;">
+          best viewed in 1024x768 &nbsp;&#x2605;&nbsp; IE6 or better &nbsp;&#x2605;&nbsp; 16M colors
+        </p>
+        <p style="text-align:center; font-size:10px; color:var(--accent);">
+          <span class="blinking">&#x2665;</span>
+          &nbsp;yume-chan's page &copy; 2026&nbsp;
+          <span class="blinking" style="animation-delay:0.6s;">&#x2665;</span>
+        </p>
+
+      </div><!-- /notepad-area -->
+
+      <!-- AIM BUDDY LIST -->
+      <div id="aim-panel">
+        <div id="aim-titlebar">AIM&nbsp;buddies</div>
+        <div id="aim-search">
+          <input type="text" placeholder="find a buddy~" readonly>
+        </div>
+
+        <div class="aim-group-header">&#x25BC; online (9)</div>
+
+        <div id="aim-list">
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">xX_mel0n_s0da_Xx</div>
+              <span class="buddy-msg">melon&gt;&gt;watermelon fight me</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">sakura_b0mb3r</div>
+              <span class="buddy-msg">buying all the capsule toys</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">h0ney_yuzu_tea</div>
+              <span class="buddy-msg">typing......</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">k0mpeito_raver</div>
+              <span class="buddy-msg">im at the arcade rn</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">p!nk_m0chi_666</div>
+              <span class="buddy-msg">maid cafe haul pic soon!</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-away"></div>
+            <div>
+              <div class="buddy-name">glitter__k0i</div>
+              <span class="buddy-msg">away: studying (crying)</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-away"></div>
+            <div>
+              <div class="buddy-name">taiyaki_dreamer</div>
+              <span class="buddy-msg">snoozing uwu</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">sugarcrash_yuki</div>
+              <span class="buddy-msg">new page layout done!!!!</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-online"></div>
+            <div>
+              <div class="buddy-name">ch3rryb0mb_hana</div>
+              <span class="buddy-msg">100 keitai charms collected!!</span>
+            </div>
+          </div>
+
+          <div class="aim-group-header" style="margin-top:4px;">&#x25BC; offline (4)</div>
+
+          <div class="buddy-item">
+            <div class="buddy-status status-offline"></div>
+            <div>
+              <div class="buddy-name">lychee_ghost_04</div>
+              <span class="buddy-msg" style="color:#ccc;">last seen: 2 days ago</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-offline"></div>
+            <div>
+              <div class="buddy-name">st4rf1sh_rina</div>
+              <span class="buddy-msg" style="color:#ccc;">gone 2 harajuku</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-offline"></div>
+            <div>
+              <div class="buddy-name">bub0_mew_mew</div>
+              <span class="buddy-msg" style="color:#ccc;">no signal in the forest</span>
+            </div>
+          </div>
+          <div class="buddy-item">
+            <div class="buddy-status status-offline"></div>
+            <div>
+              <div class="buddy-name">neon_d4ikon_69</div>
+              <span class="buddy-msg" style="color:#ccc;">offline</span>
+            </div>
+          </div>
+        </div>
+
+        <div id="aim-footer">
+          <div class="aim-footer-btn">&#x2709; send IM</div>
+          <div class="aim-footer-btn" style="background: linear-gradient(135deg, #B4A0FF, #8B6FFF); box-shadow: 0 2px 0 #5040A0;">&#x2606; add buddy</div>
+        </div>
+      </div><!-- /aim-panel -->
+
+    </div><!-- /window-body -->
+
+    <!-- STATUS BAR -->
+    <div id="status-bar">
+      <div class="status-left">
+        <span>&#x2665; ONLINE</span>
+        <span id="clock-display">-- : -- : --</span>
+        <span style="color: var(--accent-3);">visitors: <strong>9,999</strong></span>
+      </div>
+      <div class="status-right">
+        <span class="blinking" style="color:var(--accent);">&#x2605; kawaii mode: ON</span>
+        <span>decora OS v2.exe</span>
+      </div>
+    </div>
+
+  </div><!-- /os-window -->
+
+</div><!-- /desktop -->
+
+<!-- AUDIO ELEMENT -->
+<audio id="bg-audio" loop autoplay>
+  <!-- 8-bit citypop style tones generated via Web Audio API below -->
+</audio>
+
+<!-- THREE.JS for sparkle trail -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+<script>
+/* ============================================================
+   CURSOR TRAIL — SPARKLE STARS
+   ============================================================ */
+const cursorDot = document.getElementById('cursor-dot');
+const sparkleChars = ['✦','★','✿','◇','♡','✧','✩','☆','·','*'];
+let lastSparkle = 0;
+
+document.addEventListener('mousemove', (e) => {
+  cursorDot.style.left = e.clientX + 'px';
+  cursorDot.style.top  = e.clientY + 'px';
+
+  const now = Date.now();
+  if (now - lastSparkle > 50) {
+    lastSparkle = now;
+    spawnSparkle(e.clientX, e.clientY);
+  }
+});
+
+function spawnSparkle(x, y) {
+  const s = document.createElement('div');
+  s.className = 'sparkle';
+  s.textContent = sparkleChars[Math.floor(Math.random() * sparkleChars.length)];
+  const colors = ['#FF4FA3','#B4A0FF','#FFE082','#A8E6CF','#FF9BB5'];
+  s.style.color = colors[Math.floor(Math.random() * colors.length)];
+  s.style.left = (x + (Math.random() - 0.5) * 20) + 'px';
+  s.style.top  = (y + (Math.random() - 0.5) * 20) + 'px';
+  s.style.fontSize = (8 + Math.random() * 10) + 'px';
+  document.body.appendChild(s);
+  setTimeout(() => s.remove(), 800);
+}
+
+/* ============================================================
+   CLOCK
+   ============================================================ */
+function updateClock() {
+  const d = new Date();
+  const h = String(d.getHours()).padStart(2,'0');
+  const m = String(d.getMinutes()).padStart(2,'0');
+  const s = String(d.getSeconds()).padStart(2,'0');
+  document.getElementById('clock-display').textContent = h + ':' + m + ':' + s;
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+/* ============================================================
+   8-BIT CITYPOP LOOP (Web Audio API)
+   ============================================================ */
+let audioCtx = null;
+let musicNodes = [];
+let isMuted = false;
+let masterGain = null;
+
+function initAudio() {
+  if (audioCtx) return;
+  audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  masterGain = audioCtx.createGain();
+  masterGain.gain.value = 0.18;
+  masterGain.connect(audioCtx.destination);
+  playCitypopLoop();
+}
+
+// Simple pentatonic/city-pop inspired repeating sequence
+function playCitypopLoop() {
+  if (!audioCtx) return;
+  
+  // Notes in Hz for a citypop-ish 8-bit melody (Amaj pentatonic vibes)
+  const melody = [
+    {f:440, d:0.25}, {f:494, d:0.25}, {f:554, d:0.5},
+    {f:587, d:0.25}, {f:659, d:0.25}, {f:587, d:0.25}, {f:554, d:0.25},
+    {f:494, d:0.5},  {f:440, d:0.5},
+    {f:370, d:0.25}, {f:415, d:0.25}, {f:440, d:0.5},
+    {f:494, d:0.25}, {f:554, d:0.25}, {f:494, d:0.25}, {f:440, d:0.25},
+    {f:370, d:1.0},
+  ];
+  
+  // Chord bass notes
+  const bass = [
+    {f:110, d:1.0}, {f:110, d:1.0}, {f:98,  d:1.0}, {f:98, d:1.0},
+    {f:110, d:1.0}, {f:110, d:1.0}, {f:98,  d:1.0}, {f:82, d:1.0},
+  ];
+
+  function playNote(freq, startTime, duration, type='square', gainVal=0.12, pan=0) {
+    const osc  = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    const panner = audioCtx.createStereoPanner();
+    osc.type = type;
+    osc.frequency.setValueAtTime(freq, startTime);
+    gain.gain.setValueAtTime(0, startTime);
+    gain.gain.linearRampToValueAtTime(gainVal, startTime + 0.01);
+    gain.gain.setValueAtTime(gainVal, startTime + duration - 0.05);
+    gain.gain.linearRampToValueAtTime(0, startTime + duration);
+    panner.pan.value = pan;
+    osc.connect(gain);
+    gain.connect(panner);
+    panner.connect(masterGain);
+    osc.start(startTime);
+    osc.stop(startTime + duration);
+    musicNodes.push(osc);
+  }
+
+  function scheduleLoop() {
+    const now = audioCtx.currentTime + 0.1;
+    let t = now;
+    melody.forEach(n => {
+      playNote(n.f * 2, t, n.d * 0.5, 'square', 0.08, -0.3);
+      t += n.d * 0.5;
+    });
+    const loopLen = melody.reduce((a,n) => a + n.d * 0.5, 0);
+    
+    let tb = now;
+    bass.forEach(n => {
+      playNote(n.f, tb, n.d * (loopLen / bass.length) * 0.9, 'sawtooth', 0.05, 0.3);
+      tb += n.d * (loopLen / bass.length);
+    });
+
+    // Hihat pattern
+    function makeNoise(startT, dur) {
+      const bufSize = audioCtx.sampleRate * dur;
+      const buffer = audioCtx.createBuffer(1, bufSize, audioCtx.sampleRate);
+      const data = buffer.getChannelData(0);
+      for (let i = 0; i < bufSize; i++) data[i] = Math.random() * 2 - 1;
+      const src = audioCtx.createBufferSource();
+      const hiGain = audioCtx.createGain();
+      const hpf = audioCtx.createBiquadFilter();
+      hpf.type = 'highpass';
+      hpf.frequency.value = 8000;
+      src.buffer = buffer;
+      hiGain.gain.setValueAtTime(0.03, startT);
+      hiGain.gain.linearRampToValueAtTime(0, startT + dur);
+      src.connect(hpf);
+      hpf.connect(hiGain);
+      hiGain.connect(masterGain);
+      src.start(startT);
+      src.stop(startT + dur);
+    }
+    for (let i = 0; i < loopLen / 0.25; i++) {
+      if (i % 2 === 0) makeNoise(now + i * 0.25, 0.08);
+    }
+
+    setTimeout(scheduleLoop, (loopLen - 0.5) * 1000);
+  }
+
+  scheduleLoop();
+}
+
+// Start audio on first interaction
+document.addEventListener('click', initAudio, { once: false });
+document.addEventListener('mousemove', initAudio, { once: true });
+
+function toggleMute() {
+  initAudio();
+  isMuted = !isMuted;
+  if (masterGain) masterGain.gain.value = isMuted ? 0 : 0.18;
+  document.getElementById('mute-icon').textContent  = isMuted ? '♬' : '♪';
+  document.getElementById('mute-label').textContent = isMuted ? 'muted\n(sad)' : '♪ music\nplaying';
+  document.getElementById('np-disc').classList.toggle('paused', isMuted);
+}
+
+/* ============================================================
+   STRAWBERRY CLICK — KAWAII SCREAM
+   ============================================================ */
+let berryCount = 0;
+const pastelConfettiColors = ['#FF4FA3','#FF9BB5','#FFE082','#A8E6CF','#B4A0FF','#FF6B9D','#FFC0CB','#98FB98','#DDA0DD'];
+
+function strawberryClick() {
+  berryCount++;
+  const counter = document.getElementById('berry-counter');
+  const hearts = ['♡', '♡♡', '♡♡♡ SCREAM!!!'];
+  counter.textContent = hearts[Math.min(berryCount - 1, 2)];
+
+  if (berryCount >= 3) {
+    berryCount = 0;
+    counter.textContent = '';
+    triggerKawaiiScream();
+  }
+}
+
+function triggerKawaiiScream() {
+  initAudio();
+  // Play screech sound
+  if (audioCtx) {
+    const screamOsc = audioCtx.createOscillator();
+    const screamGain = audioCtx.createGain();
+    screamOsc.type = 'sawtooth';
+    screamOsc.frequency.setValueAtTime(800, audioCtx.currentTime);
+    screamOsc.frequency.linearRampToValueAtTime(2400, audioCtx.currentTime + 0.15);
+    screamOsc.frequency.linearRampToValueAtTime(400, audioCtx.currentTime + 0.4);
+    screamGain.gain.setValueAtTime(0.2, audioCtx.currentTime);
+    screamGain.gain.linearRampToValueAtTime(0, audioCtx.currentTime + 0.5);
+    screamOsc.connect(screamGain);
+    screamGain.connect(masterGain);
+    screamOsc.start(audioCtx.currentTime);
+    screamOsc.stop(audioCtx.currentTime + 0.5);
+  }
+
+  // Body shake
+  document.body.classList.add('kawaii-scream');
+  setTimeout(() => document.body.classList.remove('kawaii-scream'), 1800);
+
+  // Overlay flash
+  const overlay = document.getElementById('scream-overlay');
+  overlay.classList.add('active');
+  setTimeout(() => overlay.classList.remove('active'), 1200);
+
+  // Confetti rain
+  spawnConfetti(120);
+}
+
+function spawnConfetti(count) {
+  for (let i = 0; i < count; i++) {
+    const piece = document.createElement('div');
+    piece.className = 'confetti-piece';
+    piece.style.left = Math.random() * 100 + 'vw';
+    piece.style.top  = -20 + 'px';
+    piece.style.background = pastelConfettiColors[Math.floor(Math.random() * pastelConfettiColors.length)];
+    piece.style.width  = (6 + Math.random() * 10) + 'px';
+    piece.style.height = (6 + Math.random() * 10) + 'px';
+    piece.style.borderRadius = Math.random() > 0.5 ? '50%' : '2px';
+    piece.style.animationDuration = (1.5 + Math.random() * 2.5) + 's';
+    piece.style.animationDelay    = (Math.random() * 0.8) + 's';
+    document.body.appendChild(piece);
+    setTimeout(() => piece.remove(), 4500);
+  }
+}
+
+/* ============================================================
+   PIXEL CHARM RENDERERS (Canvas 2D)
+   ============================================================ */
+function px(ctx, x, y, w, h, color) {
+  ctx.fillStyle = color;
+  ctx.fillRect(x, y, w, h);
+}
+
+// TAMAGOTCHI
+function drawTama(canvas) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  // Body (egg shape)
+  const bodyColor = '#FFE0EE';
+  const outlineColor = '#C87090';
+  const screenColor = '#B4D0FF';
+  // outline pixels
+  const body = [
+    [2,1],[3,1],[4,1],[5,1],[6,1],[7,1],
+    [1,2],[8,2],
+    [1,3],[8,3],
+    [0,4],[9,4],
+    [0,5],[9,5],
+    [0,6],[9,6],
+    [1,7],[8,7],
+    [2,8],[7,8],
+    [3,9],[4,9],[5,9],[6,9],
+  ];
+  const fill = [[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[3,8],[4,8],[5,8],[6,8]];
+  const screen = [[3,3],[4,3],[5,3],[6,3],[3,4],[4,4],[5,4],[6,4],[3,5],[4,5],[5,5],[6,5]];
+
+  fill.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, bodyColor));
+  body.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, outlineColor));
+  screen.forEach(([x,y])=> px(ctx, x*s, y*s, s, s, screenColor));
+
+  // Face on screen
+  px(ctx, 4*s+1, 4*s+1, s-2, s-2, '#4090FF'); // eye left
+  px(ctx, 6*s+1, 4*s+1, s-2, s-2, '#4090FF'); // eye right
+  px(ctx, 4*s+2, 5*s+2, s-1, 1, '#4090FF'); // smile
+
+  // Buttons
+  px(ctx, 2*s, 8*s, s, s, '#FF9BB5');
+  px(ctx, 5*s, 8*s, s, s, '#B4A0FF');
+  px(ctx, 7*s, 8*s, s, s, '#FFE082');
+}
+
+// MILK CARTON
+function drawMilk(canvas) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  const carton = [[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[1,1],[8,1],[1,2],[8,2],[0,3],[9,3],[0,4],[9,4],[0,5],[9,5],[0,6],[9,6],[0,7],[9,7],[1,8],[8,8],[1,9],[8,9]];
+  const fill   = [[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8]];
+  const straw  = [[7,0],[7,1],[7,2],[7,3]];
+  fill.forEach(([x,y])   => px(ctx, x*s, y*s, s, s, '#FFF8FF'));
+  carton.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#E895BB'));
+  straw.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FF9BB5'));
+  // strawberry label
+  px(ctx, 3*s, 5*s, s, s, '#FF4FA3');
+  px(ctx, 4*s, 4*s, 2*s, s, '#A8E6CF');
+  px(ctx, 4*s, 5*s, s, 2*s, '#FF4FA3');
+  // dots
+  ctx.fillStyle = '#fff';
+  ctx.fillRect(3*s+2, 5*s+2, 2, 2);
+  ctx.fillRect(4*s+1, 5*s+3, 2, 2);
+}
+
+// FLIP PHONE
+function drawFlipPhone(canvas) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  // Top half (screen)
+  const topFill = [[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[1,1],[8,1],[1,2],[8,2],[1,3],[8,3],[1,4],[8,4],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5]];
+  const topOut  = [[1,0],[8,0],[0,1],[9,1],[0,2],[9,2],[0,3],[9,3],[0,4],[9,4],[1,5],[8,5]];
+  const screen  = [[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4]];
+  // Hinge
+  const hinge   = [[3,5],[4,5],[5,5],[6,5],[3,6],[4,6],[5,6],[6,6]];
+  // Bottom half (keypad)
+  const botFill = [[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[1,7],[8,7],[1,8],[8,8],[1,9],[8,9],[2,10],[3,10],[4,10],[5,10],[6,10],[7,10]];
+  const botOut  = [[1,6],[8,6],[0,7],[9,7],[0,8],[9,8],[0,9],[9,9],[1,10],[8,10]];
+
+  topFill.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#B4A0FF'));
+  topOut.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#5040A0'));
+  screen.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#A8E6CF'));
+  hinge.forEach(([x,y])   => px(ctx, x*s, y*s, s, s, '#8060C0'));
+  botFill.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#C8B0FF'));
+  botOut.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#5040A0'));
+  // keypad keys
+  for (let row=0; row<3; row++) {
+    for (let col=0; col<3; col++) {
+      px(ctx, (2+col*2+1)*s+1, (7+row)*s+1, s-2, s-2, '#E0D0FF');
+    }
+  }
+  // screen content
+  ctx.fillStyle = '#FF4FA3';
+  ctx.font = `${s*2}px monospace`;
+  ctx.fillText('♡', s*3, s*3+2);
+}
+
+// BLINKING ANGEL
+let angelFrame = 0;
+function drawAngel(canvas, frame) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  // Body
+  const body = [[3,4],[4,4],[5,4],[6,4],[3,5],[4,5],[5,5],[6,5],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7]];
+  // Head
+  const head = [[3,1],[4,1],[5,1],[6,1],[2,2],[7,2],[2,3],[7,3],[3,4],[4,4],[5,4],[6,4]];
+  // Halo
+  const halo = [[3,0],[4,0],[5,0],[6,0]];
+  // Wings
+  const wingL = [[0,5],[1,5],[1,6],[0,6]];
+  const wingR = [[8,5],[9,5],[8,6],[9,6]];
+
+  body.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FFF8DC'));
+  head.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FFDAB9'));
+  halo.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FFD700'));
+  wingL.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#E0F0FF'));
+  wingR.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#E0F0FF'));
+
+  // Eyes (blinking alternates open/closed)
+  if (frame % 8 < 6) {
+    px(ctx, 3*s+2, 2*s+2, 3, 3, '#3A1A2A');
+    px(ctx, 5*s+1, 2*s+2, 3, 3, '#3A1A2A');
+  } else {
+    // closed eyes
+    ctx.fillStyle = '#3A1A2A';
+    ctx.fillRect(3*s+1, 3*s, s+2, 2);
+    ctx.fillRect(5*s, 3*s, s+2, 2);
+  }
+  // smile
+  ctx.fillStyle = '#C05080';
+  ctx.fillRect(4*s, 3*s+2, s, 2);
+}
+
+// STAR WAND
+function drawWand(canvas) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  // Star
+  const star = [[4,0],[5,0],[3,1],[4,1],[5,1],[6,1],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[3,3],[4,3],[5,3],[6,3],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[4,5],[5,5],[3,2],[6,2]];
+  const starCore = [[3,2],[4,2],[5,2],[6,2],[3,3],[4,3],[5,3],[6,3],[3,4],[4,4],[5,4],[6,4]];
+  // Stick
+  for (let i = 5; i < 10; i++) px(ctx, 4*s+2, i*s, 4, s, '#FF9BB5');
+  // Ribbon
+  px(ctx, 3*s, 5*s, s, s, '#B4A0FF');
+  px(ctx, 6*s, 5*s, s, s, '#FFE082');
+
+  star.forEach(([x,y])     => px(ctx, x*s, y*s, s, s, '#FFE082'));
+  starCore.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#FFD700'));
+
+  // sparkles around
+  ctx.fillStyle = '#FF4FA3';
+  ctx.fillRect(1*s, 1*s, 3, 3);
+  ctx.fillRect(8*s, 0, 3, 3);
+  ctx.fillStyle = '#B4A0FF';
+  ctx.fillRect(0, 3*s, 3, 3);
+  ctx.fillRect(9*s, 3*s, 3, 3);
+}
+
+// BOW
+function drawBow(canvas) {
+  const ctx = canvas.getContext('2d');
+  const s = 4;
+  ctx.clearRect(0,0,40,40);
+  // Left bow loop
+  const leftLoop = [[0,2],[1,1],[2,0],[3,1],[3,2],[3,3],[2,4],[1,4],[0,3]];
+  const leftFill = [[1,2],[2,1],[2,2],[2,3],[1,3]];
+  // Right bow loop
+  const rightLoop = [[9,2],[8,1],[7,0],[6,1],[6,2],[6,3],[7,4],[8,4],[9,3]];
+  const rightFill = [[8,2],[7,1],[7,2],[7,3],[8,3]];
+  // Center knot
+  const knot = [[4,1],[5,1],[4,2],[5,2],[4,3],[5,3]];
+  // Ribbon tails
+  const tailL = [[3,4],[2,5],[1,6],[0,7]];
+  const tailR = [[6,4],[7,5],[8,6],[9,7]];
+
+  leftFill.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FF9BB5'));
+  leftLoop.forEach(([x,y])  => px(ctx, x*s, y*s, s, s, '#FF4FA3'));
+  rightFill.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#FF9BB5'));
+  rightLoop.forEach(([x,y]) => px(ctx, x*s, y*s, s, s, '#FF4FA3'));
+  knot.forEach(([x,y])      => px(ctx, x*s, y*s, s, s, '#C82870'));
+  tailL.forEach(([x,y])     => px(ctx, x*s, y*s, s, s, '#FF4FA3'));
+  tailR.forEach(([x,y])     => px(ctx, x*s, y*s, s, s, '#FF4FA3'));
+
+  // Polka dots
+  ctx.fillStyle = 'rgba(255,255,255,0.6)';
+  [[1,2],[2,3],[7,2],[8,3]].forEach(([x,y]) => {
+    ctx.fillRect(x*s+1, y*s+1, 2, 2);
+  });
+}
+
+// INIT ALL CHARMS
+drawTama(document.getElementById('charm-tama'));
+drawMilk(document.getElementById('charm-milk'));
+drawFlipPhone(document.getElementById('charm-phone'));
+drawAngel(document.getElementById('charm-angel'), 0);
+drawWand(document.getElementById('charm-wand'));
+drawBow(document.getElementById('charm-bow'));
+
+// Animate angel blinking
+let af = 0;
+setInterval(() => {
+  af++;
+  drawAngel(document.getElementById('charm-angel'), af);
+}, 150);
+
+/* ============================================================
+   THREE.JS — SOFT BOKEH DRIFT BACKGROUND
+   ============================================================ */
+(function() {
+  const canvas = document.createElement('canvas');
+  canvas.style.cssText = 'position:fixed;inset:0;z-index:1;pointer-events:none;opacity:0.55;';
+  document.body.appendChild(canvas);
+
+  const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+  renderer.setClearColor(0x000000, 0);
+
+  const scene = new THREE.Scene();
+  const camera = new THREE.OrthographicCamera(-1, 1, 1, -1, 0.1, 100);
+  camera.position.z = 5;
+
+  function resize() {
+    renderer.setSize(window.innerWidth, window.innerHeight);
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  // Create soft bokeh orbs
+  const orbCount = 36;
+  const orbs = [];
+  const orbColors = [
+    new THREE.Color('#FFB6C1'),
+    new THREE.Color('#B4A0FF'),
+    new THREE.Color('#FFE082'),
+    new THREE.Color('#A8E6CF'),
+    new THREE.Color('#FF9BB5'),
+    new THREE.Color('#D4B0FF'),
+  ];
+
+  for (let i = 0; i < orbCount; i++) {
+    const geo = new THREE.CircleGeometry(0.04 + Math.random() * 0.09, 32);
+    const mat = new THREE.MeshBasicMaterial({
+      color: orbColors[i % orbColors.length],
+      transparent: true,
+      opacity: 0.08 + Math.random() * 0.14,
+    });
+    const mesh = new THREE.Mesh(geo, mat);
+    mesh.position.set((Math.random() - 0.5) * 2, (Math.random() - 0.5) * 2, 0);
+    const speed = 0.0002 + Math.random() * 0.0004;
+    const phase = Math.random() * Math.PI * 2;
+    const ampX  = 0.15 + Math.random() * 0.25;
+    const ampY  = 0.1  + Math.random() * 0.2;
+    orbs.push({ mesh, speed, phase, ampX, ampY, ox: mesh.position.x, oy: mesh.position.y });
+    scene.add(mesh);
+  }
+
+  let t = 0;
+  function animate() {
+    requestAnimationFrame(animate);
+    t++;
+    orbs.forEach((orb, i) => {
+      orb.mesh.position.x = orb.ox + Math.sin(t * orb.speed + orb.phase) * orb.ampX;
+      orb.mesh.position.y = orb.oy + Math.cos(t * orb.speed * 0.7 + orb.phase) * orb.ampY;
+    });
+    renderer.render(scene, camera);
+  }
+  animate();
+})();
+
+/* ============================================================
+   WINDOW TITLE — sparkle loop override
+   ============================================================ */
+const baseTitles = [
+  '★彡 MYPAGE.exe — ONLINE 彡★',
+  '☆彡 MYPAGE.exe — ONLINE 彡☆',
+  '✦彡 MYPAGE.exe — ONLINE 彡✦',
+  '✧彡 MYPAGE.exe — ONLINE 彡✧',
+];
+let titleIdx = 0;
+setInterval(() => {
+  titleIdx = (titleIdx + 1) % baseTitles.length;
+  document.getElementById('title-bar-text').textContent = baseTitles[titleIdx];
+}, 600);
+
+// Small random sparkle near strawberry on hover  
+document.getElementById('strawberry-btn').addEventListener('mousemove', (e) => {
+  if (Math.random() > 0.5) spawnSparkle(e.clientX, e.clientY);
+});
+
+</script>
+</body>
+</html>

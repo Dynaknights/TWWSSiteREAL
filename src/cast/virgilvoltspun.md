@@ -27,13 +27,16 @@ song2: Eyeless
 songlink2: https://www.youtube.com/watch?v=WLubS6QOMsQ
 
 song3: Why Can't This Be Easy
-songlink3: https://www.youtube.com/watch?v=YQSU2oEcuPA&list=RDYQSU2oEcuPA&start_radio=1
+songlink3: https://youtu.be/YQSU2oEcuPA?si=T_MSTdUI4y8wFq6p
 
 song4: A/V
-songlink4: https://www.youtube.com/watch?v=uGANSyV1C10&list=OLAK5uy_np9p2WQD6QW1yc7URYzAxrPR7rcdPjdq4&index=6
+songlink4: https://www.youtube.com/watch?v=uGANSyV1C10
 
 song5: Be Someone Forever
-songlink5: https://www.youtube.com/watch?v=tKu93n5-QS4&pp=ygUSYmUgc29tZW9uZSBmb3JldmVy
+songlink5: https://www.youtube.com/watch?v=tKu93n5-QS4
+
+song6: Down in it
+songlink6: https://www.youtube.com/watch?v=uXdIc8TZKcA
 
 ---
 

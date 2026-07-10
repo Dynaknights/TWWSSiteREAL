@@ -12,28 +12,29 @@ tags:
 canonical: true
 ---
 
-The end of the third millennium heralds a colorfully bleak future.
+<img src="/assets/decor/stars.gif" alt="A GIF of colorful, twinkling stars."> ***Welcome to the end of the third millennium!*** <img src="/assets/decor/stars.gif" alt="A GIF of colorful, twinkling stars.">  
+A colorfully bleak future awaits you.
 
-Humanity's advancements in nearly every aspect of society over the centuries has mended a world riddled with problems; everything from climate change and energy crises to world hunger and healthcare. Society will never be a perfect paradise, like their ancestors had wished, but the asymptote between an idealistic utopia and the land of the living gets smaller with each passing day.
 
-However — to absolutely nobody's surprise — there's cracks in this perception.  
-The most befitting descriptor of the **2990s** is '***stagnant***.' It feels like very little — if anything — has actually changed for the better as the centuries went by, despite people's efforts. Has humanity reached a ceiling in terms of progress or is human nature at fault?  
-Discrimination, poverty, ludicrously high crime rates, wealth gaps, censorship, avarice, climbing suicide rates, and political corruption run rampant beneath the dreamy guise of social betterment and redemption, despite what politicians might tell you. The American dream still prevails, but it's all dolled up in endless flowers.  
-Does anyone *actually* wish for life to get better or do they only wish to *play the part*? Humans *do* prefer the paths with the least resistance, after all.
+The Universe as we know it is breaking, somehow; reality is *literally* unraveling at the seams and no one knows why. Apathy? Hatred? Abandonment? Regardless of what it is, the expansive void humanity calls home is now crawling with a litany of errors and conflicting information that's irreparably altered the course of Earthlings forever.
 
-Speaking of life, the Universe may or may not be on its last legs. The human experience and reality itself feels like they're breaking themselves apart, like a puppet theatre on fire; the absolute destruction of a simulacrum, the end of a parody, a satire fragmenting itself out of existence. Seems to be a good thing, really.  
-These… anomalies of reality gave way to what people would refer to as an era of **supers**: morally ambiguous (at best) vigilantes with superhuman abilities battling each other in the name of crime-fighting. Strangely, [Nouvelle-Yorke](/world/vny) seems to be full of these guys, but its crime rate is still increasing by the second. Maybe they're not actually doing much in the long run.
+Thanks to these anomalies, individuals now have the chance to mutate and gain fantastical superhuman abilities, paving the way for an era of '**supers**': superpowered individuals intent on fighting for one reason or another. Each one of these supers harbors their own moral ambiguities, ambitions, virtues, and circumstances; their abilities inspired enough determination and cause within them to act on these traits, whether that be for the better or for the worse.  
+Society was long-starved; it salivated over novel, original stories to shield them from the horrors of capitalism, even if temporarily. Seeing as supers are new and exciting enigmas with drama, mystery, and unparalleled extreme violence, people sank their teeth into the fresh meat — skyrocketing global crime rates be damned — as they took the world by storm in their colorful costumes and fluttering capes. Larger-than-life spectacles made manifest is too alluring to ignore.
 
-[A socially inept recluse](/cast/virgilvoltspun) gets bitten by a weird spider in the middle of his suicide attempt and, with this second chance at life, decides to become one of these supers. Slowly, he comes to realize vigilantism comes with much, much, *much* more baggage than he thought it would, but he's too deep into the world of supers to back out now.  
-Cynical, pissed, and exhausted beyond all else, he grapples with his crumbling facsimile of a reality through the power of violence.
-
-…And love, if you squint, maybe.
+…Although, supers are just human in the end, much to everyone's dismay.
 
 <div class="centerDivider">
 
-<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;">
+<img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
 
 </div>
+<div class="center">
+
+Howdy, you can call me **Kirimu** or **Machine** (he/him). *The Wondrous Web-Surfer* (*TWWS*) is my paracosm-headworld-OCverse-thing made in **June of 2023**.  
+This site was impulsively created as an archive to keep track of characters, the lore, and anything that relates to *TWWS* at all. This isn't the full scope of *TWWS*, the site's a major work in progress, and I'm a web dev noob, but I hope we'll have fun with this, together. <img src="/assets/decor/frog5.gif" alt="A GIF of a frog with a happy expression.">
+</div>
+
+<hr>
 
 <section>
 
@@ -55,6 +56,6 @@ If you don't have JavaScript enabled, utilize the handy [Sitemap](/sitemap) to n
 
 <small>This site is best viewed on a **computer** with **JavaScript** enabled, by the by. This site is mobile-friendly, but it looks better on a PC.</small>
 
-<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/decor/pandama.gif" class="button"></a>
+<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/decor/pandama.gif" class="button" alt="A WEB-17 rating displayed with a panda holding a pistol sitting next to it."></a>
 
 </div>

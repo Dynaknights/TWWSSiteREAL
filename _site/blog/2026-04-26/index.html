@@ -1,4 +1,83 @@
 
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>✦ |  Space Case Complains for a Long Time!</title>
+<link rel="stylesheet" href="/assets/source/css/style.css">
+<meta name="description" content="In another, another, another universe…">
+<link rel="icon" href="/assets/icons/favicon2.png" sizes="any">
+<script src="/assets/source/js/navi.js" type="text/javascript" defer></script>
+
+<meta name="author" content="Dynaknights">
+<meta name="keywords" content=" worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
+<meta name="description" content="In another, another, another universe…">
+
+<meta itemprop="description" content="In another, another, another universe…">
+<meta itemprop="image" content="/assets/icons/linkBanner.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="In another, another, another universe…">
+<meta name="twitter:image" content="/assets/icons/linkBanner.png">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="In another, another, another universe…">
+<meta property="og:image" content="/assets/icons/linkBanner.png">
+
+<meta name="theme-color" content="#ba3939">
+
+
+
+<meta name="robots" content="noai, noimageai">
+<meta name="robots" content="noindex, nofollow">
+</head>
+
+
+<noscript>
+<div class="center">
+
+Hey, sorry, but this site probably looks wonky because <strong><em>you don't seem to have JavaScript enabled</em></strong>, which is required to see the navigation menu (and a table of contents). You should utilize the <a href="/sitemap" style="color: #8ccfff;">Sitemap</a> to get around if you decide to leave JS disabled. :)
+
+</div>
+</noscript>
+
+<body>
+    <header-component></header-component>
+  
+<header id="header" style="background-image: url(/assets/bgs/bg107.png)" alt="A repeating pattern"></header>
+      <main>
+
+<div id="container"><main>
+    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your left) flapping"> Space Case Complains for a Long Time! <img src="/assets/decor/wing2.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your right) flapping"></h1>
+
+
+
+  <div class="pagedoll">
+  <a href="#"><img src="/assets/decor/bunnyletter.png" alt="Pagedoll" title="Back to top"></a>
+  </div>
+  
+
+  <div class="centerDivider">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
+    </div>
+
+  
+
+  
+
+  
+
+  
+
+  <a href="https://www.tumblr.com/chocoperrito/786091240639873024/tomodachi-life-window-graphics-two-bonus-ones?source=share"><img src="/assets/decor/tlpissy.png" div class="pagedollbreaker" alt="A modified Tomodachi Life apartment graphic."></a>
+
+
+
+
 <p>Well, it's been a while… a month and some change. Life is a cruel, evil thing, huh? It's spring though! Winter's finally over at long last (in the northern hemisphere)! Isn't that awesome!?<br>
 Where I live, spring has lovingly manifested itself as violent thunderstorms, hail, and tornadoes. To be honest, I truly do love me some storms, but I could do without my res hall's intercoms blasting their warnings at me every five minutes. Shit, the best case scenario would be if I got swept up in one of those funnels, lest I find myself cursed to study for my ten billion exams, like I am now.</p>
 <p>Unfortunately, it's a perfectly warm, sunny day at the time of writing and all of the storms conveniently happen <em>after</em> classes and work and exams. Fantastic. So, I've sadly got to actually bust my ass prepping for — *gags* — <em><strong>finals week</strong></em>. Eugh! It's right around the corner for me and I'm terrified! Too much happening all at once and I'm not prepared for any of it!<br>
@@ -12,3 +91,56 @@ My other problem here is that I can't seem to present <em>TWWS</em> in a way tha
 <p>Well, whatever.<br>
 You may or may not see the results soon depending on my choice in the coming weeks as my spring semester draws to a close. Like, genuinely, I'm kind of at a loss here along with being swamped with everything life's chucking at me.<br>
 In the meantime though… Buh-bye.</p>
+
+
+</main>
+</div>
+</main>
+
+  <footer id="footer">
+
+<div class="footercenter">
+<img src="/assets/decor/spipool1.gif" style="margin-top: 20px;" alt="A pixel art GIF of an angry Spider-Man saying, 'I hate you!' while facing Deadpool."> <img src="/assets/decor/spipool2.gif" style="margin-top: 20px;" alt="A pixel art GIF of Deadpool saying, 'You love me!' while facing Spider-Man.">
+<p>✦︎ Copyright 2024 - 2999 ✦︎</p>
+</div>
+</footer>
+</body>
+</html>
+
+   <script>
+window.onload = function () {
+    var toc = "";
+    var level = 0;
+
+    document.getElementById("contents").innerHTML =
+        document.getElementById("contents").innerHTML.replace(
+            /<h([\d])>([^<]+)<\/h([\d])>/gi,
+            function (str, openLevel, titleText, closeLevel) {
+                if (openLevel != closeLevel) {
+                    return str;
+                }
+
+                if (openLevel > level) {
+                    toc += (new Array(openLevel - level + 1)).join("<ol>");
+                } else if (openLevel < level) {
+                    toc += (new Array(level - openLevel + 1)).join("</ol>");
+                }
+
+                level = parseInt(openLevel);
+
+                var anchor = titleText.replace(/ /g, "_");
+                toc += "<li><a href=\"#" + anchor + "\">" + titleText
+                    + "</a></li>";
+
+                return "<h" + openLevel + "><a name=\"" + anchor + "\">"
+                    + titleText + "</a></h" + closeLevel + ">";
+            }
+        );
+
+    if (level) {
+        toc += (new Array(level + 1)).join("</ol>");
+    }
+
+    document.getElementById("toc").innerHTML += toc;
+};
+</script>
