@@ -29,7 +29,7 @@ songlink2: https://www.youtube.com/watch?v=CdIhfisOZvc
 Something to display the glittering facets of the soul through the billions of intertwined stories that each build the human experience, which is then observed by the innumerable eyes of the Cosmos! Life is a beautiful thing, without a doubt.
 
 Yet, alas, all stories must meet their bitter ends. A shame, truly, but an inevitable demise serves as the perfect backdrop for a **climax**, no?  
-*Ah*, do not fret; the life and times of **Sashenka Kravinoff** have been performed with utmost diligence and care, which is to say that Sashenka's life has been masterfully orchestrated exactly how she wished it to be.  
+*Ah*, do not fret; the life and times of **Sashenka Sergeievich Kravinoff** have been performed with utmost diligence and care, which is to say that Sashenka's life has been masterfully orchestrated exactly how she wished it to be.  
 Her pathetic ancestors have been repeatedly surpassed in all fields — especially hunting — thanks to Sashenka's efforts, putting even the grandest of the bunch to shame. Hell, she even future-proofed her legacy. *Heh*. No little upstart from that wretched bloodline is going to seize her **manmade divine status**.
 
 See, with such accomplishments, you cannot blame her for growing… bored. The thrill of becoming the greatest hunter the world has ever known suddenly grew flat — insipid; what more is there to hold if you already have it all? *Retirement*? *Stars*, don't make her laugh, people really *do* lack spirit nowadays. Such a pity, truly.  

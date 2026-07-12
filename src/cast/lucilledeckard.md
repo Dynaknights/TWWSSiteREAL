@@ -89,7 +89,7 @@ Wiggly appendages with hooks trailing down the undersides. Used for locomotion a
 
 ## Trivia
 
-<img src="/assets/decor/googlyeyes.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/luci.png" div class="pagedollbreaker">
 
 - Favorite food is **tubed strawberry yogurt**.  
 **Lime-flavored jello** comes at a close second, but the action of slurping yogurt through a tube is comforting, like smoking. Any yogurt she eats MUST be tubed yogurt, or she'll tube it herself.

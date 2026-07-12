@@ -19,13 +19,13 @@ song: ロートとハイ
 songlink: https://youtu.be/J8FlGMUWWrc?t=0&si=EossS1TcXqp4I6PD
 
 song2: Molly Sells Molly by the Seashore
-songlink2: https://www.youtube.com/watch?v=m5OK5T2mZis
+songlink2: https://www.youtube.com/watch?v=3r90y3eZo5E
 
 song3: Um Can We Communicate
 songlink3: https://www.youtube.com/watch?v=pVeTW-4U04Q
 
-song4: Special Stage
-songlink4: https://www.youtube.com/watch?v=cuzotd7eQvc
+song4: Waters of March
+songlink4: https://www.youtube.com/watch?v=k8lPIV3Vzoc
 
 song5: Won't Stop, Just Go!
 songlink5: https://www.youtube.com/watch?v=sIx8rJxfarI
@@ -66,7 +66,7 @@ She finds it soothing.
 
 ## Trivia
 
-<img src="/assets/decor/applecrab.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/laine.png" div class="pagedollbreaker">
 
 - Adores **Honeycrisp apples** to death and it's been her favorite food for as long as she can remember. Ghyslaine can eat truckloads of the stuff and will never tire of it. It's simple, plain, delicious, and keeps the doctor away.
 - She prefers orange juice to apple juice. Traitor…

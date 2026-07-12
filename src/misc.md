@@ -66,7 +66,7 @@ Header font: [Super Squad!](https://www.dafont.com/super-squad.font?a=on) by Haw
 <div class="box4boxes">
 <div class="center">
 
-You want to [click here](/misc/links) and see my affiliates so bad…
+[You want to see my affiliates so bad…](/misc/links)
 
 </div>
 </div>
