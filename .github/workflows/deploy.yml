@@ -1,3 +1,5 @@
+name: Deploy2Nekoweb
+
 on:
   push:
     branches:
@@ -10,10 +12,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Use Node.js current
         uses: actions/setup-node@v4
         with:
-        node-version: current
+          node-version: current
 
       - name: Install dependencies
         run: npm ci

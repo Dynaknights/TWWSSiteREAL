@@ -27,7 +27,6 @@ jobs:
 
     - name: Install dependencies
       run: npm ci
-
       
     - name: build
       run: npx @11ty/eleventy
