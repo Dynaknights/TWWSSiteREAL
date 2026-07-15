@@ -93,7 +93,7 @@ A personal arsenal, including…
 
 ## Trivia
 
-<img src="/assets/decor/coffee.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/percivalcastle.png" div class="pagedollbreaker">
 
 - Pyrel's favorite food is **revenge; served cold**. Kidding. They love **burgers** with **coffee**.
 - They drink black coffee just fine, but they prefer a packet of sugar and two shots of creamer. Won't admit this to anyone. Ever. Including themself.

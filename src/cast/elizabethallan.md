@@ -70,7 +70,7 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 
 ## Trivia
 
-<img src="/assets/decor/characters/liz.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/elizabethallan.png" div class="pagedollbreaker">
 
 - Favorite food is extra-thick **Belgian waffles**, especially with powdered sugar, honey, berries, chocolate, and whipped cream on top. Will also devour **cake rolls** and **beignets**.
 - …Also harbors an irrational disdain toward pancakes, unless they're shaped like something or have some design drawn with chocolate syrup.

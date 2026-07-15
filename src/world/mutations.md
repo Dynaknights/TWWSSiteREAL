@@ -43,7 +43,7 @@ The possibilities are literally endless, which is certainly not helped by the **
 - No, harboring anti-mutant views doesn't qualify someone as a racist because those are two entirely different beliefs aimed against two entirely different groups of people.
 - If someone's mutation is removed somehow, documents would still be refer to them as a mutant/mutate with the addendum of removed superhuman abilities. Whether or not the individual will still refer to themselves as mutated or not is up to them.
 - In databases, a mutated individual's original species is specified for the sake of recordkeeping (e.g., *"human mutant"*)
-- A prominent anti-mutant belief is that mutated people have a lab experimentation fetish. There's a whole conspiracy theorists regarding mutants and mutates stealing children to experiment on them to their liking.
+- A prominent anti-mutant belief is that mutated people have a lab experimentation fetish. There's quite a lot of conspiracy theories regarding mutants and mutates stealing children to experiment on them to their liking.
 - Some of the mutantkind nicknames are from [this video by BaitZaDust](https://youtu.be/ryZ7MYq4jhU?si=gAJA1Zw8AQY-MCmv) and its comment section.
 - 'Baucher' is derived from 'debauchery,' but the assumption it's from 'botched' works fine, too.
 - 'Mutite' is a portmanteau of 'mutant' and 'parasite.'

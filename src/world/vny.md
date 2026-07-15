@@ -69,10 +69,8 @@ Regardless, Oscorp seems to be steadfast due to its extreme financial influence.
 ### Empire State University
 **Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as one of the most elite universities in all of the state along with being the flagship campus of the SUNY2.
 
-## Notes
-- Nouvelle-Yorke is separated into five boroughs: **Manhattan**, **Lourdes**, **the Bronx**, **Islandy McIsland Face**, and **Roi des Chiens**.
-
 ## Trivia
+- Nouvelle-Yorke is separated into five boroughs: **Manhattan**, **Lourdes**, **the Bronx**, **Islandy McIsland Face**, and **Roi des Chiens**.
 - SUNY1 has died tragically. RIP.
 - Empire State's mascot is a sparrowhawk named Bijou. The university's colors are blue and yellow.
 - Duchess State's mascot is a gargoyle named Doyle. The university's colors are purple and white.

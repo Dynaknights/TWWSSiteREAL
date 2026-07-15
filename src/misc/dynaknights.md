@@ -232,7 +232,7 @@ Squishy faces. Very marketable.
 I try thinking of a vague idea of who I want a certain character to be both personality and story-wise most of the time. Other times, I'm inspired by a person's outfit I saw in public, a website, a dream, or other visual things, which lead me to visually design and work out a personality as I go before I make up a backstory and their place in the story.
 
 **How often do you redesign OCs?**  
-Not often if ever aside from outfit changes.
+Not often, if ever, aside from outfit changes.
 
 **Do you keep character references organized? What tools, apps, or websites do you utilize to help keep you organized?**  
 I do not reference. I do not organize. I do not use anything aside from one million Discord channels and my mind palace. And if I forget, I KILL MYSELF.
@@ -241,34 +241,34 @@ I do not reference. I do not organize. I do not use anything aside from one mill
 Yeh.
 
 **Link a song or album you associate with your OC/story.**  
-I think *TWWS* is too broad in scope for me to come up with a singular song, but I associate Nouvelle-Yorke as a city with [Sci-Fi-Fi by Eureka!](https://www.youtube.com/watch?v=z_jwvbnetbU&t=165s). Also, I seem to associate *TWWS* with metal/hard rock/J-rock and shibuya-kei, which I find funny.
+I think *TWWS* is too broad in scope for me to come up with a singular song, but I associate Nouvelle-Yorke as a city with [Sci-Fi-Fi by Eureka!](https://www.youtube.com/watch?v=z_jwvbnetbU&t=165s). Also, I seem to associate *TWWS* with metal/hard rock and shibuya-kei, which I find funny.
 
 **What is one thing all your characters seem to have in common?**  
 Mental illness.
 
 **What is something you hope people feel when they see your work?**  
-I don't know. I hope you don't hate me over this.
+I don't know. I hope you don't hate me for my work.
 
 **What kind of people do you think are drawn to your characters and stories?**  
-Weirdos?
+I don't know. I only made this for fun and I made it for me.
 
 **What keeps you creating OCs?**  
-PARKER. I WANT MORE STORIES ON MY DESK TOMORROW AT NINE O'CLOCK SHARP.
+I like making weird stories.
 
   <!--PART TWO-->
 ***PART II: YOUR OC COLLECTION***
 
 **What was your very first OC like?**  
-She was a blue anthropomorphic lop-eared rabbit named Ocean. She wore a backwards baseball cap along with a crop top, a cropped jacket, and shorts. She was too cool for me…
+She was a red anthropomorphic rabbit named Flame with appropriately flame-themed patterns on her fur. She wore shorts along with a sweater over a crop top. She's also a she-devil apparently and had beef with a pirate rabbit named Ocean who drank beer. Ocean is actually one of two rabbit OCs I made as a kid who likes alcohol. Why did I do that.
 
 **Do you still have your oldest OC?**  
-Ocean has been laid to rest. She never had a story or anything, anyway. She was just kind of there.
+Flame has been laid to rest. She never had a story or anything, anyway. She was just kind of there.
 
 **Which OC was created most recently? What inspired them?**  
 Two characters, same story. I wanted to develop *TWWS'* history more but I also was playing a lot of *LIVEALIVE* and greatly enjoyed Sundown's chapter and really wanted to make cowboys, so I did. A cowboy and a bounty hunter in the year 2112, when [something weird happened](/outerspace/#Cosmic_Bugs). This isn't exactly *TWWS* history because I also wanted something vagely cosmic horror-related in there, but who knows. I'll have to work on it.
 
 **Which OC are you most proud of?**  
-…All of them? They're my babies.
+All of them. Or maybe none of them. One or the other. Or both at once.
 
 **Which OC was easiest to create?**  
 None of them.
@@ -295,7 +295,7 @@ All of them are difficult to write.
 Sasha. Oh and [Noémie](/cast/noemiemarisolosborne) will sell your information but at least she'll pretend to be respectful about it.
 
 **What OC is most similar to you, in appearance, personality, or both?**  
-Virgil. He *is* technically my Spider-sona, regardless of how much I've distanced both of us from that label.
+Virgil. He *is* technically my Spider-sona, regardless of how much I've distanced both of us from that label. Although, all of my characters have some part of me to some extent. So are all of my OCs like me, or am I like all of them?
 
 **Which OC was born from anger?**  
 John President. Yes, that's his name. Yes, he's the President of the United Republic at this current time point. No, I'm not sure if he'll get a full profile. Yes, I hate being American.
@@ -307,7 +307,7 @@ John President. Yes, that's his name. Yes, he's the President of the United Repu
 All of them. I have a bad time relating to fictional characters in fiction, but wanted to understand myself. So, now all of my characters are some facet of myself… or am I a facet of them? It feels like that sometimes.
 
 **Choose an OC. What fate are they doomed to repeat?**  
-Ghyslaine and Liz and Virgil and MJ and [Harvey](/cast/harveyosborne) will all be alone forever and will succumb to their lonesome. They will be socially murdered and never forever be merely subhuman as eternal penance for the crime of being born. There's nothing they can do about it.
+I wonder if Liz will be driven to suicide from the pre-Nouvelle-Yorke small town life. Isn't daily life in small towns or suburbs kind of like repeating a sunny day where nothing changes, anyway?
 
 **If all your OCs met in one room, what would happen?**  
 Well, most *TWWS* characters are in Nouvelle-Yorke at the same time, which is one big room, right?
@@ -319,7 +319,7 @@ Well, most *TWWS* characters are in Nouvelle-Yorke at the same time, which is on
 I don't have a concrete favorite. It changes. Why don't we go with Ghyslaine since I've been thinking of them lately? Her name is Ghyslaine Blanchefleur LaRue. She's sometimes called [Melpomene](https://en.wikipedia.org/wiki/Melpomene) because she met a tipsy — but infatuated — MJ at a house party (she was invited by Liz and was too scared to decline) and bonded with the hoes by pulling a random topic (Muses) out of her ass out of panic.
 
 **Describe their appearance. What is their voice like?**  
-Sad, tall, and lanky girl who wears  up due to both self-image issues and for comfort. Her voice is soft and raspy.
+Sad, tall, and lanky girl who covers up due to both self-image issues and for comfort. Her voice is soft and raspy.
 
 **What is their occupation?**  
 She's a biology university student at Empire State and a part-time R&D intern at Oscorp.
@@ -328,7 +328,7 @@ She's a biology university student at Empire State and a part-time R&D intern at
 Apple hat.
 
 **What first impression do people get from them?**  
-Ouhhh tragic apple girl…
+Waow… Sad apple girl…
 
 **What is their greatest flaw?**  
 She's… submissive. Not submissive and breedable, I mean that she just kind of takes bad things that happen to her without struggle because why bother? It will happen again but worse and she deserves it in its entirety. This is what fate is: Murphy's law.
@@ -361,19 +361,19 @@ Surprisingly good at coming up with tunes and lyrics on the spot.
 Socializing.
 
 **What song reminds you most of this OC?**  
-[Molly Sells Molly by the Seashore](https://www.youtube.com/watch?v=3r90y3eZo5E).
+*[The Killing Moon](https://www.youtube.com/watch?v=QFZwuTOu9og)*.
 
 **Which animal represents them best?**  
-Ghyslaine reminds me of a little brown mouse.
+Ghyslaine reminds me of a Syrian hamster.
 
 **If they had a signature scent, what would it be?**  
-Some kind of cozy smell. Like pumpkin or any cheap perfume bottle labeled as 'apple blossom.'
+Some kind of cozy smell. Like pumpkin or any cheap perfume bottle labeled as 'apple blossom.' Although, I can't seem to help but imagine her smelling like cinnamon.
 
 **If they were turned into a doll or figurine, what accessories would be included?**  
 A laptop and guitar.
 
 **Oh no! Your OC magically turned into a dish. What kind of food did they turn into?**  
-Soggy s'more.
+Honey-roasted cashews.
 
 **What would their social media account look like?**  
 She has a private social media account with only one post and just her friends following her. She never uses it ever except to look at said friends' posts. Her blog, however… She just rambles on and on about her life or things that are interesting to her: ghosts, cryptids, horror, true crime and VNY's criminal underworld, weird video games, etc.
@@ -387,7 +387,8 @@ Why wouldn't I?
 ***PART IV: LET'S DIG DEEPER***
 
 **Pick a few of your favorite OCs. What do they all have in common? What do you think that reveals about you?**  
-Okay fine Virgil and friends again. They all like each other. They tweak out when they're apart from each other for too long but are also so scared to reveal who they truly are as people that they may as well be strangers. I wonder what that means about me…
+Okay fine let's do The Friends (Virgil, Liz, MJ, Ghyslaine, and [Harvey](/cast/harveyosborne)) again. I will abstain from calling them favorites though. They all love each other as people; they like hanging out and help each other when in need. They (especially Liz) dislike being separated for too long but are also so scared to reveal who they truly are as people out of fear to the point they may as well be strangers. All of them are a bit too critical and might be cynical, which is probably a byproduct of their respective upbringings, resulting in that simmering fear of being too cringe, I guess you could say. Neurotic and hateful, but love each other over everything else.  
+I wonder what that means about me…
 
 **Which OC is most misunderstood by your friends & followers? Why do you think others interpret them differently than you intended?**  
 All of my characters are going to be misunderstood both because that's just how humans work and I never talk about them in depth to anyone ever. Anyway I don't think Virgil nor Liz will actually be understood ever.

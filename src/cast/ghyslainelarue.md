@@ -66,7 +66,7 @@ She finds it soothing.
 
 ## Trivia
 
-<img src="/assets/decor/characters/laine.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/ghyslainelarue.png" div class="pagedollbreaker">
 
 - Adores **Honeycrisp apples** to death and it's been her favorite food for as long as she can remember. Ghyslaine can eat truckloads of the stuff and will never tire of it. It's simple, plain, delicious, and keeps the doctor away.
 - She prefers orange juice to apple juice. Traitor…

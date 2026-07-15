@@ -121,7 +121,7 @@ body {
 .toc li,
 th,
 td{
-text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
+text-shadow: -1px 0px 0 #181824, 1px -1px 0 #181824, 1px 1px 0 #181824, 1px 1px 0 #181824,
 -1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
 }
 
