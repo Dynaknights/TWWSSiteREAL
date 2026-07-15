@@ -88,7 +88,7 @@ TBA…
 - During France's takeover, it was illegal to know the true identities of any politician in or out of power. When someone was 'elected,' they would be forced to fake their deaths and build a socially appealing persona. If someone knew the identity of a politician — especially of high-ranking positions — they would be either arrested or executed.
 - Along with the CFL, more funds were funneled into establishments (i.e., libraries) and local non-CFL events as encouragement for Leathucaria's denizens to leave their houses for once and have fun.
 - Six hour workdays with four day workweeks were able to provide a livable income since the early 2800s. However, most people still opt for eight hour workdays with five day workweeks due to Leathucaria's many, many, many expenses.
-- *Technically, this is translated as 'Federal Recreation/Leisure Committee,' but its official english translation is **Federal Pleasure Committee**.
+- *Technically, this is translated as 'Federal Recreation/Leisure Committee,' but its official english translation is **Federal Fun Committee**.
 - Leathucarian keyboards come in both QWERTY and AZERTY layouts.
 - Leathucarian French — much like standardized French — lacks the 'it' pronoun for gender-neutral objects and terms. Instead, the pronoun *'iel'* is used in place of both singular 'they' and 'it.'
 - Leathucarian French isn't limited to il/elle/iel in terms of pronouns. You can to 'create' your own pronoun and associated presentation (masculine/feminine/androgynous). 'Iel' is just the most common 'non-traditional' pronoun used.
