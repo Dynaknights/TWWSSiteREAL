@@ -26,7 +26,7 @@ Despite humanity being at constant war with Mother Nature no longer, the cardina
 The strong flourish upon the suffering of the weak and — Glory, save her soul — **Sanya Snezhana** is the epitome of ***weak***.  
 Every moment warrants a constant reminder, smearing it in the face: life has no place for something as indubitably frail, wretched, and pathetic as meek little Sanya beyond licking the shit upon its heel and prostrating herself as a show of deference.
 
-When you find yourself to be a lowly little mouse, every figure is a skyscraper. Every extended hand aims to be the cause of your complete and utter destruction. Every grin expertly hides gnashing teeth *drooling* at the prospect of rending pale, teary-eyed flesh asunder. One's true colors can be glimpsed by becoming the muse of boundless gluttony, lust, and rage.  
+When you find yourself to be a lowly little **mouse**, every figure is a skyscraper. Every extended hand aims to be the cause of your complete and utter destruction. Every grin expertly hides gnashing teeth *drooling* at the prospect of rending pale, teary-eyed flesh asunder. One's true colors can be glimpsed by becoming the muse of boundless gluttony, lust, and rage.  
 …What a cold, heartless, *unloving* beast the Galactic Glory has turned out to be.  
 Thus, when Sanya felt her very identity fracture beneath the unyielding force of mutating, she explored the art of camouflage to escape the drooling maw of the Kravinoff estate, melding her skin and self to be perfect replicas of her targets served as a crutch to understand how insignificant and infinitesimal she truly is in the eyes of life and the Universe…
 
@@ -77,7 +77,7 @@ Just in case she forgets who she is.
 
 ## Trivia
 
-<img src="/assets/decor/mirror.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/sanyasnezhana.png" div class="pagedollbreaker" alt="Sanya Snezhana pagedoll">
 
 - Doesn't have a favorite food. They haven't earned that right.
 - …However, they greatly enjoy **bread with raspberry jam** on top served with a cup of **2% milk**. **Millet porridge** is also good.

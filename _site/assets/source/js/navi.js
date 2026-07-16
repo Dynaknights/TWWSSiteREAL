@@ -39,7 +39,7 @@ display: block;
 border: 2px black solid;
 border-top-left-radius: 10px;
 border-bottom-right-radius: 10px;
-background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
+background: linear-gradient(to bottom, rgba(59,103,158,1) 0%,rgba(43,136,217,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
 text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
 -1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
 }
@@ -51,7 +51,7 @@ text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1p
   transition-duration: 0.1s;
   -webkit-transition-property: transform;
   transition-property: transform;
-  background: linear-gradient(to bottom, rgba(55,44,117,1) 0%,rgba(132,41,206,1) 50%,rgba(132,41,206,1) 51%,rgba(245,219,255,1) 100%);
+  background: linear-gradient(to bottom,  rgba(239,197,202,1) 0%,rgba(210,75,90,1) 50%,rgba(186,39,55,1) 51%,rgba(241,142,153,1) 100%);
   color: antiquewhite;
 }
 .sidenav a:hover, .sidenav a:focus, .sidenav a:active {

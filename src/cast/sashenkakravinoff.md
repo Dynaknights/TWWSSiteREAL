@@ -12,7 +12,7 @@ pagedoll: swirlred2
 tableFields:
 pronouns: She/her
 alias: Kraven the Hunter
-species: Human mutate
+species: Human mutant
 age: Adult
 occupation: Mercenary, big-game hunter, TV star (former), Russian nobility (former)
 birthplace: Volgograd, Russia
@@ -38,7 +38,7 @@ But, ah, she shan't forget the strain of aging and the torture of feeling your b
 Sashenka's soul had ached for something to sink its teeth into again, as if it were a starving tigress. After making what was supposed to be a brief visit to Nouvelle-Yorke, witnessing the the unbridled chaos of the superpowered scene, the stench of **fresh meat** was too alluring to ignore in more ways than one.
 
 *What exciting times we all live in!*  
-Meeting death via a most spectacular ending at the hand of a worthy rival sends electrifying shocks coursing through her veins at such an perfect prospect, even now…
+Meeting death via a most spectacular ending at the hand of a worthy rival sends electrifying shocks coursing through her veins at such a perfect prospect, even now…
 The **survival of the fittest** is in full effect. Let the final hunt begin.
 
 ## Attributes

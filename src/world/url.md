@@ -28,7 +28,7 @@ I kind of doubt you could assist in improving it, since this site doesn't take v
 </div>
 </div>
 
-<img src="/assets/decor/swans.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/corduroycentauri.png" div class="pagedollbreaker" alt="Corduroy Centauri pagedoll">
 
 **January 1st, 2800** marks the day the United States of America — after reclaiming power from the French — disavowed its roots and pledged to march forward, leaving its history and French takeover behind them.  
 The American president at the time, **Corduroy Centauri**, stated that the avarice, loneliness, megalomania, corruption, and monumental failures haunting the States would see their absolute ends as the great country liberated itself from self-made shackles under a new name: **the United Republic of Leathucaria**.
@@ -55,6 +55,9 @@ The **French/American Lean** (FrAm lean) most often refers to the proportion of 
 Large and dense metropolises generally have more french influence within them than smaller cities and rural areas because France had aimed to subject as many people to its propaganda as possible during its ruling, so America's hotspots were hit the hardest with this cultural shift. This resulted in people from said rural and smaller places sticking with the pre-Empty Eras American culture while larger cities tend to seem more French.
 
 ### Leathucarian French
+
+<img src="/assets/decor/swans.png" div class="pagedollbreaker" alt="Swans pagedoll">
+
 **Leathucarian French** (otherwise known as Elderberry French, Eagle-Fucker/Kisser French, or Bullshit French) is a questionable [variety](https://en.wikipedia.org/wiki/Variety*(linguistics)) of French. It currently stands as the second most prominent variety after standardized Leathucarian English and has wormed its way from its origins of hatred to apathetic day-to-day living.
 
 It's a purposefully chaotic and confusing mess of an isolect erected upon the mountains of spite people — primarily minorities with an emphasis on black people — harbored for France's coup d'etat on the United States (2600s to 2700s).  
@@ -80,15 +83,18 @@ The reason CFL is so widely successful is because all its activities are either 
 TBA…
 
 ## Trivia
+
+<img src="/assets/decor/parfait.png" div class="pagedollbreaker" alt="Parfait pagedoll">
+
 - $1 URD ≈ $1.35 USD.
-- The most popular dog breed is the poodle; dyieng their fur and styling them is a popular pastime.
+- The most popular dog breed is the poodle; dyeing their fur and styling them is a popular pastime.
 - It's polite to refer to people by their surnames unless you're their superior or a mutual first-name basis has been established.
 - In a few states, it's still technically mandatory to teach children at least an intermediate-level of French, whether that be Leathucarian or standardized French.
 - Since France's takeover, President Centauri and his cabinet were the first politicians to have legitimate names instead of titles or poetical monikers.
 - During France's takeover, it was illegal to know the true identities of any politician in or out of power. When someone was 'elected,' they would be forced to fake their deaths and build a socially appealing persona. If someone knew the identity of a politician — especially of high-ranking positions — they would be either arrested or executed.
 - Along with the CFL, more funds were funneled into establishments (i.e., libraries) and local non-CFL events as encouragement for Leathucaria's denizens to leave their houses for once and have fun.
 - Six hour workdays with four day workweeks were able to provide a livable income since the early 2800s. However, most people still opt for eight hour workdays with five day workweeks due to Leathucaria's many, many, many expenses.
-- *Technically, this is translated as 'Federal Recreation/Leisure Committee,' but its official english translation is **Federal Fun Committee**.
+- *Technically, this is translated as 'Federal Recreation/Leisure Committee,' but its official English translation is **Federal Fun Committee**.
 - Leathucarian keyboards come in both QWERTY and AZERTY layouts.
 - Leathucarian French — much like standardized French — lacks the 'it' pronoun for gender-neutral objects and terms. Instead, the pronoun *'iel'* is used in place of both singular 'they' and 'it.'
 - Leathucarian French isn't limited to il/elle/iel in terms of pronouns. You can to 'create' your own pronoun and associated presentation (masculine/feminine/androgynous). 'Iel' is just the most common 'non-traditional' pronoun used.

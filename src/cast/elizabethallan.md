@@ -17,20 +17,21 @@ occupation: Full-time student, barista, freelance artist
 birthplace: Hometown, West Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
 
-song: Faith
-songlink: https://www.youtube.com/watch?v=l-EdCNjumvI
+song: Girl Anachronism
+songlink: https://www.youtube.com/watch?v=8s1ST8zJChc
 
 song2: Hate Bein' Sober
 songlink2: https://www.youtube.com/watch?v=6LabALciaCk
 
 song3: Bloodeater
-songlink3: https://www.youtube.com/watch?v=hxPa2dSdHdc
+songlink3: https://www.youtube.com/watch?v=gZ4rG2ceAbg
 
 song4: Kitty
 songlink4: https://www.youtube.com/watch?v=wo2L--mZ4h8
 
-song5: Ichidaiji
-songlink5: https://www.youtube.com/watch?v=s7zcK6phpW8
+song5: Faith
+songlink5: https://www.youtube.com/watch?v=IsYPVEZfv-U
+
 ---
 
 Life is fucking worthless. To **Elizabeth Evie Allan**, this ain't shit but an objective truth.  
@@ -42,18 +43,19 @@ For a college GPA in the shitter and countless hours mindlessly watching frictio
 Fuck all that. Liz hasn't felt like a real person in genuine years; it even feels *wrong* to not think of herself as some vague concept, really. Maybe that's because of her parents constantly bitching and punching and drinking and— *Ugh*.  
 Who gives a fuck anymore, like, actually? Speak now or forever hold your peace, because she can't hear shit besides crickets, and she can't bring herself to care.
 
-Shit, dude. Her life is withering away before her eyes and — *genuinely* — what the hell is she supposed to do about it but scroll and drink and dance and fuck until her vision's too blurred to notice? It's either *this* or tear herself apart trying to look pretty and perfect again. Pick your poison, babes, cause there's no point to any of this!
+Shit, dude. Their life is withering away before her eyes and — *genuinely* — what the hell is she supposed to do about it but scroll and drink and dance and fuck until her vision's too blurred to notice? It's either *this* or tear herself apart trying to look pretty and perfect while mindlessly living the same day again and again and *again* with the same people and the same routine and the same fucking **emptiness**. Pick your poison, babes!
 
-Life was never supposed to be like— like *this*. Useless, needless, *frictionless* suffering. Liz is *barely* holding herself together long enough to not look slow in front of others, but she can *feel* her breath hitch whenever she drunkenly envisions slicing the flesh of her wrists to red ribbons. She can't— she can't continue while being so disgusting like this.
+Life was never supposed to be like— like *this*. Useless, needless, *frictionless* suffering. She had— she *had* **dreams** and **wishes** when she was a kid; she used to place her hopes upon **Sol** and **Surya** each and every dawn until she moved out. *Fuck*.  
+Liz is *barely* holding herself together long enough to not explode in front of others, like a time bomb, but she can *feel* her breath hitch whenever she drunkenly envisions slicing the flesh of her wrists to red ribbons. She can't— she can't continue while being so… ***disgusting*** like this. What even *is* life if not humiliation?
 
-The end seems closer than ever before. And you know what Liz thinks?  
-Thank the Stars.
+Her end's closer than ever before. And you know what Liz thinks?  
+…Thank the Stars.
 
 ## Attributes
 
 ### Equipment
 - **Digicam**  
-A shitty, cheap, and bedazzled digital camera found in the trenches of a thrift store. Uses it to post "aesthetic and fucking fire" pictures on social media.
+A shitty, cheap, and bedazzled digital camera found in the trenches of a thrift store. Uses it to post "aesthetic" pictures on social media. Also likes taking pictures with [Virgil](/cast/virgilvoltspun).
 - **Pepper spray**
 - **Hunting knife**  
 A small black knife that Liz dutifully maintains and cares for. It makes her feel at least a little bit safer, since owning a firearm would probably be a bad idea for her.
@@ -70,7 +72,7 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 
 ## Trivia
 
-<img src="/assets/decor/characters/elizabethallan.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/elizabethallan.png" div class="pagedollbreaker" alt="Elizabeth Allan pagedoll">
 
 - Favorite food is extra-thick **Belgian waffles**, especially with powdered sugar, honey, berries, chocolate, and whipped cream on top. Will also devour **cake rolls** and **beignets**.
 - …Also harbors an irrational disdain toward pancakes, unless they're shaped like something or have some design drawn with chocolate syrup.
@@ -79,10 +81,10 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 - Has a rabbit-filled paracosm named **Sunset Silver**. Or, well, *used to*, anyway.
 - *Massive* fan-fiction lover.
 - Is a very lovey-dovey, sentimental person when it comes to her friends and she HATES it. Will tear up when drunk and all of her friends are having fun together out of affection.
-- Greatly prefers to be called 'Liz' and gets miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), who's done that ever since they first met and can't break the habit.
+- Greatly prefers to be called 'Liz' and feels miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), whose done that ever since they first met and can't break the habit.
 - Regularly visits the plentiful mascot cafes within Nouvelle-Yorke and is able to recall the respective characters from every single one.
 - Currently testing weight loss techniques via endless pacing while daydreaming. Just ends up with really sore feet every time.
-- Loves pretending she's a protagonist from niche coming-of-age movies that are heavily romanticized so that she doesn't spiral when she thinks about her life for too long.
+- Loves pretending she's a protagonist from either niche coming-of-age movies that are heavily romanticized or shitty romcoms so that she doesn't spiral when she thinks about her life for too long. This is one of the only reasons she's able to get up every day.
 - Says hi to people by waving one arm in massive arcs over her head.
 - Greatly enjoys binge-eating while watching/playing bad horror media. …And then gets upset later because she was binge-eating.
 - Amazing at racing games despite rarely touching them. …But she's terrible at air hockey, regardless of her competitive nature.

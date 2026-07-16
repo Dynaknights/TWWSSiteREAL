@@ -53,7 +53,7 @@ Couldn't get his act together and study 'cause he was high off the power that ca
 *Heh.* Flint can't hold a fucking job either, clearly. He bounced 'round some odd jobs as a gun-for-hire 'till he landed in the wretched graces of **Lonnie Lincoln** recently, that *useless bitch*, who — Stars, forgive him — had explained their contract by appealing to Flint's desires so much, the gun-slinger found it ridiculous to say no.
 
 …Especially not with a kid at home who deserved the childhood Flint never got, see. She could finally put a safe and comfortable future in [Keemia](/cast/keemiaprosper)'s grubby lil' mitts after all of their sufferin', and all old Flint had to do was to do what she did best? Hey, stranger, sign her up, why don'tcha? Better than being homeless!  
-Fuckin' dumbass ol' Flint fucking herself over again. Got the whole story all twisted again.  
+Just fuckin' dumbass ol' Flint fucking herself over again, huh?   
 She's tried so many damn times to just— *end the contract*, but that shark of a man won't let her, yappin' 'bout potential and mutations; some freaky ass Weapon X-sounding shit Flint wants no part in, hear? Now, she's neck deep in this whole mess with no end in sight.
 
 Glory be to the Stars. This was **destined** the moment her ma went 'n handed her that sixgun, yeah? Hah. Hahahah. What a sick fuckin' joke. Damn it all.  
@@ -75,7 +75,7 @@ Well, if there's a serious wind blowing and Flint's in sand form, she can fly…
 A trusty revolver still in superb condition after all these years. Flint's unsure if this is a lucky gun, considering she mostly uses it for… work.
 - **Other spare guns and weapons**
 - **Pocket shrine**  
-Full of religious memorabilia and pictures of Keemia. 
+Full of Neo-Panpsychic memorabilia and sentimental pictures/trinkets. 
 
 ## Notes
 - **Tall**. ~6'1 (185.42 cm).
@@ -90,14 +90,14 @@ Full of religious memorabilia and pictures of Keemia.
 
 <img src="/assets/decor/paperstarblue.png" div class="pagedollbreaker">
 
-- Favorite food is **cookies-'n'-cream ice cream**. Reminds her of pleasant memories at various fairs and festival, but mostly of playing on the beach during her youth. Sometimes heats up the ice cream a bit in the microwave if it's "too cold."
+- Favorite food is **cookies-'n'-cream ice cream**. Reminds her of pleasant memories at various fairs and festivals, but mostly of playing on the beach during her youth. Sometimes heats up the ice cream a bit in the microwave if it's "too cold."
 - Used to just be called Flintlock at work before the whole… sand stuff happened. Got dubbed 'Sandman' because it was more recognizable and straightforward.
-- Not into country all that much. More into jazz, rap, soft rock, and R&B if anything, but doesn't enjoy listening to music unless she's at home because she finds it too disruptive. Prefers listening to music from a radio or record player than anything digital.
+- Not into country all that much. More into jazz, rap, soft rock, gospel, and R&B if anything, but doesn't enjoy listening to music unless she's at home because she finds it too disruptive. Prefers listening to music from a radio or record player than anything digital.
 - According to Flint, the only things good about Nouvelle-Yorke are the food and strip clubs… if you know where to look.
 - Can't drive. Relies almost exclusively on trains and other public transport. Maybe for the better.
 - Accidentally softly growls at people sometimes. Has zero clue she does this and no one will tell her.
 - According to Keemia, Flint is "the most grown-up grown-up to ever grown-up."
-- Tech-illiterate. She uses her laptop to do her job and her phone(s) to call people, not much more than that. Ask her to open file directory and she'll fold. Suspiciously, she can blog just fine.
+- Tech-illiterate. She uses her laptop to do her job and her phone(s) to call people, not much more than that. Ask her to open a file directory and she'll fold. Suspiciously, she can blog just fine.
 - Usually a *very* serious woman while working. Not around Keemia though. She's a goofball.
 - Throws sand at people who piss her off while off-duty. Refuses to stop because she finds it funny.
 - Kind of woman to pray before committing violent crimes or doing drugs.
@@ -105,4 +105,4 @@ Full of religious memorabilia and pictures of Keemia.
 - Not a mom friend. More like a… gruff divorced dad friend.
 - Amazing at flirting and other romantic/sexual encounters, but doesn't know this and thinks she's making a fool of herself 99% of the time. Somehow both suave and shy.
 - Matches outfits with Keemia sometimes. The two of them dress up as cowboys most of the time because cowboys remind Keemia of her mom and Keemia *loves* her mom.
-- Was absolutely obsessed with Western flicks and cowboys as a kid. Rabidly collected comics, clothes, guns (both fake and real), music, and other paraphernalia involving the Wild West. Lost nearly everything due to her father pawning them and hasn't indulged in anything permanent since.
+- Was absolutely obsessed with Western flicks and cowboys as a kid. Rabidly collected comics, clothes, guns (both fake and real ones), music, and other paraphernalia about the Wild West. Lost nearly everything due to her father pawning them and hasn't indulged in anything permanent since.

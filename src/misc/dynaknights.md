@@ -58,7 +58,6 @@ If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also 
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon Black.webp')"></div>
  <div class="funcoverc" style="background-image: url('https://images.launchbox-app.com/a7ae2c48-d364-49b6-b323-2affd48bc8f8.jpg')"></div>
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon X.webp')"></div>
- <div class="funcoverg" style="background-image: url('https://www.mobygames.com/images/covers/l/174544-r4-ridge-racer-type-4-playstation-front-cover.png'); min-width:449px;"></div>
  <div class="funcoverc" style="background-image: url('https://www.gematsu.com/wp-content/uploads/2024/06/Game-Page-Box-Art_Dragon-Quest-I-and-II-HD-2D-Remake-1280x1920.jpg')"></div>
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Secret of Mana.webp'); min-width:575px;"></div>
  <div class="funcoverg" style="background-image: url('/assets/funcovers/Spider-Man.webp')"></div>
@@ -132,7 +131,6 @@ I liked *comic book characters*, but I couldn't bring myself to like comics… u
  <div class="funcoverc" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.webp')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Spawn.webp')"></div>
  <div class="funcoverc" style="background-image: url('/assets/funcovers/Silver Surfer.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Invincible.webp')"></div>
 
 </div>
 
@@ -175,7 +173,7 @@ But that's it pretty much; escaping corporate greed and having better things to 
 Kirimu or Machine. I've used a lot of other names in the past and, most likely, I'll still respond to them.
 
 **How long have you been creating OCs?**  
-Since I was six-years-old or so?
+Since I was nine-years-old or so?
 
 **Where do you keep all the info on your OCs? In a notebook? On a website? Do you share your OC profiles or stories with anyone?**  
 Some of it is on this very website, but nearly all of it is in a private Discord server with just myself in it. Yeah yeah I know Discord is rotten and this is a horrible idea so I want to figure some other method of recordkeeping beyond copious Discord forums. Like, notebooks, maybe.
@@ -322,13 +320,13 @@ I don't have a concrete favorite. It changes. Why don't we go with Ghyslaine sin
 Sad, tall, and lanky girl who covers up due to both self-image issues and for comfort. Her voice is soft and raspy.
 
 **What is their occupation?**  
-She's a biology university student at Empire State and a part-time R&D intern at Oscorp.
+She's a university student majoring in biology who's also aiming for a forensics science certificate at Empire State. She's also a part-time R&D intern at Oscorp.
 
 **What is their most distinctive feature?**  
 Apple hat.
 
 **What first impression do people get from them?**  
-Waow… Sad apple girl…
+A friend of mine said Ghyslaine's thumbnail reminded her of Falin Touden from *Dungeon Meshi*. Accurate.
 
 **What is their greatest flaw?**  
 She's… submissive. Not submissive and breedable, I mean that she just kind of takes bad things that happen to her without struggle because why bother? It will happen again but worse and she deserves it in its entirety. This is what fate is: Murphy's law.
