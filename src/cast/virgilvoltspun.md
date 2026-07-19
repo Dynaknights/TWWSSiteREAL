@@ -9,8 +9,6 @@ tags:
 bgimage: bg123.gif
 pagedoll: stampspace2
 
-compdate: 2025-10-29
-
 tableFields:
 pronouns: He/him, it/its
 alias: Web-Surfer
@@ -104,8 +102,8 @@ Shaped like metallic bugs with massive lenses for faces.
 Remember ballooning? Yeah… This is how he does that.
 - **Mask**  
 Webby's got electronics in his mask to assist with his work, Tony Stark style, but make it broke. No AI though, too expensive to replace.
-- **Hand and foot pads**  
-Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints, provide small bursts of electricity, and… squeak when pressed on occasion.
+- **"Tactical Paws"**  
+Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints (or animal paw prints to cover up his tracks), provide small bursts of electricity, and… squeak when pressed on occasion. To calm people (himself) down when stressed. Of course.
 
 ## Notes
 - Virgil has a lot of hair. Luckily, Web-Surfer's mask has **hammerspace**.
@@ -122,7 +120,7 @@ Not just for decoration. His suit has dubious access to police resources and the
 
 - Virgil's favorite food is **Chicago-style meat-lovers' pizza drizzled with honey and dandelions**. He does *not* enjoy chunky tomato sauce though.
 - Virgil was bitten by a frantic, abnormally large ***[Heteroscodra maculata](https://en.wikipedia.org/wiki/Heteroscodra_maculata)***.
-- Virgil owns two female frogs named **Miette** and **Pippins** because of a "strange compulsion" to own them so he can feel safer.
+- Virgil owns two female honeyspot frogs named **Miette** and **Pippins**.
 - Did not name himself 'Web-Surfer.' He made a computer joke when he was first starting out as a vigilante and someone thought it was his name, spread it, and here we are. He was originally gonna call himself something more straightforward and easier to remember but, alas, everyone already knew him as Web-Surfer. He could only salvage the hyphen.
 - Has no clue how his mutation works. He was mutated due to a bite from *H. maculata*, but his abilities seem arbitrary and have nothing to do with spiders at all. For example, he initially believed his strength and speed to be proportional to that of a spider, but it's *more* than that. Forever confused by this.
 - Greatly enjoys cocooning himself in blankets, webs, and hammocks.
@@ -132,5 +130,5 @@ Not just for decoration. His suit has dubious access to police resources and the
 - Virgil's enhanced senses and Spider-Sense make it extremely difficult to sneak up on/surprise him. However, it's not *impossible*.
 - Uses video game moves in fights. Did this when he was starting off due to a lack of combat training, but got too used to it even after learning to fight. You ever see someone perform a twenty-hit aerial combo in real life? That's Virgil's style.
 - May or may not be the only person in the Voltspun bloodline to not be named after a consumable item. His deadname is a type of cheese, though.
-- Despite the endless virginity jokes his name brought upon him, Virgil has had sex.
+- Virgil is only not a virgin because he wanted to escape the jokes his name brought upon him. Also because he's such a stereotypical engineering student that it genuinely pissed him off.
 - Web-Surfer doesn't like surfing.

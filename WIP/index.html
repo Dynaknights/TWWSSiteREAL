@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>writing-reader-archive-template</title>
+    <link rel="stylesheet" href="dfstyle.css">
+  </head>
+
+<!-- Make sure to update the TEST-chapters JS file with the name. also, if you have more than one series, make more than one copy of the JS file. one for each series/fandom/etc, and link all of them here individually. if you don't like the glossary function, you can remove it from any or all of the pages. -->
+<script src="TEST-chapters-for-neocities.js"></script>
+<script src="glossary.js"></script>
+
+    
+<body>
+    <div class="container">
+        <nav class="sidebar-left">
+        </nav>
+        
+        <main class="content">
+            <h1>Writing Reader Archive Template</h1>
+            <p>This is a small personal archive that I made to host writing, like a personal / slightly private alternative to Archive of Our Own. Included are two javascript files (one for Neocities, one for elsewhere) which can generate a table of contents automatically, and also link together any chapter files in the same way as AO3's previous and next chapter buttons.</p>
+            <p>So long as you link the scripts and all that, you can retool this chapter system for any kinda site pretty quickly. There is also a glossary function. For example: I love cats and dogs and have a collection of daggers and swords.</p>
+            
+            <div class="container">
+                <div class="column">
+                    <h2>Here is a section.</h2>
+                    <p>The site I originally made this for has a list of focused-on-fandoms that's right here.</p>
+                    <ul>
+                        <li>like there are</li>
+                        <li>movies</li>
+                        <li>games</li>
+                        <li>shows</li>
+                        <li>more games</li>
+                        <li>etc here</li>
+                        <li>or you can remove this</li>
+                        <li>and just have chapters</li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2>Title of the Series here</h2>
+                    <ol id="TEST-table-of-contents"></ol>
+                </div>
+            </div>
+
+            <!-- You can un-hide this. Every container can house two table of content sets.
+            <br>
+
+            <div class="container">
+                <div class="column">
+                    <h2>Title of the Series here</h2>
+                    <ol id="TEST-table-of-contents"></ol>
+                </div>
+                <div class="column">
+                    <h2>Title of the Series here</h2>
+                    <ol id="TEST-table-of-contents"></ol>
+                </div>
+            </div> -->
+            
+        </main>
+        
+        <aside class="sidebar-right">
+        </aside>
+    </div>
+</body>
+</html>

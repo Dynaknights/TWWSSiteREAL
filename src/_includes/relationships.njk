@@ -1,0 +1,7 @@
+<h2>Relationships</h2>
+
+<div class="chatbox">
+<h3><a href="/cast/{{ this.id }}"> {{ this.title }}</a> - {% if rating == 0 %}☆☆☆☆☆{% elif rating == 1 %}★☆☆☆☆{% elif rating == 2 %}★★☆☆☆{% elif rating == 3 %}★★★☆☆{% elif rating == 4 %}★★★★☆{% elif rating == 5 %}★★★★★{% endif %}</h3>
+<dd><strong>Relationship: {{ this.relationship }}</strong></dd>
+{{ content | safe }}
+</div>

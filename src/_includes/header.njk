@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html class="no-js" lang="{{ metadata.language }}">
 
@@ -8,6 +7,7 @@
 
 <title>{{ metadata.decor + " | " }} {{ title +"!" if title else "The Wondrous Web-Surfer!" }}</title>
 <link rel="stylesheet" href="{{ metadata.assets.css }}/style.css">
+{% if '/library' in page.url %}<link rel="stylesheet" href="/assets/css/dfstyle.css">{% endif %}
 <meta name="description" content="{{ metadata.assets.desc }}">
 <link rel="icon" href="{{ metadata.assets.favicon }}" sizes="any">
 <script src="{{ metadata.assets.js }}/navi.js" type="text/javascript" defer></script>
@@ -37,5 +37,16 @@
 -->
 {% endif %}
 
-<meta name="robots" content="noai, noimageai">
 </head>
+
+{% if '/library' in page.url %}
+
+<!-- make sure to update the JS file name and also the TESTChapters, TEST-prev, and TEST-next values -->
+<script src="/library/js/chapters.js"></script> <!-- or <script src="../TEST-chapters-not-neocities.js"></script> -->
+<script>
+    const currentPage = window.location.pathname.split("/").pop();
+    TESTChapters.setupNavigation(currentPage, "TEST-prev", "TEST-next");
+</script>
+<script src="/library/js/glossary.js"></script>
+
+{% endif %}

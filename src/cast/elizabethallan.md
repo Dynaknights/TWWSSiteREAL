@@ -18,7 +18,7 @@ birthplace: Hometown, West Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
 
 song: Girl Anachronism
-songlink: https://www.youtube.com/watch?v=8s1ST8zJChc
+songlink: https://www.youtube.com/watch?v=sO5APfKnR50
 
 song2: Hate Bein' Sober
 songlink2: https://www.youtube.com/watch?v=6LabALciaCk

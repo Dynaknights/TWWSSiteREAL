@@ -302,7 +302,9 @@ John President. Yes, that's his name. Yes, he's the President of the United Repu
 [Ghyslaine](/cast/ghyslainelarue).
 
 **Which OC exists because there was something you wanted to see in fiction but could not find?**  
-All of them. I have a bad time relating to fictional characters in fiction, but wanted to understand myself. So, now all of my characters are some facet of myself… or am I a facet of them? It feels like that sometimes.
+All of them.  
+I have a bad time relating to people and vice versa, so I also struggle with relating to characters in fiction regardless of how many microlabels a writer can shove into a character. My ten-year-old self deduced that I'm just a weird person, a one-of-a-kind space case, a looney. I don't think I've ever been introduced to a single person nor character I could "see myself" in to any extent. But maybe that's an issue more so concerning empathy.  
+So, now I "see myself" in all of my characters. Even the ones who are downright heinous people. …If that makes any sense.
 
 **Choose an OC. What fate are they doomed to repeat?**  
 I wonder if Liz will be driven to suicide from the pre-Nouvelle-Yorke small town life. Isn't daily life in small towns or suburbs kind of like repeating a sunny day where nothing changes, anyway?
@@ -410,7 +412,7 @@ There aren't any villains in *TWWS*. Even if you count Webby's rouges' gallery a
 [Pyrel](/cast/percivalcastle) would be a bro. I don't think they'd understand the entirety of my emotions, but they wouldn't even ask any follow-up questions because they don't need to. Pyrel also holds a lot of impulses, now that I think about it. They're loud, berating, and nearly sadist levels of violent, but they're efficient along with precise with said brutality. We don't agree over a lot of things, but I could look over who they've killed and say, "Yeah okay fair" to some of their targets.
 
 **What would your oldest OC say about the person you've become?**  
-I don't think Ocean would say anything man.
+I don't think Flame would say anything man.
 
 ***PART V: FINAL QUESTION:***
 

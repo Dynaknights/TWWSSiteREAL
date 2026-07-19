@@ -12,7 +12,7 @@ pagedoll: swirlred2
 tableFields:
 pronouns: She/her
 alias: Kraven the Hunter
-species: Human mutant
+species: Human mutate
 age: Adult
 occupation: Mercenary, big-game hunter, TV star (former), Russian nobility (former)
 birthplace: Volgograd, Russia

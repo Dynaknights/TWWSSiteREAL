@@ -55,8 +55,12 @@ layout: 'base.njk'
 <div id="toc"></div>
 
 <div id="contents">
-  {{ content | safe }}
 
+{{ content | safe }}
+
+<!--{% if (relationships) %}
+{% include 'relationships.njk' %}
+{% endif %} -->
   
 </div>
 </div>
