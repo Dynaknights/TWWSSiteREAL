@@ -4,19 +4,21 @@ subtitle: The Apple of an Eye
 id: GhyslaineLaRue
 tags:
 - human
+- hot chocolate
+
 bgimage: bg65.png
 pagedoll: applecute
 
 tableFields:
-pronouns: She/her, they/them
+pronouns: They/them, she/her
 species: Human
 age: Adult
 occupation: Student, Oscorp intern
 birthplace: Smiley Township, Minnesota, URL
-nicknames: Laine, Jizz-laine, Melpomene, Apple Pie, Worm Brain
+nicknames: Laine, Jizz-laine, Muse Melpomene, Apple Girl, Melpo, Melpy
 
 song: ロートとハイ
-songlink: https://youtu.be/J8FlGMUWWrc?t=0&si=EossS1TcXqp4I6PD
+songlink: https://www.youtube.com/watch?v=J8FlGMUWWrc
 
 song2: Molly Sells Molly by the Seashore
 songlink2: https://www.youtube.com/watch?v=3r90y3eZo5E
@@ -34,7 +36,7 @@ song6: The Killing Moon
 songlink6: https://www.youtube.com/watch?v=QFZwuTOu9og
 ---
 
-**Ghyslaine Pomeline LaRue** is completely, utterly, and statistically **unlovable**.
+**Ghyslaine Pomeline LaRue** <small>(/ʒɪzleɪn ləˈɹu/)</small> is completely, utterly, and statistically **unlovable**.
 
 
 It is of utmost importance that you know this conclusion arose from years of social experiments and observational records conducted by Ghyslaine herself, not from psychological distress, like people have assumed. She just harbors an exhaustive list of personality traits, habits, and factors deemed unacceptable by a wide variety of cultures, making nearly every aspect of her existence detestable by others and themself.  
@@ -57,20 +59,22 @@ A cute green apple-shaped notebook MJ got for them.
 Sparkly gel pens in every saturated color of the rainbow to replace ballpoint pens that ran out of ink. A gift from [Liz](/cast/elizabethallan).
 - **Laptop**
 - **Crushed loose papers**  
-Homework and notes to themself.
+Homework and personal notes/lists.
 - **Lighter**  
 A green lighter that Liz stuck a bunch of rhinestones onto.
 - **Joints**
 
 ## Notes
-- Ghyslaine is **transfem**. She starts publicly transitioning (HRT, dressing more feminine) during her mid teens due to her supportive father and general disregard toward her hometown.
-- **Tall**. Maybe **5'11"** (155.7 cm) or so?
+- Tall girl. Maybe **6'1"**/**185.9 cm** or so?
+- Ghyslaine is **transfem**. She starts publicly transitioning (HRT, dressing more feminine) during her mid teens due to her supportive father and general disregard for her hometown.
 - Ghyslaine is monotonous and stoic. She's trying to amend that by smiling and generally showing more expressions, but she's just not a very emotive person.
 - Displays very little body language if ever.
 - Glasses are not optional, but the eyeglass chains are because I forget to draw them all the time.
 - Just go to town on bracelets. Ghyslaine loves friendship and kandi bracelets. Give her lots, if you want.
 - Has a soft, raspy voice.
 - Ghyslaine has numerous scars littering her thighs, chest, and upper arms from her time in Minnesota. Doesn't typically wear anything more revealing than a T-shirt partially for this reason.
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -92,3 +96,5 @@ A green lighter that Liz stuck a bunch of rhinestones onto.
 - Outside of her 'main' friend group, she doesn't have many friendly faces to speak of, so she tries meeting new people by frequenting small forums to minimal success.
 - Has taken up blogging instead because forums are intimidating and 'mainstream' social media is incomprehensibly stressful.
 - Enjoys bracelet-making and doodling because it gives her something to do with her hands that isn't biting the shit out of hangnails.
+
+</div>

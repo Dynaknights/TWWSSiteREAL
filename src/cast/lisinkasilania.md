@@ -6,7 +6,7 @@ tags:
 - h. medialis
 
 bgimage: bg159.png
-pagedoll: appleblade
+pagedoll: star8
 
 tableFields:
 pronouns: Any
@@ -18,7 +18,7 @@ birthplace: Disco, Wisconsin, URL
 nicknames: Kas, Scorps, Scorpy, World-Class Jackass
 
 song: Narita
-songlink: https://youtu.be/cvZ5yyLF4sk?si=5o7GAnVCO5Wc-9Co
+songlink: https://www.youtube.com/watch?v=cvZ5yyLF4sk
 
 song2: K Street Walker
 songlink2: https://www.youtube.com/watch?v=Um1yQFT59fk
@@ -29,14 +29,14 @@ songlink3: https://www.youtube.com/watch?v=v2NZs-t-slg
 song4: Come Out and Play
 songlink4: https://www.youtube.com/watch?v=GHUql3OC_uU
 
-song5: Vomit in the Ball Pit
-songlink5: https://www.youtube.com/watch?v=dilkSx23nw8
+song5: Vs. Metal Sonic
+songlink5: https://www.youtube.com/watch?v=y8VYLWdwHUQ
 
 ---
 
 ***FEAST YER FUCKIN' EYES!!***
 
-Cough up yer worship n' praise to the result of a blessed destiny, lesser thing. Bow with yer forehead in the mud n' yer ass up, grovelin' and *beggin'* just to have a taste of incredible strength. Prostrate yerself to the Universe's boilin' rage n' hatred personified, why don'tcha, 'cause there ain't any other words fittin' for **Lisin Xerxes Kasilania** 'cept **PERFECT**, baby!
+Cough up yer worship n' praise to the result of a blessed destiny, lesser thing. Bow with yer forehead in the mud n' yer ass up, grovelin' and *beggin'* just to have a taste of incredible strength. Prostrate yerself to the Universe's boilin' rage n' hatred personified, why don'tcha, 'cause there ain't any other words fittin' for **Lisin Xerxes Kasilania** <small>(/lisɪn kæˈsileɪniəˌ/)</small> 'cept **PERFECT**, baby!
 
 Say, hard to believe Lisin used to be a good-for-nothin' nobody like yerself, ain't it, sweets? A broke as shit, aimless, useless waste of stardust tradin' blows with a bunch of other meaningless fucks to get by… also for the fun of it all, 'course, but mostly for the cash. Their parents had kicked her out n' Nouvelle-Yorke ain't cheap; it was either fight in shady ass arenas or wind up dead. Don't sweat it though — destiny's a kind soul. Lisin's always had a knack for combat and was well on her way to becoming the best of the best in the rink without breakin' a sweat.  
 Impressive, ain't it? Y'know, considerin' the place was a shithole n' all. She was her boss' best lapdog; throw her a bone.
@@ -45,7 +45,7 @@ She was so close to the number one spot 'fore life went to the shitter, as these
 Hah. Everything she'd worked her ass for, lest she die or worse, ***gone***! Just like that! All 'cause she had the gall to think she could get a good education n' turn her whole life around when she was younger. All of a sudden, Lisin was nothin' more than some *neglected puppy*; clingy, pathetic, rotten, ***weak***.  
 Stars above, shit was wrecked beyond belief. Lisin's life was just a mess. They lost connections, opportunities, buds, and *everything*. ***AGAIN!!*** Don't worry yer pretty head 'bout all them nasty details but — oh, *man* — it genuinely made her miss when she was snoozin' n' cruisin' in the alleyways filled to the tits with decayin' flowers n' filth. Pisses him right off just by thinkin' about it.
 
-…Whatever, man. Anyway, *obviously*, when Lisin was at his lowest, the [starsdamned mayor of Nouvelle-Yorke](/cast/willisfaucher) came along with the *sweetest* job proposition Lisin ever did see; a brand spankin' new destiny! …Which was to be a lapdog again and beat up supers for money, but this time Lisin's gonna be experimented on by a [weird fuckin' little nerd](/cast/lucilledeckard) to be part scorpion… *But*! But, but, but Lisin's gonna be under Faucher's payroll and *boy fuckin' howdy* does that lady got stacks; far more than enough to pay off Lisin's loans! Hah… 'course Lisin bit the bullet n' took the job. What other choice did she have? …Seriously.  
+…Whatever, man. Anyway, *obviously*, when Lisin was at his lowest, the [starsdamned mayor of Nouvelle-Yorke](/cast/fifinefaucher) came along with the *sweetest* job proposition Lisin ever did see; a brand spankin' new destiny! …Which was to be a lapdog again and beat up supers for money, but this time Lisin's gonna be experimented on by a [weird fuckin' little nerd](/cast/lucilledeckard) to be part scorpion… *But*! But, but, but Lisin's gonna be under Faucher's payroll and *boy fuckin' howdy* does that lady got stacks; far more than enough to pay off Lisin's loans! Hah… 'course Lisin bit the bullet n' took the job. What other choice did she have? …Seriously.  
 Glory in fuckin' Stardom, who fuckin' cares. Y'know what? This shit's none of yer business, anyway. Nope, fuck right off.
 
 Look, the only thing that matters is that Lisin's a lean, mean, FIGHTIN' MACHINE! She's no longer broke as fuck, but she's hot as fuck, strong as fuck, tough as fuck, *and* it's all rolled into a sexy part-mutated-scorpion package; that's a premium ya can't afford. Like he said before: they ain't nothin' but **PURE PERFECTION** thanks to **DESTINY**! You'd better believe that, sugar tits. The only winner of this fight against all odds is gonna be LISIN, baby!
@@ -62,37 +62,42 @@ These don't have venom glands, but they make her bites more dangerous. These lon
 - **Exoskeleton**  
 Think of it like having an incomplete set of armor on you at all times.
 - **Venom glands**  
-Lisin's venom glands are stored within her telson ('tail bulb') on her metasoma ('tail'), not her fangs. These glands can produce numerous different types of substances (medically significant venom, paralytics, drug-like substances, aphrodisiacs, etc.) depending on what Lisin has eaten recently (Lisin needs to eat a lot of chocolate to produce aphrodisiacs, for example). Lisin's body can also absorb a few of these substances from external stimuli and transfer them to these glands to relieve or negate their effects.
+Lisin's venom glands are stored within her telson ('tail bulb') on her metasoma ('tail'), not her fangs. These glands can produce numerous different types of substances (neurotoxins, paralytics, drug-like substances, aphrodisiacs, etc.) depending on what Lisin has eaten recently (Lisin needs to eat a lot of chocolate to produce aphrodisiacs, for example). Lisin's body can also absorb these substances from external sources and transfer them to these glands to relieve, negate, or 'recycle' their effects.
 - **Scorpion-like behavior**
-- **Enhanced senses, durability, speed, stamina, agility, and equilibrium**  
+- **Enhanced strength, senses, durability, reflexes, endurance, agility, and equilibrium**
 - **Above average processing speed**
 - **"Sixth-Sense"**  
 Works similarly to [Virgil's Spider-Sense](/cast/virgilvoltspun/#Abilities), but her Sixth-Sense specializes in [mechanical stimuli](https://en.wikipedia.org/wiki/Mechanosensation), not vibrations, which are then converted to electrical signals. It's less of a legitimate 'sense' and more like enhanced senses bundled with a beefed up 'fight or flight' instinct like Virgil's Spider-Sense, actually.
 - **Accelerated metabolism**  
 Due to her being part scorpion, you'd think she'd have slow metabolism. However, she's tall, beefy, and nearly-constantly moving.
 - **Healing factor**
-- **Chemical, drug, and poison resistance**
-- **Bad eyesight**  
-Lisin's eyesight was pretty bad before her mutation. Now, without her contacts, she'd be fucked.
+- **Chemical, drug, disease, and alcohol resistance**
+- **Night vision**  
+Lisin's regular vision is absolutely fucked without her contacts, but she *can* see in the dark. So that's cool.
+- **Heat resistance**
+Up to 50° C/ 122° F!
 
 ### Equipment
-- **Claws**
+- **Claws**  
+Since she can't stick to walls, she tears into a surface and hauls herself upward to climb. These also could double as chelae/pincers because they're so damn sharp.
 - **Armored suit**  
-For even further protection and more strength.
-- **Contacts**  
-Lisin doesn't want to wear glasses.
+This is less like a stereotypical suit of armor and more akin to a mechanical version of her exoskeleton. It slows her down a bit because it's pretty hefty, but it boosts her already enhanced strength and durability along with being able to launch herself higher into the air. Also the whole climbing thing yeah.
+- **Eye contacts**  
+They can't do all the cool and fun things [Pyrel](/cast/percivalcastle#Equipment)'s do. They're just there because Lisin's vision is dogshit.
 
 ## Notes  
+- Lisin's very **tall** and very **muscular**. ~**6'4**/**195 cm**.
 - **Lisin's gender is whatever fits the bit.**
 - **Long elf-like ears**. They can wiggle and droop/raise slightly in response to emotional stimuli.
-- Lisin's very **tall** and very **muscular**.
-- Their hair is dyed blonde. He does *not* have white hair.
+- Their hair is dyed blonde.
 - **EMOTIVE** AND **EXPRESSIVE** AND **EXAGGERATED**. Think of an announcer hyping up a wrestling match.
 - Lisin's plates and armor look similar to obsidian. They're not made of the stuff, but they *look* like the stuff.
 - Their voice is like… a gruff kind-of-sort-of New Yorker-Midwestern-abomination.
 - Her natural eye color is **brown**. Her contacts are bright red.
 - Heavily scarred. Usually beat-up and scuffed from something or other.
-- Teeth are VERY sharp. Also they're yellow. The canines/fangs are black, along with them being longer and sharper than average.
+- Teeth are VERY sharp.
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -114,3 +119,5 @@ Lisin doesn't want to wear glasses.
 - Hates reading books with a passion. She rereads the same lines over and over for like an hour and still can't process it. It makes her feel like a dumbass every time.
 - Awful cook. Anything she makes is inedible. She never measures ingredients correctly, mixes up salt with sugar, and always sets the temperature too high because she's impatient and nearly sets her food on fire. Still hasn't realized she can't speedrun cooking, so she just has takeout for every meal.
 - Flirts in a very threatening way. Lisin often zeroes in on people's bodies; they view human bodies in an almost divine light, like they're on the brink of worshipping them. However, this makes Lisin come off as "scary," for lack of better words, because no one at gay bars wants to talk about human flesh carnally, like how someone might describe why they like steak in a specific way.
+
+</div>

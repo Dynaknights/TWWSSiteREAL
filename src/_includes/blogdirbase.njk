@@ -6,21 +6,21 @@ layout: 'base.njk'
 
  {% for blogs in collections.blogs | reverse %}
 
-<div class="box4boxes" style="min-height:200px;">
-<h2><img src="/assets/decor/stars.gif" alt="A GIF of some small white stars."> <time>{{ blogs.date | postDate }}</time></h2>
+<div class="box4boxes" style="min-height:400px; margin-bottom: 3em;">
+<h2><img src="/assets/decor/stars.gif" alt="A GIF of some small white stars." aria-hidden="true"> <time>{{ blogs.date | postDate }}</time></h2>
 
 {% if (blogs.data.title) %}
 
-<h3><img src="/assets/decor/swirlred.gif" alt="A GIF of a small red swirl."> {{ blogs.data.title }}</h3>
+<h3><img src="/assets/decor/swirlred.gif" alt="A GIF of a small red swirl." aria-hidden="true"> {{ blogs.data.title }}</h3>
 
 {% endif %}
 
 {% if (blogs.data.tomoguy) %}
-  <a href="https://www.tumblr.com/chocoperrito/786091240639873024/tomodachi-life-window-graphics-two-bonus-ones?source=share"><img src="/assets/decor/tl{{ blogs.data.tomoguy }}.png" div class="pagedollbreaker" alt="A modified Tomodachi Life apartment graphic." style="max-height:200px; max-width:400px;"></a>
+  <img src="/assets/decor/tl{{ blogs.data.tomoguy }}.png" div class="pagedollbreaker" alt="A modified Tomodachi Life apartment graphic by Chocoperrito." style="max-height:200px; max-width:400px;">
 {% endif %}
 
 {% if (blogs.data.lilguy) %}
-  <img src="/assets/decor/tl{{ blogs.data.lilguy }}" div class="pagedollbreaker" alt="{{ alttag }}">
+  <img src="/assets/decor/tl{{ blogs.data.lilguy }}" div class="pagedollbreaker" alt="{{ alttag }}" aria-hidden="true">
 {% endif %}
   
 <article>{% excerpt blogs %}</article> <p><a href="{{blogs.url}}" style="color:#8ccfff">Read more…</a></p>

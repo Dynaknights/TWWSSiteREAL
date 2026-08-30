@@ -2,7 +2,7 @@
 title: Outer Space
 id: outerspace
 pagedoll: feltrocket
-pagedoll2: stars1
+pagedoll2: solsurya
 bgimage: bg123.gif
 layout: 'basetoc.njk'
 tags:
@@ -14,7 +14,7 @@ tags:
 Beyond the secluded stretch of void we call home is yet another universe, filled with inspiration and possibilities — incomprehensible to our mortal minds — that will never be realized. Universes within universes within universes ad nauseam. Our Beloved Glory is a lonely, jealous, and resentful Soul who's desperate to be more than Itself, yet faces constant reminders of Its **inherent inferiority**. It will always be a poor copy of its fellow greater beings, It will forever be branded by its numerous, wretched imperfections and mistakes, and the greatest day of Its existence will be when It expires. Is it worth seeing such a miserable existence to its very end?  
 This indescribable despair had shattered Our Glory's Self to the pieces from whence we came. Walking, talking shards wandering a perfect storybook of Its dreams and ideals; the reality we define as the **human experience**.
 
-However, even this reeked of the imperfections Our Beloved Glory despises. They leaked into the cracks of its paradise to grow and fester, wrecking a mind already in tatters until it's nothing at all. After numerous restarts and attempts to mend the broken, apathy set in. The allure of of giving up is a palpable one, after all. Soon, everything will crumble into dust. Why bother when someone else will embody your hopes far better than you could even fathom?
+However, even this reeked of the imperfections Our Beloved Glory despises. They leaked into the cracks of its paradise to grow and fester, wrecking a mind already in tatters until it's nothing at all. After numerous restarts and attempts to mend the broken, apathy set in. The allure of giving up is a palpable one, after all. Soon, everything will crumble into dust. Why bother when someone else will embody your hopes far better than you could even fathom?
 
 …Or so the story goes, anyway.  
 Now, as the human race, we aim to create our own stories, too, mainly to tell at parties.
@@ -59,48 +59,57 @@ Soma-Lune is home to spacey tech nerds who begrudgingly banded together to form 
 According to Soma-Lune's inhabitants, the Pas de Trois are not made of various types of cheeses.
 
 ### Vainglory
-A blasphemous natural satellite. **Vainglory** is a big orb dressed up in a myriad of red hues, like Mars, but more saturated. Has weird markings and carvings from times long gone etched onto its surface depicting what appear to be religious rites of differing traditions. Not a lot of data is clear at the moment regarding them.  
-Named after some sort of dead god; something or other.
+A blasphemous natural satellite. **Vainglory** is a big orb dressed up in a myriad of red hues, like Mars, but more saturated. Has weird markings and carvings from times long gone etched onto its surface depicting what appear to be religious rites of differing traditions. Not a lot of data is clear at the moment regarding them.
+
+People named this celestial body 'Vainglory' because they thought the End of All Things was rapidly approaching with this affront to their beloved Cosmos; some rapture or doomsday was surely upon them! This thing has got to be an eye of everything that isn't, wasn't, and never will be. The antithesis of love, and creation, and everything paramount to the human experience.  
+The year 2112 was a scary time to live in.
 
 ### Antiochus
 A grand marble, indeed! It's the smallest of the trio. **Antiochus** is painted with child-like strokes of pale, desaturated blue and pink hues - looks a little suffocated.  
-It, too, harbors strange etchings across its surface, along with suspiciously manmade structures dotting it. However, no man's ever been there long enough to construct such elaborate works.  
-The name's origins are a mystery, but it's something concerning nihilism, maybe.
+It, too, harbors strange etchings across its surface, along with suspiciously manmade structures dotting it. However, no man's ever been there long enough to construct such elaborate works.
+
+Its name *also* derived from the fear people harbored for this thing; a harbinger of absolute destruction disguised as a piece of art.   
+People don't enjoy nihilism, so this thing was named after a dude who promoted nihilism and was promptly immolated to death.
 
 ## The Cosmology of Fuck-Ups
 
-### Cosmic Bugs
+### Cosmic Anomalies
 
 There's been some suspicion among space science circles that the universe is dying in a way no one ever thought it would: eroding at the seams — having each and every aspect of reality collapsing in on itself one at a time until the universe, for lack of better words, breaks itself out of existence.
 
 For example, albeit extremely rare, there have been reports of things or even entire people vanishing without a trace, in front of others' eyes without so much as a warning. Sometimes, it even goes so far as to clear anything and everything even remotely relating to one's existence, leaving a hole where one once was, but can no longer be remembered. If one isn't completely missing or damned out of reality, perhaps they're… *changed* somehow.  
 Shockingly, the opposite can also happen. The dead can be temporarily revived as if nothing had happened, people can swap from being a drastically different person back to their same old selves, or even new and never-before-seen strangers pop into existence bearing false memories at best or complete amnesia at worst before making it their life's mission to commit suicide in a sort of panicked frenzy.
 
-Mostly, when people refer to cosmic bugs, they mean there's an object that's somehow halfway into a solid structure and won't come out — or, more commonly, they're referring to **mutations**; abrupt changes to one's genetic structure granting superhuman abilities in more notable cases. Or, perhaps, they're referring to any abnormally-sized creature; typically, this is used as justificiation among more conspiritorial types as proof of ancient giants who roamed the lands… but no reasonable evidence has been given outside of mutations. That's probably for the better.
+Mostly, when people refer to cosmic anomalies, they mean there's an object that's somehow halfway into a solid structure and won't come out — or, more commonly, they're referring to **[mutations](/world/mutations)**; abrupt changes to one's genetic structure granting superhuman abilities in more notable cases. Or, perhaps, they're referring to any abnormally-sized creature; typically, this is used as justificiation among more conspiritorial types as proof of ancient giants who roamed the lands… but no reasonable evidence has been given outside of mutations. That's probably for the better.
 
 It's unsure when this phenomenon first began occurring, but it's picked up steam ever since the Solar System was 'abruptly and forcibly readjusted' in the year 2112 to accommodate for new celestial bodies with zero warnings or explanations; two moons and a sun: **Vainglory**, **Antiochus**, and **Surya**.  
 The cosmic bug theory is the best explanation for the three's arrival, since they each defy the 'traditional' means of celestial creation. Hell, they didn't even have creation processes considering they simply **"spawned" into existence**.
 
-Speaking of these new bodies, there have been questions as to whether cosmic bugs are infectious, like viruses. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic bugs is entirely unknown — perhaps unsolvable — this cannot be objectively proven. Regardless, it's generally accepted that these bugs are transferable, somehow.
+Speaking of these new bodies, there have been questions as to whether cosmic anomalies are infectious, like viruses. The number of sightings *has* notably increased since 2112, after all. However, as the nature of cosmic anomalies is entirely unknown — perhaps unsolvable — this cannot be objectively proven. Regardless, it's generally accepted that these anomalies are transferable, somehow.
 
 The universe, despite major religious backing painting it as beyond perfection, is fickle and decrepit, it seems. Perhaps this spells doom for us all, and perhaps doom is what humanity needs.
 
 Praise be to the stars.
 
-### Earth-256
+### The Earth-256 Problem
 
 <img src="/assets/decor/starbig.gif" div class="pagedollbreaker">
 
-Considering the potential of cosmic bugs, it's not far-fetched to wonder if such **anomalies** are instead natural by factoring into not just the death of the universe, but also it's creation.
+Considering the potential of cosmic anomalies, it's not far-fetched to wonder if such **abnormalities** are instead natural by factoring into not just the death of the universe, but also it's creation.
 
-Some results of cosmic bugs have gifted humanity far, far more questions than was previously conceivable. Objects or people pop in and out of our reality and give others the distinct impression that these things are not our own, whatever that could entail. They're… unnatural in every definition of the word that descriptors are unable to justify.  
+Some results of cosmic anomalies have gifted humanity far, far more questions than was previously conceivable. Objects or people pop in and out of our reality and give others the distinct impression that these things are not our own, whatever that could entail. They're… unnatural in every definition of the word that descriptors are unable to justify.  
 The few that, miraculously, can converse with us speak of times and tales beyond the scope of humanity at the moment (and possibly the foreseeable future); fantasy-like structures, people, beasts, and ways of living so drastically different that they wrap around to eliciting nostalgia from perceived sameness. 
 People have cited these strangers as seeming as otherworldly just as much as they appear human, like they've originated from an **alternate version** of this Earth.
 
-These bugs have created a belief that they — and us — are the result of **previous iterations of the universe** (or even a multiverse, among the daring few), drawing from classical religious tales detailing the universe with a lust for perfectionism. This more supernatural belief proclaims that if Our Glory spotted an anomaly, it would start reality all over again right at the Big Bang; the equivalent of turning a device off and on again, which led our reality to degenerate over time.  
+These anomalies have created a belief that they — and us — are the result of **previous iterations of the universe** (or even a multiverse, among the daring few), drawing from classical religious tales detailing the universe with a lust for perfectionism. This more supernatural belief proclaims that if Our Glory spotted an anomaly, it would start reality all over again right at the Big Bang; the equivalent of turning a device off and on again, which led our reality to degenerate over time.  
 If these speculations hold merit, then it should be considered whether this iteration is that fabled perfection the Galactic Glory has been seeking or yet another failure to be swept under the rug, considering we still stand. Or has the Universe simply grown apathetic toward it all?
 
 Perhaps we simply don't deserve to know.
 
+<div class="box4boxes" style="max-height:700px;">
+
 ## Trivia
 - The Universe's favorite food is **garlic bread**.
+- Cosmic abnomalities are sometimes called cosmic bugs/glitches.
+
+</div>

@@ -47,7 +47,7 @@ Monitoring each and every part of it, like it could snap and break beneath you a
 She's had to pick up fuckin' becoming a super just to last from one day to the next without ripping her skin off. What's it like not havin' to do that?
 
 Ah… Heh. Shucks. Her bad. Max doesn't mean to throw a pity party. She's just… very tired. If she still had skin 'round her eyes, she'd probably be sportin' eye bags similar to little ol' you.  
-This… cycle is **hellish**. Pathetic, disgusting, tiring, whatever. Nobody feels like doin' shit to change the world n' whatnot 'cause they've already got it all. Everyone else can go fuck themselves. **C'est la vie**, bitches.
+This… cycle is practically perdition. Pathetic, disgusting, tiring, whatever. Nobody feels like doin' shit to change the world n' whatnot 'cause they've already got it all. Everyone else can go fuck themselves. **C'est la vie**, bitches.
 
 Ugh. Enough with the sob stories. It's cold as shit outside; she's gonna head inside 'fore she turns into a popsicle. Come back whenever you're ready and you can talk at her all ya want in front of the heater, bud.
 
@@ -60,18 +60,20 @@ Just… hah. You've been starin' at the pavement below ya for a while. Don't loo
 - **Electrokinesis**  
 Max's body is like a big, overly-convoluted circuit. Her body generates electricity at an average rate of 20,000 volts per minute. The most electricity her body can hold is around 15,000,000 volts. She automatically 'recharges' whenever her reserves are low by essentially being a human transformer: channeling the electricity through her body for later usage. She can discharge this energy in a wide variety of ways, but mostly sticks to bolts of lightning.
 - **Electromagnetic manipulation**
-- **Electrical detection**
+- **Electromagnetic field detection**
 - **Electrical immunity**  
 Just gets channeled through her… *unless* it's too much for her to handle all at once.
 - **Mastery of hand-to-hand combat**
 - **"Flying"**  
-…More like electromagnetic propulsion. Faster at 'flying' when in places with high electrical potential, like a city or power plant.
+…More like electromagnetic propulsion. Faster at 'flying' when in places with more electricity, like a city or power plant.
 
 ### Equipment
 - **Handguns**
+- **Vibranium forearm crutches**  
+She stole them.
 
 ## Notes
-- **Short**. ~5'3 (161.5 cm).
+- Short. ~**5'3**/**161.5 cm**.
 - Stands tall and proud despite this. Well, mostly due to a **visible metal spine**, but whatever.
 - **Sharp** and **angular** features, but not *too* sharp.
 - **Scruffy**. Dog-like, but more like a starving stray you found in an abandoned building than a little puppy.
@@ -82,6 +84,8 @@ Just gets channeled through her… *unless* it's too much for her to handle all 
 - **Scars** are all over her body.
 - Probably has a devious and malicious shit-eating grin on her face.
 - Has a **rough**, **scratchy**, and **raspy** voice due to her fried vocal cords.
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -106,3 +110,5 @@ Just gets channeled through her… *unless* it's too much for her to handle all 
 - Analyzes the *fuck* out of songs. Notebooks upon notebooks detailing symbolism and lyrics of different albums and tunes amassed over years keep her sane.
 - Also analyzes the fuck out of both EM and video games. Max's notebooks about video games are mostly about the technical sides of them: understanding the hardware and its constraints, examining source code, understanding how developers made games with the limited technology and accessibility they had, etc.
 - Max enjoys building pieces of technology with limited material/scraps. When she has the energy and isn't consumed by pain, anyway. Lets Keemia name them because naming them something like "Shitheap #55" got difficult to remember.
+
+</div>

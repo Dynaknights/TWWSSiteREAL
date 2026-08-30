@@ -39,7 +39,7 @@ display: block;
 border: 2px black solid;
 border-top-left-radius: 10px;
 border-bottom-right-radius: 10px;
-background: linear-gradient(to bottom, rgba(59,103,158,1) 0%,rgba(43,136,217,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
+background: linear-gradient(to bottom,  rgba(0,158,195,1) 0%,rgba(0,91,239,1) 51%,rgba(93,61,206,1) 100%);
 text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
 -1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;
 }
@@ -51,7 +51,7 @@ text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1p
   transition-duration: 0.1s;
   -webkit-transition-property: transform;
   transition-property: transform;
-  background: linear-gradient(to bottom,  rgba(239,197,202,1) 0%,rgba(210,75,90,1) 50%,rgba(186,39,55,1) 51%,rgba(241,142,153,1) 100%);
+  background: linear-gradient(to bottom, rgba(169,3,41,1) 0%,rgba(102,19,42,1) 50%,rgba(66,9,54,1) 100%);
   color: antiquewhite;
 }
 .sidenav a:hover, .sidenav a:focus, .sidenav a:active {
@@ -74,7 +74,7 @@ text-align: center;
 
 @media screen and (max-width: 1290px) {
 .sidenav {
-height: 40px;
+height: 50px;
 width: 100%; /* Set the width of the sidebar */
 position: static;
 z-index: 1; /* Stay on top */
@@ -89,17 +89,23 @@ padding-bottom:10px;
 align-content: center;
 border-bottom: 1px black solid;
 border-right: none;
+overflow-y: hidden;
 text-align: center; /* Center text horizontally on small screens */
+
+a{
+
+text-shadow: -1px -1px 0 #181824, 1px -1px 0 #181824, -1px 1px 0 #181824, 1px 1px 0 #181824,
+-1.5px -1.5px 0 #181824, 1.5px -1.5px 0 #181824, -1.5px 1.5px 0 #181824, 1.5px 1.5px 0 #181824;}
+
 }
 
 .sidenav a {
-color: antiquewhite;
-padding: 3px 10px;
+padding: 6.5px;
+padding-bottom: 5px;
 margin: 5px;
 text-decoration: none;
 display: inline;
 border: 0;
-background: linear-gradient(to bottom, #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%);
 }
 
 .sidenav .imagehere,

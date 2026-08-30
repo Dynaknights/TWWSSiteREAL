@@ -1,0 +1,172 @@
+  
+   /* ####### tutorial styling - feel free to remove when you copy over ######*/
+   .blue{background-color:cyan;}
+   .yellow{background-color:yellow;}
+   .green{background-color:lime;}
+   
+    dl{
+      padding: 20px;
+    }
+    dt {
+      font-weight: bold;
+      overflow-wrap: break-word;
+    }
+
+    dd{
+      margin-top:5px;
+      overflow-wrap: break-word;
+    }
+
+    .tutorial {
+       justify-content: center;
+        width: 80%;
+        margin: auto;
+           
+    }
+
+    /* if you like the style of my og page, also added 3maqidrawbox.css to your page :) 
+      please use a different background though please! 
+    */
+    /* ########################################################################*/
+
+
+      /* have the max width be the size of your canvas */          
+ @media screen and (max-width: 500px) {
+  canvas {
+     width: 100%;         
+     aspect-ratio: 1 / 1;
+     
+  }
+   #controls, .des{
+                     width: 100%; 
+                }
+
+  .guide{
+    padding: 5px;
+  }
+
+   .flex {
+    display: block;
+   }
+                
+ }
+      
+   :root {
+     --canvasSize: 502px;
+     --borderStyle: 1px solid black;
+   } 
+
+    * {box-sizing: border-box;}
+
+
+        body{
+            font-family: Helvetica, Verdana;
+             width: 100%;   
+        }
+  
+        canvas {
+            border: 1px solid black;
+            cursor: crosshair;
+        }
+        .drawbox_con{
+           
+            padding: 20px;
+        }
+       
+        #gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            padding: 20px;
+                }
+
+        
+        .image-container {
+            border: var(--borderStyle);
+            padding: 5px;
+            text-align: center;
+            border-radius: 5px;
+            max-width:300px;
+             
+
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+        #controls, .des {
+            width:var(--canvasSize);
+            border:var(--borderStyle); 
+            padding: 5px;
+            margin-bottom:5px;
+            background-color: lightgrey;
+            margin-inline:0px;
+        }
+        
+        .guide{
+          padding: 20px;
+        }
+
+        .flex {
+          display: flex;
+          flex-direction: row;  
+         
+        }
+
+        
+
+
+
+
+
+
+
+             @media screen and (max-width: 1500px){
+               
+               
+                .drawbox_con{
+                  padding: 20px;
+           
+              }
+
+             #controls, .des{
+                    max-width:100%;
+                }
+
+                                
+             
+               #controls{
+                 max-width:var(--canvasSize);
+               }
+
+            }
+
+
+
+              @media screen and (max-width: 1000px){
+               
+               
+                .drawbox_con{
+                  padding: 0px;
+           
+              }
+
+             #controls, .des{
+                    width: 100%;
+                    max-width:500px;
+                }
+
+                  .flex {
+                  display: block;
+                  }
+         
+                
+                .image-container{
+                   flex-direction: column;
+                  max-width: 100%;
+                }
+
+
+
+              }

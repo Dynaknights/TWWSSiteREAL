@@ -6,16 +6,17 @@ tags:
 - city
 
 bigger: true
-bgimage: bg103.gif
+bgimage: bg230.png
 pagedoll: paperboat
 thumbnail: unfinished.png
 
 state: Nouvelle-Yorke (NY)
 population: 6,600,000
-leader: Willis Faucher
-leaderlink: WillisFaucher
-framlean: French
+leader: Fifine Faucher
+leaderlink: fifinefaucher
+framlean: Mostly French
 demonyms: Nouvelle-Yorker
+boroughs: Manhattan, Lourdes, the Bronx, Islandy McIsland Face, Roi des Chiens
 nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 ---
 
@@ -23,7 +24,7 @@ nicknames: La Pomme Grosse, Super Capital of the World, City of Dreams
 
 It's chock-full of contradictions like that; keeping its eyes bloodshot while foaming at the mouth like a rabid animal, but still keeping those same eyes glued to the Stars, trying endlessly to touch the sky while drowning in its own perfect filth.
 
-<img src="/assets/decor/bananasplit.png" div class="pagedollbreaker">
+<img src="/assets/decor/bananasplit.png" div class="pagedollbreaker" aria-hidden="true">
 
 After the Empty Eras' end, reformation and generational compensation was promised by exponentially wealthy elites. Flowery speeches daisy-chained upon shimmering podiums by politicians had branded Nouvelle-Yorke as Stardom incarnate; a paragon of an idealistic future.  
 Behold, the fruits of superficial labor rendered La Pomme Grosse as yet another star-gilded hell. Superficial labor by superficial politicians bred a superficial society who praises spectacle and presentation beyond all else.
@@ -43,7 +44,7 @@ Ville-de-Nouvelle-Yorke is the mighty City of Dreams, but trouble simmers undern
 Its editor and publisher-in-chief, **Jean-Jacquet Jacquemond du Jort** (typically referred to as **J.J. Jacquemond**), is the host of both the podcast and radio show. This is manageable for Jacquemond because both the podcast and the radio show use the exact same clips; the radio show is recorded live, then the audio is uploaded as a podcast later.
 
 Each and every one of these news formats mainly focuses on criticizing supers, discussing current events, and — rarely — exploring Nouvelle-Yorke's way of life. Mostly, it focuses on [Web-Surfer](/cast/virgilvoltspun) and anything involved with him; partially due to Jacquemond's hatred for the super, but also due to Web-Surfer's popularity within the superpowered scene.  
-Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le Rêve Super!***, which also focuses on supers, but in a more celebrity-like lens similarly to that of fashion/gossip magazines. *Le Rêve* includes romance, personal drama, rumors, exclusive interviews/photoshoots with popular supers, and other stereotypical subjects.  
+Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le Rêve Super!***, which also focuses on supers, but in a more celebrity-like lens similar to that of fashion/gossip magazines. *Le Rêve* includes romance, personal drama, rumors, exclusive interviews/photoshoots with popular supers, and other stereotypical subjects.  
 *Le Rêve* was birthed from financial desperation within the parent company. However, much to Jacquemond's dismay, he can't shut it down because it's still a major hit among predominantly young women and girls. Jacquemond is not a man to turn down extra cash. Thus, it begrudgingly remains alongside *Le Clairon*.
 
 *Le Clairon*'s accusatory nature has led it to be discredited as a valid source far and wide, especially for anything regarding superpowered individuals. However, it remains afloat because people find Jacquemond and his hysteric yelling entertaining.
@@ -52,7 +53,7 @@ Although, interestingly, *Le Clairon* owns a subsidiary magazine called ***Le R�
 **Oscorp Industries** is a multibillion-dollar conglomerate stationed in downtown Manhattan, Nouvelle-Yorke with primary focuses on science and engineering innovations. Currently, it stands as one of the largest and wealthiest tech companies in the world alongside Stark Industries mostly due to its financial grip over the Valse d'Argent.  
 The company was co-founded by CEO [Noémie-Marisol Osborne](/cast/noemiemarisolosborne) and [Lucille Deckard](/cast/lucilledeckard) just after their college days sometime in the 2960s. However, only Noémie remains after Lucille's indefinite termination. Currently, the next projected CEO is Noémie's son: [Harvey Osborne](/cast/harveyosborne).
 
-<img src="/assets/decor/monarch.png" div class="pagedollbreaker">
+<img src="/assets/decor/monarch.png" div class="pagedollbreaker" aria-hidden="true">
 
 Oscorp was initially created as a biotechnological company that aimed to alleviate the lives of those with disabilities and medical illnesses, but later broadened its scope to general technological innovations, acting as a benefactor to fund projects that catch its eye. Currently, its main focuses are: the Valse d'Argent, digital communication, and public safety; the latter of which focuses on sponsoring specific supers, acting as one of many companies who 'produce' supers.  
 Despite the focus on STEM, Oscorp also funds Nouvelle-Yorke museums, food pantries, political campaigns, local businesses, universities, etc.
@@ -69,8 +70,9 @@ Regardless, Oscorp seems to be steadfast due to its extreme financial influence.
 ### Empire State University
 **Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as one of the most elite universities in all of the state along with being the flagship campus of the SUNY2.
 
+<div class="box4boxes" style="max-height:700px;">
+
 ## Trivia
-- Nouvelle-Yorke is separated into five boroughs: **Manhattan**, **Lourdes**, **the Bronx**, **Islandy McIsland Face**, and **Roi des Chiens**.
 - SUNY1 has died tragically. RIP.
 - Empire State's mascot is a sparrowhawk named Bijou. The university's colors are blue and yellow.
 - Duchess State's mascot is a gargoyle named Doyle. The university's colors are purple and white.
@@ -80,6 +82,8 @@ Regardless, Oscorp seems to be steadfast due to its extreme financial influence.
 - Very, *very* intense snowball fights are common among children because most of them idolize supers/find them cool and want to be them.
 - The city smells vaguely flowery all of the time, even in its more seedy parts, due to the sheer amount of flora everywhere.
 - J.J. Jacquemond is *not* anti-mutant. He just really dislikes most supers and is very vocally grumpy about them.
-- Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/url#Holidays), Mardi Gras, Halloween, [Seven Deaths](/world/url#Holidays), [l'Enfer Blanc](/world/url#Holidays), and New Year's. It's a bit excessive.
+- Holds grand celebrations for holidays, including songs, parades, discounts, themed foods, plays, the whole nine yards. The most prominent are: each part of the [Seasonal Quartet](/world/url#Holidays), Mardi Gras, Halloween, and New Year's. It's a bit excessive.
 - Other holidays, such as history months, Pride Month, Veteran's Month, Chinese New Year, etc. each are wildly celebrated in certain districts of the city.
-- Despite the major French ~~colonization~~ influence, VNY still uses the imperial system out of spite.
+- Nouvelle-Yorkers use Celsius and the Metric system.
+
+</div>

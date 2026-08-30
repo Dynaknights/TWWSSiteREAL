@@ -8,129 +8,137 @@ tags:
 - fourth wall
 
 bgimage: bg29.png
-pagedoll: plushfnafbonnie
+pagedoll: superman1
 
 tableFields:
 pronouns: He/him
 species: Engineering Student
 age: Adult
 occupation: Legendary fart master
-artprogram: Krita (or MS Paint)
+artprogram: Krita
 codingprogram: VSCodium
 drawingtablet: Gaomon M10K Pro
 nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie…
 
 ---
 
-Howdy. <img src="/assets/decor/myMelo1.gif" alt="A favicon of My Melody laying on her stomach kicking her legs">
+Hello there. <img src="/assets/decor/myMelo1.gif" alt="A favicon of My Melody laying on her stomach kicking her legs" aria-hidden="true">  
+My name is **Kirimu** <small>(/kiɹɪmiu/)</small>. **Machine** works fine, too. Nice to meet you.
 
-My name is **Kirimu**. **Machine** works fine, too. Nice to meet you.
+I consider myself to be a 'talkative recluse'; think introverted dog. I'm a pretty verbose guy (evidently!) who's packing a fat dictionary under his belt. However, I'm just downright awful at talking to people. Is it an undiagnosed disorder or a result of my upbringing? I'll never know…  
+I'm a guy who likes superheroes. Not all of 'em, but some of 'em, and maybe a bit too much. 
+No, I'm not proud of myself, but I guess I'll see this site through to its end.
 
-I consider myself to be a talkative recluse. I'm also black, aroace, and transmasculine… if that matters. I dunno, I just work here.  
-Sometimes I like certain things too much and they spiral; this website's a good example of that. No, I'm not proud of myself, but I guess I'll see this site through to its end.
+*The Wondrous Web-Surfer* is a weird and very silly nightmare. I wanted to make a Spider-sona one day because I thought it would be a fun one-off activity, then — before I knew it — it spiraled, and spiraled, and spiraled. Now, it's one of very few things to make me happy. Funny how that works.    
+I'd like to talk about it with others, but — again — my social skills have been in the shitter since the start of forever and I just cannot seem to bond with people for the *life* of me. So, I made a website to keep track of everything *and* scream into the void about the friends who live in my head without freaking out. It's a win-win, baby.  
+<small>…Although, seems like I'm not doing a very good job, considering you're reading about myself instead of my paracosm. How could you do this to me…</small>
 
-*The Wondrous Web-Surfer* is a headworld-paracosm-worldbuilding project-thing that's existed since **June of 2023**, which is pretty recent in terms of paracosms, hence why there's not a lot of stuff on this site yet; I'm working on it and dealing with adulthood. Kind of a lot of stuff going on at the minute and that makes updates infrequent. I'm sorry about that.  
-I created this site out of sheer impulse; I wanted to make a personal website and practice web dev, but I'm a pretty boring person overall and couldn't figure out what my site would be about, so I figured, *"Why not have the thing revolve around the world in my head?"* This site exists to keep track of and archive things relating to *TWWS* and all of the other paracosms within it. Does it accomplish that effectively? No fucking clue.
+Currently, I'm studying **electrical engineering** and begrudgingly doing other adult things with my time. Either that, or I'm chilling.  
+I don't use social media anymore (maybe I grew out of it?), so I mostly spend my time obsessing over my interests. …Which is *TWWS* and superheroes more often than not. Go figure.
 
-Currently, I'm working toward my **electrical engineering bachelor's** (plus maybe an **art minor** in the future) and begrudgingly doing other adult things with my time.  
-I don't use social media anymore, so most of my free time is spent chilling. Playing video games, watching Vinesauce, drawing, reading, web surfing, looking for critters under rocks… and working on the site, too. Yeah.
+Either way, thanks much for stopping by.
 
 ## Interests
 
 - **Video Games!!**  
 I really love video games. Hahaha.  
 I'm more into **'retro' games** and **older game hardware** than anything particularly novel (outside of a few titles) due to growing resentment of the modern video game industry, but my sentiment still stands. I suck dick at every game I play, but I still enjoy playing them anyway.  
-If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy arcade games, too. Hitting up local arcades is a favorite pastime of mine.
+If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy hitting up my local arcades and bringing my Nintendo 3DS with me wherever I go.
 
 <div class="scrollbox">
 
-<div class="funcoverc" style="background-image: url('/assets/funcovers/Undertale.webp'); min-width:270px;"></div>
-<div class="funcoverc" style="background-image: url('/assets/funcovers/ULTRAKILL.webp'); min-width:270px;"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/LSDDE.webp')"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/SF Alpha 3.webp')"></div>
- <div class="funcoverg" style="background-image: url('https://cdn.mobygames.com/covers/6133125-ape-escape-playstation-front-cover.jpg')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Chrono Trigger.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Earthbound.webp')"></div>
-<div class="funcoverc" style="background-image: url('https://cdn.mobygames.com/covers/5480905-dragon-age-origins-windows-front-cover.jpg')"></div>
- <div class="funcoverg" style="background-image: url('https://www.gamespot.com/a/uploads/scale_medium/mig/3/6/4/5/2213645-box_klonoa.png')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Metal Gear Solid.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Planet Laika.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon Black.webp')"></div>
- <div class="funcoverc" style="background-image: url('https://images.launchbox-app.com/a7ae2c48-d364-49b6-b323-2affd48bc8f8.jpg')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Pokemon X.webp')"></div>
- <div class="funcoverc" style="background-image: url('https://www.gematsu.com/wp-content/uploads/2024/06/Game-Page-Box-Art_Dragon-Quest-I-and-II-HD-2D-Remake-1280x1920.jpg')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Secret of Mana.webp'); min-width:575px;"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Spider-Man.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/In Stars and Time.webp')"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Hypnospace Outlaw.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Cave Story.webp')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Rule of Rose.webp'); min-width:290px;"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Parasite Eve.webp'); min-width:290px;"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Disco Elysium.webp')"></div>
-<div class="funcoverg" style="background-image: url('/assets/funcovers/Koudelka.webp'); min-width:450px;)"></div>
+<div class="funcoverc" loading="lazy" title="Undertale (2015)" style="background-image: url('https://cdn.mobygames.com/c6d68d2e-abfc-11ed-af3d-02420a00012f.webp'); min-width:270px;"></div>
+<div class="funcoverc" loading="lazy" title="ULTRAKILL (2020)" style="background-image: url('https://cdn.shopify.com/s/files/1/0511/6051/4712/products/NBPosters_Ultrakill-NoBorder_2021.png'); min-width:270px;"></div>
+<div class="funcoverg" loading="lazy" title="LSD Dream Emulator (1998)" style="background-image: url('/assets/funcovers/LSDDE.webp')"></div>
+<div class="funcoverg" loading="lazy" title="Street Fighter Alpha 3 (1998)"style="background-image: url('https://cdn.mobygames.com/9aa74132-ab69-11ed-80c1-02420a000196.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="Ape escape (1999)"style="background-image: url('https://cdn.mobygames.com/covers/6133125-ape-escape-playstation-front-cover.jpg')"></div>
+ <div class="funcoverg" loading="lazy" title="Chrono Trigger (1995)"style="background-image: url('https://cdn.mobygames.com/covers/3933436-chrono-trigger-snes-front-cover.jpg'); min-width:545px;"></div>
+ <div class="funcoverg" loading="lazy" title="Earthbound (1994)"style="background-image: url('/assets/funcovers/Earthbound.webp')"></div>
+<div class="funcoverc" loading="lazy" title="Dragon Age: Origins (2009)"style="background-image: url('https://cdn.mobygames.com/covers/5480905-dragon-age-origins-windows-front-cover.jpg')"></div>
+ <div class="funcoverg" loading="lazy" title="Klonoa: Door to Phantomile (1997)"style="background-image: url('https://cdn.mobygames.com/covers/3898643-klonoa-door-to-phantomile-playstation-front-cover.jpg)"></div>
+ <div class="funcoverg" loading="lazy" title="Metal Gear Solid (1998)"style="background-image: url('https://cdn.mobygames.com/covers/4163264-metal-gear-solid-playstation-front-cover.jpg'); min-width: 470px;"></div>
+ <div class="funcoverg" loading="lazy" title="Planet Laika (1999)"style="background-image: url('https://cdn.mobygames.com/7dd8299a-ab82-11ed-9b12-02420a00019d.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="Pokémon Black/White (2010)"style="background-image: url('https://cdn.mobygames.com/covers/1949731-pokemon-black-version-nintendo-ds-front-cover.jpg')"></div>
+ <div class="funcoverc" loading="lazy" title="LIVE A LIVE (2022 remake)"style="background-image: url('https://cdn.mobygames.com/covers/17060749-live-a-live-playstation-4-front-cover.jpg'); min-width:400px;"></div>
+ <div class="funcoverg" loading="lazy" title="Pokémon XY (2013)"style="background-image: url('https://cdn.mobygames.com/covers/6986936-pokemon-x-nintendo-3ds-front-cover.jpg'); min-width: 455px;"></div>
+ <div class="funcoverc" loading="lazy" title="Dragon Quest I & II HD-2D Remake (2025)"style="background-image: url('https://cdn.mobygames.com/covers/22824123-dragon-quest-i-ii-hd-2d-remake-windows-apps-front-cover.png')"></div>
+ <div class="funcoverg" loading="lazy" title="Secret of Mana (1993)"style="background-image: url('https://cdn.mobygames.com/covers/4107179-secret-of-mana-snes-front-cover.jpg'); min-width:575px;"></div>
+ <div class="funcoverg" loading="lazy" title="Spider-Man (PS1) (2000)" style="background-image: url('https://cdn.mobygames.com/665adb8e-aba3-11ed-ac16-02420a000199.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="In Stars and Time (2023)"style="background-image: url('/assets/funcovers/In Stars and Time.webp')"></div>
+<div class="funcoverg" loading="lazy" title="Hypnospace Outlaw (2019)"style="background-image: url('/assets/funcovers/Hypnospace Outlaw.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="Cave Story+ (2011)"style="background-image: url('/assets/funcovers/Cave Story.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="Rule of Rose (2006)"style="background-image: url('/assets/funcovers/Rule of Rose.webp'); min-width:290px;"></div>
+<div class="funcoverg" loading="lazy" title="Parasite Eve (1998)"style="background-image: url('/assets/funcovers/Parasite Eve.webp'); min-width:290px;"></div>
+<div class="funcoverg" loading="lazy" title="Disco Elysium (2019)"style="background-image: url('/assets/funcovers/Disco Elysium.webp')"></div>
+<div class="funcoverg" loading="lazy" title="Koudelka (1999)"style="background-image: url('https://cdn.mobygames.com/covers/6788437-koudelka-playstation-front-cover.jpg'); min-width:450px;)"></div>
  
 </div>
+
+<div class="center">
+
+<small>([Cover source](https://www.mobygames.com/))</small>
+
+</div>
+
+---
+- **Art**  
+Obnoxious but consistent.
+
+---
+- **Vinesauce!!**  
+I like watching **Vinny** and **Joel** while I draw or work on this very website <small>(well, they're the only streamers/let's play 'content creators' I watch, anyway…)</small>.  
+Usually, it's their weird/old/obscure game segments. Sometimes, it's Commercial Chaos, Vinny eating various snacks, or chat members giving presentational slideshows. Fecal quality streamers.
+
+---
+- **Science**  
+Science is cool. I read science books and watched documentaries as a kid for fun because I couldn't understand the appeal of fiction for the life of me before I got into *Pokémon*.  
+I'm interested in just about anything that isn't geology, but I'm more of a fan of space than anything else. Specifically: **cosmology**, **astronomy**, **astrobiology**/**prebiotic chemistry**, and **astrophysics**.  
+I also enjoy **arachnology**, **entomology**, **chemistry** (begrudgingly), and **biology** (also begrudgingly). Science classes suck though.
 
 ---
 - **Emulation!!**  
 I need a means to play my nerd games, yeah?  
 Currently, I'm using **DuckStation**, **MAME**, **PPSSPP**, and **PCSX2**. Mostly Duckstation though. PS1 games have captivated me recently.  
-I used to only use RetroArch… but, after three or four years, the shitty UI got to me. So, now I'm in the process of looking for a frontend — and more emulators for different systems, so I can play more games — to coalesce all of my ROMs.  
-Do I *need* a frontend? …No, but I'm a sucker for style.
-
----
-- **Science**  
-Science is cool. I read science books as a kid for fun.  
-I'm interested in just about anything that isn't geology, but I'm more of a fan of the space sciences than anything else; specifically: **cosmology**, **astronomy**, **astrobiology**, **prebiotic chemistry**, and **astrophysics**. Mostly cosmology though…  
-I also enjoy **arachnology**, **entomology**, **chemistry** (begrudgingly), and **biology** (also begrudgingly).  
-In a typical academic setting, I find any field of science to be horrible, but — alas — I still like these regardless.
-
----
-- **Art**  
-I've been drawing less and less as I've gotten older for a wide variety of reasons, but I'm still an art kid at heart.
-
----
-- **Vinesauce!!**  
-I like watching Vinny and Joel play weird games a lot. Or destroy VMs.
+I used to only use RetroArch… but, after three or four years, the shitty UI got to me. Bweh…
 
 ---
 - **Music**  
-In terms of music, I listen to… not everything, but a lot of things! My favorite genres are **rap**, **rock**, **punk**, and **metal**.   
-My favorite album is ***Retcon*** by Red Vox; my favorite songs on there are ***The New Flesh*** and ***Reminds Me…***. *Retcon* makes me so happy whenever I listen to it!
+In terms of music, I listen to… not everything, but a lot of things! I try my best to listen to new music after being reluctant to leave my comfort zone for so long. My favorite genres are **rap**, **rock**, **punk**, and **metal**, but I just listen to playlists of video game music while I work. Less distracting.    
+My favorite all-time album is probably ***Retcon*** by **Red Vox** (which is also technically my favorite band); my favorite songs on there are ***The New Flesh*** and ***Reminds Me…***. *Retcon* makes me so happy whenever I listen to it!
 
 <div class="scrollbox">
 
- <div class="tooltip"><div class="funcoverg" style="background-image: url('https://f4.bcbits.com/img/a0665225223_2.jpg')"><span class="tooltiptext">Red Vox - Retcon</span></div></div>
-  <div class="tooltip"><div class="funcoverg" style="background-image: url('https://f4.bcbits.com/img/a3061754735_2.jpg')"><span class="tooltiptext">Red Vox - Realign</span></div></div>
- <div class="funcoverg" style="background-image: url('https://f4.bcbits.com/img/a0858674410_2.jpg')"></div>
- <div class="tooltip"><div class="funcoverg" style="background-image: url('/assets/funcovers/Kendrick Lamar - Untitled Unmastered.webp')"><span class="tooltiptext">Kendrick Lamar - Untitled Unmastered.</span></div></div>
-  <div class="funcoverg" style="background-image: url('/assets/funcovers/Have a Nice Life - Deathconsciousness.webp')"></div>
- <div class="funcoverg" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/2112-cover1-600x600.jpg')"></div>
- <div class="funcoverg" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/hemispheres-cover-600x600.jpg')"></div>
- <div class="funcoverg" style="background-image: url('/assets/funcovers/Sorcerer - The Equinox.webp')"></div>
+<div class="funcoverg" loading="lazy" title="Red Vox - Retcon (2026)" style="background-image: url('https://f4.bcbits.com/img/a0665225223_2.jpg')"></div>
+<div class="funcoverg" loading="lazy" title="Red Vox - Realign (2020)" style="background-image: url('https://f4.bcbits.com/img/a3061754735_2.jpg')"></div>
+ <div class="funcoverg" loading="lazy" title="Red Vox - Another Light (2017)" style="background-image: url('https://f4.bcbits.com/img/a0858674410_2.jpg')"></div>
+  <div class="funcoverg" loading="lazy" title="Kendrick Lamar - Untitled Unmastered. (2016)" style="background-image: url('/assets/funcovers/Kendrick Lamar - Untitled Unmastered.webp')"></div>
+  <div class="funcoverg" loading="lazy" title="Have a Nice Life - Deathconsciousness (2008)" style="background-image: url('/assets/funcovers/Have a Nice Life - Deathconsciousness.webp')"></div>
+ <div class="funcoverg" loading="lazy" title="Rush - 2112 (1976)" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/2112-cover1-600x600.jpg')"></div>
+ <div class="funcoverg" loading="lazy" title="Rush - Hemispheres (1978)" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/hemispheres-cover-600x600.jpg')"></div>
+ <div class="funcoverg" loading="lazy" title="Sorcerer - Beyond the Crypt (1989/2021 Remaster)" style="background-image: url('/assets/funcovers/Sorcerer - The Equinox.webp')"></div>
  
 </div>
 
 ---
 - **Comics**  
-This is a weird one.  
-When I first got into Marvel in my tweens, it was through *Into the Spider-Verse* and copious amounts of fan-fiction until I stumbled upon Spideypool. I near-exclusively consumed fan-fiction (and lengthy retrospectives) concerning Marvel for *years* because I disliked the convoluted mess that is Marvel's many canons. It's still intimidating to this day, honestly!  
-I liked *comic book characters*, but I couldn't bring myself to like comics… until now! …In my adulthood. Maybe it's just because I'm less picky.
+When I was a tween, I watched *Into the Spider-Verse* (2018) because I thought the art style was cool. Then, it was all downhill from there. I'd never cared about superheroes (unless *Power Rangers* counts?) before that film came out, so the sudden and intense obsession with superheroes was pretty fucking jarring.  
+Anyway, this is a Marvel household and I've never really cared about DC at all outside of Superman (and *Watchmen*). DC was just never interesting to me, for some reason.  
+I do read some manga and manwhas though. Not often. My all-time favorite is *Delicious in Dungeon* (2014), but I also enjoy *Beware the Villainess* (2020) a lot.
 
 <div class="scrollbox">
 
-  <div class="funcoverc" style="background-image: url('/assets/funcovers/runaways.webp')"></div>
-  <div class="funcoverc" style="background-image: url('/assets/funcovers/saga.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Cable and Deadpool.webp')"></div>
-<div class="funcoverc" style="background-image: url('/assets/funcovers/Spider-Man1963.webp')"></div>
-<div class="funcoverc" style="background-image: url('/assets/funcovers/Spider-Man Deadpool.webp')"></div>
-<div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Killogy.webp')"></div>
-<div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Killustrated.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Deadpool Circle Chase.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Watchmen.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Spawn.webp')"></div>
- <div class="funcoverc" style="background-image: url('/assets/funcovers/Silver Surfer.webp')"></div>
+  <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/runaways.webp')"></div>
+  <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/saga.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Cable and Deadpool.webp')"></div>
+<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spider-Man1963.webp')"></div>
+<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spider-Man Deadpool.webp')"></div>
+<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Killogy.webp')"></div>
+<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Killustrated.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Circle Chase.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Watchmen.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spawn.webp')"></div>
+ <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Silver Surfer.webp')"></div>
 
 </div>
 
@@ -138,26 +146,30 @@ I liked *comic book characters*, but I couldn't bring myself to like comics… u
 
 <address>
 
-You can **email me (Dynaknights[at]proton[dot]me)** or utilize **XMPP (Dynaknights[at]xmpp[dot]party)**.
+You can **email me (Dynaknights[at]proton[dot]me)** or message me by **XMPP (Dynaknights[at]xmpp[dot]party)**.
 
 </address>
 
-You can also shoot me a message on the **[guestbook](https://dynaknights.atabook.org/)**.  
 But that's it pretty much; escaping corporate greed and having better things to do with my life, all that jazz. I guess there's my **[Neocities profile](https://neocities.org/site/web-surfer)**, if that counts?
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
-<img src="/assets/decor/bunnylps.png" div class="pagedollbreaker">
+<img src="/assets/decor/characters/kithold.png" div class="pagedollbreaker" alt="pagedoll" title="My son...">
 
-- I can't think of a favorite food, but I will fuck up a **chocolate milkshake** any day of the week. That, and whipped cream?? *Fuck*, yes, dude.
-- Dog person, but cats are fine, too, I guess. My favorite breed is the **samoyed**. They're so happy and cute and fluffy… augh.
-- I've nearly been struck by lightning.
-- The freaky rabbity-thing in my thumbnail is named **Kittrick**.
-- The name 'Web-Surfer' exists because I thought I'd be unoriginal if I went with 'Spider-[NAME],' but I also wanted a name that sounded vaguely spider-sounding and worked with the then-recurring themes of the internet and technology <small>(you wouldn't have believed me if you saw this and told you I hadn't touched *Ghost in the Shell* at all until way after this iteration)</small>.
-- *TWWS* has a weird amount of French in it because I needed motivation to pay attention in my high school French 3 class I despised with a passion.
-- I didn't give [Virgil](/cast/virgilvoltspun) the surname 'Voltspun' because I had intended for him to have electrical powers, like Miles Morales. I just couldn't find a cool last name that started with V on the internet, so I made something up.
-- There are more 'mini-verses' within *TWWS*' canon that I'm currently working on. [Liz](/cast/elizabethallan)'s paracosm (and Virgil's ripoff of it), *Sunset Silver*, is one of them. Maybe they'll be on-site one day? Most likely not.
-- I played *ULTRAKILL* so much in high school that the game, drawing constantly, and AP classes caused me to get carpal tunnel (in both wrists) when the Violence Layer released.
+- I will fuck up **chocolate milkshakes** any day of the week. That, with whipped cream on top? I will bust in my pants right then and there.
+- My favorite superhero actually *isn't* Spider-Man. It's **Superman** (MaWS & Corenswet). Very basic, I know… But he makes me so happy…
+- My all-time favorite Marvel character is **Deadpool** (but I hate his movies).
+- Dog person. I specifically love Samoyeds.
+- I was nearly struck by lightning.
+- My love for older games originated when I read *Ready Player One* (2011) as a tween. I'm not proud.
+- I played *ULTRAKILL* (2020) so much in high school that I got carpal tunnel (in both wrists) when Violence released.
+- My favorite *Pokémon* generations are V and VI. I only watched the animes because I didn't own the games nor consoles.
+- I've seen every *Pokémon* movie up until (and including) *Volcanion and the Mechanical Marvel* (2016) because I was so unhinged about the franchise when I was a kid.
+- *TWWS* has a weird amount of French in it because I needed motivation to pay attention in my high school French 3 class I despised with a passion. I then dropped the course the following semester, but the damage was already done, so I just reluctantly embraced the French.
+
+</div>
 
 <div class="box4boxes" style="max-height:500px;">
 <details>
@@ -239,10 +251,10 @@ I do not reference. I do not organize. I do not use anything aside from one mill
 Yeh.
 
 **Link a song or album you associate with your OC/story.**  
-I think *TWWS* is too broad in scope for me to come up with a singular song, but I associate Nouvelle-Yorke as a city with [Sci-Fi-Fi by Eureka!](https://www.youtube.com/watch?v=z_jwvbnetbU&t=165s). Also, I seem to associate *TWWS* with metal/hard rock and shibuya-kei, which I find funny.
+I think *TWWS* is too broad in scope for me to come up with a singular song, but I associate Nouvelle-Yorke as a city with [*Sci-Fi-Fi* by Eureka!](https://www.youtube.com/watch?v=z_jwvbnetbU) and [*Luxury* by Fantastic Plastic Machine](https://www.youtube.com/watch?v=7TQGAVfHmNk). Also, I seem to associate *TWWS* with metal/hard rock and shibuya-kei, which I find funny.
 
 **What is one thing all your characters seem to have in common?**  
-Mental illness.
+These guys are mentally unwell. Even characters who aren't involved with *TWWS* at all seem to always accidentally become walking *DSM-5*s.
 
 **What is something you hope people feel when they see your work?**  
 I don't know. I hope you don't hate me for my work.
@@ -260,10 +272,10 @@ I like making weird stories.
 She was a red anthropomorphic rabbit named Flame with appropriately flame-themed patterns on her fur. She wore shorts along with a sweater over a crop top. She's also a she-devil apparently and had beef with a pirate rabbit named Ocean who drank beer. Ocean is actually one of two rabbit OCs I made as a kid who likes alcohol. Why did I do that.
 
 **Do you still have your oldest OC?**  
-Flame has been laid to rest. She never had a story or anything, anyway. She was just kind of there.
+Flame has been laid to rest. She never had a story or anything, anyway. She was just kind of there. She was too cool for me…
 
 **Which OC was created most recently? What inspired them?**  
-Two characters, same story. I wanted to develop *TWWS'* history more but I also was playing a lot of *LIVEALIVE* and greatly enjoyed Sundown's chapter and really wanted to make cowboys, so I did. A cowboy and a bounty hunter in the year 2112, when [something weird happened](/outerspace/#Cosmic_Bugs). This isn't exactly *TWWS* history because I also wanted something vagely cosmic horror-related in there, but who knows. I'll have to work on it.
+Two characters, same story. I wanted to develop *TWWS'* history more but I also was playing a lot of *LIVEALIVE* and greatly enjoyed Sundown's chapter and really wanted to make cowboys, so I did. A cowboy and a bounty hunter in the year 2112, when [something weird happened](/outerspace/#Cosmic_Anomalies). This isn't exactly *TWWS* history because I also wanted something vagely cosmic horror-related in there, but who knows. I'll have to work on it.
 
 **Which OC are you most proud of?**  
 All of them. Or maybe none of them. One or the other. Or both at once.
@@ -287,7 +299,7 @@ I like drawing [Liz](/cast/elizabethallan). [Marlowe](/cast/marlowetolliver) doe
 All of them are difficult to write.
 
 **Which OC would you trust with your deepest secret?**  
-[MJ](/cast/mariejuliewatson) isn't on the site yet, but she's not a snitch.
+[MJ](/cast/mariejuliewatson)'s nosy, but she's not a snitch.
 
 **Which OC absolutely cannot be trusted?**  
 Sasha. Oh and [Noémie](/cast/noemiemarisolosborne) will sell your information but at least she'll pretend to be respectful about it.
@@ -434,7 +446,7 @@ Virgil. Too clingy to part, even though he's too stubborn and confused by his ow
 Howdy. You can call me Kirimu or Machine; he/him. If you know another name, chances are, that'll work, too.
 
 **2. How long have you been making websites?**  
-Surprisingly, around four years now.
+Since 2022-ish.
 
 **3. And what got you into the hobby?**  
 I stumbled upon Neocities one day at around the same time I discovered *Hypnospace Outlaw*. I was like, "Damn, this 'web dev' stuff is pretty sick. So here we are.
@@ -512,7 +524,7 @@ Lazy. And both Google and Microsoft are evil. This seemed like a good bet.
 Neocities. Though, I'd like to self-host one day.
 
 **28. This might not be relevant to you, but what's your opinion on the Neocities vs. Nekoweb debate?**  
-I don't care what you use, but I'm sticking with Neocities because Nekoweb's features — while nice — are overwhelming to me. Also Neocities has Git support as a free feature.
+I don't care what you use, but I find Nekoweb's features and userbase to be overwhelming (maybe that's just a me issue though). Also Neocities has Git support as a free feature.
 
 **29. How much server space would you estimate your main website takes up?**  
 I don't know.
@@ -546,7 +558,7 @@ Eh. Kinda sorta? I'm picky and worried about what a nonexistent audience will th
 Hobby-focused, I guess. Do paracosms qualify as hobbies? I guess also me-focused because… paracosm.
 
 **39. Do you do web design professionally?**  
-No. I'd rather not because professionally designed websites look… boring.
+No.
 
 **40. If not, would you like to? And if you're comfortable answering, what do you do for work?**  
 No. I'd rather not because professionally designed websites look… boring. Anyway, I work a stereotypical job and I wish I didn't.
@@ -597,7 +609,8 @@ Firefox. Not made by Microsoft (evil) or Google (also evil). Though, seems like 
 …Windows 11.
 
 **56. Do you have a strong opinion on that, or do you just happen to use it?**  
-I hate Windows 11 so much. I wish there was more customization options and no AI and less bloat and Minecraft not yelling at me over my Microsoft account. I wish I could use Linux, but I don't have time or energy to be Linux-savvy. One day though…
+I hate Windows 11 so much. I only have it because it came bundled with my computer.  
+Even though I've tweaked the OS to a point where I'm comfortable with it, I still wish there were more customization options and no AI and less bloat; Microsoft makes me miss when having a computer profile wasn't linked to an email account. I wish I could use Linux, but I don't have time or energy to be Linux-savvy. One day though…
 
 **57. Are your websites mobile-friendly?**  
 I hope so.
@@ -651,7 +664,7 @@ Technically, I exclusively work with Markdown when creating individual pages mos
 I'm not a layouts guy. I make stuff when I need it or can't stop thinking about it.
 
 **74. Would you consider yourself a beginner? Or advanced? Somewhere in the middle?**  
-I don't know. I don't enjoy classifying myself because I always feel like absolute shit regardless of how highly I regard myself. If I'm at gunpoint, let's say somewhere in the middle and call it even. Cool?
+I don't know. I don't enjoy classifying myself because I will inevitably feel like shit regardless of how 'good' I am at web dev. If I'm at gunpoint, let's say somewhere in the middle and call it even. Cool?
 
 **75. Do you have a habit of looking at the source code of websites you visit?**  
 A little bit. If I'm really wondering how such-and-such was made, then I'll take a peek.
@@ -663,10 +676,11 @@ Pain. Suffering. Sobbing. Brute force. Crying. Sniffling. Sneezing. The whole en
 I probably have.
 
 **78. Thoughts on floating elements?**  
-If it ain't broke, don't fix it.
+Oh, man, floating elements? Yeah, dude, those are for nerds; I'm talking complete fucking dweebs.  
+<small>I like floating elements.</small>
 
 **79. When you're sizing stuff, what do you use first? Do you use px, em, %, or something else?**  
-Min and max-width/height accompanied by measuring in percentage or pixels.
+Yes. All of it. Mostly px or %, but something's possessed me to start using em, too.
 
 **80. Do you have a favourite font?**  
 Comic Sans.
@@ -675,13 +689,13 @@ Comic Sans.
 I don't think that would go very well for me. It sounds fun and I'd probably enjoy it, but the long-term stresses me out just thinking about it.
 
 **82. Do you surf the Web to find new personal websites very often?**  
-Yes! I don't doomscroll anymore, so I usually surf the web and hop from site to site learning about their respective webmasters.
+Well, I don't doomscroll anymore nor do I touch social media (outside of routine… surveillance, of course), so I sometimes web surf across personal websites because it brings me joy. But, mostly, I've just been using the internet to either watch Vinesauce, listen to music, or play old games.
 
 **83. Do you bookmark other people's websites? How would you feel knowing someone else bookmarked yours?**  
-Yah! My site list is long and vast… ish. Usually, it's so that I can properly link back without seeming like an obsessive freak! I'll skip the last question to salvage my dignity.
+My site list is long and vast-ish. I'll skip the last question to salvage my dignity.
 
 **84. What do you want people to be most impressed with when they see your website?**  
-I don't know. Just go "This guy is not a complete loser" and I'll be smitten.
+I don't know. It was made purely for me with zero incentive than to 1) archive canon information about *TWWS* because Discord isn't the best way to organize, and 2) practice web dev because I found it fun when I was fifteen. The other miscellaneous shit is just for whatever unfortunate soul stumbles upon this site.
 
 **85. Are you interested in technology outside of websites? Do you collect?**  
 Noooo… hahahahahaha why would I be hahahaha. Hahaha. Anyway, I'm majoring in electrical engineering, if you were curious. I'd like to collect someday, but waugh… no money.
@@ -697,7 +711,7 @@ No.
 
 **89. Do you program in general? Have you ever written a program for use with or on your website, not counting simple JavaScript?**  
 I used to program for class and fun. I haven't touched the hobby recently since life's been hitting me with successive curveballs though.  
-I'd like to get back into it since I'm all rusty, but maybe it'll come when I'm forced to take a computer science class again. I learned Java and JavaScript, with a little bit of Python, C#, and C++.
+I'd like to get back into it, despite me being all rusty, but maybe it'll come when I'm forced to take a computer science class again for my degree. I learned Java and JavaScript, with a little bit of Python, C#, and C++ in various high school classes, clubs, and programs.
 
 **90. Speaking of programs that help you make websites, what do you think of static site generators (SSGs)? Have you ever used one?**  
 Yes! I use Eleventy and it's a goddamn life saver even though I'm terrible at it! I'm free from eternal nitpicky tedium!!
@@ -712,7 +726,7 @@ I frequent the MelonLand Forums. That's about it.
 Ellipsus (if it's really long)/Notepad++ --> VS Codium --> profit.
 
 **94. Do you think you appear cool to others? A more accurate answer now: do other people ever say you're cool?**  
-No. The fuck?
+No. But other people allegedly think I'm a cool dude.
 
 **95. Are you embarrassed of your old work? Have you ever deleted everything out of shame?**  
 Yes… The Wayback Machine is my worst enemy.
@@ -721,13 +735,13 @@ Yes… The Wayback Machine is my worst enemy.
 Archives are cool, don't you think? Embarrassing, sure, but won't anyone think of the history!?
 
 **97. Do you reveal a lot about yourself on your website? Or are you more secretive?**  
-I don't know. Yes and no?
+I couldn't tell you. A bit of both, maybe? This website is probably the most information I've ever shared about myself to… anyone in recent years.
 
 **98. Are you willing to reveal who your best online friend is, and/or if they have a website?**  
-I doubt I have one.
+I don't have one.
 
 **99. And do you optimise the images on your website?**  
-I wish. I'm unsure how to go about doing that.
+I wish.
 
 **100. We're out of time! How do you feel after answering 100 questions? ....other than exhausted.**  
 Sleepy.
@@ -739,12 +753,10 @@ Sleepy.
 
 <img src="/assets/idbuttons/aroace.png" alt="aroace ID button"> <img src="/assets/idbuttons/intp.png" alt="INTP"> <img src="/assets/idbuttons/marvel.png" alt="Marvel"> <img src="/assets/idbuttons/pcgamer.png" alt="PC gamer"> <img src="/assets/idbuttons/science.png" alt="science"> <img src="/assets/idbuttons/transmasc.png" alt="transmasc"> <img src="/assets/idbuttons/undertale.png" alt="Undertale"> <img src="/assets/idbuttons/liminalspace.png" alt="liminal space"> <img src="/assets/idbuttons/introvert.png" alt="introvert"> <img src="/assets/idbuttons/petscop.png" alt="Petscop"> <img src="/assets/idbuttons/rock.png" alt="rock music"> <img src="/assets/idbuttons/metalhead.png" alt="metalhead">
 
-<img src="/assets/dividers/divider31.png" style="height:70%; width:70%" alt="Divider">
+<img src="/assets/dividers/divider31.png" style="height:70%; width:70%" alt="Divider" aria-hidden="true">
 
 </div>
 
   <div class="bigishboxcentered">
-  
-  <strong><div id="statuscafe"><div id="statuscafe-username"></div></strong><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=dynaknight" defer></script>
-
+<ws-widget type="status" iid="1972"></ws-widget>
   </div>

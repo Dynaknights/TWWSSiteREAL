@@ -1,7 +1,7 @@
 ---
 title: Update Log
 id: updates
-bgimage: bg28.png
+bgimage: bg234.png
 pagedoll: 'flipphone'
 layout: 'updatesbase.njk'
 tags:

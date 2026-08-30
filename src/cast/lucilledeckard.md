@@ -75,8 +75,8 @@ Long, slimy, fleshy, smelly. The tips have club-like structures with hooks on th
 Wiggly appendages with hooks trailing down the undersides. Used for locomotion and smacking.
 
 ## Notes
-- **Tall**. Very tall. Over 6' (>182.88 cm).
-- Doesn't commonly appear over 6' because her posture is **droopy** and **shrimp-like**.
+- **Tall**. Very tall. ~**6'5.5**/**199.6 cm**
+- Doesn't commonly appear her height because her posture is **droopy** and **shrimp-like**.
 - Forked tongue? Really long human tongue? Regular-shmegular tongue? …I haven't decided. However, it's bright green as a side-effect from her artificial(?) bonus limbs.
 - The white in her hair is present because Lucille's old.
 - **One eye**. **One eyebrow**. Her **right** eye and eyebrow are **absent**.
@@ -86,6 +86,7 @@ Wiggly appendages with hooks trailing down the undersides. Used for locomotion a
 - Wears a weird mix of stereotypical scientist and pirate garb. Peak fashion, let her tell you.
 - **Skinny**. Like, **emaciated** due to the energy the extra appendages demand to sustain themselves. Also because she regularly forgets to eat.
 
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -98,12 +99,14 @@ Wiggly appendages with hooks trailing down the undersides. Used for locomotion a
 - …Said appendages also require human flesh to maintain their large masses. Trips to the morgue are frequent.
 - Greatly enjoys surrealism involving mutilation/bastardization of the human form and values. It's an acquired taste. Don't judge.
 - Also enjoys speculative biology/evolution.
-- Partakes in cutting elaborate schematics and formulas onto her skin sometimes. To remember them, obviously.
+- Partakes in carving elaborate schematics and formulas into her skin sometimes. To remember them, obviously.
 - Absolutely *fascinated* by mutants and mutates, but she can't figure out how mutations work and it drives her fucking insane.
 - Laughs a lot, even if something is horrifically unfunny or if she's not in a funny-jokes-haha mood.
 - Views herself to be a leading expert in everything, even if she doesn't know shit about the field at hand. Gets wildly insecure and unsure of herself if she doesn't know a topic in its entirety.
-- Her typed emoticons only have one eye. The other is always crossed-out. ( • ⩊ x )
+- Her typed emoticons only have one eye. The other is always crossed-out. ( x ⩊ • )
 - Greatly enjoys rubbing her slimy squid limbs all over people and things it likes out of affection.
 - Makes [biscuits](https://en.wikipedia.org/wiki/Kneading_(cats)) with her squid appendages.
 - Has very poor volume control. Always either too quiet or too loud, mostly the latter.
 - Mutters to herself constantly so fast that few can understand what she's saying. If she's not muttering to herself, she's talking to herself. If she's not talking to herself, she's singing to herself. If she's not singing to herself, she's whistling, humming, meowing, shouting, screaming, crying…
+
+</div>

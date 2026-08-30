@@ -5,7 +5,7 @@ subtitle: In Eternal Damnation
 tags:
 - super
 - h. medialis
-bgimage: bg105.png
+bgimage: bg213.gif
 pagedoll: seashellashtray
 
 tableFields:
@@ -17,23 +17,23 @@ occupation: Criminal, hired gun, bounty hunter
 birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Bernie, Flint, Flintlock, Sandy
 
-song: Saint Bernard
-songlink: https://www.youtube.com/watch?v=9sXA64B_8D0
+song: The Wilds
+songlink: https://www.youtube.com/watch?v=QHqQaN-j-4I
 
 song2: Satanic Cowboy
 songlink2: https://www.youtube.com/watch?v=ZDr6ZNe8QjE
 
-song3: Heaven Knows I'm Miserable Now
-songlink3: https://www.youtube.com/watch?v=PQyqrlFOe5s&pp=ygUeaGVhdmVuIGtub3dzIGknbSBtaXNlcmFibGUgbm930gcJCSMLAYcqIYzv
+song3: Untitled 01
+songlink3: https://www.youtube.com/watch?v=oIoZgIOgu3o
 
 song4: Good Old-Fashioned Lover Boy
-songlink4: https://www.youtube.com/watch?v=E33xxupPyKg&pp=ygUcZ29vZCBvbGQgZmFzaGlvbmVkIGxvdmVyIGJveQ%3D%3D
+songlink4: https://www.youtube.com/watch?v=E33xxupPyKg
 
 song5: Please Take a Letter, Miss Brown
 songlink5: https://www.youtube.com/watch?v=qocG0-pPBeg
 
 song6: Kill Yourself
-songlink6: https://www.youtube.com/watch?v=sSermkEB7Ds
+songlink6: https://www.youtube.com/watch?v=zTCakUZlXK4
 ---
 
 Glory, may your endless mercy endure for eternity.
@@ -41,14 +41,14 @@ Glory, may your endless mercy endure for eternity.
 Another wretched soul, **Bernia-Claude Havilah Prosper**, sits beneath a skeletal, starless night once more.  
 Just call her **Flint**. She doesn't deserve the good graces of her given name.
 
-Flint's ma handed him a **Victoria VII sixgun** when he was in his teens, see. All the while babbling somethin' or other 'bout how pa was sick and, one day, Flint's gonna play doctor with 'im to get 'er and ma out of the hell they live in.  
+Flint's ma handed him a **Victoria VII sixgun** when he was in his teens, see. All the while babbling somethin' or other 'bout how pa was sick and, one day, Flint's gonna play doctor with 'im to get 'er and ma out of the shithole they live in.  
 That shiny sixgun was gonna make little Bernie a better man than pa ever was. That's what mama said. A protector, a guard dog, a gal with a gun and a safe future with just her n' her old ma; no more screaming matches or tossin' bottles or bein' too chicken 'cause pa's fists are clenched and the veins look like they're gonna pop off his hands like fucking cap guns.  
 Sure, ma was drunk off her ass and in hysterics, but it felt like the first time tiny Bernie was actually *seen* by his ma, get it? Anything was better than being a nuisance, ain't it?
 
 So, Bernie took the shaky shot when her parents were in the middle of a pretty bad argument; her first kill at sixteen. Felt like Stardom itself had stopped to gawk at pa's rotten ass corpse, y'know. Er… Not that the guy's flyin' high any time soon.  
 Anyway, ma was huggin' little ol' Bernie. Suffocatin' him with those thick curls of hers, really. Yakkin' on and on 'bout better lives and the dough they'd have and how she was a **hero**. *Hah.* Felt almost liberating if you ignore the fear and shock.
 
-Now, look at Flint. Can't even remember either of their faces nor a childhood home. Fucking hell. He's a stars-damned mess.  
+Now, look at Flint. Can't even remember either of their faces nor a childhood home. Fuck him. He's a stars-damned mess.  
 Couldn't get his act together and study 'cause he was high off the power that came with pa's death. The bullet changed everything in a single *bang*, really.  
 *Heh.* Flint can't hold a fucking job either, clearly. He bounced 'round some odd jobs as a gun-for-hire 'till he landed in the wretched graces of **Lonnie Lincoln** recently, that *useless bitch*, who — Stars, forgive him — had explained their contract by appealing to Flint's desires so much, the gun-slinger found it ridiculous to say no.
 
@@ -78,13 +78,15 @@ A trusty revolver still in superb condition after all these years. Flint's unsur
 Full of Neo-Panpsychic memorabilia and sentimental pictures/trinkets. 
 
 ## Notes
-- **Tall**. ~6'1 (185.42 cm).
+- Tall. ~**6'1**/**185.4 cm**.
 - Stands proud and tall all of the time. Chest puffed, **triangular** and sharp shapes, what-have-you.
 - You can omit the cowboy hat, if you want.
 - Freckles and scars litter her body.
 - Might have some bandages with cartoon characters on them because Keemia likes to help make her feel better. You can include those, if you wish.
 - Has a very… cowboy fashion sense. Really digs the cowboy look.
 - Might be smoking a cigarette.
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -106,3 +108,6 @@ Full of Neo-Panpsychic memorabilia and sentimental pictures/trinkets.
 - Amazing at flirting and other romantic/sexual encounters, but doesn't know this and thinks she's making a fool of herself 99% of the time. Somehow both suave and shy.
 - Matches outfits with Keemia sometimes. The two of them dress up as cowboys most of the time because cowboys remind Keemia of her mom and Keemia *loves* her mom.
 - Was absolutely obsessed with Western flicks and cowboys as a kid. Rabidly collected comics, clothes, guns (both fake and real ones), music, and other paraphernalia about the Wild West. Lost nearly everything due to her father pawning them and hasn't indulged in anything permanent since.
+- Chainsmokes like you've never seen before, but is trying his damndest to quit. A pack a day keeps the doctor at bay.
+
+</div>

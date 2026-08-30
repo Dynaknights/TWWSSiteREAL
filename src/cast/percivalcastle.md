@@ -18,7 +18,7 @@ alias: Punisher
 species: Human
 age: Adult
 occupation: Vigilante, assassin
-birthplace: Lourdes, Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
+birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
 nicknames: Pyrel, Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
 
 song: Bullet with a Name
@@ -26,6 +26,9 @@ songlink: https://www.youtube.com/watch?v=KuHsmUon6Mg
 
 song2: Rip & Tear
 songlink2: https://www.youtube.com/watch?v=zZMg9ryeWOw
+
+song3: I Am… All of Me
+songlink3: https://www.youtube.com/watch?v=NucG0kD3pkg
 ---
 
 This line of work's a useless, hopeless battle. No doubts about it.
@@ -52,7 +55,7 @@ What a damn waste of time.
 
 'Course, nothing ever changes, despite what shills try tellin' ya.  
 It's a weird *quirk* of humanity that's just been worsening as time passes. Crime's gonna fester, and swell, and get better hiding places for as long as crime exists. Soon, there's not gonna be enough bullets to take out this hydra of a thing.   
-But, fuck 'em straight to hell, Pyrel's gonna try proving themself wrong.
+Well, fuck 'em right to the grave, Pyrel's gonna try proving themself wrong.
 
 ## Attributes
 
@@ -66,6 +69,10 @@ But, fuck 'em straight to hell, Pyrel's gonna try proving themself wrong.
 - **Persistence (stubbornness)**
 
 ### Equipment
+
+- **Eye contacts**  
+These act like camera lenses to assist with both Pyrel's eye sight *and* sharpshooting; infrared and night vision capabilities are included.
+
 A personal arsenal, including…
 
 - **Explosives**
@@ -86,10 +93,12 @@ A personal arsenal, including…
 
 ## Notes
 
-- Pyrel's **big**, **broody**, and **tall** (over 6'0").
+- Pyrel's big, broody, and tall. They're ~**6'1**/**185.9 cm**.
 - Pyrel's very square. Literally, their shape language is mostly squares and rectangles to look imposing and such.
 - Stone-faced. Resting bitch face? Regardless, they *very* rarely exhibit any expression beyond that cold, stone face or rage. Even then, the latter's rare, too. They rarely exhibit body language, too…
 - Is the blue on their hair dye or highlights? Up to you!
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -102,3 +111,5 @@ A personal arsenal, including…
 - Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her. Uses the death of said wife as an excuse for their 'war on crime,' but maybe it's something *more*. Whatever it is, Pyrel doesn't care. …They *hope* they don't, anyway.
 - Very interested in weapons; mainly guns. For effective killing, of course, but also actually understanding the engineering behind such tools and how they work so well (or do not).
 - Secret *Warhammer: 40k* fan. Finds a strange sense of comfort in its bleak setting, but will never admit this.
+
+</div>

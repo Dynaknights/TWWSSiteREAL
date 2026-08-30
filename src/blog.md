@@ -2,7 +2,7 @@
 title: Blogging & Yapping
 id: blog
 bgimage: bg20.png
-pagedoll: tamagotchi1
+pagedoll: sonic
 layout: 'blogdirbase.njk'
 tags:
 - mainpage
@@ -10,6 +10,6 @@ tags:
 
 <div class="center">
 
-Behold: the brain-eating, parasitic, viscous slime that are my thoughts. Begone, thoughts.
+Entries pertaining to my life that get updated at random.
 
 </div>

@@ -3,8 +3,8 @@ title: Elizabeth Allan
 id: ElizabethAllan
 subtitle: Pretty Girl in Wretched Despair
 tags:
-- vny
 - human
+- hot chocolate
 
 bgimage: bg180.png
 pagedoll: stampcrystal
@@ -15,7 +15,7 @@ species: Human
 age: Adult
 occupation: Full-time student, barista, freelance artist
 birthplace: Hometown, West Virginia, URL
-nicknames: Liz, Lizzie, Lizster, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer
+nicknames: Liz, Lizzie, Lizster, Lizbeth, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer…
 
 song: Girl Anachronism
 songlink: https://www.youtube.com/watch?v=sO5APfKnR50
@@ -26,11 +26,14 @@ songlink2: https://www.youtube.com/watch?v=6LabALciaCk
 song3: Bloodeater
 songlink3: https://www.youtube.com/watch?v=gZ4rG2ceAbg
 
-song4: Kitty
-songlink4: https://www.youtube.com/watch?v=wo2L--mZ4h8
+song4: Smile!
+songlink4: https://www.youtube.com/watch?v=hFx7aIihbeY
 
 song5: Faith
 songlink5: https://www.youtube.com/watch?v=IsYPVEZfv-U
+
+song6: Chocolate Philosophy
+songlink6: https://www.youtube.com/watch?v=pC4mPuRn4ek
 
 ---
 
@@ -43,7 +46,7 @@ For a college GPA in the shitter and countless hours mindlessly watching frictio
 Fuck all that. Liz hasn't felt like a real person in genuine years; it even feels *wrong* to not think of herself as some vague concept, really. Maybe that's because of her parents constantly bitching and punching and drinking and— *Ugh*.  
 Who gives a fuck anymore, like, actually? Speak now or forever hold your peace, because she can't hear shit besides crickets, and she can't bring herself to care.
 
-Shit, dude. Their life is withering away before her eyes and — *genuinely* — what the hell is she supposed to do about it but scroll and drink and dance and fuck until her vision's too blurred to notice? It's either *this* or tear herself apart trying to look pretty and perfect while mindlessly living the same day again and again and *again* with the same people and the same routine and the same fucking **emptiness**. Pick your poison, babes!
+Shit, dude. Their life is withering away before her eyes and — *genuinely* — what in seashells is she supposed to do about it but scroll and drink and dance and fuck until her vision's too blurred to notice? It's either *this* or tear herself apart trying to look pretty and perfect while mindlessly living the same day again and again and *again* with the same people and the same routine and the same fucking **emptiness**. Pick your poison, babes!
 
 Life was never supposed to be like— like *this*. Useless, needless, *frictionless* suffering. She had— she *had* **dreams** and **wishes** when she was a kid; she used to place her hopes upon **Sol** and **Surya** each and every dawn until she moved out. *Fuck*.  
 Liz is *barely* holding herself together long enough to not explode in front of others, like a time bomb, but she can *feel* her breath hitch whenever she drunkenly envisions slicing the flesh of her wrists to red ribbons. She can't— she can't continue while being so… ***disgusting*** like this. What even *is* life if not humiliation?
@@ -57,18 +60,26 @@ Her end's closer than ever before. And you know what Liz thinks?
 - **Digicam**  
 A shitty, cheap, and bedazzled digital camera found in the trenches of a thrift store. Uses it to post "aesthetic" pictures on social media. Also likes taking pictures with [Virgil](/cast/virgilvoltspun).
 - **Pepper spray**
-- **Hunting knife**  
-A small black knife that Liz dutifully maintains and cares for. It makes her feel at least a little bit safer, since owning a firearm would probably be a bad idea for her.
+- **Switchblade**  
+A small, black, unremarkable switchblade that Liz dutifully maintains and cares for. It makes her feel at least a little bit safer, since owning a firearm would probably be a bad idea for her.
 - **Sketchbook**
 - **Pencils**
-- **Laptop**
+- **Crayons**
+- **Oil Pastels**
+- **Miscellaneous art materials**
+- **Laptop**  
+A surprisingly powerful grey laptop with stickers all over it.
+- **MP3 player**
 
 ## Notes
 - **Gender is for freaks.** Who's got time for shit like that? Liz is **nonbinary**, though she keeps this fact, along with her also using he/they pronouns, limited to her closest friends. Mostly enjoys referring to herself as a woman and presenting as feminine, but isn't adverse to androgyny nor masculinity.
+- **5'6**/**167.6 cm**.
 - **Expressive**! **Emotive**! Usually bubbly and cheery with a big toothy grin!
 - Has a tooth gap between her two upper central incisors.
 - Used to be deathly skinny in the past. Now, she's, "weird and pudgy," according to her.
 - The hat wings move in response to emotions. How? Don't worry about it.
+
+<div class="box4boxes" style="max-height:700px;">
 
 ## Trivia
 
@@ -77,18 +88,19 @@ A small black knife that Liz dutifully maintains and cares for. It makes her fee
 - Favorite food is extra-thick **Belgian waffles**, especially with powdered sugar, honey, berries, chocolate, and whipped cream on top. Will also devour **cake rolls** and **beignets**.
 - …Also harbors an irrational disdain toward pancakes, unless they're shaped like something or have some design drawn with chocolate syrup.
 - Avid gardening fiend because her therapist recommended it. Although, she kind of sucks at it because she's new to the whole thing.
-- Great cook! Terrible baker. Gets baked goods by either buying them or nagging her friends into baking for her.
+- Does NOT fuck around when it comes to friendship. You're gonna wear the goddamn matching friendship bracelet with her FOREVER and you're gonna LOVE IT.
+- Sings to plants to help them grow, but they're a horrible singer.
 - Has a rabbit-filled paracosm named **Sunset Silver**. Or, well, *used to*, anyway.
-- *Massive* fan-fiction lover.
-- Is a very lovey-dovey, sentimental person when it comes to her friends and she HATES it. Will tear up when drunk and all of her friends are having fun together out of affection.
+- *Massive* fan-fiction lover. Massive BL/GL lover. Squeals and kicks her legs and rolls around when anything even remotely exciting happens in a book.
+- Is a very lovey-dovey, sentimental person when it comes to her friends and she HATES it. Will start sobbing when drunk and all of her friends are having fun together out of affection because it makes her too happy.
 - Greatly prefers to be called 'Liz' and feels miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), whose done that ever since they first met and can't break the habit.
 - Regularly visits the plentiful mascot cafes within Nouvelle-Yorke and is able to recall the respective characters from every single one.
-- Currently testing weight loss techniques via endless pacing while daydreaming. Just ends up with really sore feet every time.
 - Loves pretending she's a protagonist from either niche coming-of-age movies that are heavily romanticized or shitty romcoms so that she doesn't spiral when she thinks about her life for too long. This is one of the only reasons she's able to get up every day.
-- Says hi to people by waving one arm in massive arcs over her head.
 - Greatly enjoys binge-eating while watching/playing bad horror media. …And then gets upset later because she was binge-eating.
 - Amazing at racing games despite rarely touching them. …But she's terrible at air hockey, regardless of her competitive nature.
 - Convinced Lourdes' population of pigeons to obey her every command by training them during a severe mental episode in high school, then crowned herself as Lourdes' Pigeon Lord and hasn't relinquished her title since. Currently at war with [Staten's King of Rats](/cast/wadewilson).
 - Almost misses Hometown due to Nouvelle-Yorke's constant chaos and bustle. *Almost*.
 - Was the person who crafted her and Virgil's matching hat-wings with the intention of them being keychains. Virgil convinced Liz to let him shove magnets into the wings and her hat in their high school years to "make them even cooler."
 - Regularly bites people out of affection. Regrets nothing.
+
+</div>

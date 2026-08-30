@@ -1,0 +1,65 @@
+---
+layout: 'base.njk'
+---
+
+<div id="circularcursor"></div>
+   
+    
+   
+    <div class="drawbox_con">
+    <div class="TheCanvas">
+    <canvas id="drawboxcanvas" width="500px" height="500px"></canvas>
+    <br>
+    <div onclick="change_color(this)" style="background:red" class="stroke-color"></div>
+    <div onclick="change_color(this)" style="background:blue" class="stroke-color"></div>
+    
+   
+    <fieldset id="controls">
+    <label for="colorpicker"><strong>Brush Color:  </strong></label>
+    <input type="color"  name="colorpicker" id="colorpicker" oninput="stroke_color = this.value; colorchoice.value = this.value"> 
+    <output name="colorchoice" id="colorchoice" for="colorpicker">black</output>
+    <br>
+    <label for="StrokeAmount"><strong>Stroke Size: </strong></label>
+    <input type="range" id="Strokewidth" name="Strokewidth" min="1" max="100" value="2" oninput="stroke_width = this.value; StrokeAmount.value=this.value" title="stroke width">
+    <!--See the stroke value-->
+    <output name="StrokeAmount" id="StrokeAmount" for="Stokewidth">2</output>
+    <br><br>
+    <label for="OpacityAmount"><strong>Opacity: </strong></label>
+    <input type="range" id="Opacity" name="Opacity" step="0.05" min="0" max="1" value="1" oninput="line_opacity = this.value; OpacityAmount.value=this.value" title="Opacity width">
+    <!--See the stroke value-->
+    <output name="OpacityAmount" id="OpacityAmount" for="Opacity">1.00</output>
+    <br><br>
+    <label for="BrushType"><strong>Brush type:</strong></label>
+  <select id="BrushType" name="BrushType" oninput="stroke_join = this.value">
+    <option value="round" selected>Round</option>
+    <option value="bevel">bevel</option>
+    <option value="miter">miter</option>
+    </select><span> | </span>
+     <label for="LineCap"><strong>Line Cap:</strong></label>
+  <select id="LineCap" name="LineCap" oninput="line_cap = this.value">
+    <option value="round" selected>Round</option>
+    <option value="butt">Butt</option>
+    <option value="square">Square</option>
+    </select>
+    <br><br>
+    <label for="Name"><strong>Your Name:</strong></label>
+    <input type="text" oninput="user_name = this.value" required maxlength="30">
+    <br>
+    <br>
+</fieldset>
+    
+    <button onclick="Undo()" title="you can also do crtl+z">Undo</button>
+    <button onclick="Clear()" title="clear button">Clear</button>
+    <button id="submit">Submit drawing</button>
+    <p id="status"></p>
+    </div>
+
+    </div>
+
+       <hr>
+    <h2>Submitted Drawings</h1>
+    <hr>
+    <div id="gallery">Loading images...</div>
+    <hr>
+    <br>
+    <script src="/assets/js/drawbox.js"></script>

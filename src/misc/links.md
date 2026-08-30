@@ -10,18 +10,20 @@ tags:
 
 ## This Wide, Webbed World…
 
+<div class="box4boxes" style="max-height:20em;">
 <div class="center">
 
-<small>Buttons (88x31px + 200x40px). :3</small>
+<small>Hotlinking is fine by me.</small>
 
-<img class="button" src="/assets/buttons/twws1.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws2.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws3.png" alt="The Wondrous Web-Surfer!">
+<img loading="lazy" class="button" src="/assets/buttons/twws1.png" alt="The Wondrous Web-Surfer!"> <img loading="lazy" class="button" src="/assets/buttons/twws2.png" alt="The Wondrous Web-Surfer!"> <img loading="lazy" class="button" src="/assets/buttons/twws3.png" alt="The Wondrous Web-Surfer!">
 
-<img class="button" src="/assets/buttons/twws4.png" alt="The Wondrous Web-Surfer!"> <img class="button" src="/assets/buttons/twws5.png" alt="The Wondrous Web-Surfer!">
+<img loading="lazy" class="button" src="/assets/buttons/twws4.png" alt="The Wondrous Web-Surfer!"> <img loading="lazy" class="button" src="/assets/buttons/twws5.png" alt="The Wondrous Web-Surfer!">
+</div>
 </div>
 
 ### Friends, Neighbors, and Cool Sites
 
-<div class="box4boxes">
+<div class="box4boxes" style="max-height:60em;">
 <div class="center" style="padding-top:20px;">
 
 <!-- NO BUTTONS -->
@@ -30,6 +32,8 @@ tags:
 
 **[Meatwaremalware](https://meatwaremalware.neocities.org/)** -- A meaty website made by my meat nerd friend, **Python**, who is definitely not a lesbian cosmic horror.
 
+**[Paracosia](https://paracosia.neocities.org/)** -- A paracosm about a planet called Hangarin by **SnailMuffin**. That's all I can surely say, so you'll just have to wait and see what'll happen.
+
 **[Takeoverse](https://takeoverse.nekoweb.org/)** -- A happy paracosm where nothing bad ever happens to anyone ever. By **Lia Amanata**, who is definitely not a mathematical horror of some sort.
 
 <img src="/assets/dividers/divider31.png" style="height:80%; width:80%">
@@ -37,31 +41,23 @@ tags:
 </div>
 
 <!-- There's gotta be a better way to go about doing this. -->
-<a href="https://bntarwarn.com/">
-  <img class="button" src="/assets/buttons/bntarwarn.png" alt="BNTarwarn"></a> <a href="https://eggspace.neocities.org/">
-  <img class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a> <a href="https://numbersstory.com/"><img class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://odetteeternia.neocities.org/"><img class="button" src="/assets/buttons/odetteeternia.gif" alt="Odette Eternia"></a> <a href="https://zenoslots.net/"><img class="button" src="/assets/buttons/zenoslots.png" alt="ZENOSLOTS"></a> <a href="https://angs-corner.nekoweb.org/"><img class="button" src="/assets/buttons/angs-corner.gif" alt="Ang's Corner"></a> <a href="https://luvstarkei.com/"><img class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> </a> <a href="https://thegreatpretender02.neocities.org/"><img class="button" src="/assets/buttons/galacticgulch.png" alt="The Galactic Gulch"></a> <a href="https://the-end-of-science.com/"><img class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://grinalbi.nekoweb.org/"><img class="button" src="/assets/buttons/grinalbi.gif" alt="Grinalbi"></a> <a href="https://shinyexe.neocities.org/"><img class="button" src="/assets/buttons/shinyexe.gif" alt="Shinyexe"></a> <a href="https://clown-in-space.neocities.org/">
-  <img class="button" src="/assets/buttons/clowninspace.gif" alt="Clown in Space"></a> <a href="https://fizzsea.neocities.org/">
-  <img class="button" src="/assets/buttons/fizzsea.gif" alt="Fizzsea"></a> <a href="https://rabbitnet.neocities.org/">
-  <img class="button" src="/assets/buttons/rabbitnet.gif" alt="RabbitNET"></a> <a href="https://cco0orn.nekoweb.org">
-  <img class="button" src="/assets/buttons/oneroom.png" alt="One-Room"></a> <a href="https://cvnnbl.neocities.org">
-  <img class="button" src="/assets/buttons/cvnnbl.png" alt="Cvnnbl"></a> <a href="https://advelos.moe">
-  <img class="button" src="/assets/buttons/advelos.gif" alt="Advelos"></a> <a href="https://sixevil.neocities.org">
-  <img class="button" src="/assets/buttons/sixevil.gif" alt="Sixevil"></a> <a href="https://rockybloo.neocities.org">
-  <img class="button" src="/assets/buttons/rockybloo.png" alt="Rocky Bloo"></a> <a href="https://dollarchive.neocities.org">
-  <img class="button" src="/assets/buttons/dollarchive.gif" alt="Doll Archive"></a> <a href="https://foxbugforest.neocities.org">
-  <img class="button" src="/assets/buttons/foxbugforest.gif" alt="Foxbugforest"></a> <a href="https://halolimnic.neocities.org">
-  <img class="button" src="/assets/buttons/halolimnic.gif" alt="Halolimnic"></a> <a href="https://roboticoperatingbuddy.neocities.org">
-  <img class="button" src="/assets/buttons/roboticoperatingbuddy.png" alt="Robotic Operating Buddy"></a> <a href="https://ne0nbandit.art">
-  <img class="button" src="/assets/buttons/ophanimkei.gif" alt="Ophanimkei"></a> <a href="https://sherwind.neocities.org">
-  <img class="button" src="/assets/buttons/sherwind.gif" alt="Sherwind"></a> <a href="https://cobie.nekoweb.org">
-  <img class="button" src="/assets/buttons/cobie.gif" alt="Cobiesite"></a> 
+<a href="https://numbersstory.com/"><img loading="lazy" class="button" src="/assets/buttons/numbersstory.png" alt="Numbers Story"></a> <a href="https://tofutush.neocities.org/"><img loading="lazy" class="button" src="/assets/buttons/ironragdoll.gif" alt="The Iron Ragdoll"></a> <a href="https://bntarwarn.com/"> <img loading="lazy" class="button" src="/assets/buttons/bntarwarn.png" alt="BNTarwarn"></a> <a href="https://eggspace.neocities.org/">
+  <img loading="lazy" class="button" src="/assets/buttons/eggspace.gif" alt="EGGSPACE"></a>  <a href="https://callilux.neocities.org/"> <img loading="lazy" class="button" src="/assets/buttons/callilux.png" alt="Callilux"></a> <a href="https://luvstarkei.com/"><img loading="lazy" class="button" src="/assets/buttons/luvstarkei.png" alt="LuvStarKei"></a> <a href="https://the-end-of-science.com/"><img loading="lazy" class="button" src="/assets/buttons/endofscience.png" alt="The End of Science"></a> <a href="https://clown-in-space.neocities.org/">
+  <img loading="lazy" class="button" src="/assets/buttons/clowninspace.gif" alt="Clown in Space"></a> <a href="https://sixevil.neocities.org"><img loading="lazy" class="button" src="/assets/buttons/sixevil.gif" alt="Sixevil"></a> <a href="https://rockybloo.neocities.org">
+  <img loading="lazy" class="button" src="/assets/buttons/rockybloo.png" alt="Rocky Bloo"></a> <a href="https://dollarchive.neocities.org">
+  <img loading="lazy" class="button" src="/assets/buttons/dollarchive.gif" alt="Doll Archive"></a> <a href="https://foxbugforest.neocities.org">
+  <img loading="lazy" class="button" src="/assets/buttons/foxbugforest.gif" alt="Foxbugforest"></a> <a href="https://halolimnic.neocities.org">
+  <img loading="lazy" class="button" src="/assets/buttons/halolimnic.gif" alt="Halolimnic"></a> <a href="https://ne0nbandit.art">
+  <img loading="lazy" class="button" src="/assets/buttons/ophanimkei.gif" alt="Ophanimkei"></a> <a href="https://sherwind.neocities.org">
+  <img loading="lazy" class="button" src="/assets/buttons/sherwind.gif" alt="Sherwind"></a> <a href="https://cobie.nekoweb.org">
+  <img loading="lazy" class="button" src="/assets/buttons/cobie.gif" alt="Cobiesite"></a> 
 
 </div>
 </div>
 
 ### Webrings
 
-<div class="box4boxes">
+<div class="box4boxes" style="max-height:20em;">
 <div class="center">
 
  <map name="w95widget">

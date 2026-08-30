@@ -5,12 +5,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>{{ metadata.decor + " | " }} {{ title +"!" if title else "The Wondrous Web-Surfer!" }}</title>
+<title>{{ title | default('The Wondrous Web-Surfer!') }}</title>
 <link rel="stylesheet" href="{{ metadata.assets.css }}/style.css">
 {% if '/library' in page.url %}<link rel="stylesheet" href="/assets/css/dfstyle.css">{% endif %}
 <meta name="description" content="{{ metadata.assets.desc }}">
 <link rel="icon" href="{{ metadata.assets.favicon }}" sizes="any">
 <script src="{{ metadata.assets.js }}/navi.js" type="text/javascript" defer></script>
+<script src="https://u.widget.st/ar.js"></script>
 
 <meta name="author" content="{{ metadata.assets.author }}">
 <meta name="keywords" content=" {{ metadata.assets.tags }}">
@@ -22,14 +23,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="{{ metadata.assets.desc }}">
 <meta name="twitter:image" content="{{ metadata.assets.linkbanner }}">
+<meta name="og:site_name" content="The Wondrous Web-Surfer!">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ metadata.assets.desc }}">
 <meta property="og:image" content="{{ metadata.assets.linkbanner }}">
+<meta property="og:title" content="{{ title | default('The Wondrous Web-Surfer!') }}">
+<meta property="twitter:domain" content="web-surfer.neocities.org">
 
 <meta name="theme-color" content="#ba3939">
+<meta name="robots" content="index, nofollow">
+<meta name="robots" content="noai, noimageai">
+<meta name="pinterest" content="nopin">
 
-{% if (canonical) == true %}
+
+{% if '/index' in page.url %}
 <link rel="canonical" href="https://web-surfer.neocities.org/index">
 
 <!-- You gotta work on this shit dude.

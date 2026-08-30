@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Neo-Panpsychism</title>
+<link rel="stylesheet" href="/assets/source/css/style.css">
+
+<meta name="description" content="In another, another, another universe…">
+<link rel="icon" href="/assets/icons/favicon2.png" sizes="any">
+<script src="/assets/source/js/navi.js" type="text/javascript" defer></script>
+<script src="https://u.widget.st/ar.js"></script>
+
+<meta name="author" content="Dynaknights">
+<meta name="keywords" content=" worldbuilding, ocs, daydreaming, paracosm, spiderman, marvel">
+<meta name="description" content="In another, another, another universe…">
+
+<meta itemprop="description" content="In another, another, another universe…">
+<meta itemprop="image" content="/assets/gallery/2026/spiderpunch.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="In another, another, another universe…">
+<meta name="twitter:image" content="/assets/gallery/2026/spiderpunch.png">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="In another, another, another universe…">
+<meta property="og:image" content="/assets/gallery/2026/spiderpunch.png">
+
+<meta name="theme-color" content="#ba3939">
+<meta name="robots" content="index, nofollow">
+
+
+
+
+</head>
+
+
+
+
+<noscript>
+<div class="center">
+
+Hey, sorry, but this site probably looks wonky because <strong><em>you don't seem to have JavaScript enabled</em></strong>, which is required to see the navigation menu (and a table of contents). You should utilize the <a href="/sitemap" style="color: #8ccfff;">Sitemap</a> to get around if you decide to leave JS disabled. :)
+
+</div>
+</noscript>
+
+<body>
+    <header-component></header-component>
+  
+<header id="header" style="background-image: url(/assets/bgs/bg11.png)" alt="A repeating pattern"></header>
+      <main>
+
+<div id="container"><main>
+    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your left) flapping"> Neo-Panpsychism! <img src="/assets/decor/wing2.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your right) flapping"></h1>
+
+
+
+  <div class="pagedoll">
+  <a href="#"><img src="/assets/decor/seastars.png" alt="Pagedoll" title="Back to Top"></a>
+  </div>
+  
+
+  <div class="centerDivider">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
+    </div>
+
+  
+
+  
+  <img src="/assets/decor/jello.png" div class="pagedollbreaker" alt="Pagedoll">
+  
+
+  
+
+  
+<div id="toc"></div>
+
+<div id="contents">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit erat lorem, sit amet molestie enim tristique vitae. Donec rutrum suscipit justo sed accumsan. Praesent vitae massa est. Aenean euismod dui id arcu feugiat, et vestibulum nunc interdum. Phasellus id gravida urna. Morbi fermentum imperdiet tortor. Nam interdum tincidunt nibh, at laoreet diam laoreet nec. Etiam odio ipsum, volutpat sed metus a, consectetur ultricies neque.</p>
+<p>In pretium sit amet sapien sit amet rhoncus. Morbi ex mi, fringilla ut arcu ac, malesuada suscipit orci. Nulla facilisi. Sed dolor dui, vehicula vitae mattis vel, tempus ut diam. Vestibulum nec aliquam lorem, id congue eros. Sed eu lacinia nulla. Suspendisse tempus mollis massa, id interdum nisi posuere at. Duis tristique erat magna, porttitor volutpat ligula molestie ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus vehicula at erat vel vulputate. Cras pulvinar elementum ex vel pellentesque. Proin a ornare augue, et iaculis nulla. Integer ut massa quis quam venenatis dignissim. Aliquam bibendum feugiat tincidunt. Nulla convallis sem pulvinar elit rutrum, nec scelerisque lacus tincidunt. Etiam sapien lectus, dapibus vitae sem in, molestie mattis augue.</p>
+<h2>The Cosmic Will</h2>
+<p>TBA…</p>
+<h3>Wishing Upon a Star</h3>
+<p>TBA…</p>
+<h3>Soulmates</h3>
+<p>TBA…</p>
+
+
+</main>
+</div>
+</main>
+
+  <footer id="footer">
+
+<div class="footercenter">
+<img src="/assets/decor/spipool1.gif" style="margin-top: 20px;" alt="A pixel art GIF of an angry Spider-Man saying, 'I hate you!' while facing Deadpool."> <img src="/assets/decor/spipool2.gif" style="margin-top: 20px;" alt="A pixel art GIF of Deadpool saying, 'You love me!' while facing Spider-Man.">
+<p> <a href="#">Back to Top</a> // <a href="https://dynaknights.atabook.org/">Guestbook</a></p>
+<p><small>✦︎ Copyright 2024 - 2999 ✦︎</small></p>
+</div>
+</footer>
+</body>
+</html>
+
+   <script>
+window.onload = function () {
+    var toc = "";
+    var level = 0;
+
+    document.getElementById("contents").innerHTML =
+        document.getElementById("contents").innerHTML.replace(
+            /<h([\d])>([^<]+)<\/h([\d])>/gi,
+            function (str, openLevel, titleText, closeLevel) {
+                if (openLevel != closeLevel) {
+                    return str;
+                }
+
+                if (openLevel > level) {
+                    toc += (new Array(openLevel - level + 1)).join("<ol>");
+                } else if (openLevel < level) {
+                    toc += (new Array(level - openLevel + 1)).join("</ol>");
+                }
+
+                level = parseInt(openLevel);
+
+                var anchor = titleText.replace(/ /g, "_");
+                toc += "<li><a href=\"#" + anchor + "\">" + titleText
+                    + "</a></li>";
+
+                return "<h" + openLevel + "><a name=\"" + anchor + "\">"
+                    + titleText + "</a></h" + closeLevel + ">";
+            }
+        );
+
+    if (level) {
+        toc += (new Array(level + 1)).join("</ol>");
+    }
+
+    document.getElementById("toc").innerHTML += toc;
+};
+</script>

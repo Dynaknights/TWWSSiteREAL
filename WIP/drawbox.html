@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="..\images\isda_noboarder.png">
+    <title>DRAWBOX</title>
+     <!--generic drawbox styling -->
+     <link href="/src/assets/source/css/drawbox.css" rel="stylesheet" type="text/css" media="all">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+ <div class="flex tutorial">
+  <div class="drawbox_con left">
+        <h1>DRAWBOX Tutorial</h1> 
+    <div class="des" id="des1">
+        <p><a href="/index.html">back to home</a>| <a href="drawbox.html">Back to 3maqi's drawbox</a></p>
+    </div>
+    <div class="TheCanvas">
+    <canvas id="drawboxcanvas" width="500px" height="500px"></canvas>
+    <br>
+    <fieldset id="controls">
+            <label for="colorpicker"><strong>Brush Color:  </strong></label>
+            <input type="color"  name="colorpicker" id="colorpicker" oninput="stroke_color = this.value; colorchoice.value = this.value"> 
+            <output name="colorchoice" id="colorchoice" for="colorpicker">black</output>
+        <br>
+            <label for="StrokeAmount"><strong>Stroke Size: </strong></label>
+            <input type="range" id="Strokewidth" name="Strokewidth" min="1" max="100" value="2" oninput="stroke_width = this.value; StrokeAmount.value=this.value" title="stroke width">
+            <output name="StrokeAmount" id="StrokeAmount" for="Stokewidth">2</output>
+        <br><br>
+            <label for="OpacityAmount"><strong>Opacity: </strong></label>
+            <input type="range" id="Opacity" name="Opacity" step="0.05" min="0" max="1" value="1" oninput="line_opacity = this.value; OpacityAmount.value=this.value" title="Opacity width">
+            <output name="OpacityAmount" id="OpacityAmount" for="Opacity">1.00</output>
+        <br><br>
+            <label for="BrushType"><strong>Brush type:</strong></label>
+                <select id="BrushType" name="BrushType" oninput="stroke_join = this.value">
+                    <option value="round" selected>Round</option>
+                    <option value="bevel">bevel</option>
+                    <option value="miter">miter</option>
+                </select>
+         <span> | </span>
+            <label for="LineCap"><strong>Line Cap:</strong></label>
+                <select id="LineCap" name="LineCap" oninput="line_cap = this.value">
+                    <option value="round" selected>Round</option>
+                    <option value="butt">Butt</option>
+                    <option value="square">Square</option>
+                </select>
+        <br><br>
+            <label for="Name"><strong>Your Name:</strong></label>
+            <input type="text" oninput="user_name = this.value" required maxlength="30">
+        <br>
+        <br>
+</fieldset>   
+    <button onclick="Undo()" title="you can also do crtl+z">Undo</button>
+    <button onclick="Clear()" title="clear button">Clear</button>
+    <button id="submit">Submit drawing</button>
+
+    <p id="status"></p>
+    </div>
+
+    <div class="des">
+        <p>Draw Me a picture! <a href="https://3maqi.art/a/drawbox_guide.html">Create your own Drawbox!</a></p>
+        
+       
+    </div>
+    </div>
+</div>
+    <hr>
+    <h2>Submitted Drawings ☻</h1>
+    <hr>
+    <div id="gallery">Loading images...</div>
+    <hr>
+    <br>
+    <script src="/src/assets/source/js/drawbox.js"></script>
+   
+</body>
+</html>

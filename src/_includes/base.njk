@@ -21,21 +21,21 @@ Hey, sorry, but this site probably looks wonky because <strong><em>you don't see
       <main>
 
 <div id="container"><main>
-    <h1 style="border-bottom:0px"><img src="/assets/decor/wing1.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your left) flapping"> {{ title +"!" }} <img src="/assets/decor/wing2.gif" alt="A pixel art GIF of a white outstretched wing (stretched to your right) flapping"></h1>
+  <h1 style="border-bottom: 0px;">{{ title +"!" }}</h1>
 {% if (subtitle) %}
- <h2 div class="center" style="margin-top: -15px;"><img src="/assets/decor/swirlblue.gif"  alt="A pixel art GIF of a baby blue swirl"> {{ subtitle }} <img src="/assets/decor/swirlblue.gif" alt="A pixel art GIF of a baby blue swirl"></h2>
+ <h2 div class="center">{{ subtitle }}</h2>
 {% endif %}
 
 {% if (pagedoll) %}
   <div class="pagedoll">
-  <a href="#"><img src="/assets/decor/{{ pagedoll }}.png" alt="Pagedoll" title="Back to Top"></a>
+  <a href="#"><img src="/assets/decor/{{ pagedoll }}.png" alt="Back to Top pagedoll" title="Back to Top"></a>
   </div>
   {% endif %}
 
   {% if (drama) %}
 
   <div class="centerDivider">
-  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider" aria-hidden="true">
   </div>
  
   <blockquote><em>{{ drama }}</em></blockquote>
@@ -43,7 +43,7 @@ Hey, sorry, but this site probably looks wonky because <strong><em>you don't see
     {%- else -%}
 
     <div class="centerDivider">
-      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider">
+      <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider" aria-hidden="true">
     </div>
 
   {% endif %}
