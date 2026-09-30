@@ -26,14 +26,14 @@ I kind of doubt you could assist in improving it, since this site doesn't take v
 
 </div>
 
-The United Republic of Leathucaria (URL) <small>(/liəðukɑɹˈiæˌ/)</small> is the country that's existed in place of the United States of America since January 1st, 2800. It's comprised of fifty states, zero permanently inhabited territories, and various uninhabited islands.
+**The United Republic of Leathucaria** (**URL**) <small>(/liəðukɑɹˈiæˌ/)</small> is the country that's existed in place of the United States of America since January 1st, 2800. It's comprised of fifty states, zero permanently inhabited territories, and various uninhabited islands.
 
 ## History
 
 <img src="/assets/decor/characters/corduroycentauri.png" div class="pagedollbreaker" alt="Corduroy Centauri pagedoll" title="Corduroy Centauri" aria-hidden="true">
 
 **January 1st, 2800** marks the day the United States of America — after reclaiming power from the French — disavowed its roots and pledged to march forward, leaving its history and French takeover behind them.  
-The American president at the time, **Corduroy Centauri** <small>(pictured)</small>, stated that the avarice, loneliness, megalomania, corruption, and monumental failures haunting the States would see their absolute ends as the great country liberated itself from self-made shackles under a new name: **the United Republic of Leathucaria** (U.R.L.).
+The American president at the time, **Corduroy Centauri** <small>(pictured)</small>, stated that the avarice, loneliness, megalomania, corruption, and monumental failures haunting the States would see their absolute ends as the great country liberated itself from self-made shackles under a new name: the United Republic of Leathucaria.
 
 It should be noted that *'Leathucaria'* is a meaningless word. Even over a century after its introduction, it still lacks a proper definition, as its creator has never gifted it one. People are unsure if Centauri simply forgot or if it, too, is a part of Leathucaria's hodge-podge philosophy.  
 The word has never existed before it left Centauri's mouth — much to the confusion and shock of the audience <small>(but maybe that's due to the previous President laying in a pool of their own blood beside him)</small> — because the word *'Leathucaria'* came to him whilst sleeping.  

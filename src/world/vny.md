@@ -65,10 +65,11 @@ Regardless, Oscorp seems to be steadfast due to its extreme financial influence.
 ## Universities
 
 ### Duchess State University
-**Duchess State University** (colloquially called Duchess State or DSU) is a public urban research university in Lourdes, Ville-de-Nouvelle-Yorke and is a part of the Système l'Universitaire de Nouvelle-Yorke 2 (SUNY2). Duchess State is the largest university within the Ville-de-Nouvelle-Yorke metropolitan area and the Nouvelle-Yorke University System (2) in terms of student body, boasting around 25,000 students in the 2999 autumn semester.
+**Duchess State University** (colloquially called Duchess State or DSU) is a public urban research university in Lourdes, Ville-de-Nouvelle-Yorke and is a part of the Système l'Universitaire de Nouvelle-Yorke 2 (SUNY2). Duchess State is the largest university within the Ville-de-Nouvelle-Yorke metropolitan area and SUNY2 in terms of student body, boasting around 25,000 students in the 2999 autumn semester.
 
 ### Empire State University
-**Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as one of the most elite universities in all of the state along with being the flagship campus of the SUNY2.
+**Empire State University** (colloquially called Empire State or ESU) is a private research university in Manhattan, Ville-de-Nouvelle-Yorke. Currently, it stands as one of the most elite universities in all of the state along with being the flagship campus of SUNY2.  
+Empire State is famously known for its (in)famous alumni; including, but not limited to Oscorp CEO **Noémie-Marisol Osborne**, Oscorp heir **Harvey Osborne**, **Reed Richards** of the Fantastic Four, Emperor **Vasile von Tănase** of Latveria, and Stark Industries CEO **Tony Stark**.
 
 <div class="box4boxes" style="max-height:700px;">
 

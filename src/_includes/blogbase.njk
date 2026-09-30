@@ -3,11 +3,11 @@ layout: 'base.njk'
 ---
 
 {% if (tomoguy) %}
-  <img src="/assets/decor/tl{{ tomoguy }}.png" div class="pagedollbreaker" alt="A modified Tomodachi Life apartment graphic by Chocoperrito.">
+  <img src="/assets/decor/tl{{ tomoguy }}.png" div class="pagedollbreaker" aria-hidden="true" alt="A modified Tomodachi Life apartment graphic by Chocoperrito.">
 {% endif %}
 
 {% if (lilguy) %}
-  <img src="/assets/decor/tl{{ lilguy }}" div class="pagedollbreaker" alt="{{ alttag }}">
+  <img src="/assets/decor/tl{{ lilguy }}" div class="pagedollbreaker" aria-hidden="true" alt="{{ alttag }}">
 {% endif %}
 
 {{ content | safe }}

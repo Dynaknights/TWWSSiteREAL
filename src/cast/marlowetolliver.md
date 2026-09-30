@@ -30,7 +30,7 @@ song3: Invader Invader
 songlink3: https://www.youtube.com/watch?v=jcIOg_m-bp4
 
 song4: Weird Girl
-songlink4: https://www.youtube.com/watch?v=ziGtsv3PsN4
+songlink4: https://www.youtube.com/watch?v=8FxUfogbM84
 
 song5: Ape Escape Theme
 songlink5: https://www.youtube.com/watch?v=tI2eGiPgKyU

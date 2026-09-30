@@ -159,12 +159,13 @@ But that's it pretty much; escaping corporate greed and having better things to 
 <img src="/assets/decor/characters/kithold.png" div class="pagedollbreaker" alt="pagedoll" title="My son...">
 
 - I will fuck up **chocolate milkshakes** any day of the week. That, with whipped cream on top? I will bust in my pants right then and there.
-- My favorite superhero actually *isn't* Spider-Man. It's **Superman** (MaWS & Corenswet). Very basic, I know… But he makes me so happy…
+- My favorite superhero actually *isn't* Spider-Man. It's **Superman** (*MaWS* & Corenswet). Very basic, I know… But he makes me so happy…
 - My all-time favorite Marvel character is **Deadpool** (but I hate his movies).
 - Dog person. I specifically love Samoyeds.
 - I was nearly struck by lightning.
+- I love *Undertale*, but I dislike *Deltarune*.
 - My love for older games originated when I read *Ready Player One* (2011) as a tween. I'm not proud.
-- I played *ULTRAKILL* (2020) so much in high school that I got carpal tunnel (in both wrists) when Violence released.
+- I played *ULTRAKILL* so much in high school that I got carpal tunnel (in both wrists) when Violence released.
 - My favorite *Pokémon* generations are V and VI. I only watched the animes because I didn't own the games nor consoles.
 - I've seen every *Pokémon* movie up until (and including) *Volcanion and the Mechanical Marvel* (2016) because I was so unhinged about the franchise when I was a kid.
 - *TWWS* has a weird amount of French in it because I needed motivation to pay attention in my high school French 3 class I despised with a passion. I then dropped the course the following semester, but the damage was already done, so I just reluctantly embraced the French.
@@ -293,7 +294,7 @@ SIGH. Me bringing up OCs in a conversation is an XK-Class End-of-the-World Scena
 All of them.
 
 **Which OC is your favorite to draw? Which is the hardest to draw?**  
-I like drawing [Liz](/cast/elizabethallan). [Marlowe](/cast/marlowetolliver) doesn't have a proper thumbnail because drawing box braids as dog ears is scary.
+I like drawing [Liz](/cast/elizabethallan), but drawing [Marlowe](/cast/marlowetolliver)'s hair is scary.
 
 **Which OC is your favorite to write? Which is the hardest to write?**  
 All of them are difficult to write.
@@ -328,7 +329,7 @@ Well, most *TWWS* characters are in Nouvelle-Yorke at the same time, which is on
 ***PART III: YOUR <u>FAVORITE</u> OC***
 
 **What is your favorite OC's full name? Do they have nicknames?**  
-I don't have a concrete favorite. It changes. Why don't we go with Ghyslaine since I've been thinking of them lately? Her name is Ghyslaine Blanchefleur LaRue. She's sometimes called [Melpomene](https://en.wikipedia.org/wiki/Melpomene) because she met a tipsy — but infatuated — MJ at a house party (she was invited by Liz and was too scared to decline) and bonded with the hoes by pulling a random topic (Muses) out of her ass out of panic.
+I don't have a concrete favorite. It changes. Why don't we go with Ghyslaine since I've been thinking of them lately? Her name is Ghyslaine Pomeline LaRue. She's sometimes called [Melpomene](https://en.wikipedia.org/wiki/Melpomene) because she met a tipsy — but infatuated — MJ at a house party (she was invited by Liz and was too scared to decline) and bonded with the hoes by pulling a random topic (Muses) out of her ass out of panic.
 
 **Describe their appearance. What is their voice like?**  
 Sad, tall, and lanky girl who covers up due to both self-image issues and for comfort. Her voice is soft and raspy.
@@ -399,7 +400,7 @@ Why wouldn't I?
 ***PART IV: LET'S DIG DEEPER***
 
 **Pick a few of your favorite OCs. What do they all have in common? What do you think that reveals about you?**  
-Okay fine let's do The Friends (Virgil, Liz, MJ, Ghyslaine, and [Harvey](/cast/harveyosborne)) again. I will abstain from calling them favorites though. They all love each other as people; they like hanging out and help each other when in need. They (especially Liz) dislike being separated for too long but are also so scared to reveal who they truly are as people out of fear to the point they may as well be strangers. All of them are a bit too critical and might be cynical, which is probably a byproduct of their respective upbringings, resulting in that simmering fear of being too cringe, I guess you could say. Neurotic and hateful, but love each other over everything else.  
+Okay fine let's do The Friends (Virgil, Liz, MJ, Ghyslaine, and [Harvey](/cast/harveyosborne)) again. I will abstain from calling them favorites though. They all love each other as people; they like hanging out and help each other when in need. They (especially Liz) dislike being separated for too long but are also so scared to reveal who they truly are as people to the point they may as well be strangers. All of them are a bit too critical and might be cynical, which is probably a byproduct of their respective upbringings, resulting in that simmering fear of being too cringe, I guess you could say. Neurotic and hateful, but love each other over everything else.  
 I wonder what that means about me…
 
 **Which OC is most misunderstood by your friends & followers? Why do you think others interpret them differently than you intended?**  
@@ -449,7 +450,7 @@ Howdy. You can call me Kirimu or Machine; he/him. If you know another name, chan
 Since 2022-ish.
 
 **3. And what got you into the hobby?**  
-I stumbled upon Neocities one day at around the same time I discovered *Hypnospace Outlaw*. I was like, "Damn, this 'web dev' stuff is pretty sick. So here we are.
+I stumbled upon Neocities one day at around the same time I discovered *Hypnospace Outlaw*. I was like, "Damn, this 'web dev' stuff is pretty sick." So here we are.
 
 **4. What kind of website are you most interested in?**  
 I like personal things. That's probably a basic ass answer — especially since I'm, ironically, a very impersonal person — but I like learning bits and pieces of people's lives; I find it to be far more intimate than social media microblogging as webmasters tend to go into a lot of depth with uniquely styled pages. Weird digital escapism, I suppose.

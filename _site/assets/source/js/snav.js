@@ -1,0 +1,139 @@
+class Header extends HTMLElement {
+constructor() {
+super();
+}
+
+connectedCallback() {
+this.innerHTML = `
+<style>
+.sidenav {
+height: 100%; /* Full-height: remove this if you want "auto" height */
+width: 230px; /* Set the width of the sidebar */
+position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+z-index: 1; /* Stay on top */
+top: 0; /* Stay at the top */
+left: 0;
+background-color: #05100b;
+overflow-x: hidden; /* Disable horizontal scroll */
+padding-top: 20px;
+border-bottom: none;
+text-align: center; /* Center text horizontally */
+
+border-right: 5px solid #05100b;
+background-image:
+  linear-gradient(45deg, #0e271b 25%, transparent 25%, 
+    transparent 75%, #0e271b 75%, #0e271b),
+  linear-gradient(45deg, #0e271b 25%, transparent 25%, 
+    transparent 75%, #0e271b 75%, #0e271b);
+background-size: 60px 60px;
+background-position: 0 0, 30px 30px;
+}
+
+.sidenav a {
+color: antiquewhite;
+padding: 10px 10px 10px 10px;
+margin-bottom:20%;
+margin: 10px 10px 10px 10px;
+text-decoration: none;
+display: block;
+border: 2px black solid;
+border-top-left-radius: 10px;
+border-bottom-right-radius: 10px;
+background: linear-gradient(to bottom,  #12847c 10%, #2d804f 40%, #93b843 100%);
+text-shadow: -1px -1px 0 #0e271b, 1px -1px 0 #0e271b, -1px 1px 0 #0e271b, 1px 1px 0 #0e271b,
+-1.5px -1.5px 0 #0e271b, 1.5px -1.5px 0 #0e271b, -1.5px 1.5px 0 #0e271b, 1.5px 1.5px 0 #0e271b;
+}
+
+.sidenav a:hover {
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.1s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  background: linear-gradient(to bottom, rgba(169,3,41,1) 0%,rgba(102,19,42,1) 50%,rgba(66,9,54,1) 100%);
+  color: antiquewhite;
+}
+.sidenav a:hover, .sidenav a:focus, .sidenav a:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.sidenav p {
+padding: 0 20px;
+text-decoration: none;
+}
+
+.sidenav h2 {
+margin-top: 0;
+padding: 0 40px;
+text-decoration: none;
+border-bottom: 0;
+text-align: center;
+}
+
+@media screen and (max-width: 1290px) {
+.sidenav {
+height: 50px;
+width: 100%; /* Set the width of the sidebar */
+position: static;
+z-index: 1; /* Stay on top */
+overflow-x: scroll;
+scrollbar-width: none;
+top: 0; /* Stay at the top */
+left: 0;
+background-color: #05100b;
+white-space: nowrap;
+padding-top: 10px;
+padding-bottom:10px;
+align-content: center;
+border-bottom: 1px black solid;
+border-right: none;
+overflow-y: hidden;
+text-align: center; /* Center text horizontally on small screens */
+
+a{
+
+text-shadow: -1px -1px 0 #0e271b, 1px -1px 0 #0e271b, -1px 1px 0 #0e271b, 1px 1px 0 #0e271b,
+-1.5px -1.5px 0 #0e271b, 1.5px -1.5px 0 #0e271b, -1.5px 1.5px 0 #0e271b, 1.5px 1.5px 0 #0e271b;}
+
+}
+
+.sidenav a {
+padding: 6.5px;
+padding-bottom: 5px;
+margin: 5px;
+text-decoration: none;
+display: inline;
+border: 0;
+}
+
+.sidenav .imagehere,
+.sidenav br,
+.sidenav p,
+.sidenav h2,
+.sidenav hr {
+display: none;
+}
+}
+</style>
+
+<!-- Side navigation -->
+<div class="sidenav">
+<div class="imagehere" style="background-image: url('/assets/decor/googlyeyes.png')" alt="A pair of googly eyes staring downwards" aria-hidden="true"></div><br>
+<nav>
+<a href="/index">Home</a>
+<a href="/cast">Meet the Cast</a>
+<a href="/e256b">Earth-256-B</a>
+<a href="/outerspace">Outer Space</a>
+<a href="/blog">Blog</a>
+<a href="/misc">Miscellaneous</a>
+<a href="/sitemap">Sitemap</a>
+<a href="/updates">Updates</a>
+</nav>
+</div>
+`;
+}
+}
+
+customElements.define('header-component', Header);

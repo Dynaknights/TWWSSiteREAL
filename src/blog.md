@@ -7,9 +7,3 @@ layout: 'blogdirbase.njk'
 tags:
 - mainpage
 ---
-
-<div class="center">
-
-Entries pertaining to my life that get updated at random.
-
-</div>

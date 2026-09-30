@@ -22,7 +22,10 @@ song: The Dismemberment Song
 songlink: https://www.youtube.com/watch?v=qOb-Ha7UaEw
 
 song2: Weird Science
-songlink2: https://www.youtube.com/watch?v=Jm-upHSP9KU
+songlink2: https://www.youtube.com/watch?v=IWi9ILehtZE
+
+song3: This is a Test
+songlink3: https://www.youtube.com/watch?v=2c7k7-HcI4s
 ---
 
 …Oh, stars. Wow.

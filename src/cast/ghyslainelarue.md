@@ -18,7 +18,7 @@ birthplace: Smiley Township, Minnesota, URL
 nicknames: Laine, Jizz-laine, Muse Melpomene, Apple Girl, Melpo, Melpy
 
 song: ロートとハイ
-songlink: https://www.youtube.com/watch?v=J8FlGMUWWrc
+songlink: https://youtu.be/J8FlGMUWWrc?t=0&si=1TcwvnydKgRxE-2v
 
 song2: Molly Sells Molly by the Seashore
 songlink2: https://www.youtube.com/watch?v=3r90y3eZo5E

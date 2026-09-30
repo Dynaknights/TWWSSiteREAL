@@ -17,8 +17,8 @@ occupation: Criminal, street fighter, 'vigilante'
 birthplace: Disco, Wisconsin, URL
 nicknames: Kas, Scorps, Scorpy, World-Class Jackass
 
-song: Narita
-songlink: https://www.youtube.com/watch?v=cvZ5yyLF4sk
+song: Barracuda
+songlink: https://www.youtube.com/watch?v=qUY_9p0W0t0
 
 song2: K Street Walker
 songlink2: https://www.youtube.com/watch?v=Um1yQFT59fk
@@ -74,7 +74,7 @@ Due to her being part scorpion, you'd think she'd have slow metabolism. However,
 - **Chemical, drug, disease, and alcohol resistance**
 - **Night vision**  
 Lisin's regular vision is absolutely fucked without her contacts, but she *can* see in the dark. So that's cool.
-- **Heat resistance**
+- **Heat resistance**  
 Up to 50° C/ 122° F!
 
 ### Equipment

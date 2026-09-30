@@ -106,7 +106,9 @@ Say gracias to the undying factor.
 - **Mastery of swordsmanship**
 - **Mastery of hand-to-hand combat**
 - **Mastery of martial arts**
-- **Mastery of… other fighting styles**
+- **Mastery of… other various fighting styles**
+- **"Random Bullshit Go!"**  
+…Okay, this one isn't actually a superpower. Wade is just so unpredictable with his fighting style to the point where **Taskmaster**'s copycat ability is effectively canceled out. Might as well include it.
 
 ### Equipment
 - **Twin katanas**   

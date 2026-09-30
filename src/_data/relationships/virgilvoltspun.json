@@ -1,0 +1,17 @@
+[
+    {
+        "from": "Virgil Voltspun"
+    },
+    {
+        "to": "Elizabeth Allan",
+        "rating": 5,
+        "relationship": "Oh, hey. It's Elizabeth.",
+        "desc": "She's my best friend."
+    },
+        {
+        "to": "Ghyslaine LaRue",
+        "rating": 3,
+        "relationship": "Friend",
+        "desc": "She's nice."
+    }
+]

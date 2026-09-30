@@ -27,7 +27,7 @@ song3: Untitled 01
 songlink3: https://www.youtube.com/watch?v=oIoZgIOgu3o
 
 song4: Good Old-Fashioned Lover Boy
-songlink4: https://www.youtube.com/watch?v=E33xxupPyKg
+songlink4: https://www.youtube.com/watch?v=ETFMZpV-f7g
 
 song5: Please Take a Letter, Miss Brown
 songlink5: https://www.youtube.com/watch?v=qocG0-pPBeg
@@ -90,7 +90,7 @@ Full of Neo-Panpsychic memorabilia and sentimental pictures/trinkets.
 
 ## Trivia
 
-<img src="/assets/decor/paperstarblue.png" div class="pagedollbreaker">
+<img src="/assets/decor/paperstarblue.png" div class="pagedollbreaker" alt="Pagedoll">
 
 - Favorite food is **cookies-'n'-cream ice cream**. Reminds her of pleasant memories at various fairs and festivals, but mostly of playing on the beach during her youth. Sometimes heats up the ice cream a bit in the microwave if it's "too cold."
 - Used to just be called Flintlock at work before the whole… sand stuff happened. Got dubbed 'Sandman' because it was more recognizable and straightforward.

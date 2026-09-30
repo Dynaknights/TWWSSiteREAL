@@ -21,7 +21,7 @@ nicknames: Sasha, Kraven, The Hunter, Kitty
 song: BUTCHER VANITY
 songlink: https://www.youtube.com/watch?v=vjBFftpQxxM
 
-song2: 3s'
+song2: 3S'
 songlink2: https://www.youtube.com/watch?v=CdIhfisOZvc
 
 song3: Perversion 99

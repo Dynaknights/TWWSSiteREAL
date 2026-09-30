@@ -13,7 +13,7 @@ tableFields:
 pronouns: She/her (pref), they/them, he/him
 species: Human
 age: Adult
-occupation: Full-time student, barista, freelance artist
+occupation: Part-time student, barista, freelance artist
 birthplace: Hometown, West Virginia, URL
 nicknames: Liz, Lizzie, Lizster, Lizbeth, Lourdes' Pigeon Lord, Grand Master Baiter, Duchess State Devourer…
 
@@ -34,6 +34,12 @@ songlink5: https://www.youtube.com/watch?v=IsYPVEZfv-U
 
 song6: Chocolate Philosophy
 songlink6: https://www.youtube.com/watch?v=pC4mPuRn4ek
+
+song7: KEEP YOUR HEAD UP!!!
+songlink7: https://www.youtube.com/watch?v=_mJgJ-Qwbdg
+
+homepage: Biteegeist.meow.sol
+homepagelink: /misc/fun/lizsite
 
 ---
 
@@ -90,11 +96,11 @@ A surprisingly powerful grey laptop with stickers all over it.
 - Avid gardening fiend because her therapist recommended it. Although, she kind of sucks at it because she's new to the whole thing.
 - Does NOT fuck around when it comes to friendship. You're gonna wear the goddamn matching friendship bracelet with her FOREVER and you're gonna LOVE IT.
 - Sings to plants to help them grow, but they're a horrible singer.
-- Has a rabbit-filled paracosm named **Sunset Silver**. Or, well, *used to*, anyway.
+- Has a rabbit-filled paracosm named **SunsetSilver**. Or, well, *used to*, anyway.
 - *Massive* fan-fiction lover. Massive BL/GL lover. Squeals and kicks her legs and rolls around when anything even remotely exciting happens in a book.
 - Is a very lovey-dovey, sentimental person when it comes to her friends and she HATES it. Will start sobbing when drunk and all of her friends are having fun together out of affection because it makes her too happy.
 - Greatly prefers to be called 'Liz' and feels miffed when people refer to her as Elizabeth… Unless it's [Virgil](/cast/virgilvoltspun), whose done that ever since they first met and can't break the habit.
-- Regularly visits the plentiful mascot cafes within Nouvelle-Yorke and is able to recall the respective characters from every single one.
+- Sings to plants. Virgil immediately tells her to shut the fuck up whenever she does this because her singing sucks.
 - Loves pretending she's a protagonist from either niche coming-of-age movies that are heavily romanticized or shitty romcoms so that she doesn't spiral when she thinks about her life for too long. This is one of the only reasons she's able to get up every day.
 - Greatly enjoys binge-eating while watching/playing bad horror media. …And then gets upset later because she was binge-eating.
 - Amazing at racing games despite rarely touching them. …But she's terrible at air hockey, regardless of her competitive nature.

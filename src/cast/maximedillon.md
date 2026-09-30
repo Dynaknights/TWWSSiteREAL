@@ -23,6 +23,12 @@ songlink: https://www.youtube.com/watch?v=FEskZcvVul4
 song2: Murder of the Universe
 songlink2: https://www.youtube.com/watch?v=jYBB7bRW4z0
 
+song3: Queer as in Fuck You
+songlink3: https://www.youtube.com/watch?v=JN4U577VQP4
+
+song4: Sex With Bulldozer
+songlink4: https://www.youtube.com/watch?v=kOSqnMbQaeg
+
 ---
 
 Oh, man.
@@ -98,17 +104,13 @@ She stole them.
 - People typically ask her to charge their devices via her abilities. Max then steals these devices for herself.
 - Too much or too little electricity makes it difficult to think, move, and breathe properly. It's also painful as hell; think something along the lines of a heart attack or cardiac arrest.
 - Always in pain all of the time all over her body. The pain levels fluctuate, but everywhere always *hurts* with a dull throbbing. Got used to it eventually.
-- Doesn't enjoy tight clothing unless it makes her look cool.
-- Makes up random beats and tunes on the fly while working. "Working" includes crime, unless it's a stealth mission. If that's the case, she makes up 'stealth tunes.'
+- Atheist, but a firm believer in the 'every superpower is personalized' theory because no fucking way she got electrical-themed abilities by sheer coincidence. No way.
 - Has always *adored* extreme thunderstorms. Finds them comforting.
 - Amazing at carnival games and [electromechanical games](https://en.wikipedia.org/wiki/Electro-mechanical_game). *So* good at them, she finds discretely cheating, deconstructing, and altering the machines to be more fun than the games themselves.
 - Derived 'Electro' from 'electromechanical game.' Nerd.
 - Also surprisingly good at video games. Mostly plays stereotypical 1970s-1990s arcade and NES-ish games, but also indulges in consoles because she likes playing with [Flint](/cast/berniaclaudeprosper)'s daughter, Keemia.
 - Max's bed feels like a cloud. Her scars and skin are sensitive, so her sheets and pillow cases are soft cotton. Her bed's got carnival plushies and pillows lining the edges.
 - Massive fan of nesting. Makes things a bit more bearable.
-- Enjoys listening to music on her radio while laying in bed. If she likes a song enough, she'll get CDs or vinyls for her collection.
-- Analyzes the *fuck* out of songs. Notebooks upon notebooks detailing symbolism and lyrics of different albums and tunes amassed over years keep her sane.
-- Also analyzes the fuck out of both EM and video games. Max's notebooks about video games are mostly about the technical sides of them: understanding the hardware and its constraints, examining source code, understanding how developers made games with the limited technology and accessibility they had, etc.
 - Max enjoys building pieces of technology with limited material/scraps. When she has the energy and isn't consumed by pain, anyway. Lets Keemia name them because naming them something like "Shitheap #55" got difficult to remember.
 
 </div>

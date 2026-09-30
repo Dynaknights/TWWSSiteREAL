@@ -15,7 +15,7 @@ pronouns: He/him, it/its
 alias: Web-Surfer
 species: Human mutate
 age: Adult
-occupation: Vigilante, freelance photographer, full-time student
+occupation: Vigilante, freelance photographer, part-time student
 birthplace: Disco, Wisconsin, URL
 nicknames: Vee, Vivi, Virge, Virgin, Neuro-Die-a-Virgin, Publius, Webby, Webs, Web-Head, Webster, Spider…
 
@@ -36,6 +36,9 @@ songlink5: https://www.youtube.com/watch?v=tKu93n5-QS4
 
 song6: Down in it
 songlink6: https://www.youtube.com/watch?v=uXdIc8TZKcA
+
+homepage: Proxymoron.web
+homepagelink: /misc/fun/veesite
 
 ---
 
@@ -77,7 +80,7 @@ Ultra durable and sturdy webbing is produced in Virgil's body, which emerges thr
 - **"Spider-Sense"**  
 It's a bit complicated, but, in short, he can sense vibrations, chemicals, electricity (to some extent), and air currents from anything via tactile hairs all over his body, like Daredevil's hearing, so to speak. If something seems dangerous in his opinion, the epicenter of this sense on the back of his nape triggers his brain to activate fight or flight. All of this happens very, very fast, so people speculate Web-Surfer has precognition, which is untrue.  
 He can also kind of tell/guess what a person is feeling or thinking since the sense can pick up biochemical reactions, sort of like pheromones (although humans probably don't have those). He's memorized a few specific substances and their correlated emotions (mostly fear and danger), but Virgil's notoriously bad with feelings, empathy, and people… so this 'diet mind reading' is kind of useless.
-- **Highly accelerated metabolism**
+- **"Highly accelerated metabolism"**
 - **Healing factor**  
 Not as good as [Deadpool](/cast/wadewilson)'s or Wolverine's, but nothing to sneeze at either.
 - **Chemical, drug, poison, disease, and alcohol resistance**  
@@ -107,7 +110,7 @@ Remember ballooning? Yeah… This is how he does that.
 Webby's got electronics in his mask to assist with his work, Tony Stark style, but make it broke. No AI though, too expensive to replace.
 - **"Tactical Paws"**  
 Not just for decoration. His suit has dubious access to police resources and these pads can replicate fingerprints (or animal paw prints to cover up his tracks), provide small bursts of electricity, and… squeak when pressed on occasion. To calm people (himself) down when stressed. Of course.
-- **Laptop**
+- **Laptop**  
 A military-grade laptop that [Harvey Osborne](/cast/harveyosborne) didn't want anymore. It has nerdy stickers on the back. He never uses it for his vigilante work.
 - **Cyberdecks**  
 [Liz Allan](/cast/elizabethallan) likes DIY and crafting, so Virgil decided to try it by building computers. These are mainly for his vigilantism, but he also builds miscellaneous projects and even replaced cell phones with these because his keep breaking. Nearly all of them look like hunks of shit.

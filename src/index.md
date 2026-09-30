@@ -50,9 +50,9 @@ Uilize the handy [Sitemap](/sitemap) to navigate the site if you don't have Java
 
 <div class="center">
 
-<small>This site was developed with **Firefox** and **JavaScript enabled**. It *should be* mobile-friendly, but was intended with PCs in mind. 
-This site is also pretty **image-heavy**.</small>
+<small>This site was developed with **Firefox** and **JavaScript enabled**. It *should be* mobile-friendly, but was intended with PCs in mind.  
+This site's also **image-heavy**.</small>
 
-<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/decor/pandama.gif" class="button" alt="A WEB-MA rating displayed with a panda holding a pistol sitting next to it." title="This site is maintained by an adult who doesn't have minors in mind!" aria-hidden="true"></a>
+<a href="https://www.mabsland.com/Adoption.html"><img src="/assets/decor/pandama.gif" class="button" title="This site's maintained by an adult who doesn't have minors in mind!" alt="A WEB-MA rating displayed with a panda holding a pistol sitting next to it."></a>
 
 </div>

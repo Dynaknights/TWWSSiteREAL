@@ -13,7 +13,7 @@ tableFields:
 pronouns: She/her, they/them
 species: Human
 age: Adult
-occupation: Investigative journalist, waitress, full-time student
+occupation: Investigative journalist, waitress, part-time student
 birthplace: Chicago, Illinois, URL
 nicknames: MJ, Muse Clio, Clitoris, Red
 

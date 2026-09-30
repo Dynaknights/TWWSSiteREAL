@@ -30,7 +30,8 @@ dd{
 }
 
 section strong,
-.bigishboxcentered strong{
+.bigishboxcentered strong,
+.relationshipbox strong{
   color: black;
 }
 
@@ -78,7 +79,8 @@ h2 {
 }
 
 section,
-.bigishboxcentered {
+.bigishboxcentered,
+.relationshipbox {
     padding-bottom: 0px;
   h2{
     padding-bottom:.2px;
@@ -317,6 +319,27 @@ blockquote{
   float: center;
 }
 
+.bloginsert{
+  img{
+  float: center;
+  margin: 1em;
+  max-width: 20em;
+  max-height: 20em;
+  min-width:5em;
+  min-height:5em;
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(.5px .5px .5px var(--link-color)) 
+  drop-shadow(-.5px 0 var(--link-color)) 
+  drop-shadow(0 1px 0 var(--link-color)) 
+  drop-shadow(0 -.5px 0 var(--link-color)) 
+  drop-shadow(0 1px var(--link-color)) 
+  drop-shadow(0 -.5px var(--link-color)) 
+  drop-shadow(1px -.5px var(--link-color)) 
+  drop-shadow(-.5px -.5px var(--link-color));
+  }
+}
+
 .box {
   background-color: #23286e;
   border: 1px solid #000000;
@@ -451,6 +474,7 @@ figure {
   min-width: 220px;
   margin-top: 1em;
   margin-bottom: 20px;
+  display: block;
 
   h2,
   h3{
@@ -459,11 +483,12 @@ figure {
   }
 
   h2{
-    border-bottom: 3px antiquewhite solid;
+    border-bottom: 3px antiquewhite dashed;
   }
 }
 
-.bigishboxcentered {
+.bigishboxcentered,
+.relationshipbox {
   background: linear-gradient(to bottom, #ffd54c 0%,#e88e27 100%);
   color: #010215;
   width: 60%;
@@ -495,21 +520,22 @@ figure {
   float:right;
   background-repeat: no-repeat;
   margin: 0px 10px 10px 10px;
-  filter: drop-shadow(1px 1px 1px black) 
-  drop-shadow(-1px 0 black) 
-  drop-shadow(0 2px 0 black) 
-  drop-shadow(0 -1px 0 black) 
-  drop-shadow(0 2px black) 
-  drop-shadow(0 -1px black) 
-  drop-shadow(2px -1px black) 
-  drop-shadow(-1px -1px black);
+  filter: drop-shadow(.5px .5px .5px var(--link-color)) 
+  drop-shadow(-.5px 0 var(--link-color)) 
+  drop-shadow(0 1px 0 var(--link-color)) 
+  drop-shadow(0 -.5px 0 var(--link-color)) 
+  drop-shadow(0 1px var(--link-color)) 
+  drop-shadow(0 -.5px var(--link-color)) 
+  drop-shadow(1px -.5px var(--link-color)) 
+  drop-shadow(-.5px -.5px var(--link-color));
   transition: .2s ease-in-out;
-  min-width:50px;
-  min-height: 50px;
-  max-width: 300px;
-  max-height: 300px;
-  width: auto;
-
+  min-width:10em;
+  min-height: 10em;
+  max-width: 20em;
+  max-height: 20em;
+  width:30%;
+  height: auto;
+  object-fit: contain;
 }
 
 .pagedollbreaker:hover {
@@ -728,7 +754,7 @@ tr:nth-child(odd) {
 .footercenter{
   text-align: center;
   float: center;
-  margin-left: 17em;
+  margin-left: 15em;
 }
 
 /* MEDIA QUERY */
@@ -844,6 +870,18 @@ tr:nth-child(odd) {
     float:center;
     margin: auto;
     margin-bottom: 20px;
+  }
+
+}
+
+@media only screen and (max-width: 650px) {
+
+  .characterprofile{
+    width: 100%;
+  }
+
+  .box4boxes{
+    padding:1em;
   }
 
 }
