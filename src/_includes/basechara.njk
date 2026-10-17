@@ -79,7 +79,7 @@ layout: 'base.njk'
 {%- for relationships in relationships -%}
 
 <div class="relationshipbox">
-<a href="/cast/{{ relationships.name | slugify }}"><img src="/assets/thumbs/cast/{{ relationships.name | slugify }}.png" alt="A thumbnail of {{ relationships.name }}." div class="relationshipimg" onerror="this.onerror=null; this.src='/assets/thumbs/cast/unknown.png';"></a>
+<a href="/cast/{{ relationships.name | slugify }}"><img src="/assets/thumbs/cast/{{ relationships.name }}.png" alt="A thumbnail of {{ relationships.name }}." div class="relationshipimg" onerror="this.onerror=null; this.src='/assets/thumbs/cast/unknown.png';"></a>
 <h3><a href="/cast/{{ relationships.name | slugify }}"> {{ relationships.name }}</a> - {% if relationships.rating == 0 %}☆☆☆☆☆{% endif %}{% if relationships.rating == 1 %}★☆☆☆☆{% endif %}{% if relationships.rating == 2 %}★★☆☆☆{% endif %}{% if relationships.rating == 3 %}★★★☆☆{% endif %}{% if relationships.rating == 4 %}★★★★☆{% endif %}{% if relationships.rating == 5 %}★★★★★{% endif %}{% if relationships.custom %}{{ relationships.custom }}{% endif %}</h3>
 <dd><img src="/assets/decor/starred.gif" alt="A GIF of a small red star." aria-hidden="true"> <strong>Relationship: {{ relationships.label }}</strong></dd>
 <hr>
