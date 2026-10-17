@@ -13,7 +13,7 @@ tags:
 <div class="box4boxes" style="max-height:25em; overflow-y: hidden;">
 <div class="center">
 <figure>
-<a href="/misc/dynaknights"><img src="/assets/thumbs/cast/Dynaknights.png" alt="A thumbnail of Dynaknights"></a>
+<a href="/misc/dynaknights"><img src="/assets/thumbs/cast/dynaknights.png" alt="A thumbnail of Dynaknights"></a>
 </figure>
 
 Learn about me and the origins of this hellish site! …Must be very interesting, I guess.
