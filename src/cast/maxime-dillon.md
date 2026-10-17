@@ -62,7 +62,7 @@ mrelationships:
      - name: Sashenka Kravinoff
        rating: 0
        label: Ex-Teammate
-       desc: UHMMMMMMM. EW!? WHAT IN THE STARS BELOW??? HOW DO YOU WAKE UP EVERY DAY AND NOT JUST KILL YASELF BRAH
+       desc: UHMMMMMMM. EW!? AYO WHAT THE FUCK!!
 
      - name: Alonzo Lincoln
        rating: 0

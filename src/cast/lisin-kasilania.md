@@ -46,7 +46,7 @@ relationships:
   - name: Lucille Deckard
     custom: ???
     label: ??????
-    desc: Deckard was the one who turned Lisin into this fuckin' freak of nature; she made him suffer to the point where Lisin's certain she was gettin' off from it. But… Ack. No, they won't say it. Fuck you! They don't owe shit to you or anyone else shit!
+    desc: Deckard was the one who turned Lisin into this fuckin' freak of nature; she made him suffer to the point where Lisin's certain she was gettin' off from it. But, Lisin feels… No, they won't say it. Fuck you! Get the fuck out of her face!
 
   - name: Virgil Voltspun
     rating: 0
@@ -58,7 +58,7 @@ mrelationships:
   - name: Micaiah Faucher
     rating: 1
     label: Employer's Brat
-    desc: Ugh. Annoyin' nepo baby. Lisin's **SO STARS-DAMNED TIRED** of having to watch over and protect him. Yes, yes, she knows there's people out there who want to kill him. But if **YOU** talk to this asshole for **FIVE FUCKIN' MINUTES**, you'll see why. Fuck! At least Tia's voice doesn't grate against Lisin's ears! Good fuckin' Glory! Entitled little shit!
+    desc: Ugh. Annoyin' nepo baby. Lisin's **SO STARS-DAMNED TIRED** of having to watch over and protect him. Yes, yes, she knows there's people out there who want to kill him. But if **YOU** talk to this asshole for **FIVE FUCKIN' MINUTES**, you'll see why. Fuck! At least Tia's voice doesn't grate against Lisin's ears! Good fuckin' Glory!
 
 notes:
 - Lisin's very **tall** and very **muscular**. ~**6'4**/**195 cm**.

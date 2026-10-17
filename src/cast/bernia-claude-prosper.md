@@ -40,17 +40,17 @@ relationships:
     - name: Keemia Prosper
       rating: 5
       label: Daughter
-      desc: That's her girl. The reason Flint wakes up every day. But never believe Flint hoped to drag Keems into this mess. No, sir. Flint wished for the kid to have a chance at life — a future Flint had never gotten — one far, far away from the violence n' bloodshed Flint built himself off of. Stars Below, that poor fuckin' kid— Flint fucked up n' did more harm than good. She's so sorry. So, *so* damn sorry. He'll be damned if he doesn't get them both out of this funk and make it up to Keems for everything he's done, he can promise that much.
+      desc: That's her girl. The reason Flint wakes up every day. Flint wished for the kid to have a chance at life — a future Flint had never gotten — one far, far away from the violence n' bloodshed Flint built himself off of. Stars Below, that poor fuckin' kid—  She's so sorry. So, *so* damn sorry. He'll be damned if he doesn't get them both out of this funk and make it up to Keems for everything he's done, he can promise that much.
 
     - name: Adrienne Toomes
       rating: 5
       label: Wife
-      desc: Oh, Adrienne… She's as lovely as roses and as sweet as pie… She's sassy, a petty, and livin' on the edge for a quick buck, but in a way that makes her even more sexy, you get him? Flint, Adrienne, n' Max have watched each other's back since they first met in a way that makes Flint feel… cherished. It's weird, bein' prized n' held n' fawned over by such a damn fine girl who loves you despite your countless mistakes or flaws because she's in the same trap. Glory, have mercy.
+      desc: Oh, Adrienne… She's sassy, a petty, and livin' on the edge for a quick buck, but in a way that makes her even more sexy, you get him? Flint, Adrienne, n' Max have watched each other's back since they first met in a way that makes Flint feel… cherished. It's weird, bein' prized n' held n' fawned over by such a damn fine girl who loves you despite your countless mistakes or flaws because she's in the same trap. Glory, have mercy.
 
     - name: Maxime Dillon
       rating: 5
-      label: Dog
-      desc: Max, Max, Max… Y'know, Flint can't help but view Max like a mutt. Not in a bad way, no, no, no, but she's somethin' like an overprotective guard dog; half bark n' half bite. She supposes that's just Max's way of showin' love, huh? Max is loud, crass, n' maybe even obnoxious at times — a whole 'nother world compared to Adrienne, but still worthy of all that puppy-dog love regardless.
+      label: Partner
+      desc: Y'know, Flint can't help but view Max like a mutt. Not in a bad way, no, no, no, but she's somethin' like an overprotective guard dog; half bark n' half bite. She supposes that's just Max's way of showin' love, huh? Max is loud, crass, n' maybe even obnoxious at times, but still worthy of all that puppy-dog love regardless.
 
     - name: Alonzo Lincoln
       rating: 0

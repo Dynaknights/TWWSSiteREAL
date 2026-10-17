@@ -21,7 +21,7 @@ They come in all shapes and sizes: they may be small and insignificant (maybe yo
 
 ## The Whole Mutation Thing
 
-**Mutating is one of the most painful and traumatizing experiences someone can undergo, *ever***. It feels something like every kind of pain — from the entire body breaking to grief and beyond — all at once mixed with your psyche rapidly deteriorating all at once for exactly one moment before abruptly going back to normal.
+**Mutating is one of the most painful and traumatizing experiences someone can undergo, *ever***. It feels something like every kind of pain — from the entire body breaking to grief and beyond — all at once mixed with your psyche rapidly deteriorating for exactly one moment before abruptly going back to normal.
 
 People here commonly believe mutating feels similarly to being blessed by a higher being, ascension, or apotheosis. It feels more like a violation of the self in every way imaginable.  
 Yes, including the mutations that don't grant people superpowers. However, the ones involving superpowers specifically tend to be significantly higher on the pain scale.
@@ -32,7 +32,7 @@ It only lasts for a moment, but mutated people don't like acknowledging this pro
 
 ### Warning Signs
 
-**Do you ever like your life is building up to something?**  
+**Do you ever feel like your life is building up to something?**  
 Something disastrous? Something grand? Something that'll change the course of your life forever?
 
 People about to mutate commonly report feeling as though something big's about to happen about two weeks before the main event, which usually manifests as either feelings of indomitable hope or insurmountable doom, or maybe both at once. People will be more emotional during this period, more reckless, more self-sacrificial, and more protective of those around them/things they value.  

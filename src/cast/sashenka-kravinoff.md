@@ -39,12 +39,12 @@ relationships:
    - name: Calypso Ezili
      rating: 5
      label: Soulmate
-     desc: Sasha's lovely, sweet wife! Oh, what a most attractive piece of meat who has fallen into Sasha's lap with utmost grace and dignity! Stars, Sasha lives to spoil her, but it is not like she lacks the cash to spare. Wake up cuddling in bed, make Calypso a nice, filling breakfast, fuck her until she cannot remember her name, be a slave to the urge to kiss her… They will be together until they die together and there is nothing she can do about it!
+     desc: Sasha's lovely, sweet wife! Oh, what a most attractive piece of meat who has fallen into Sasha's lap with utmost grace and dignity! Wake up cuddling in bed, make Calypso a nice, filling breakfast, fuck her until she cannot remember her name, be a slave to the urge to kiss her… They will be together until they die together and there is nothing she can do about it!!
 
    - name: Virgil Voltspun
      rating: 5
      label: Obsession
-     desc: Spiders are such unique predators, no? Sasha had not expected to be so enamoured by them due to their size, but this specific little spider… oh, he is just perfect! Strong, insecure, resentful, and tries so, so hard to pretend he is not desperate for a chance to flaunt his power. Rip her beating heart out of her chest, you beautiful beast — it is merely your rightful trophy, after all!
+     desc: Spiders are such unique predators, no? Sasha had not expected to be *this* enamoured by them, but this specific little spider… oh, he is just perfect! Strong, insecure, resentful, and tries so, so hard to pretend he is not desperate for a chance to flaunt his power. Rip her beating heart out of her chest, you beautiful beast — it is merely your rightful trophy, after all!
 
 mrelationships:
 

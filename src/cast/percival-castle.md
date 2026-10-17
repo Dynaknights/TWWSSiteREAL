@@ -35,13 +35,13 @@ relationships:
   - name: Matthieu Murdock
     custom: ???
     label: Annoyance
-    desc: This fucker thinks he's just so fuckin' high and mighty because he's tackling the crime problem 'the right way' by not poppin' a cap into people who deserve it. Good job, shithead, kudos to you for givin' Pyrel the extra chance to give these worthless cunts the bullets they so rightfully deserve. Fucking goody-two-shoes. The pigs aren't gonna let you into their ranks, y'know.
+    desc: This fucker thinks he's just so fuckin' high and mighty because he's tackling the crime problem 'the right way' by not snuffin' out some nobodies. Good job, shithead, kudos to you for givin' Pyrel the extra chance to give these worthless cunts the bullets they so rightfully deserve. Fucking goody-two-shoes. The pigs aren't gonna let you into their ranks, y'know.
 
 mrelationships:
    - name: Wade Wilson
      rating: 1
      label: Nuisance
-     desc: Stars, get this fucking guy out of Pyrel's stars-damned face before they lose it.
+     desc: Stars, get this fucking nutjob out of Pyrel's face before they lose it.
 
 notes:
 - Pyrel's big, broody, and tall. They're ~**6'1**/**185.9 cm**.

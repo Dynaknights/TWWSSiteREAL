@@ -47,7 +47,7 @@ relationships:
    - name: Virgil Voltspun
      rating: 5
      label: Idol
-     desc: "Wade's heard all the stories about supers: greed, corruption, megalomania, and all that fun stuff. But Webby? Well, he's rude and immediately gets soooo pissy and grouchy whenever Wade so much as breathes in earshot, but Webs is surprisingly kind. And amazing, and spectacular, and incredible, and just… wonderful. Plus, the guy's grumpy, but he's got a sense of humor and doesn't outright kill Wade whenever he says something stupid! Just uh… don't show him Wade's merch collection, m'kay?"
+     desc: "Wade's heard all the stories about supers: greed, corruption, megalomania, and all that fun stuff. But Webby? Well, he's rude and immediately gets soooo pissy and grouchy whenever Wade so much as breathes in earshot, but Webs is surprisingly kind. And amazing, and spectacular, and incredible, and just… wonderful. Just uh… don't show him Wade's merch collection, m'kay?"
 
    - name: Jack Hammer
      rating: 4

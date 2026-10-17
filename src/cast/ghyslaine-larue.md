@@ -53,22 +53,22 @@ relationships:
  - name: Elizabeth Allan
    rating: 5
    label: Best Friend
-   desc: Liz is so sweet! Such a kind and passionate ray of sunshine, Ghyslaine adores her! Ghyslaine had not expected Liz to acknowledge her very much while the two shared a dorm since the two are polar opposites, and yet, Liz always went out of her way to invite her to outings and parties, ask them about their day, and make her feel comfortable, heard, and loved… Something no one had done up until then aside from Ghyslaine's own dad! Stars, she deserves better.
+   desc: Liz is so sweet! Such a kind and passionate ray of sunshine, Ghyslaine adores her! Ghyslaine had not expected Liz to acknowledge her very much while the two shared a dorm since the two are polar opposites, and yet, Liz always went out of her way to invite her to outings and parties, ask them about their day, and make her feel comfortable, heard, and loved… Something no one had done up until then aside from Ghyslaine's own dad! Stars, she's too good for this world.
 
  - name: Harvey Osborne
    rating: 5
    label: Best Friend
-   desc: Harvey! Charismatic and lovable Harvey! How he has managed to live with his mother for all of these years and still be relatively normal is surprising, but Ghyslaine is happy that Harvey likes her enough to be friends! According to MJ, Harvey is insecure and unsure of himself as a person, not knowing what to do with his life besides heeding his mother's words or doing what is expected of him. Ghyslaine will show him there is more to life than quiet suffering. They promise.
+   desc: How he has managed to live with his mother for all of these years and still be relatively normal is beyond them, but Ghyslaine is happy that Harvey likes her enough to be friends! According to MJ, Harvey is insecure and unsure of himself as a person, not knowing what to do with his life besides heeding his mother's words or doing what is expected of him. Ghyslaine will show him there is more to life than quiet suffering. They promise.
 
  - name: Virgil Voltspun
    rating: 3
    label: Friend?
-   desc: Ghyslaine had honestly believed Virgil only tolerated them at best because Liz would get upset if he was rude to them, but, no. He is just extremely reserved and unexpressive. He has fun at Liz's hangouts and usually chats or plays games with her at parties, at least. He is fun to be around, but only really seems to care about Liz. Maybe they will be closer one day?
+   desc: Ghyslaine had honestly believed Virgil only tolerated them at best because Liz would get upset if he was rude to them, but, no. He is just extremely reserved and unexpressive. He has fun at Liz's hangouts and usually chats or plays games with Ghyslaine at parties, at least. Maybe they will be closer one day?
 
  - name: Noémie-Marisol Osborne
    rating: 2
    label: Employer
-   desc: Well, uhm… Osborne personally offered Ghyslaine a dream internship and even said that she will give her well-paying employment if she keeps up the good work. She seemingly praises Ghyslaine whenever given even half a chance, which feels good, but… Osborne is a horrible human being! Ghyslaine does not even know where to begin with how she abuses and manipulates Harvey along with how she treats some subordinates like the dirt beneath her! Ghyslaine understands better than anyone how it is to be inherently unlovable but — sorry — what the fuck!?
+   desc: Well, uhm… Osborne personally offered Ghyslaine a dream internship and even said that she will give her well-paying employment if she keeps up the good work. She seemingly praises Ghyslaine whenever given even half a chance, which feels good, but… Osborne is a horrible human being! Ghyslaine understands better than anyone how it is to be inherently unlovable but — sorry — what the fuck!?
 
 notes:
 

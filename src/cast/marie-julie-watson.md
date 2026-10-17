@@ -40,12 +40,12 @@ relationships:
  - name: Ghyslaine LaRue
    rating: 5
    label: Girlfriend
-   desc: Ghyslaine's one of very few people who are truly good in this world. So effortlessly kind even when MJ is at her cross-faded and sobbing at her worst, she's honestly got no clue how they do it, really. Stars, she's perfect beyond words. Ghyslaine thinks she's inherently unlovable. However, doing so much as holding hands with her feels like a destined meeting with Eternity itself. Their lives haven't been great, but they'll get their happy ending. Together, so long as their hands are intertwined. She loves her more than anything else.
+   desc: Ghyslaine's one of very few people who are truly good in this world. So effortlessly kind even when MJ is at her cross-faded and sobbing at her worst, she's honestly got no clue how they do it, really. Stars, she's perfect beyond words. Ghyslaine thinks she's inherently unlovable. However, doing so much as holding hands with her feels like a destined meeting with Eternity itself. Their lives haven't been great, but they'll get their happy ending. Together, so long as their hands are intertwined.
 
  - name: Elizabeth Allan
    rating: 5
    label: Best Friend
-   desc: Wow, okay. MJ had always thought rays of sunshine were just tropes applied to characters from fiction before she met Lizzie. She's obviously not just a ball of happiness all the time. She, too, has her unfair share of mental problems and suffering, but she never lets that tradmarked kindness slip. She's always got to keep her head up and hold hope, for the better and for worse. MJ hopes that Liz knows she'll always be there for her, regardless if she's cheery and gleeful or not.
+   desc: Wow, okay. MJ had always thought rays of sunshine were just tropes applied to characters from fiction before she met Lizzie. She's obviously not just a ball of happiness all the time. She, too, has her unfair share of mental problems and suffering, but she never lets that tradmarked kindness slip. She's always got to keep her head up and hold hope, for the better and for worse. MJ hopes that Liz knows she'll always be there for her, regardless of how she acts.
 
  - name: Harvey Osborne
    rating: 5
