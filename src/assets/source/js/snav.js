@@ -126,7 +126,7 @@ display: none;
 <a href="/cast">Meet the Cast</a>
 <a href="/e256b">Earth-256-B</a>
 <a href="/outerspace">Outer Space</a>
-<a href="/blog">Blog</a>
+<a href="/blog">Yapfest Bloodfest</a>
 <a href="/misc">Miscellaneous</a>
 <a href="/sitemap">Sitemap</a>
 <a href="/updates">Updates</a>

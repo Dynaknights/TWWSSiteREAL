@@ -1,13 +1,1 @@
----
-pagination:
-  data: relationships
-  size: 1
-  alias: relations
-permalink: "relationships/{{ relationships.from | slugify }}/"
----
-
-<div class="relationshipbox">
-<h3><a href="/cast/{{ relations.to | slugify }}"> {{ relations.to }}</a> - {% if relations.rating == 0 %}☆☆☆☆☆{% elif relations.rating == 1 %}★☆☆☆☆{% elif relations.rating == 2 %}★★☆☆☆{% elif relations.rating == 3 %}★★★☆☆{% elif relations.rating == 4 %}★★★★☆{% elif relations.rating == 5 %}★★★★★{% endif %}{% elif custom %}{{ custom }}{% endif %}</h3>
-<dd><strong>Relationship: {{ relations.desc }}</strong></dd>
 {{ content | safe }}
-</div>

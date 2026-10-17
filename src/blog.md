@@ -1,7 +1,7 @@
 ---
-title: Blogging & Yapping
+title: Yapfest Bloodfest
 id: blog
-bgimage: bg20.png
+bgimage: bg64.png
 pagedoll: sonic
 layout: 'blogdirbase.njk'
 tags:

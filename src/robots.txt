@@ -137,8 +137,6 @@ User-agent: GoogleAgent-Mariner
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
 User-agent: Google-Firebase
-User-agent: GoogleOther
-User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: Goose
 User-agent: GPT

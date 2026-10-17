@@ -48,7 +48,7 @@ The scope of their duties are broad: everything from encouraging cooperation bet
 
 ### Notable Picks
 
-The Bureau was founded by **[Mayor Fifine Faucher](/cast/fifinefaucher)** relatively recently as a means of controlling supers to both expand her criminal operations while also being able to take out her own superpowered adversaries while keeping the public unaware. This is usually accomplished through disinformation and fabricated evidence that's reported to the SPNY Commissioner, which is then tossed BASH's way.
+The Bureau was founded by **[Mayor Fifine Faucher](/cast/fifine-faucher)** relatively recently as a means of controlling supers to both expand her criminal operations while also being able to take out her own superpowered adversaries while keeping the public unaware. This is usually accomplished through disinformation and fabricated evidence that's reported to the SPNY Commissioner, which is then tossed BASH's way.
 
 BASH is helmed by **Captain Georges LaRue**, who — aside from managing BASH and his other responsibilities — is mainly in charge of maintaining the shaky relationship between supers (the ones who aim to be vigilantes, anyway), the public, local politicians, and SPNY.  
 His job's a nightmare; the Bureau is pure chaos in terms of management, superpowered criminals escape punishment scot-free only to wind back up in prison to escape again all of the time, justice laws and the prison system are downright hellish, supers are usually greedy and egotistical bastards aiming to capitalize off the hype surrounding them more often than not, Nouvelle-Yorke deals with a tidal wave of ludicrous and destructive crimes every day that strain at Captain LaRue's mental health…  
@@ -65,7 +65,7 @@ She specializes in criminal intelligence and organized crime within the metropol
 - Insurance rates are nightmarish and are infamously dubious regarding damages caused by supers (premiums are a bit cheaper if collateral damages are excluded).
 - The construction business is BOOMING. But all of the construction workers, architects, and engineers are MISERABLE.
 - People who owe community service are typically delegated to cleaning up after battles.
-- It's a common joke that supers have amazing asses. *Fantastic*, one could say. Hence why people rate them annually. The winner for 2998 was [Jules Storm](/cast/julesstorm) after many, many, *many* squats. Finally.
+- It's a common joke that supers have amazing asses. *Fantastic*, one could say. Hence why people rate them annually. The winner for 2998 was [Jules Louvet-Storm](/cast/jules-louvet-storm) after many, many, *many* squats. Finally.
 - Some supers tend to criticize superhero comics and media for weird/logistically stupid fights for fun or even have a negative view of the typically lighthearted genre due to their experiences. Think of it like a soldier watching a World War kids' show.
 - A lot of long-term supers tend to wear hearing aids or some sort of vision correctors due to explosions and the like damaging their senses.
 - Puns are very much frowned upon within the super scene.

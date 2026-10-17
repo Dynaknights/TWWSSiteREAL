@@ -14,32 +14,32 @@ tags:
 
 **TODO**
 
-Organize updates  
+Finish ~~Nouvelle-Yorke~~ & United Republic's pages  
 Compress image assets  
-Splash/warning page  
-Custom menu buttons?  
+Organize updates  
 RSS feed  
 Fix icky divider issue  
-Implement [Webamp](https://webamp.org/) somehow maybe  
-SHRINES!!   
-Finish ~~Nouvelle-Yorke~~ & United Republic's pages  
+Implement [Webamp](https://webamp.org/) somehow maybe   
 ToyHouse ribbons for characters on their respective pages maybe?  
 Character galleries with lightbox!!  
 Written works section!!  
-Fake websites/blogs for characters  
 Add quotes?  
 Notable Figures sections on world building pages… somehow…  
-Make fancier TODO  
 Add decorations!! Make the place fucking look nice!!  
-Figure out site colors ONCE AND FOR ALL  
 Add relationship categories on character pages    
 Draw new character thumbnails  
-Draw location 'thumbnails'  
+Draw (or model) location 'thumbnails'  
 Draw pagedolls  
 Draw other on-site graphics  
 
 **Completed**
 
+~~Fake websites/blogs for characters~~  
+~~SHRINES!!~~ (1/??)  
+~~Figure out site colors ONCE AND FOR ALL~~ <small>(nah)</small>  
+~~Splash/warning page~~ <small>(nah)</small>  
+~~Custom menu buttons?~~ <small>(nah)</small>  
+~~Make fancier TODO~~ <small>(nah)</small>  
 ~~Figure out how to remove 404 from Sitemap…~~  
 ~~Add shelf on About Me for games and music~~  
 ~~Shorten About Me & other pages~~  

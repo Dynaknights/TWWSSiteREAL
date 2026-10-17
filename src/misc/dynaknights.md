@@ -18,12 +18,12 @@ occupation: Legendary fart master
 artprogram: Krita
 codingprogram: VSCodium
 drawingtablet: Gaomon M10K Pro
-nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Poolie…
+nicknames: Twinkle Toes, Machiney, Meatychiney, 'Chiney, Kiri, Kiwi, Kurumi, Poolie…
 
 ---
 
 Hello there. <img src="/assets/decor/myMelo1.gif" alt="A favicon of My Melody laying on her stomach kicking her legs" aria-hidden="true">  
-My name is **Kirimu** <small>(/kiɹɪmiu/)</small>. **Machine** works fine, too. Nice to meet you.
+My name is **Kirimu** <small>[/kiɹɪmiu/]</small>. **Machine** works fine, too. Nice to meet you.
 
 I consider myself to be a 'talkative recluse'; think introverted dog. I'm a pretty verbose guy (evidently!) who's packing a fat dictionary under his belt. However, I'm just downright awful at talking to people. Is it an undiagnosed disorder or a result of my upbringing? I'll never know…  
 I'm a guy who likes superheroes. Not all of 'em, but some of 'em, and maybe a bit too much. 
@@ -41,36 +41,14 @@ Either way, thanks much for stopping by.
 ## Interests
 
 - **Video Games!!**  
-I really love video games. Hahaha.  
-I'm more into **'retro' games** and **older game hardware** than anything particularly novel (outside of a few titles) due to growing resentment of the modern video game industry, but my sentiment still stands. I suck dick at every game I play, but I still enjoy playing them anyway.  
-If you're curious, my favorite consoles are the PS1 and Sega Saturn, but I also greatly enjoy hitting up my local arcades and bringing my Nintendo 3DS with me wherever I go.
+Viddy game. :)  
+I'm more into **retro(?) games** and their hardware than anything particularly novel (outside of a few titles), but still. Older video games seem to be the thing my brain's latched onto and won't let go of.  
+If you're curious, my favorite consoles are the **PS1** and **Super Nintendo**, but I also love **pre-2000s arcade games**, even if I suck so bad at them.  
+I only play games using my shitty ThinkPad and 3DS.
 
 <div class="scrollbox">
 
-<div class="funcoverc" loading="lazy" title="Undertale (2015)" style="background-image: url('https://cdn.mobygames.com/c6d68d2e-abfc-11ed-af3d-02420a00012f.webp'); min-width:270px;"></div>
-<div class="funcoverc" loading="lazy" title="ULTRAKILL (2020)" style="background-image: url('https://cdn.shopify.com/s/files/1/0511/6051/4712/products/NBPosters_Ultrakill-NoBorder_2021.png'); min-width:270px;"></div>
-<div class="funcoverg" loading="lazy" title="LSD Dream Emulator (1998)" style="background-image: url('/assets/funcovers/LSDDE.webp')"></div>
-<div class="funcoverg" loading="lazy" title="Street Fighter Alpha 3 (1998)"style="background-image: url('https://cdn.mobygames.com/9aa74132-ab69-11ed-80c1-02420a000196.webp')"></div>
- <div class="funcoverg" loading="lazy" title="Ape escape (1999)"style="background-image: url('https://cdn.mobygames.com/covers/6133125-ape-escape-playstation-front-cover.jpg')"></div>
- <div class="funcoverg" loading="lazy" title="Chrono Trigger (1995)"style="background-image: url('https://cdn.mobygames.com/covers/3933436-chrono-trigger-snes-front-cover.jpg'); min-width:545px;"></div>
- <div class="funcoverg" loading="lazy" title="Earthbound (1994)"style="background-image: url('/assets/funcovers/Earthbound.webp')"></div>
-<div class="funcoverc" loading="lazy" title="Dragon Age: Origins (2009)"style="background-image: url('https://cdn.mobygames.com/covers/5480905-dragon-age-origins-windows-front-cover.jpg')"></div>
- <div class="funcoverg" loading="lazy" title="Klonoa: Door to Phantomile (1997)"style="background-image: url('https://cdn.mobygames.com/covers/3898643-klonoa-door-to-phantomile-playstation-front-cover.jpg)"></div>
- <div class="funcoverg" loading="lazy" title="Metal Gear Solid (1998)"style="background-image: url('https://cdn.mobygames.com/covers/4163264-metal-gear-solid-playstation-front-cover.jpg'); min-width: 470px;"></div>
- <div class="funcoverg" loading="lazy" title="Planet Laika (1999)"style="background-image: url('https://cdn.mobygames.com/7dd8299a-ab82-11ed-9b12-02420a00019d.webp')"></div>
- <div class="funcoverg" loading="lazy" title="Pokémon Black/White (2010)"style="background-image: url('https://cdn.mobygames.com/covers/1949731-pokemon-black-version-nintendo-ds-front-cover.jpg')"></div>
- <div class="funcoverc" loading="lazy" title="LIVE A LIVE (2022 remake)"style="background-image: url('https://cdn.mobygames.com/covers/17060749-live-a-live-playstation-4-front-cover.jpg'); min-width:400px;"></div>
- <div class="funcoverg" loading="lazy" title="Pokémon XY (2013)"style="background-image: url('https://cdn.mobygames.com/covers/6986936-pokemon-x-nintendo-3ds-front-cover.jpg'); min-width: 455px;"></div>
- <div class="funcoverc" loading="lazy" title="Dragon Quest I & II HD-2D Remake (2025)"style="background-image: url('https://cdn.mobygames.com/covers/22824123-dragon-quest-i-ii-hd-2d-remake-windows-apps-front-cover.png')"></div>
- <div class="funcoverg" loading="lazy" title="Secret of Mana (1993)"style="background-image: url('https://cdn.mobygames.com/covers/4107179-secret-of-mana-snes-front-cover.jpg'); min-width:575px;"></div>
- <div class="funcoverg" loading="lazy" title="Spider-Man (PS1) (2000)" style="background-image: url('https://cdn.mobygames.com/665adb8e-aba3-11ed-ac16-02420a000199.webp')"></div>
- <div class="funcoverg" loading="lazy" title="In Stars and Time (2023)"style="background-image: url('/assets/funcovers/In Stars and Time.webp')"></div>
-<div class="funcoverg" loading="lazy" title="Hypnospace Outlaw (2019)"style="background-image: url('/assets/funcovers/Hypnospace Outlaw.webp')"></div>
- <div class="funcoverg" loading="lazy" title="Cave Story+ (2011)"style="background-image: url('/assets/funcovers/Cave Story.webp')"></div>
- <div class="funcoverg" loading="lazy" title="Rule of Rose (2006)"style="background-image: url('/assets/funcovers/Rule of Rose.webp'); min-width:290px;"></div>
-<div class="funcoverg" loading="lazy" title="Parasite Eve (1998)"style="background-image: url('/assets/funcovers/Parasite Eve.webp'); min-width:290px;"></div>
-<div class="funcoverg" loading="lazy" title="Disco Elysium (2019)"style="background-image: url('/assets/funcovers/Disco Elysium.webp')"></div>
-<div class="funcoverg" loading="lazy" title="Koudelka (1999)"style="background-image: url('https://cdn.mobygames.com/covers/6788437-koudelka-playstation-front-cover.jpg'); min-width:450px;)"></div>
+<div class="funcoverc" loading="lazy" alt="Media cover" title="Undertale" style="background-image: url('/assets/funcovers/Undertale.webp');"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="ULTRAKILL" style="background-image: url('/assets/funcovers/ULTRAKILL.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="LSD Dream Emulator" style="background-image: url('/assets/funcovers/LSDDE.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Street Fighter Alpha 3" style="background-image: url('/assets/funcovers/SF Alpha 3.webp');"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="Samurai Shodown III" style="background-image: url('/assets/funcovers/Samurai Shodown III.webp');"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="Rule of Rose" style="background-image: url('/assets/funcovers/Rule of Rose.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Secret of Mana" style="background-image: url('/assets/funcovers/Secret of Mana.webp'); min-width:11em;"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="R4 Ridge Racer Type 4" style="background-image: url('/assets/funcovers/R4 Ridge Racer Type 4.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Pokemon Y" style="background-image: url('/assets/funcovers/Pokemon Y.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Chrono Trigger" style="background-image: url('/assets/funcovers/Chrono Trigger.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Pokemon Black" style="background-image: url('/assets/funcovers/Pokemon Black.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Super Mario 64" style="background-image: url('/assets/funcovers/mario64.webp'); min-width:11em;"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="TLoZ: Ocarina of Time" style="background-image: url('/assets/funcovers/OOT.webp'); min-width:11em;"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="Parasite Eve" style="background-image: url('/assets/funcovers/Parasite Eve.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Koudelka" style="background-image: url('/assets/funcovers/Koudelka.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="In Stars and Time" style="background-image: url('/assets/funcovers/In Stars and Time.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Hypnospace Outlaw" style="background-image: url('/assets/funcovers/Hypnospace Outlaw.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Earthbound" style="background-image: url('/assets/funcovers/Earthbound.webp');"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Ape Escape" style="background-image: url('/assets/funcovers/Ape Escape.webp');"></div> 
  
 </div>
 
@@ -97,48 +75,50 @@ I also enjoy **arachnology**, **entomology**, **chemistry** (begrudgingly), and 
 
 ---
 - **Emulation!!**  
-I need a means to play my nerd games, yeah?  
-Currently, I'm using **DuckStation**, **MAME**, **PPSSPP**, and **PCSX2**. Mostly Duckstation though. PS1 games have captivated me recently.  
-I used to only use RetroArch… but, after three or four years, the shitty UI got to me. Bweh…
+Currently, I'm using **DuckStation** (PS1), **MAME** (arcade), **PCSX2** (PS2) in their standalone forms. There's also — *\*gags\** — **RetroArch** (for anything pre-PS1) while using the **EmulationStation Desktop Edition** frontend.  
+I don't own any handheld emulators, by the way. They're cool, but I really don't know what I'd do with one, so I just use my laptop.  
+The controllers I have are a [Tegenaria Lite](https://gamesir.com/products/gamesir-tegenaria-lite?variant=45075531333866&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) and a clear blue N64 controller with a USB cable.
 
 ---
 - **Music**  
-In terms of music, I listen to… not everything, but a lot of things! I try my best to listen to new music after being reluctant to leave my comfort zone for so long. My favorite genres are **rap**, **rock**, **punk**, and **metal**, but I just listen to playlists of video game music while I work. Less distracting.    
-My favorite all-time album is probably ***Retcon*** by **Red Vox** (which is also technically my favorite band); my favorite songs on there are ***The New Flesh*** and ***Reminds Me…***. *Retcon* makes me so happy whenever I listen to it!
+In terms of music, you can kinda-sorta gauge my weird music taste by clicking around on some of the songs I've scattered on the site, or by checking [this playlist with all the songs on the site](https://youtube.com/playlist?list=PLOUavPRuS5mM&si=bjEfBtQnwttA968G).  
+My favorite genres are **rock**, **heavy metal**, **punk**, and **rap**. Mostly, I just listen to playlists comprised of video game tracks because why not.  
+My all-time favorite album is probably ***Retcon*** by **Red Vox** <small>(which is also technically my favorite band)</small> at the moment, with my favorite songs on there being ***Reminds Me…*** and ***The New Flesh***.
 
 <div class="scrollbox">
 
-<div class="funcoverg" loading="lazy" title="Red Vox - Retcon (2026)" style="background-image: url('https://f4.bcbits.com/img/a0665225223_2.jpg')"></div>
-<div class="funcoverg" loading="lazy" title="Red Vox - Realign (2020)" style="background-image: url('https://f4.bcbits.com/img/a3061754735_2.jpg')"></div>
- <div class="funcoverg" loading="lazy" title="Red Vox - Another Light (2017)" style="background-image: url('https://f4.bcbits.com/img/a0858674410_2.jpg')"></div>
-  <div class="funcoverg" loading="lazy" title="Kendrick Lamar - Untitled Unmastered. (2016)" style="background-image: url('/assets/funcovers/Kendrick Lamar - Untitled Unmastered.webp')"></div>
-  <div class="funcoverg" loading="lazy" title="Have a Nice Life - Deathconsciousness (2008)" style="background-image: url('/assets/funcovers/Have a Nice Life - Deathconsciousness.webp')"></div>
- <div class="funcoverg" loading="lazy" title="Rush - 2112 (1976)" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/2112-cover1-600x600.jpg')"></div>
- <div class="funcoverg" loading="lazy" title="Rush - Hemispheres (1978)" style="background-image: url('https://www.rush.com/wp-content/uploads/2014/12/hemispheres-cover-600x600.jpg')"></div>
- <div class="funcoverg" loading="lazy" title="Sorcerer - Beyond the Crypt (1989/2021 Remaster)" style="background-image: url('/assets/funcovers/Sorcerer - The Equinox.webp')"></div>
+<div class="funcoverg" loading="lazy" alt="Media cover" title="Red Vox - Retcon (2026)" style="background-image: url('/assets/funcovers/Red Vox - Retcon.webp')"></div> <div class="funcoverg" loading="lazy" alt="Media cover" title="Priestess - Hello Master (2005)" style="background-image: url('/assets/funcovers/The Priestess - Hello Master.webp')"></div> 
+<div class="funcoverg" loading="lazy" alt="Media cover" title="Joe Satriani - Surfing with the Alien (1987)" style="background-image: url('/assets/funcovers/SWTA.webp')"></div>
+ <div class="funcoverg" loading="lazy" alt="Media cover" title="Red Vox - Another Light (2017)" style="background-image: url('/assets/funcovers/Red Vox - Another Light.webp')"> </div>
+  <div class="funcoverg" loading="lazy" alt="Media cover" title="Rob Zombie - Hellbilly Deluxe (1998)" style="background-image: url('/assets/funcovers/hellbillydeluxe.webp')"></div>
+  <div class="funcoverg" loading="lazy" alt="Media cover" title="Kendrick Lamar - Untitled Unmastered. (2016)" style="background-image: url('/assets/funcovers/Kendrick Lamar - Untitled Unmastered.webp')"></div> 
+  <div class="funcoverg" loading="lazy" alt="Media cover" title="Sigh... Vargskelethor - Faster Than Sex (2026)" style="background-image: url('/assets/funcovers/FTS.webp')"></div>
+  <div class="funcoverg" loading="lazy" alt="Media cover" title="Have a Nice Life - Deathconsciousness (2008)" style="background-image: url('/assets/funcovers/Have a Nice Life - Deathconsciousness.webp')"></div>
+ <div class="funcoverg" loading="lazy" alt="Media cover" title="Rush - 2112 (1976)" style="background-image: url('/assets/funcovers/Rush - 2112.webp')"></div>
+ <div class="funcoverg" loading="lazy" alt="Media cover" title="Rush - Hemispheres (1978)" style="background-image: url('/assets/funcovers/Rush - Hemispheres.webp')"></div>
+ <div class="funcoverg" loading="lazy" alt="Media cover" title="Sorcerer - Beyond the Crypt (1989/2021 Remaster)" style="background-image: url('/assets/funcovers/Sorcerer - The Equinox.webp')"></div>
  
 </div>
 
 ---
 - **Comics**  
-When I was a tween, I watched *Into the Spider-Verse* (2018) because I thought the art style was cool. Then, it was all downhill from there. I'd never cared about superheroes (unless *Power Rangers* counts?) before that film came out, so the sudden and intense obsession with superheroes was pretty fucking jarring.  
-Anyway, this is a Marvel household and I've never really cared about DC at all outside of Superman (and *Watchmen*). DC was just never interesting to me, for some reason.  
-I do read some manga and manwhas though. Not often. My all-time favorite is *Delicious in Dungeon* (2014), but I also enjoy *Beware the Villainess* (2020) a lot.
+I read comics sometimes. I'm much more of a Marvel guy than I am a DC, Image, or indie comic guy (evidently!), but I branch out on blue moons.  
+I can't think of a current favorite Western comic though? I want to say *Spider-Man/Deadpool* (or even *Cable & Deadpool*?) for… reasons. But I'll edit this again when I think of one.  
+I read some manga and manwhas. Not often, as I'm not really into Japanese media as a whole very much Beyond video games. Anyway, my all-time favorite is ***Delicious in Dungeon*** (2014), but I also enjoy ***Beware the Villainess*** (2020) a lot.  
 
 <div class="scrollbox">
 
-  <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/runaways.webp')"></div>
-  <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/saga.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Cable and Deadpool.webp')"></div>
-<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spider-Man1963.webp')"></div>
-<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spider-Man Deadpool.webp')"></div>
-<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Killogy.webp')"></div>
-<div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Killustrated.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Deadpool Circle Chase.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Watchmen.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Spawn.webp')"></div>
- <div class="funcoverc" loading="lazy" style="background-image: url('/assets/funcovers/Silver Surfer.webp')"></div>
+<div class="funcoverc" loading="lazy" alt="Media cover" title="Spider-Man/Deadpool" style="background-image: url('/assets/funcovers/Spider-Man Deadpool.webp')"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="G.O.D.S." style="background-image: url('/assets/funcovers/GODS.webp')"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="Beta Ray Bill: Argent Star" style="background-image: url('/assets/funcovers/Beta Ray Bill Argent Star.webp')"></div> <div class="funcoverc" loading="lazy" alt="Media cover" title="Runaways" style="background-image: url('/assets/funcovers/runaways.webp')"></div>
+  <div class="funcoverc" loading="lazy" alt="Media cover" title="Saga" style="background-image: url('/assets/funcovers/saga.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Cable & Deadpool" style="background-image: url('/assets/funcovers/Cable and Deadpool.webp')"></div>
+<div class="funcoverc" loading="lazy" alt="Media cover" title="The Amazing Spider-Man" style="background-image: url('/assets/funcovers/Spider-Man1963.webp')"></div> 
+<div class="funcoverc" loading="lazy" alt="Media cover" title="Deadpool Kills the Marvel Universe" style="background-image: url('/assets/funcovers/Deadpool Killogy.webp')"></div>
+<div class="funcoverc" loading="lazy" alt="Media cover" title="Deadpool: Killustrated" style="background-image: url('/assets/funcovers/Deadpool Killustrated.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Deadpool: the Circle Chase" style="background-image: url('/assets/funcovers/Deadpool Circle Chase.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Watchmen" style="background-image: url('/assets/funcovers/Watchmen.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Stormbreaker: the Saga of Beta Ray Bill" style="background-image: url('/assets/funcovers/The Saga of Beta Ray Bill.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Spawn" style="background-image: url('/assets/funcovers/Spawn.webp')"></div>
+ <div class="funcoverc" loading="lazy" alt="Media cover" title="Silver Surfer" style="background-image: url('/assets/funcovers/Silver Surfer.webp')"></div>
 
 </div>
 
@@ -156,26 +136,26 @@ But that's it pretty much; escaping corporate greed and having better things to 
 
 ## Trivia
 
-<img src="/assets/decor/characters/kithold.png" div class="pagedollbreaker" alt="pagedoll" title="My son...">
+<img src="/assets/decor/characters/kithold.png" div class="pagedollbreaker" alt="pagedoll" alt="Media cover" title="My son…">
 
 - I will fuck up **chocolate milkshakes** any day of the week. That, with whipped cream on top? I will bust in my pants right then and there.
 - My favorite superhero actually *isn't* Spider-Man. It's **Superman** (*MaWS* & Corenswet). Very basic, I know… But he makes me so happy…
-- My all-time favorite Marvel character is **Deadpool** (but I hate his movies).
+- My all-time favorite Marvel character is **Deadpool** <small>(but not the live-action one)</small>. I love him so much…
+- I would *LOVE* to build an arcade machine entirely from scratch one day.
+- I will never ship Poolverine even in a thousand fucking years. Logan can go smooch Victor Creed or something. SPIDEYPOOL FOREVER BRAH.
 - Dog person. I specifically love Samoyeds.
 - I was nearly struck by lightning.
-- I love *Undertale*, but I dislike *Deltarune*.
 - My love for older games originated when I read *Ready Player One* (2011) as a tween. I'm not proud.
 - I played *ULTRAKILL* so much in high school that I got carpal tunnel (in both wrists) when Violence released.
 - My favorite *Pokémon* generations are V and VI. I only watched the animes because I didn't own the games nor consoles.
 - I've seen every *Pokémon* movie up until (and including) *Volcanion and the Mechanical Marvel* (2016) because I was so unhinged about the franchise when I was a kid.
-- *TWWS* has a weird amount of French in it because I needed motivation to pay attention in my high school French 3 class I despised with a passion. I then dropped the course the following semester, but the damage was already done, so I just reluctantly embraced the French.
 
 </div>
 
-<div class="box4boxes" style="max-height:500px;">
+<div class="box4boxes">
 <details>
 
-  <summary><strong><em>The Extensive OC Vault Questionnaire</em></strong></summary>
+  <summary style="text-align:center;"><strong><em>The Extensive OC Vault Questionnaire</em></strong></summary>
 
 …By [Valentinely](https://www.valentinely.cc/).
 
@@ -222,7 +202,7 @@ Young white skinny men with silly personalities. Like, I'm talking "goofy ahh" a
 See above.
 
 **What shipping trope can you never resist? What shipping trope is not your cup of tea?**  
-When I was a tween, I remember scouring the web for anything related to extremely obsessive people doing extremely unhinged things for the object of their affections who was extremely not into them at all whatsoever. I'm trying not to use the word 'yandere' here because it doesn't feel befitting of the depravity I was looking for, but think [Sasha](/cast/sashenkakravinoff). Other than that, I'm not into shipping at all and don't care. …But I, ironically, hate dark romance tropes with a passion.
+When I was a tween, I remember scouring the web for anything related to extremely obsessive people doing extremely unhinged things for the object of their affections who was extremely not into them at all whatsoever. I'm trying not to use the word 'yandere' here because it doesn't feel befitting of the depravity I was looking for, but think [Sasha](/cast/sashenka-kravinoff). Other than that, I'm not into shipping at all and don't care. …But I, ironically, hate dark romance tropes with a passion.
 
 **What emotion do you enjoy exploring most?**  
 Is dehumanization an emotion?
@@ -288,22 +268,22 @@ None of them.
 All of them. Do you know how hard it is to make people when you don't talk to anyone?
 
 **From you or from others, which OC receives the most attention?**  
-SIGH. Me bringing up OCs in a conversation is an XK-Class End-of-the-World Scenario so I'll just say [Virgil](/cast/virgilvoltspun) and his friends from me. I like them and I like forcing them to hang out and chill. Also Sasha for some reason can someone get her out of here already goddamn.
+SIGH. Me bringing up OCs in a conversation is an XK-Class End-of-the-World Scenario so I'll just say [Virgil](/cast/virgil-voltspun) and his friends from me. I like them and I like forcing them to hang out and chill. Also Sasha for some reason can someone get her out of here already goddamn.
 
 **From you or from others, which OC do you wish received more attention?**  
 All of them.
 
 **Which OC is your favorite to draw? Which is the hardest to draw?**  
-I like drawing [Liz](/cast/elizabethallan), but drawing [Marlowe](/cast/marlowetolliver)'s hair is scary.
+I like drawing [Liz](/cast/elizabeth-allan), but drawing [Marlowe](/cast/marlowe-tolliver)'s hair is scary.
 
 **Which OC is your favorite to write? Which is the hardest to write?**  
 All of them are difficult to write.
 
 **Which OC would you trust with your deepest secret?**  
-[MJ](/cast/mariejuliewatson)'s nosy, but she's not a snitch.
+[MJ](/cast/marie-julie-watson)'s nosy, but she's not a snitch.
 
 **Which OC absolutely cannot be trusted?**  
-Sasha. Oh and [Noémie](/cast/noemiemarisolosborne) will sell your information but at least she'll pretend to be respectful about it.
+Sasha. Oh and [Noémie](/cast/noemie-marisol-osborne) will sell your information but at least she'll pretend to be respectful about it.
 
 **What OC is most similar to you, in appearance, personality, or both?**  
 Virgil. He *is* technically my Spider-sona, regardless of how much I've distanced both of us from that label. Although, all of my characters have some part of me to some extent. So are all of my OCs like me, or am I like all of them?
@@ -312,7 +292,7 @@ Virgil. He *is* technically my Spider-sona, regardless of how much I've distance
 John President. Yes, that's his name. Yes, he's the President of the United Republic at this current time point. No, I'm not sure if he'll get a full profile. Yes, I hate being American.
 
 **Which OC was born from sadness?**  
-[Ghyslaine](/cast/ghyslainelarue).
+[Ghyslaine](/cast/ghyslaine-larue).
 
 **Which OC exists because there was something you wanted to see in fiction but could not find?**  
 All of them.  
@@ -400,7 +380,7 @@ Why wouldn't I?
 ***PART IV: LET'S DIG DEEPER***
 
 **Pick a few of your favorite OCs. What do they all have in common? What do you think that reveals about you?**  
-Okay fine let's do The Friends (Virgil, Liz, MJ, Ghyslaine, and [Harvey](/cast/harveyosborne)) again. I will abstain from calling them favorites though. They all love each other as people; they like hanging out and help each other when in need. They (especially Liz) dislike being separated for too long but are also so scared to reveal who they truly are as people to the point they may as well be strangers. All of them are a bit too critical and might be cynical, which is probably a byproduct of their respective upbringings, resulting in that simmering fear of being too cringe, I guess you could say. Neurotic and hateful, but love each other over everything else.  
+Okay fine let's do The Friends (Virgil, Liz, MJ, Ghyslaine, and [Harvey](/cast/harvey-osborne)) again. I will abstain from calling them favorites though. They all love each other as people; they like hanging out and help each other when in need. They (especially Liz) dislike being separated for too long but are also so scared to reveal who they truly are as people to the point they may as well be strangers. All of them are a bit too critical and might be cynical, which is probably a byproduct of their respective upbringings, resulting in that simmering fear of being too cringe, I guess you could say. Neurotic and hateful, but love each other over everything else.  
 I wonder what that means about me…
 
 **Which OC is most misunderstood by your friends & followers? Why do you think others interpret them differently than you intended?**  
@@ -422,7 +402,7 @@ I think all of my stories have too many questions they want to answer for me to 
 There aren't any villains in *TWWS*. Even if you count Webby's rouges' gallery as 'villains,' the 'civilians' and 'heroes' are just as weird as them.
 
 **Which OC would understand your darkest thought without judging you? Which OC contains the impulses you refuse to act upon?**  
-[Pyrel](/cast/percivalcastle) would be a bro. I don't think they'd understand the entirety of my emotions, but they wouldn't even ask any follow-up questions because they don't need to. Pyrel also holds a lot of impulses, now that I think about it. They're loud, berating, and nearly sadist levels of violent, but they're efficient along with precise with said brutality. We don't agree over a lot of things, but I could look over who they've killed and say, "Yeah okay fair" to some of their targets.
+[Pyrel](/cast/percival-castle) would be a bro. I don't think they'd understand the entirety of my emotions, but they wouldn't even ask any follow-up questions because they don't need to. Pyrel also holds a lot of impulses, now that I think about it. They're loud, berating, and nearly sadist levels of violent, but they're efficient along with precise with said brutality. We don't agree over a lot of things, but I could look over who they've killed and say, "Yeah okay fair" to some of their targets.
 
 **What would your oldest OC say about the person you've become?**  
 I don't think Flame would say anything man.
@@ -437,9 +417,9 @@ Virgil. Too clingy to part, even though he's too stubborn and confused by his ow
 </details>
 </div>
 
-<div class="box4boxes" style="max-height:500px;">
+<div class="box4boxes">
 <details>
-<summary><strong><em>100 Webmaster Questions</em></strong></summary>
+<summary style="text-align:center;"><strong><em>100 Webmaster Questions</em></strong></summary>
 
 …By [Mouseling](https://mouseling.net).
 

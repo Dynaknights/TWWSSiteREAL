@@ -1,4 +1,6 @@
 const { DateTime } = require ( "luxon" );
+const markdownIt = require("markdown-it");
+const mdbr = markdownIt({ html: true, breaks: true });
 
 module.exports = function (eleventyConfig) {
 
@@ -22,6 +24,10 @@ module.exports = function (eleventyConfig) {
     const dateObj = new Date(dateString);
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toLocaleString(DateTime.DATE_MED);
   });
+
+  // trivia
+
+  eleventyConfig.addFilter("mdbr", (str) => mdbr.renderInline(String(str ?? "").trim()));
 
   // Gallery start
 

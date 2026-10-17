@@ -1,7 +1,7 @@
 ---
 title: The Wondrous Web-Surfer
 id: index
-bgimage: bg184.png
+bgimage: bg27.png
 pagedoll: stampcca
 cover: 2025/preteensuperposition
 drama: Meanwhile, in another, another, another universe…
@@ -29,6 +29,7 @@ The universe as we know it is literally breaking and no one knows why; the expan
 Salutations, stranger. Call me **Kirimu** or **Machine** (he/him). *The Wondrous Web-Surfer* (*TWWS*) is my silly paracosm I made in **June of 2023**.  
 This site was impulsively created as an archive to keep track of characters, the world, lore, etc.  
 Everything's a work-in-progress, *TWWS* changes as my life progresses, and I suck at web dev, but I hope we'll have fun with this, together. <img src="/assets/decor/frog5.gif" alt="A GIF of a frog with a happy expression." aria-hidden="true">
+
 </div>
 
 <hr>

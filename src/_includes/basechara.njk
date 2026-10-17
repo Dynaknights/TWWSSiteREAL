@@ -3,7 +3,7 @@ layout: 'base.njk'
 ---
 
       <div class="characterprofile">
-    <div class="charactermain-image" style="background-image: url('/assets/thumbs/cast/{{ id }}.png')" alt="A thumbnail of {{ title }}"></div>
+    <div class="charactermain-image" style="background-image: url('/assets/thumbs/cast/{{ title | lower | slugify }}.png')" alt="A thumbnail of {{ title }}"></div>
       <table>
 
   <tr>
@@ -64,6 +64,94 @@ layout: 'base.njk'
 <div id="contents">
 
 {{ content | safe }}
+
+{% if relationships %}
+
+  <div class="centerDivider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider" aria-hidden="true">
+  </div>
+
+<div class="box4boxes" style="max-height:50em;">
+<h2>Relationships</h2>
+
+<small div class="center">(Click on a name or headshot to be taken to a profile, if it exists.)</small>
+
+{%- for relationships in relationships -%}
+
+<div class="relationshipbox">
+<a href="/cast/{{ relationships.name | slugify }}"><img src="/assets/thumbs/cast/{{ relationships.name | slugify }}.png" alt="A thumbnail of {{ relationships.name }}." div class="relationshipimg" onerror="this.onerror=null; this.src='/assets/thumbs/cast/unknown.png';"></a>
+<h3><a href="/cast/{{ relationships.name | slugify }}"> {{ relationships.name }}</a> - {% if relationships.rating == 0 %}☆☆☆☆☆{% endif %}{% if relationships.rating == 1 %}★☆☆☆☆{% endif %}{% if relationships.rating == 2 %}★★☆☆☆{% endif %}{% if relationships.rating == 3 %}★★★☆☆{% endif %}{% if relationships.rating == 4 %}★★★★☆{% endif %}{% if relationships.rating == 5 %}★★★★★{% endif %}{% if relationships.custom %}{{ relationships.custom }}{% endif %}</h3>
+<dd><img src="/assets/decor/starred.gif" alt="A GIF of a small red star." aria-hidden="true"> <strong>Relationship: {{ relationships.label }}</strong></dd>
+<hr>
+<p>{{ relationships.desc | mdbr | safe }}</p>
+</div>
+
+{%- endfor -%}
+
+{% if (mrelationships) %}
+
+<details style="text-align:center;">
+<summary><strong><em>View Minor Relationships?</em></strong></summary>
+{%- for mrelationships in mrelationships -%}
+
+<div class="relationshipbox" style="text-align:left;">
+<a href="/cast/{{ mrelationships.name | slugify }}"><img src="/assets/thumbs/cast/{{ mrelationships.name | slugify }}.png" alt="A thumbnail of {{ mrelationships.name }}." div class="relationshipimg" onerror="this.onerror=null; this.src='/assets/thumbs/cast/unknown.png';"></a>
+<h3><a href="/cast/{{ mrelationships.name | slugify }}"> {{ mrelationships.name }}</a> - {% if mrelationships.rating == 0 %}☆☆☆☆☆{% endif %}{% if mrelationships.rating == 1 %}★☆☆☆☆{% endif %}{% if mrelationships.rating == 2 %}★★☆☆☆{% endif %}{% if mrelationships.rating == 3 %}★★★☆☆{% endif %}{% if mrelationships.rating == 4 %}★★★★☆{% endif %}{% if mrelationships.rating == 5 %}★★★★★{% endif %}{% if mrelationships.custom %}{{ mrelationships.custom }}{% endif %}</h3>
+<dd><img src="/assets/decor/swirlred.gif" alt="A GIF of a small red swirl." aria-hidden="true"> <strong>Relationship: {{ mrelationships.label }}</strong></dd>
+<hr>
+<p>{{ mrelationships.desc | mdbr | safe }}</p>
+</div>
+
+{%- endfor -%}
+</details>
+{% endif %}
+</div>
+{% endif %}
+
+  <div class="centerDivider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider" aria-hidden="true">
+  </div>
+
+{% if notes %}
+
+<div class="box4boxes" style="max-height:20em;">
+<h2>Notes</h2>
+
+<ul>
+{%- for notes in notes -%}
+
+<li>{{ notes | mdbr | safe }}</li>
+
+{%- endfor %}
+</ul>
+
+<section>
+{% include 'globalnotes.njk' %}
+</section>
+
+{% endif %}
+
+</div>
+
+{% if trivia %}
+
+  <div class="centerDivider">
+  <img src="/assets/dividers/divider31.png" style="height:100%; width:100%; margin-top:20px;" alt="Divider" aria-hidden="true">
+  </div>
+
+<div class="box4boxes">
+<h2>Trivia</h2>
+<img src="/assets/decor/characters/{{ title | slugify }}.png" div class="pagedollbreaker">
+
+<ul>
+{%- for trivia in trivia -%}
+
+<li>{{ trivia | mdbr | safe }}</li>
+
+{%- endfor -%}
+</ul>
+
+{% endif %}
 
 </div>
 </div>

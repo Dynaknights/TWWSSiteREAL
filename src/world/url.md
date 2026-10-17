@@ -30,7 +30,7 @@ I kind of doubt you could assist in improving it, since this site doesn't take v
 
 ## History
 
-<img src="/assets/decor/characters/corduroycentauri.png" div class="pagedollbreaker" alt="Corduroy Centauri pagedoll" title="Corduroy Centauri" aria-hidden="true">
+<img src="/assets/decor/characters/corduroy-centauri.png" div class="pagedollbreaker" alt="Corduroy Centauri pagedoll" title="Corduroy Centauri" aria-hidden="true">
 
 **January 1st, 2800** marks the day the United States of America — after reclaiming power from the French — disavowed its roots and pledged to march forward, leaving its history and French takeover behind them.  
 The American president at the time, **Corduroy Centauri** <small>(pictured)</small>, stated that the avarice, loneliness, megalomania, corruption, and monumental failures haunting the States would see their absolute ends as the great country liberated itself from self-made shackles under a new name: the United Republic of Leathucaria.
@@ -98,10 +98,6 @@ The reason CFL is so widely successful is because all its activities are either 
 -- Kirimu
 
 </div>
-
-## Holidays
-
-TBA…
 
 <div class="box4boxes" style="max-height:700px;">
 

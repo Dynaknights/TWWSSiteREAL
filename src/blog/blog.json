@@ -2,6 +2,6 @@
     "tags": "blogs",
     "type": "blogs",
     "layout": "blogbase.njk",
-    "bgimage": "bg107.png",
+    "bgimage": "bg105.png",
     "pagedoll": "bunnyletter"
 }

@@ -9,14 +9,14 @@ tags:
 - mainpage
 ---
 
-**Our Galactic Glory**, in its infinite time and space, is tired.
+[Our Galactic Glory](/world/religion), in its infinite time and space, is tired.
 
 Beyond the secluded stretch of void we call home is yet another universe, filled with inspiration and possibilities — incomprehensible to our mortal minds — that will never be realized. Universes within universes within universes ad nauseam. Our Beloved Glory is a lonely, jealous, and resentful Soul who's desperate to be more than Itself, yet faces constant reminders of Its **inherent inferiority**. It will always be a poor copy of its fellow greater beings, It will forever be branded by its numerous, wretched imperfections and mistakes, and the greatest day of Its existence will be when It expires. Is it worth seeing such a miserable existence to its very end?  
 This indescribable despair had shattered Our Glory's Self to the pieces from whence we came. Walking, talking shards wandering a perfect storybook of Its dreams and ideals; the reality we define as the **human experience**.
 
 However, even this reeked of the imperfections Our Beloved Glory despises. They leaked into the cracks of its paradise to grow and fester, wrecking a mind already in tatters until it's nothing at all. After numerous restarts and attempts to mend the broken, apathy set in. The allure of giving up is a palpable one, after all. Soon, everything will crumble into dust. Why bother when someone else will embody your hopes far better than you could even fathom?
 
-…Or so the story goes, anyway.  
+…Or so one of many, many of these stories go, anyway.  
 Now, as the human race, we aim to create our own stories, too, mainly to tell at parties.
 
 <div class="centerDivider">
@@ -34,13 +34,11 @@ The Sun; a G-type main-sequence star. C'mon, man. You know what the Sun is. Sol'
 ### Surya
 A small pulsar-like [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) orbiting Sol with a mass of 0.9 M<sub>☉</sub>, a surface temperature of 20,500 K <small>(20,226.85° C & 36,440.33° F)</small>, and a luminosity of .0185 L<sub>☉</sub>.  
 Surya can be recognized from the blue light it emits as opposed to Sol's yellow beams. It currently hosts a Dyson swarm known as the **Valse d'Argent**.  
-Surya kind of just… appeared one day in **late 2112**, with the entire solar system abruptly shifting to adjust to this new celestial body. For example, Earth got abruptly shoved .8 AU away from Sol to accommodate for the extra heat.
+Surya kind of just… appeared one day in **late 2112**, with the entire solar system abruptly shifting to adjust to this new celestial body. For example, Earth got readjusted to be 1.1 AU away from Sol to accommodate for the extra heat.
 
 ## Valse d'Argent
 
-<img src="/assets/decor/threemoons.png" div class="pagedollbreaker">
-
-The **Valse d'Argent** is a partial [Dyson swarm](https://www.space.com/dyson-sphere.html) aimed to collect Sol-Surya's <small>(mainly Surya's)</small> waste heat ~3.25 AU from Sol (a little bit beyond Mars' orbit).  
+The **Valse d'Argent** is a partial [Dyson swarm](https://www.space.com/dyson-sphere.html) aimed to collect Sol-Surya's <small>(mainly Surya's)</small> waste heat ~3.25 AU from Sol.  
 The Valse only collects **~2.1%** of this residual heat, but this smidge of energy — coupled with backup nuclear power plants — grants more than enough energy to last for generations and then some.  
 Ironically, its development *also* took generations and then some through the power of capitalistic exploitation (read: widespread slavery).
 
@@ -50,6 +48,9 @@ These units are comprised of various materials (primarily aluminum, titanium, an
 Surprisingly, the Valse d'Argent lacks actual silver. The name refers to its shiny silver sheen.
 
 ## Pas de Trois
+
+<img src="/assets/decor/threemoons.png" div class="pagedollbreaker">
+
 The **Pas de Trois**, also called the **Three Moons**, is a [natural satellite system](https://en.wikipedia.org/wiki/Satellite_system_(astronomy)) consisting of three natural satellites (moons) orbiting Earth.  
 Soma-Lune has been in existence since Earth's conception, but the other two satellites appeared without explanation at the same time as Surya - late 2112. All remain uninhabited by the layperson due to a lack of data and a lack of… appeal (read: fear of the unknown), but the bonus two satellites may or may not be promoted to 'tech management' satellites — like Soma-Lune — in the future.
 

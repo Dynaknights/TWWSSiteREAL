@@ -1,0 +1,121 @@
+---
+title: Percival Castle
+id: PercivalCastle
+subtitle: A One-Machine Army
+tags:
+- super
+- assassin
+- human
+
+bgimage: bg24.png
+pagedoll: dogtags
+pagedoll3: characters/percival-castle
+
+compdate: 2026-01-14
+
+tableFields:
+pronouns: They/them
+alias: Punisher
+species: Human
+age: Adult
+occupation: Vigilante, assassin
+birthplace: Ville-de-Nouvelle-Yorke, Nouvelle-Yorke, URL
+nicknames: Pyrel, Py(py), Percy, Punny, Frank, Executioner, Big Gun and Pronouns
+
+song: Bullet with a Name
+songlink: https://www.youtube.com/watch?v=KuHsmUon6Mg
+
+song2: Rip & Tear
+songlink2: https://www.youtube.com/watch?v=zZMg9ryeWOw
+
+song3: I Am… All of Me
+songlink3: https://www.youtube.com/watch?v=NucG0kD3pkg
+
+relationships:
+  - name: Matthieu Murdock
+    custom: ???
+    label: Annoyance
+    desc: This fucker thinks he's just so fuckin' high and mighty because he's tackling the crime problem 'the right way' by not poppin' a cap into people who deserve it. Good job, shithead, kudos to you for givin' Pyrel the extra chance to give these worthless cunts the bullets they so rightfully deserve. Fucking goody-two-shoes. The pigs aren't gonna let you into their ranks, y'know.
+
+mrelationships:
+   - name: Wade Wilson
+     rating: 1
+     label: Nuisance
+     desc: Stars, get this fucking guy out of Pyrel's stars-damned face before they lose it.
+
+notes:
+- Pyrel's big, broody, and tall. They're ~**6'1**/**185.9 cm**.
+- Pyrel's very square. Literally, their shape language is mostly squares and rectangles to look imposing and such.
+- Stone-faced. Resting bitch face? Regardless, they *very* rarely exhibit any expression beyond that cold, stone face or rage. Even then, the latter's rare, too. They rarely exhibit body language, too…
+- Is the blue on their hair dye or highlights? Up to you!
+
+trivia:
+- Pyrel's favorite food is **revenge; served cold**. Kidding. They love **burgers** with **coffee**.
+- They drink black coffee just fine, but they prefer a packet of sugar and two shots of creamer. Won't admit this to anyone. Ever. Including themself.
+- Has an… *indescribable* reaction to **[MREs](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)**.
+- Greatly dislikes the URL Army and police after they began associating the Punisher's logo with their own agendas. Very, *very* begrudgingly hit up She-Hulk to force them to stop (along with death threats, of course).
+- Harbors mixed feelings toward their dead ex-wife. Unsure of how to feel about her. Uses the death of said wife as an excuse for their 'war on crime,' but maybe it's something *more*. Whatever it is, Pyrel doesn't care. …They *hope* they don't, anyway.
+- Very interested in weapons; mainly guns. For effective killing, of course, but also actually understanding the engineering behind such tools and how they work so well (or do not).
+- "Secret *Warhammer: 40k* fan. Finds a strange sense of comfort in its bleak setting, but will never admit this."
+
+---
+
+This line of work's a useless, hopeless battle. No doubts about it.
+
+A **one-machine war against crime itself**; a pointless mission destined to fail.  
+Yet, **Percival Franklin Castle** finds themself back at that damned sniper's scope with their guilty finger flirtin' with the smooth groove of a trigger, a brick wall newly painted crimson with the brain matter of a nameless criminal damned to never seek parole, and a new tally on an ever-increasin' list of names tucked away in one of S.H.I.E.L.D.'s dense manila folders.  
+Scrub the blood off — and repeat ad nauseam.  
+**Pyrel** can't even remember the reasoning as to why or how their violence warped from military duties to their fuckin' destiny. Maybe it doesn't even matter anymore.
+
+Regardless — by the Stars — they'd never have it any other way.
+
+Pyrel wants to tell you somethin'. Enlighten you, if y'will.    
+Stupid as this shit may be, they haven't come across a more effective way of snuffin' out crime 'sides refining the art of fine-tuned violence. Maybe it's an acquired taste.  
+Those spandex and caped types always try yappin' otherwise, but Pyrel's the one sporting a near-perfect success rate on stopping criminals here. Bailouts, escapes, paroles, and — most damning of 'em all — *repeat offenders* are a foreign concept to Pyrel's arsenal, which is more than any "super" could say. Talk about societal issues all ya want; Pyrel's just the executioner here.
+
+Speakin' of which, 's funny how how the world's so stubborn, for lack of better words, let 'em tell ya.
+
+History repeats itself to fuckin' *ridiculous* extremes.  
+The world's *everything* humanity's ancestors dreamed it of bein', but it's still tryin' to solve the *same damn problems* with the *same damn solutions* that've been done and beaten to death beyond recognition for literal millennia — then, it goes and scratches it's ass, wonderin' why it's not fuckin' workin', all the while prancin' and shoutin' from the rooftops 'bout how *we've come so far from the start of the third millennium*.  
+Oh, and stars-fuckin'-forbid you've got problems with society. What are you, *ungrateful*? *Ignorant*? Hey, might as well blast your shit clean off, if ya hate it here so much.  
+Humanity's *redeemed itself* with nuclear power and pays more attention to people who aren't billionaires. We've practically reached the Galactic Graces of Stardom 'cause we did *such-'n'-such* in the twenty-second century and *whatever the fuck* in the twenty-seventh — whatever, whatever, *whatever*.
+
+What a damn waste of time.
+
+'Course, nothing ever changes, despite what shills try tellin' ya.  
+It's a weird *quirk* of humanity that's just been worsening as time passes. Crime's gonna fester, and swell, and get better hiding places for as long as crime exists. Soon, there's not gonna be enough bullets to take out this hydra of a thing.   
+Well, fuck 'em right to the grave, Pyrel's gonna try proving themself wrong.
+
+## Attributes
+
+### Abilities
+- **United Republic Army infantry training**
+- **Mastery of hand-to-hand combat**
+- **Mastery of marksmanship**
+- **Mastery of swordsmanship**
+- **General weapons proficiency**
+- **Scarily quick at learning how to use new weapons**
+- **Persistence (stubbornness)**
+
+### Equipment
+
+- **Eye contacts**  
+These act like camera lenses to assist with both Pyrel's eye sight *and* sharpshooting; infrared and night vision capabilities are included.
+
+A personal arsenal, including…
+
+- **Explosives**
+- **Rifles**
+- **Knives**
+- **Swords**
+- **Shotguns**
+- **Flamethrowers**
+- **Machine guns**
+- **Handguns**
+- **Reverse engineered equipment from various adversaries**
+- **Custom attachments, equipment, and ammunition for aforementioned weapons**
+- **Bulletproof vests**
+- **Extensive blackmail**
+- **Modified armored vehicles**
+
+…And more!
